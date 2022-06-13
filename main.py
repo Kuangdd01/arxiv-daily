@@ -303,11 +303,11 @@ class _OverloadTasks:
 
     def generate_markdown_template(self, content: str):
         _project = f"# arxiv-daily\n"
-        _pin = f" Automated deployment @ {self.update_time} Asia/Shanghai\n"
-        _tos = "> Welcome to contribute! Add your topics and keywords in " \
-               "[`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).\n"
-        _tos += "> You can also view historical data through the " \
-                "[storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).\n"
+        _pin = f" Automated deployment @ {self.update_time}\n"
+        _tos = "> Welcome to contribute! Add your topics and keywords in `database/topic.yml`" 
+               # "[`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).\n"
+        _tos += "> You can also view historical data through the `database/storage`" 
+               # "[storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).\n"
 
         _form = _project + _pin + _tos + content
 
