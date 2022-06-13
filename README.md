@@ -1,8 +1,6 @@
 # arxiv-daily
- Automated deployment @ 2022-06-13 16:02:28 Asia/Shanghai
-> Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
-> You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
-
+ Automated deployment @ 2022-06-13 16:08:38
+> Welcome to contribute! Add your topics and keywords in `database/topic.yml`> You can also view historical data through the `database/storage`
 ## Reasoning
 
 ### Math Reasoning
