@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-13 02:36:10 Asia/Shanghai
+ Automated deployment @ 2022-06-13 09:53:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### nlp
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v1](http://arxiv.org/abs/2206.04615v1)|[link](https://github.com/google/BIG-bench)|
+|**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v2](http://arxiv.org/abs/2206.04615v2)|[link](https://github.com/google/BIG-bench)|
 |**2022-06-09**|**Representing Lanes as Arc-length-based Parametric Curves to Facilitate Estimation in Vehicle Control**|Wubing B. Qin et.al.|[2206.04592v1](http://arxiv.org/abs/2206.04592v1)|null|
 |**2022-06-09**|**Information Asymmetry and Search Intensity**|Atabek Atayev et.al.|[2206.04576v1](http://arxiv.org/abs/2206.04576v1)|null|
 |**2022-06-09**|**Bridged treatment comparisons: an illustrative application in HIV treatment**|Paul N Zivich et.al.|[2206.04445v1](http://arxiv.org/abs/2206.04445v1)|[link](https://github.com/pzivich/publications-code)|
