@@ -1,9 +1,16 @@
 # arxiv-daily
- Automated deployment @ 2022-06-13 16:11:41
+ Automated deployment @ 2022-06-13 20:36:37
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
 ## Reasoning
+
+### Math Reasoning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-09**|**BigVGAN: A Universal Neural Vocoder with Large-Scale Training**|Sang-gil Lee et.al.|[2206.04658v1](http://arxiv.org/abs/2206.04658v1)|[link](https://github.com/nvidia/bigvgan)|
+|**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v2](http://arxiv.org/abs/2206.04615v2)|[link](https://github.com/google/BIG-bench)|
+|**2022-06-08**|**The Open corpus of the Veps and Karelian languages: overview and applications**|Tatyana Boyko et.al.|[2206.03870v1](http://arxiv.org/abs/2206.03870v1)|null|
 
 ### Logical Reasoning
 |Publish Date|Title|Authors|PDF|Code|
@@ -24,10 +31,3 @@
 |**2022-05-24**|**Large Language Models are Zero-Shot Reasoners**|Takeshi Kojima et.al.|[2205.11916v2](http://arxiv.org/abs/2205.11916v2)|[link](https://github.com/kojima-takeshi188/zero_shot_cot)|
 |**2022-05-24**|**Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations**|Jaehun Jung et.al.|[2205.11822v1](http://arxiv.org/abs/2205.11822v1)|null|
 |**2022-05-23**|**On the Paradox of Learning to Reason from Data**|Honghua Zhang et.al.|[2205.11502v2](http://arxiv.org/abs/2205.11502v2)|null|
-
-### Math Reasoning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-09**|**BigVGAN: A Universal Neural Vocoder with Large-Scale Training**|Sang-gil Lee et.al.|[2206.04658v1](http://arxiv.org/abs/2206.04658v1)|[link](https://github.com/nvidia/bigvgan)|
-|**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v2](http://arxiv.org/abs/2206.04615v2)|[link](https://github.com/google/BIG-bench)|
-|**2022-06-08**|**The Open corpus of the Veps and Karelian languages: overview and applications**|Tatyana Boyko et.al.|[2206.03870v1](http://arxiv.org/abs/2206.03870v1)|null|
