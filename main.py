@@ -118,6 +118,10 @@ class CoroutineSpeedup:
         _paper = {}
         arxiv_res = context.get("response")
         for result in arxiv_res:
+            # hrx add: filter by categories
+            if 'cs.CL' not in result.categories:
+                continue
+            # end hrx add
             paper_id = result.get_short_id()
             paper_title = result.title
             paper_url = result.entry_id
