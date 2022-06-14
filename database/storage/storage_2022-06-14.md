@@ -1,20 +1,16 @@
 # arxiv-daily
- Automated deployment @ 2022-06-14 09:57:29
+ Automated deployment @ 2022-06-14 14:00:45
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
 ## Reasoning
 
-### Math Reasoning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-09**|**BigVGAN: A Universal Neural Vocoder with Large-Scale Training**|Sang-gil Lee et.al.|[2206.04658v1](http://arxiv.org/abs/2206.04658v1)|[link](https://github.com/nvidia/bigvgan)|
-|**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v2](http://arxiv.org/abs/2206.04615v2)|[link](https://github.com/google/BIG-bench)|
-|**2022-06-08**|**The Open corpus of the Veps and Karelian languages: overview and applications**|Tatyana Boyko et.al.|[2206.03870v1](http://arxiv.org/abs/2206.03870v1)|null|
-
 ### Logical Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-13**|**JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding**|Wayne Xin Zhao et.al.|[2206.06315v1](http://arxiv.org/abs/2206.06315v1)|null|
+|**2022-06-13**|**Introducing Proof Tree Automata and Proof Tree Graphs**|Valentin D. Richard et.al.|[2206.06294v1](http://arxiv.org/abs/2206.06294v1)|null|
+|**2022-06-13**|**A Sahlqvist-style Correspondence Theorem for Linear-time Temporal Logic**|Rui Li et.al.|[2206.05973v1](http://arxiv.org/abs/2206.05973v1)|null|
 |**2022-06-07**|**Plot Writing From Pre-Trained Language Models**|Yiping Jin et.al.|[2206.03021v1](http://arxiv.org/abs/2206.03021v1)|[link](https://github.com/yipingnus/scratchplot-story-generation)|
 |**2022-06-02**|**NeuralSympCheck: A Symptom Checking and Disease Diagnostic Neural Model with Logic Regularization**|Aleksandr Nesterov et.al.|[2206.00906v1](http://arxiv.org/abs/2206.00906v1)|[link](https://github.com/sympcheck/neuralsymptomchecker)|
 |**2022-05-30**|**Detecting fake news by enhanced text representation with multi-EDU-structure awareness**|Yuhang Wang et.al.|[2205.15139v1](http://arxiv.org/abs/2205.15139v1)|null|
@@ -29,5 +25,44 @@
 |**2022-05-25**|**Generating Natural Language Proofs with Verifier-Guided Search**|Kaiyu Yang et.al.|[2205.12443v1](http://arxiv.org/abs/2205.12443v1)|[link](https://github.com/princeton-nlp/NLProofS)|
 |**2022-05-24**|**Policy Compliance Detection via Expression Tree Inference**|Neema Kotonya et.al.|[2205.12259v1](http://arxiv.org/abs/2205.12259v1)|null|
 |**2022-05-24**|**Large Language Models are Zero-Shot Reasoners**|Takeshi Kojima et.al.|[2205.11916v2](http://arxiv.org/abs/2205.11916v2)|[link](https://github.com/kojima-takeshi188/zero_shot_cot)|
-|**2022-05-24**|**Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations**|Jaehun Jung et.al.|[2205.11822v1](http://arxiv.org/abs/2205.11822v1)|null|
-|**2022-05-23**|**On the Paradox of Learning to Reason from Data**|Honghua Zhang et.al.|[2205.11502v2](http://arxiv.org/abs/2205.11502v2)|null|
+
+### Math Reasoning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-13**|**JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding**|Wayne Xin Zhao et.al.|[2206.06315v1](http://arxiv.org/abs/2206.06315v1)|null|
+
+## Question Answering
+
+### QA
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-13**|**Automatic generation of a large dictionary with concreteness/abstractness ratings based on a small human dictionary**|Vladimir Ivanov et.al.|[2206.06200v1](http://arxiv.org/abs/2206.06200v1)|null|
+|**2022-06-12**|**Fine-tuning Pre-trained Language Models with Noise Stability Regularization**|Hang Hua et.al.|[2206.05658v1](http://arxiv.org/abs/2206.05658v1)|null|
+|**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
+|**2022-06-10**|**Teacher Perception of Automatically Extracted Grammar Concepts for L2 Language Learning**|Aditi Chaudhary et.al.|[2206.05154v1](http://arxiv.org/abs/2206.05154v1)|null|
+|**2022-06-10**|**Less Is More: Linear Layers on CLIP Features as Powerful VizWiz Model**|Fabian Deuser et.al.|[2206.05281v1](http://arxiv.org/abs/2206.05281v1)|null|
+|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v1](http://arxiv.org/abs/2206.04869v1)|[link](https://github.com/yilihsu/asktoknowmore)|
+|**2022-06-09**|**Defending Compositionality in Emergent Languages**|Michal Auersperger et.al.|[2206.04751v1](http://arxiv.org/abs/2206.04751v1)|null|
+|**2022-06-09**|**Jewelry Shop Conversational Chatbot**|Safa Zaid et.al.|[2206.04659v1](http://arxiv.org/abs/2206.04659v1)|null|
+|**2022-06-09**|**Privacy Leakage in Text Classification: A Data Extraction Approach**|Adel Elmahdy et.al.|[2206.04591v1](http://arxiv.org/abs/2206.04591v1)|null|
+|**2022-06-09**|**Revisiting End-to-End Speech-to-Text Translation From Scratch**|Biao Zhang et.al.|[2206.04571v1](http://arxiv.org/abs/2206.04571v1)|[link](https://github.com/bzhangGo/zero)|
+|**2022-06-09**|**Corpus Similarity Measures Remain Robust Across Diverse Languages**|Haipeng Li et.al.|[2206.04332v1](http://arxiv.org/abs/2206.04332v1)|null|
+|**2022-06-09**|**Analyzing Folktales of Different Regions Using Topic Modeling and Clustering**|Jacob Werzinsky et.al.|[2206.04221v1](http://arxiv.org/abs/2206.04221v1)|null|
+|**2022-06-08**|**Few-shot Question Generation for Personalized Feedback in Intelligent Tutoring Systems**|Devang Kulshreshtha et.al.|[2206.04187v1](http://arxiv.org/abs/2206.04187v1)|null|
+|**2022-06-08**|**Resolving the Human Subjects Status of Machine Learning's Crowdworkers**|Divyansh Kaushik et.al.|[2206.04039v1](http://arxiv.org/abs/2206.04039v1)|null|
+|**2022-06-07**|**Revealing Single Frame Bias for Video-and-Language Learning**|Jie Lei et.al.|[2206.03428v1](http://arxiv.org/abs/2206.03428v1)|[link](https://github.com/jayleicn/singularity)|
+|**2022-06-07**|**cViL: Cross-Lingual Training of Vision-Language Models using Knowledge Distillation**|Kshitij Gupta et.al.|[2206.03354v2](http://arxiv.org/abs/2206.03354v2)|[link](https://github.com/kshitij98/cvil)|
+|**2022-06-07**|**Intra-agent speech permits zero-shot task acquisition**|Chen Yan et.al.|[2206.03139v1](http://arxiv.org/abs/2206.03139v1)|null|
+|**2022-06-07**|**Enhancing Dual-Encoders with Question and Answer Cross-Embeddings for Answer Retrieval**|Yanmeng Wang et.al.|[2206.02978v1](http://arxiv.org/abs/2206.02978v1)|null|
+|**2022-06-06**|**No Parameter Left Behind: How Distillation and Model Size Affect Zero-Shot Retrieval**|Guilherme Moraes Rosa et.al.|[2206.02873v1](http://arxiv.org/abs/2206.02873v1)|[link](https://github.com/guilhermemr04/scaling-zero-shot-retrieval)|
+|**2022-06-06**|**Investigating the use of Paraphrase Generation for Question Reformulation in the FRANK QA system**|Nick Ferguson et.al.|[2206.02737v1](http://arxiv.org/abs/2206.02737v1)|null|
+|**2022-06-06**|**Learning to Ask Like a Physician**|Eric Lehman et.al.|[2206.02696v1](http://arxiv.org/abs/2206.02696v1)|null|
+|**2022-06-06**|**Automatically Drafting Ontologies from Competency Questions with FrODO**|Aldo Gangemi et.al.|[2206.02485v1](http://arxiv.org/abs/2206.02485v1)|[link](https://github.com/anuzzolese/frodo)|
+|**2022-06-06**|**Domain-specific Language Pre-training for Dialogue Comprehension on Clinical Inquiry-Answering Conversations**|Zhengyuan Liu et.al.|[2206.02428v1](http://arxiv.org/abs/2206.02428v1)|null|
+|**2022-06-06**|**On the Advance of Making Language Models Better Reasoners**|Yifei Li et.al.|[2206.02336v2](http://arxiv.org/abs/2206.02336v2)|null|
+|**2022-06-03**|**QAGCN: A Graph Convolutional Network-based Multi-Relation Question Answering System**|Ruijie Wang et.al.|[2206.01818v1](http://arxiv.org/abs/2206.01818v1)|null|
+|**2022-06-03**|**Revisiting the "Video" in Video-Language Understanding**|Shyamal Buch et.al.|[2206.01720v1](http://arxiv.org/abs/2206.01720v1)|null|
+|**2022-06-03**|**A-OKVQA: A Benchmark for Visual Question Answering using World Knowledge**|Dustin Schwenk et.al.|[2206.01718v1](http://arxiv.org/abs/2206.01718v1)|null|
+|**2022-06-03**|**ArgRewrite V.2: an Annotated Argumentative Revisions Corpus**|Omid Kashefi et.al.|[2206.01677v1](http://arxiv.org/abs/2206.01677v1)|null|
+|**2022-06-03**|**Extracting Similar Questions From Naturally-occurring Business Conversations**|Xiliang Zhu et.al.|[2206.01585v1](http://arxiv.org/abs/2206.01585v1)|null|
+|**2022-06-03**|**TCE at Qur'an QA 2022: Arabic Language Question Answering Over Holy Qur'an Using a Post-Processed Ensemble of BERT-based Models**|Mohammed ElKomy et.al.|[2206.01550v1](http://arxiv.org/abs/2206.01550v1)|null|
