@@ -1,9 +1,14 @@
 # arxiv-daily
- Automated deployment @ 2022-06-14 14:00:45
+ Automated deployment @ 2022-06-14 20:36:45
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
 ## Reasoning
+
+### Math Reasoning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-13**|**JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding**|Wayne Xin Zhao et.al.|[2206.06315v1](http://arxiv.org/abs/2206.06315v1)|null|
 
 ### Logical Reasoning
 |Publish Date|Title|Authors|PDF|Code|
@@ -25,11 +30,6 @@
 |**2022-05-25**|**Generating Natural Language Proofs with Verifier-Guided Search**|Kaiyu Yang et.al.|[2205.12443v1](http://arxiv.org/abs/2205.12443v1)|[link](https://github.com/princeton-nlp/NLProofS)|
 |**2022-05-24**|**Policy Compliance Detection via Expression Tree Inference**|Neema Kotonya et.al.|[2205.12259v1](http://arxiv.org/abs/2205.12259v1)|null|
 |**2022-05-24**|**Large Language Models are Zero-Shot Reasoners**|Takeshi Kojima et.al.|[2205.11916v2](http://arxiv.org/abs/2205.11916v2)|[link](https://github.com/kojima-takeshi188/zero_shot_cot)|
-
-### Math Reasoning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-13**|**JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding**|Wayne Xin Zhao et.al.|[2206.06315v1](http://arxiv.org/abs/2206.06315v1)|null|
 
 ## Question Answering
 
