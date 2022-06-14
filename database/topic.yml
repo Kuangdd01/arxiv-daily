@@ -1,6 +1,9 @@
 "Reasoning":
-  "Logical Reasoning": '"Reason"AND(("Logic")OR("Logical"))'
+  "Logical Reasoning": '"Language"AND(("Logic")OR("Logical"))'
   "Math Reasoning": '"Language"AND(("Math")OR("Mathematical")OR("Numerical"))'
+  
+"Question Answering":
+  "QA": '"Question Answering"'
 
 # "Computer Vision":
 #   "Image Classification": '"Image Classification"'
