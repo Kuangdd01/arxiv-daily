@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-14 20:36:45
+ Automated deployment @ 2022-06-14 21:18:00
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -65,4 +65,4 @@
 |**2022-06-03**|**A-OKVQA: A Benchmark for Visual Question Answering using World Knowledge**|Dustin Schwenk et.al.|[2206.01718v1](http://arxiv.org/abs/2206.01718v1)|null|
 |**2022-06-03**|**ArgRewrite V.2: an Annotated Argumentative Revisions Corpus**|Omid Kashefi et.al.|[2206.01677v1](http://arxiv.org/abs/2206.01677v1)|null|
 |**2022-06-03**|**Extracting Similar Questions From Naturally-occurring Business Conversations**|Xiliang Zhu et.al.|[2206.01585v1](http://arxiv.org/abs/2206.01585v1)|null|
-|**2022-06-03**|**TCE at Qur'an QA 2022: Arabic Language Question Answering Over Holy Qur'an Using a Post-Processed Ensemble of BERT-based Models**|Mohammed ElKomy et.al.|[2206.01550v1](http://arxiv.org/abs/2206.01550v1)|null|
+|**2022-06-03**|**TCE at Qur'an QA 2022: Arabic Language Question Answering Over Holy Qur'an Using a Post-Processed Ensemble of BERT-based Models**|Mohammed ElKomy et.al.|[2206.01550v1](http://arxiv.org/abs/2206.01550v1)|[link](https://github.com/mohammed-elkomy/quran-qa)|
