@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-15 09:49:36
+ Automated deployment @ 2022-06-15 20:36:28
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Math Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-14**|**FETILDA: An Effective Framework For Fin-tuned Embeddings For Long Financial Text Documents**|Bolun "Namir" Xia et.al.|[2206.06952v1](http://arxiv.org/abs/2206.06952v1)|[link](https://github.com/namir0806/fetilda)|
+|**2022-06-14**|**The Maximum Linear Arrangement for trees under projectivity and planarity**|Lluís Alemany-Puig et.al.|[2206.06924v1](http://arxiv.org/abs/2206.06924v1)|null|
 |**2022-06-13**|**JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding**|Wayne Xin Zhao et.al.|[2206.06315v1](http://arxiv.org/abs/2206.06315v1)|[link](https://github.com/rucaibox/jiuzhang)|
 
 ### Logical Reasoning
@@ -26,16 +28,16 @@
 |**2022-05-25**|**Reasoning over Logically Interacted Conditions for Question Answering**|Haitian Sun et.al.|[2205.12898v1](http://arxiv.org/abs/2205.12898v1)|null|
 |**2022-05-25**|**PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation**|Ao Liu et.al.|[2205.12697v1](http://arxiv.org/abs/2205.12697v1)|null|
 |**2022-05-25**|**RobustLR: Evaluating Robustness to Logical Perturbation in Deductive Reasoning**|Soumya Sanyal et.al.|[2205.12598v1](http://arxiv.org/abs/2205.12598v1)|null|
-|**2022-05-25**|**Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI**|Suzanna Sia et.al.|[2205.12469v1](http://arxiv.org/abs/2205.12469v1)|null|
-|**2022-05-25**|**Generating Natural Language Proofs with Verifier-Guided Search**|Kaiyu Yang et.al.|[2205.12443v1](http://arxiv.org/abs/2205.12443v1)|[link](https://github.com/princeton-nlp/NLProofS)|
-|**2022-05-24**|**Policy Compliance Detection via Expression Tree Inference**|Neema Kotonya et.al.|[2205.12259v1](http://arxiv.org/abs/2205.12259v1)|null|
-|**2022-05-24**|**Large Language Models are Zero-Shot Reasoners**|Takeshi Kojima et.al.|[2205.11916v2](http://arxiv.org/abs/2205.11916v2)|[link](https://github.com/kojima-takeshi188/zero_shot_cot)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-14**|**Task Transfer and Domain Adaptation for Zero-Shot Question Answering**|Xiang Pan et.al.|[2206.06705v1](http://arxiv.org/abs/2206.06705v1)|[link](https://github.com/adityaarunsinghal/Domain-Adaptation)|
+|**2022-06-14**|**CHQ-Summ: A Dataset for Consumer Healthcare Question Summarization**|Shweta Yadav et.al.|[2206.06581v1](http://arxiv.org/abs/2206.06581v1)|[link](https://github.com/shwetanlp/yahoo-chq-summ)|
+|**2022-06-14**|**LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks**|Tuan Dinh et.al.|[2206.06565v1](http://arxiv.org/abs/2206.06565v1)|[link](https://github.com/uw-madison-lee-lab/languageinterfacedfinetuning)|
+|**2022-06-13**|**Memory-Based Model Editing at Scale**|Eric Mitchell et.al.|[2206.06520v1](http://arxiv.org/abs/2206.06520v1)|null|
 |**2022-06-13**|**Automatic generation of a large dictionary with concreteness/abstractness ratings based on a small human dictionary**|Vladimir Ivanov et.al.|[2206.06200v1](http://arxiv.org/abs/2206.06200v1)|null|
 |**2022-06-12**|**Fine-tuning Pre-trained Language Models with Noise Stability Regularization**|Hang Hua et.al.|[2206.05658v1](http://arxiv.org/abs/2206.05658v1)|null|
 |**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
@@ -60,9 +62,3 @@
 |**2022-06-06**|**Automatically Drafting Ontologies from Competency Questions with FrODO**|Aldo Gangemi et.al.|[2206.02485v1](http://arxiv.org/abs/2206.02485v1)|[link](https://github.com/anuzzolese/frodo)|
 |**2022-06-06**|**Domain-specific Language Pre-training for Dialogue Comprehension on Clinical Inquiry-Answering Conversations**|Zhengyuan Liu et.al.|[2206.02428v1](http://arxiv.org/abs/2206.02428v1)|null|
 |**2022-06-06**|**On the Advance of Making Language Models Better Reasoners**|Yifei Li et.al.|[2206.02336v2](http://arxiv.org/abs/2206.02336v2)|null|
-|**2022-06-03**|**QAGCN: A Graph Convolutional Network-based Multi-Relation Question Answering System**|Ruijie Wang et.al.|[2206.01818v1](http://arxiv.org/abs/2206.01818v1)|null|
-|**2022-06-03**|**Revisiting the "Video" in Video-Language Understanding**|Shyamal Buch et.al.|[2206.01720v1](http://arxiv.org/abs/2206.01720v1)|null|
-|**2022-06-03**|**A-OKVQA: A Benchmark for Visual Question Answering using World Knowledge**|Dustin Schwenk et.al.|[2206.01718v1](http://arxiv.org/abs/2206.01718v1)|null|
-|**2022-06-03**|**ArgRewrite V.2: an Annotated Argumentative Revisions Corpus**|Omid Kashefi et.al.|[2206.01677v1](http://arxiv.org/abs/2206.01677v1)|null|
-|**2022-06-03**|**Extracting Similar Questions From Naturally-occurring Business Conversations**|Xiliang Zhu et.al.|[2206.01585v1](http://arxiv.org/abs/2206.01585v1)|null|
-|**2022-06-03**|**TCE at Qur'an QA 2022: Arabic Language Question Answering Over Holy Qur'an Using a Post-Processed Ensemble of BERT-based Models**|Mohammed ElKomy et.al.|[2206.01550v1](http://arxiv.org/abs/2206.01550v1)|[link](https://github.com/mohammed-elkomy/quran-qa)|
