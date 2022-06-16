@@ -1,5 +1,5 @@
 "Reasoning":
-  "Reasoning": '"Language"AND"Reason"'
+  "Reasoning": '("Language")AND("Reason")'
 #   "Logical Reasoning": '"Language"AND(("Logic")OR("Logical"))'
 #   "Math Reasoning": '"Language"AND(("Math")OR("Mathematical")OR("Numerical"))'
   
