@@ -8,6 +8,9 @@
   "Open-domain QA": '"Question Answering"AND("Open")'
   "Question Decomposition": '"Question Answering"AND("Decompos")'
 
+"Explanation"
+  "Explanation": '"Language"AND(("Explanation")OR("Explain"))'
+
 # "Computer Vision":
 #   "Image Classification": '"Image Classification"'
 #   "Keypoint Detection": '"Keypoint Detection"OR"Feature Descriptor"'
