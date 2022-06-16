@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-16 09:45:25
+ Automated deployment @ 2022-06-16 20:37:12
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -10,7 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-06-14**|**FETILDA: An Effective Framework For Fin-tuned Embeddings For Long Financial Text Documents**|Bolun "Namir" Xia et.al.|[2206.06952v1](http://arxiv.org/abs/2206.06952v1)|[link](https://github.com/namir0806/fetilda)|
 |**2022-06-14**|**The Maximum Linear Arrangement for trees under projectivity and planarity**|Lluís Alemany-Puig et.al.|[2206.06924v1](http://arxiv.org/abs/2206.06924v1)|null|
-|**2022-06-13**|**JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding**|Wayne Xin Zhao et.al.|[2206.06315v1](http://arxiv.org/abs/2206.06315v1)|[link](https://github.com/rucaibox/jiuzhang)|
 
 ### Logical Reasoning
 |Publish Date|Title|Authors|PDF|Code|
@@ -26,14 +25,13 @@
 |**2022-05-25**|**NaturalProver: Grounded Mathematical Proof Generation with Language Models**|Sean Welleck et.al.|[2205.12910v1](http://arxiv.org/abs/2205.12910v1)|[link](https://github.com/wellecks/naturalproofs)|
 |**2022-05-25**|**On the solvability of weakly linear systems of fuzzy relation equations**|Stefan Stanimirovic et.al.|[2205.15292v1](http://arxiv.org/abs/2205.15292v1)|null|
 |**2022-05-25**|**Reasoning over Logically Interacted Conditions for Question Answering**|Haitian Sun et.al.|[2205.12898v1](http://arxiv.org/abs/2205.12898v1)|null|
-|**2022-05-25**|**PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation**|Ao Liu et.al.|[2205.12697v1](http://arxiv.org/abs/2205.12697v1)|null|
-|**2022-05-25**|**RobustLR: Evaluating Robustness to Logical Perturbation in Deductive Reasoning**|Soumya Sanyal et.al.|[2205.12598v1](http://arxiv.org/abs/2205.12598v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-15**|**Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**|Zi-Yi Dou et.al.|[2206.07643v1](http://arxiv.org/abs/2206.07643v1)|[link](https://github.com/microsoft/fiber)|
 |**2022-06-14**|**Task Transfer and Domain Adaptation for Zero-Shot Question Answering**|Xiang Pan et.al.|[2206.06705v1](http://arxiv.org/abs/2206.06705v1)|[link](https://github.com/adityaarunsinghal/Domain-Adaptation)|
 |**2022-06-14**|**CHQ-Summ: A Dataset for Consumer Healthcare Question Summarization**|Shweta Yadav et.al.|[2206.06581v2](http://arxiv.org/abs/2206.06581v2)|[link](https://github.com/shwetanlp/yahoo-chq-summ)|
 |**2022-06-14**|**LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks**|Tuan Dinh et.al.|[2206.06565v2](http://arxiv.org/abs/2206.06565v2)|[link](https://github.com/uw-madison-lee-lab/languageinterfacedfinetuning)|
@@ -57,8 +55,3 @@
 |**2022-06-07**|**Intra-agent speech permits zero-shot task acquisition**|Chen Yan et.al.|[2206.03139v1](http://arxiv.org/abs/2206.03139v1)|null|
 |**2022-06-07**|**Enhancing Dual-Encoders with Question and Answer Cross-Embeddings for Answer Retrieval**|Yanmeng Wang et.al.|[2206.02978v1](http://arxiv.org/abs/2206.02978v1)|null|
 |**2022-06-06**|**No Parameter Left Behind: How Distillation and Model Size Affect Zero-Shot Retrieval**|Guilherme Moraes Rosa et.al.|[2206.02873v2](http://arxiv.org/abs/2206.02873v2)|[link](https://github.com/guilhermemr04/scaling-zero-shot-retrieval)|
-|**2022-06-06**|**Investigating the use of Paraphrase Generation for Question Reformulation in the FRANK QA system**|Nick Ferguson et.al.|[2206.02737v1](http://arxiv.org/abs/2206.02737v1)|null|
-|**2022-06-06**|**Learning to Ask Like a Physician**|Eric Lehman et.al.|[2206.02696v1](http://arxiv.org/abs/2206.02696v1)|null|
-|**2022-06-06**|**Automatically Drafting Ontologies from Competency Questions with FrODO**|Aldo Gangemi et.al.|[2206.02485v1](http://arxiv.org/abs/2206.02485v1)|[link](https://github.com/anuzzolese/frodo)|
-|**2022-06-06**|**Domain-specific Language Pre-training for Dialogue Comprehension on Clinical Inquiry-Answering Conversations**|Zhengyuan Liu et.al.|[2206.02428v1](http://arxiv.org/abs/2206.02428v1)|null|
-|**2022-06-06**|**On the Advance of Making Language Models Better Reasoners**|Yifei Li et.al.|[2206.02336v2](http://arxiv.org/abs/2206.02336v2)|null|
