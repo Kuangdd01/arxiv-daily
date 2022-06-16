@@ -4,6 +4,9 @@
   
 "Question Answering":
   "QA": '"Question Answering"'
+  "Multi-hop QA": '"Question Answering"AND("Multi")'
+  "Open-domain QA": '"Question Answering"AND("Open")'
+  "Question Decomposition": '"Question Answering"AND("Decompos")'
 
 # "Computer Vision":
 #   "Image Classification": '"Image Classification"'
