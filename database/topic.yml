@@ -8,7 +8,7 @@
   "Open-domain QA": '"Question Answering"AND("Open")'
   "Question Decomposition": '"Question Answering"AND("Decompos")'
 
-"Explanation"
+"Explanation":
   "Explanation": '"Language"AND(("Explanation")OR("Explain"))'
 
 # "Computer Vision":
