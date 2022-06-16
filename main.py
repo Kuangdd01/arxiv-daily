@@ -86,7 +86,7 @@ class CoroutineSpeedup:
 
         self.cache_space = []
 
-        self.max_results = 200
+        self.max_results = 500
 
     def _adaptor(self):
         while not self.worker.empty():
