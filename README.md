@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-16 22:15:05
+ Automated deployment @ 2022-06-16 22:19:59
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,54 +8,6 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Math Reasoning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-14**|**FETILDA: An Effective Framework For Fin-tuned Embeddings For Long Financial Text Documents**|Bolun "Namir" Xia et.al.|[2206.06952v1](http://arxiv.org/abs/2206.06952v1)|[link](https://github.com/namir0806/fetilda)|
-|**2022-06-14**|**The Maximum Linear Arrangement for trees under projectivity and planarity**|Lluís Alemany-Puig et.al.|[2206.06924v1](http://arxiv.org/abs/2206.06924v1)|null|
-|**2022-06-13**|**JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding**|Wayne Xin Zhao et.al.|[2206.06315v1](http://arxiv.org/abs/2206.06315v1)|[link](https://github.com/rucaibox/jiuzhang)|
-|**2022-06-09**|**BigVGAN: A Universal Neural Vocoder with Large-Scale Training**|Sang-gil Lee et.al.|[2206.04658v1](http://arxiv.org/abs/2206.04658v1)|[link](https://github.com/nvidia/bigvgan)|
-|**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v2](http://arxiv.org/abs/2206.04615v2)|[link](https://github.com/google/BIG-bench)|
-
-### Logical Reasoning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-13**|**JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding**|Wayne Xin Zhao et.al.|[2206.06315v1](http://arxiv.org/abs/2206.06315v1)|[link](https://github.com/rucaibox/jiuzhang)|
-|**2022-06-13**|**Introducing Proof Tree Automata and Proof Tree Graphs**|Valentin D. Richard et.al.|[2206.06294v1](http://arxiv.org/abs/2206.06294v1)|null|
-|**2022-06-13**|**A Sahlqvist-style Correspondence Theorem for Linear-time Temporal Logic**|Rui Li et.al.|[2206.05973v1](http://arxiv.org/abs/2206.05973v1)|null|
-|**2022-06-07**|**Plot Writing From Pre-Trained Language Models**|Yiping Jin et.al.|[2206.03021v1](http://arxiv.org/abs/2206.03021v1)|[link](https://github.com/yipingnus/scratchplot-story-generation)|
-|**2022-06-02**|**NeuralSympCheck: A Symptom Checking and Disease Diagnostic Neural Model with Logic Regularization**|Aleksandr Nesterov et.al.|[2206.00906v1](http://arxiv.org/abs/2206.00906v1)|[link](https://github.com/sympcheck/neuralsymptomchecker)|
-|**2022-05-30**|**Detecting fake news by enhanced text representation with multi-EDU-structure awareness**|Yuhang Wang et.al.|[2205.15139v1](http://arxiv.org/abs/2205.15139v1)|null|
-|**2022-05-27**|**Understanding Long Programming Languages with Structure-Aware Sparse Attention**|Tingting Liu et.al.|[2205.13730v1](http://arxiv.org/abs/2205.13730v1)|[link](https://github.com/alibaba/EasyNLP)|
-|**2022-05-26**|**Revisiting Generative Commonsense Reasoning: A Pre-Ordering Approach**|Chao Zhao et.al.|[2205.13183v1](http://arxiv.org/abs/2205.13183v1)|null|
-|**2022-05-25**|**NaturalProver: Grounded Mathematical Proof Generation with Language Models**|Sean Welleck et.al.|[2205.12910v1](http://arxiv.org/abs/2205.12910v1)|[link](https://github.com/wellecks/naturalproofs)|
-|**2022-05-25**|**On the solvability of weakly linear systems of fuzzy relation equations**|Stefan Stanimirovic et.al.|[2205.15292v1](http://arxiv.org/abs/2205.15292v1)|null|
-|**2022-05-25**|**Reasoning over Logically Interacted Conditions for Question Answering**|Haitian Sun et.al.|[2205.12898v1](http://arxiv.org/abs/2205.12898v1)|null|
-|**2022-05-25**|**PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation**|Ao Liu et.al.|[2205.12697v1](http://arxiv.org/abs/2205.12697v1)|null|
-|**2022-05-25**|**RobustLR: Evaluating Robustness to Logical Perturbation in Deductive Reasoning**|Soumya Sanyal et.al.|[2205.12598v1](http://arxiv.org/abs/2205.12598v1)|null|
-|**2022-05-25**|**Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI**|Suzanna Sia et.al.|[2205.12469v1](http://arxiv.org/abs/2205.12469v1)|null|
-|**2022-05-25**|**Generating Natural Language Proofs with Verifier-Guided Search**|Kaiyu Yang et.al.|[2205.12443v1](http://arxiv.org/abs/2205.12443v1)|[link](https://github.com/princeton-nlp/NLProofS)|
-|**2022-05-24**|**Policy Compliance Detection via Expression Tree Inference**|Neema Kotonya et.al.|[2205.12259v1](http://arxiv.org/abs/2205.12259v1)|null|
-|**2022-05-24**|**Large Language Models are Zero-Shot Reasoners**|Takeshi Kojima et.al.|[2205.11916v2](http://arxiv.org/abs/2205.11916v2)|[link](https://github.com/kojima-takeshi188/zero_shot_cot)|
-|**2022-05-24**|**Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations**|Jaehun Jung et.al.|[2205.11822v1](http://arxiv.org/abs/2205.11822v1)|null|
-|**2022-05-23**|**On the Paradox of Learning to Reason from Data**|Honghua Zhang et.al.|[2205.11502v2](http://arxiv.org/abs/2205.11502v2)|null|
-|**2022-05-23**|**Logical Reasoning with Span Predictions: Span-level Logical Atoms for Interpretable and Robust NLI Models**|Joe Stacey et.al.|[2205.11432v1](http://arxiv.org/abs/2205.11432v1)|null|
-|**2022-05-23**|**Consistency of UML class, object and statechart diagrams using ontology reasoners**|Ali Hanzala Khan et.al.|[2205.11177v1](http://arxiv.org/abs/2205.11177v1)|null|
-|**2022-05-22**|**Diversity Enhanced Table-to-Text Generation via Type Control**|Yotam Perlitz et.al.|[2205.10938v1](http://arxiv.org/abs/2205.10938v1)|null|
-|**2022-05-22**|**Blackbird's language matrices (BLMs): a new benchmark to investigate disentangled generalisation in neural networks**|Paola Merlo et.al.|[2205.10866v1](http://arxiv.org/abs/2205.10866v1)|null|
-|**2022-05-21**|**Few-Shot Natural Language Inference Generation with PDD: Prompt and Dynamic Demonstration**|Kaijian Li et.al.|[2205.10593v1](http://arxiv.org/abs/2205.10593v1)|null|
-|**2022-05-19**|**Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning**|Antonia Creswell et.al.|[2205.09712v1](http://arxiv.org/abs/2205.09712v1)|null|
-|**2022-05-19**|**The Arabic Ontology -- An Arabic Wordnet with Ontologically Clean Content**|Mustafa Jarrar et.al.|[2205.09664v1](http://arxiv.org/abs/2205.09664v1)|null|
-|**2022-05-18**|**LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**|Xinyu Pi et.al.|[2205.08794v1](http://arxiv.org/abs/2205.08794v1)|null|
-|**2022-05-18**|**Addressing Resource and Privacy Constraints in Semantic Parsing Through Data Augmentation**|Kevin Yang et.al.|[2205.08675v1](http://arxiv.org/abs/2205.08675v1)|null|
-|**2022-05-17**|**Tackling Math Word Problems with Fine-to-Coarse Abstracting and Reasoning**|Ailisi Li et.al.|[2205.08274v1](http://arxiv.org/abs/2205.08274v1)|null|
-|**2022-05-17**|**LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning**|Zhicheng Yang et.al.|[2205.08232v1](http://arxiv.org/abs/2205.08232v1)|null|
-|**2022-05-16**|**The Budge programming language**|Boro Sitnikovski et.al.|[2205.07979v3](http://arxiv.org/abs/2205.07979v3)|null|
-|**2022-05-13**|**TIE: Topological Information Enhanced Structural Reading Comprehension on Web Pages**|Zihan Zhao et.al.|[2205.06435v1](http://arxiv.org/abs/2205.06435v1)|[link](https://github.com/x-lance/tie)|
-|**2022-05-08**|**Beyond Distributional Hypothesis: Let Language Models Learn Meaning-Text Correspondence**|Myeongjun Jang et.al.|[2205.03815v1](http://arxiv.org/abs/2205.03815v1)|[link](https://github.com/mj-jang/beyond-distributional)|
-|**2022-05-06**|**The Unreliability of Explanations in Few-Shot In-Context Learning**|Xi Ye et.al.|[2205.03401v1](http://arxiv.org/abs/2205.03401v1)|null|
-|**2022-05-02**|**Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning**|Fangzhi Xu et.al.|[2205.00731v1](http://arxiv.org/abs/2205.00731v1)|null|
 
 ## Explanation
 
