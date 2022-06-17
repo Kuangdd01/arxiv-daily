@@ -1,7 +1,22 @@
 # arxiv-daily
- Automated deployment @ 2022-06-17 20:37:58
+ Automated deployment @ 2022-06-17 21:22:54
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-15**|**Sparse Structure Search for Parameter-Efficient Tuning**|Shengding Hu et.al.|[2206.07382v1](http://arxiv.org/abs/2206.07382v1)|null|
+|**2022-06-14**|**SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable AMR Meaning Features**|Juri Opitz et.al.|[2206.07023v1](http://arxiv.org/abs/2206.07023v1)|null|
+|**2022-06-13**|**Mediators: Conversational Agents Explaining NLP Model Behavior**|Nils Feldhus et.al.|[2206.06029v1](http://arxiv.org/abs/2206.06029v1)|null|
+|**2022-06-13**|**On the Learning of Non-Autoregressive Transformers**|Fei Huang et.al.|[2206.05975v1](http://arxiv.org/abs/2206.05975v1)|null|
+|**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
+|**2022-06-10**|**Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**|Enrica Troiano et.al.|[2206.05238v2](http://arxiv.org/abs/2206.05238v2)|null|
+|**2022-06-10**|**Building an Icelandic Entity Linking Corpus**|Steinunn Rut Friðriksdóttir et.al.|[2206.05014v1](http://arxiv.org/abs/2206.05014v1)|null|
+|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
+|**2022-06-09**|**Crosslinguistic word order variation reflects evolutionary pressures of dependency and information locality**|Michael Hahn et.al.|[2206.04239v1](http://arxiv.org/abs/2206.04239v1)|[link](https://gitlab.com/m-hahn/efficiency-basic-word-order)|
 
 ## Question Answering
 
@@ -32,21 +47,6 @@
 |**2022-06-09**|**Analyzing Folktales of Different Regions Using Topic Modeling and Clustering**|Jacob Werzinsky et.al.|[2206.04221v1](http://arxiv.org/abs/2206.04221v1)|null|
 |**2022-06-08**|**Few-shot Question Generation for Personalized Feedback in Intelligent Tutoring Systems**|Devang Kulshreshtha et.al.|[2206.04187v1](http://arxiv.org/abs/2206.04187v1)|null|
 |**2022-06-08**|**Resolving the Human Subjects Status of Machine Learning's Crowdworkers**|Divyansh Kaushik et.al.|[2206.04039v1](http://arxiv.org/abs/2206.04039v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-15**|**Sparse Structure Search for Parameter-Efficient Tuning**|Shengding Hu et.al.|[2206.07382v1](http://arxiv.org/abs/2206.07382v1)|null|
-|**2022-06-14**|**SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable AMR Meaning Features**|Juri Opitz et.al.|[2206.07023v1](http://arxiv.org/abs/2206.07023v1)|null|
-|**2022-06-13**|**Mediators: Conversational Agents Explaining NLP Model Behavior**|Nils Feldhus et.al.|[2206.06029v1](http://arxiv.org/abs/2206.06029v1)|null|
-|**2022-06-13**|**On the Learning of Non-Autoregressive Transformers**|Fei Huang et.al.|[2206.05975v1](http://arxiv.org/abs/2206.05975v1)|null|
-|**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
-|**2022-06-10**|**Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**|Enrica Troiano et.al.|[2206.05238v2](http://arxiv.org/abs/2206.05238v2)|null|
-|**2022-06-10**|**Building an Icelandic Entity Linking Corpus**|Steinunn Rut Friðriksdóttir et.al.|[2206.05014v1](http://arxiv.org/abs/2206.05014v1)|null|
-|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
-|**2022-06-09**|**Crosslinguistic word order variation reflects evolutionary pressures of dependency and information locality**|Michael Hahn et.al.|[2206.04239v1](http://arxiv.org/abs/2206.04239v1)|[link](https://gitlab.com/m-hahn/efficiency-basic-word-order)|
 
 ## Reasoning
 
