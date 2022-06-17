@@ -1,30 +1,19 @@
 # arxiv-daily
- Automated deployment @ 2022-06-17 09:45:30
+ Automated deployment @ 2022-06-17 20:37:58
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-15**|**Sparse Structure Search for Parameter-Efficient Tuning**|Shengding Hu et.al.|[2206.07382v1](http://arxiv.org/abs/2206.07382v1)|null|
-|**2022-06-14**|**SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable AMR Meaning Features**|Juri Opitz et.al.|[2206.07023v1](http://arxiv.org/abs/2206.07023v1)|null|
-|**2022-06-13**|**Mediators: Conversational Agents Explaining NLP Model Behavior**|Nils Feldhus et.al.|[2206.06029v1](http://arxiv.org/abs/2206.06029v1)|null|
-|**2022-06-13**|**On the Learning of Non-Autoregressive Transformers**|Fei Huang et.al.|[2206.05975v1](http://arxiv.org/abs/2206.05975v1)|null|
-|**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
-|**2022-06-10**|**Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**|Enrica Troiano et.al.|[2206.05238v2](http://arxiv.org/abs/2206.05238v2)|null|
-|**2022-06-10**|**Building an Icelandic Entity Linking Corpus**|Steinunn Rut Friðriksdóttir et.al.|[2206.05014v1](http://arxiv.org/abs/2206.05014v1)|null|
-|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
-|**2022-06-09**|**Crosslinguistic word order variation reflects evolutionary pressures of dependency and information locality**|Michael Hahn et.al.|[2206.04239v1](http://arxiv.org/abs/2206.04239v1)|[link](https://gitlab.com/m-hahn/efficiency-basic-word-order)|
-|**2022-06-08**|**Challenges in Applying Explainability Methods to Improve the Fairness of NLP Models**|Esma Balkir et.al.|[2206.03945v1](http://arxiv.org/abs/2206.03945v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-06-15**|**Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**|Zi-Yi Dou et.al.|[2206.07643v1](http://arxiv.org/abs/2206.07643v1)|[link](https://github.com/microsoft/fiber)|
+|**2022-06-16**|**Balancing Cost and Quality: An Exploration of Human-in-the-loop Frameworks for Automated Short Answer Scoring**|Hiroaki Funayama et.al.|[2206.08288v1](http://arxiv.org/abs/2206.08288v1)|null|
+|**2022-06-16**|**'John ate 5 apples' != 'John ate some apples': Self-Supervised Paraphrase Quality Detection for Algebraic Word Problems**|Rishabh Gupta et.al.|[2206.08263v1](http://arxiv.org/abs/2206.08263v1)|[link](https://github.com/ads-ai/paraqd)|
+|**2022-06-16**|**All the World's a (Hyper)Graph: A Data Drama**|Corinna Coupette et.al.|[2206.08225v1](http://arxiv.org/abs/2206.08225v1)|[link](https://github.com/hyperbard/hyperbard)|
+|**2022-06-16**|**Zero-Shot Video Question Answering via Frozen Bidirectional Language Models**|Antoine Yang et.al.|[2206.08155v1](http://arxiv.org/abs/2206.08155v1)|null|
+|**2022-06-16**|**An Open-Domain QA System for e-Governance**|Radu Ion et.al.|[2206.08046v1](http://arxiv.org/abs/2206.08046v1)|null|
+|**2022-06-15**|**Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**|Zi-Yi Dou et.al.|[2206.07643v1](http://arxiv.org/abs/2206.07643v1)|null|
 |**2022-06-14**|**Task Transfer and Domain Adaptation for Zero-Shot Question Answering**|Xiang Pan et.al.|[2206.06705v1](http://arxiv.org/abs/2206.06705v1)|[link](https://github.com/adityaarunsinghal/Domain-Adaptation)|
 |**2022-06-14**|**CHQ-Summ: A Dataset for Consumer Healthcare Question Summarization**|Shweta Yadav et.al.|[2206.06581v2](http://arxiv.org/abs/2206.06581v2)|[link](https://github.com/shwetanlp/yahoo-chq-summ)|
 |**2022-06-14**|**LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks**|Tuan Dinh et.al.|[2206.06565v2](http://arxiv.org/abs/2206.06565v2)|[link](https://github.com/uw-madison-lee-lab/languageinterfacedfinetuning)|
@@ -43,17 +32,29 @@
 |**2022-06-09**|**Analyzing Folktales of Different Regions Using Topic Modeling and Clustering**|Jacob Werzinsky et.al.|[2206.04221v1](http://arxiv.org/abs/2206.04221v1)|null|
 |**2022-06-08**|**Few-shot Question Generation for Personalized Feedback in Intelligent Tutoring Systems**|Devang Kulshreshtha et.al.|[2206.04187v1](http://arxiv.org/abs/2206.04187v1)|null|
 |**2022-06-08**|**Resolving the Human Subjects Status of Machine Learning's Crowdworkers**|Divyansh Kaushik et.al.|[2206.04039v1](http://arxiv.org/abs/2206.04039v1)|null|
-|**2022-06-07**|**Revealing Single Frame Bias for Video-and-Language Learning**|Jie Lei et.al.|[2206.03428v1](http://arxiv.org/abs/2206.03428v1)|[link](https://github.com/jayleicn/singularity)|
-|**2022-06-07**|**cViL: Cross-Lingual Training of Vision-Language Models using Knowledge Distillation**|Kshitij Gupta et.al.|[2206.03354v2](http://arxiv.org/abs/2206.03354v2)|[link](https://github.com/kshitij98/cvil)|
-|**2022-06-07**|**Intra-agent speech permits zero-shot task acquisition**|Chen Yan et.al.|[2206.03139v1](http://arxiv.org/abs/2206.03139v1)|null|
-|**2022-06-07**|**Enhancing Dual-Encoders with Question and Answer Cross-Embeddings for Answer Retrieval**|Yanmeng Wang et.al.|[2206.02978v1](http://arxiv.org/abs/2206.02978v1)|null|
-|**2022-06-06**|**No Parameter Left Behind: How Distillation and Model Size Affect Zero-Shot Retrieval**|Guilherme Moraes Rosa et.al.|[2206.02873v2](http://arxiv.org/abs/2206.02873v2)|[link](https://github.com/guilhermemr04/scaling-zero-shot-retrieval)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-15**|**Sparse Structure Search for Parameter-Efficient Tuning**|Shengding Hu et.al.|[2206.07382v1](http://arxiv.org/abs/2206.07382v1)|null|
+|**2022-06-14**|**SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable AMR Meaning Features**|Juri Opitz et.al.|[2206.07023v1](http://arxiv.org/abs/2206.07023v1)|null|
+|**2022-06-13**|**Mediators: Conversational Agents Explaining NLP Model Behavior**|Nils Feldhus et.al.|[2206.06029v1](http://arxiv.org/abs/2206.06029v1)|null|
+|**2022-06-13**|**On the Learning of Non-Autoregressive Transformers**|Fei Huang et.al.|[2206.05975v1](http://arxiv.org/abs/2206.05975v1)|null|
+|**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
+|**2022-06-10**|**Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**|Enrica Troiano et.al.|[2206.05238v2](http://arxiv.org/abs/2206.05238v2)|null|
+|**2022-06-10**|**Building an Icelandic Entity Linking Corpus**|Steinunn Rut Friðriksdóttir et.al.|[2206.05014v1](http://arxiv.org/abs/2206.05014v1)|null|
+|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
+|**2022-06-09**|**Crosslinguistic word order variation reflects evolutionary pressures of dependency and information locality**|Michael Hahn et.al.|[2206.04239v1](http://arxiv.org/abs/2206.04239v1)|[link](https://gitlab.com/m-hahn/efficiency-basic-word-order)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-16**|**DIALOG-22 RuATD Generated Text Detection**|Narek Maloyan et.al.|[2206.08029v1](http://arxiv.org/abs/2206.08029v1)|null|
+|**2022-06-16**|**PInKS: Preconditioned Commonsense Inference with Minimal Supervision**|Ehsan Qasemi et.al.|[2206.07920v1](http://arxiv.org/abs/2206.07920v1)|null|
 |**2022-06-14**|**Multimodal Event Graphs: Towards Event Centric Understanding of Multimodal World**|Hammad A. Ayyubi et.al.|[2206.07207v1](http://arxiv.org/abs/2206.07207v1)|null|
 |**2022-06-14**|**Understanding Narratives through Dimensions of Analogy**|Thiloshon Nagarajah et.al.|[2206.07167v1](http://arxiv.org/abs/2206.07167v1)|[link](https://github.com/usc-isi-i2/analogical-transfer-learning)|
 |**2022-06-14**|**NewsEdits: A News Article Revision Dataset and a Document-Level Reasoning Challenge**|Alexander Spangher et.al.|[2206.07106v1](http://arxiv.org/abs/2206.07106v1)|null|
@@ -191,7 +192,3 @@
 |**2022-04-24**|**Open-domain Dialogue Generation Grounded with Dynamic Multi-form Knowledge Fusion**|Feifei Xu et.al.|[2204.11239v1](http://arxiv.org/abs/2204.11239v1)|null|
 |**2022-04-22**|**Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks**|Ruixiang Cui et.al.|[2204.10615v2](http://arxiv.org/abs/2204.10615v2)|[link](https://github.com/ruixiangcui/gqnli)|
 |**2022-04-22**|**SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues**|Ssu Chiu et.al.|[2204.10591v1](http://arxiv.org/abs/2204.10591v1)|[link](https://github.com/miulab/salesbot)|
-|**2022-04-22**|**Emergent Communication for Understanding Human Language Evolution: What's Missing?**|Lukas Galke et.al.|[2204.10590v1](http://arxiv.org/abs/2204.10590v1)|null|
-|**2022-04-22**|**Efficient Training of Neural Transducer for Speech Recognition**|Wei Zhou et.al.|[2204.10586v2](http://arxiv.org/abs/2204.10586v2)|null|
-|**2022-04-22**|**Rethinking Offensive Text Detection as a Multi-Hop Reasoning Problem**|Qiang Zhang et.al.|[2204.10521v1](http://arxiv.org/abs/2204.10521v1)|[link](https://github.com/qzx7/slight)|
-|**2022-04-22**|**Multimodal Adaptive Distillation for Leveraging Unimodal Encoders for Vision-Language Tasks**|Zhecan Wang et.al.|[2204.10496v2](http://arxiv.org/abs/2204.10496v2)|null|
