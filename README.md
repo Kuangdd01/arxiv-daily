@@ -1,28 +1,19 @@
 # arxiv-daily
- Automated deployment @ 2022-06-20 09:46:50
+ Automated deployment @ 2022-06-20 20:35:34
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-15**|**Sparse Structure Search for Parameter-Efficient Tuning**|Shengding Hu et.al.|[2206.07382v1](http://arxiv.org/abs/2206.07382v1)|null|
-|**2022-06-14**|**SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable AMR Meaning Features**|Juri Opitz et.al.|[2206.07023v1](http://arxiv.org/abs/2206.07023v1)|null|
-|**2022-06-13**|**Mediators: Conversational Agents Explaining NLP Model Behavior**|Nils Feldhus et.al.|[2206.06029v1](http://arxiv.org/abs/2206.06029v1)|null|
-|**2022-06-13**|**On the Learning of Non-Autoregressive Transformers**|Fei Huang et.al.|[2206.05975v1](http://arxiv.org/abs/2206.05975v1)|null|
-|**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
-|**2022-06-10**|**Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**|Enrica Troiano et.al.|[2206.05238v2](http://arxiv.org/abs/2206.05238v2)|null|
-|**2022-06-10**|**Building an Icelandic Entity Linking Corpus**|Steinunn Rut Friðriksdóttir et.al.|[2206.05014v1](http://arxiv.org/abs/2206.05014v1)|null|
-|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
-|**2022-06-09**|**Crosslinguistic word order variation reflects evolutionary pressures of dependency and information locality**|Michael Hahn et.al.|[2206.04239v1](http://arxiv.org/abs/2206.04239v1)|[link](https://gitlab.com/m-hahn/efficiency-basic-word-order)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-17**|**Language with Vision: a Study on Grounded Word and Sentence Embeddings**|Hassan Shahmohammadi et.al.|[2206.08823v1](http://arxiv.org/abs/2206.08823v1)|[link](https://github.com/hazel1994/visually_grounded_word_embeddings_2)|
+|**2022-06-17**|**Crowdsourcing Relative Rankings of Multi-Word Expressions: Experts versus Non-Experts**|David Alfter et.al.|[2206.08724v1](http://arxiv.org/abs/2206.08724v1)|null|
+|**2022-06-17**|**CookDial: A dataset for task-oriented dialogs grounded in procedural documents**|Yiwei Jiang et.al.|[2206.08723v1](http://arxiv.org/abs/2206.08723v1)|[link](https://github.com/yiweijiang2015/cookdial)|
+|**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
+|**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
+|**2022-06-16**|**GAAMA 2.0: An Integrated System that Answers Boolean and Extractive Question**|Scott McCarley et.al.|[2206.08441v1](http://arxiv.org/abs/2206.08441v1)|null|
 |**2022-06-16**|**Balancing Cost and Quality: An Exploration of Human-in-the-loop Frameworks for Automated Short Answer Scoring**|Hiroaki Funayama et.al.|[2206.08288v1](http://arxiv.org/abs/2206.08288v1)|null|
 |**2022-06-16**|**'John ate 5 apples' != 'John ate some apples': Self-Supervised Paraphrase Quality Detection for Algebraic Word Problems**|Rishabh Gupta et.al.|[2206.08263v1](http://arxiv.org/abs/2206.08263v1)|[link](https://github.com/ads-ai/paraqd)|
 |**2022-06-16**|**All the World's a (Hyper)Graph: A Data Drama**|Corinna Coupette et.al.|[2206.08225v2](http://arxiv.org/abs/2206.08225v2)|null|
@@ -46,13 +37,29 @@
 |**2022-06-09**|**Corpus Similarity Measures Remain Robust Across Diverse Languages**|Haipeng Li et.al.|[2206.04332v1](http://arxiv.org/abs/2206.04332v1)|null|
 |**2022-06-09**|**Analyzing Folktales of Different Regions Using Topic Modeling and Clustering**|Jacob Werzinsky et.al.|[2206.04221v1](http://arxiv.org/abs/2206.04221v1)|null|
 |**2022-06-08**|**Few-shot Question Generation for Personalized Feedback in Intelligent Tutoring Systems**|Devang Kulshreshtha et.al.|[2206.04187v1](http://arxiv.org/abs/2206.04187v1)|null|
-|**2022-06-08**|**Resolving the Human Subjects Status of Machine Learning's Crowdworkers**|Divyansh Kaushik et.al.|[2206.04039v1](http://arxiv.org/abs/2206.04039v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
+|**2022-06-15**|**Sparse Structure Search for Parameter-Efficient Tuning**|Shengding Hu et.al.|[2206.07382v1](http://arxiv.org/abs/2206.07382v1)|null|
+|**2022-06-14**|**SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable AMR Meaning Features**|Juri Opitz et.al.|[2206.07023v1](http://arxiv.org/abs/2206.07023v1)|null|
+|**2022-06-13**|**Mediators: Conversational Agents Explaining NLP Model Behavior**|Nils Feldhus et.al.|[2206.06029v1](http://arxiv.org/abs/2206.06029v1)|null|
+|**2022-06-13**|**On the Learning of Non-Autoregressive Transformers**|Fei Huang et.al.|[2206.05975v1](http://arxiv.org/abs/2206.05975v1)|null|
+|**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
+|**2022-06-10**|**Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**|Enrica Troiano et.al.|[2206.05238v2](http://arxiv.org/abs/2206.05238v2)|null|
+|**2022-06-10**|**Building an Icelandic Entity Linking Corpus**|Steinunn Rut Friðriksdóttir et.al.|[2206.05014v1](http://arxiv.org/abs/2206.05014v1)|null|
+|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
+|**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
 |**2022-06-16**|**DIALOG-22 RuATD Generated Text Detection**|Narek Maloyan et.al.|[2206.08029v1](http://arxiv.org/abs/2206.08029v1)|null|
 |**2022-06-16**|**PInKS: Preconditioned Commonsense Inference with Minimal Supervision**|Ehsan Qasemi et.al.|[2206.07920v1](http://arxiv.org/abs/2206.07920v1)|null|
 |**2022-06-14**|**Multimodal Event Graphs: Towards Event Centric Understanding of Multimodal World**|Hammad A. Ayyubi et.al.|[2206.07207v1](http://arxiv.org/abs/2206.07207v1)|null|
@@ -190,5 +197,3 @@
 |**2022-04-26**|**Science Checker: Extractive-Boolean Question Answering For Scientific Fact Checking**|Loïc Rakotoson et.al.|[2204.12263v2](http://arxiv.org/abs/2204.12263v2)|[link](https://github.com/opscidia/science-checker)|
 |**2022-04-25**|**Super-Prompting: Utilizing Model-Independent Contextual Data to Reduce Data Annotation Required in Visual Commonsense Tasks**|Navid Rezaei et.al.|[2204.11922v1](http://arxiv.org/abs/2204.11922v1)|null|
 |**2022-04-24**|**Open-domain Dialogue Generation Grounded with Dynamic Multi-form Knowledge Fusion**|Feifei Xu et.al.|[2204.11239v1](http://arxiv.org/abs/2204.11239v1)|null|
-|**2022-04-22**|**Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks**|Ruixiang Cui et.al.|[2204.10615v2](http://arxiv.org/abs/2204.10615v2)|[link](https://github.com/ruixiangcui/gqnli)|
-|**2022-04-22**|**SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues**|Ssu Chiu et.al.|[2204.10591v1](http://arxiv.org/abs/2204.10591v1)|[link](https://github.com/miulab/salesbot)|
