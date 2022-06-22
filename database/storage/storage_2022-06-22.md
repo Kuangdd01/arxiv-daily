@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-22 09:56:58
+ Automated deployment @ 2022-06-22 20:37:24
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,21 +8,22 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-21**|**Plug and Play Counterfactual Text Generation for Model Robustness**|Nishtha Madaan et.al.|[2206.10429v1](http://arxiv.org/abs/2206.10429v1)|null|
+|**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
+|**2022-06-19**|**A Unified Understanding of Deep NLP Models for Text Classification**|Zhen Li et.al.|[2206.09355v1](http://arxiv.org/abs/2206.09355v1)|null|
 |**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
 |**2022-06-15**|**Sparse Structure Search for Parameter-Efficient Tuning**|Shengding Hu et.al.|[2206.07382v1](http://arxiv.org/abs/2206.07382v1)|null|
 |**2022-06-14**|**SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable AMR Meaning Features**|Juri Opitz et.al.|[2206.07023v1](http://arxiv.org/abs/2206.07023v1)|null|
 |**2022-06-13**|**Mediators: Conversational Agents Explaining NLP Model Behavior**|Nils Feldhus et.al.|[2206.06029v1](http://arxiv.org/abs/2206.06029v1)|null|
 |**2022-06-13**|**On the Learning of Non-Autoregressive Transformers**|Fei Huang et.al.|[2206.05975v1](http://arxiv.org/abs/2206.05975v1)|null|
-|**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
-|**2022-06-10**|**Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**|Enrica Troiano et.al.|[2206.05238v2](http://arxiv.org/abs/2206.05238v2)|null|
-|**2022-06-10**|**Building an Icelandic Entity Linking Corpus**|Steinunn Rut Friðriksdóttir et.al.|[2206.05014v1](http://arxiv.org/abs/2206.05014v1)|null|
-|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
+|**2022-06-20**|**SPBERTQA: A Two-Stage Question Answering System Based on Sentence Transformers for Medical Texts**|Nhung Thi-Hong Nguyen et.al.|[2206.09600v1](http://arxiv.org/abs/2206.09600v1)|null|
 |**2022-06-17**|**Language with Vision: a Study on Grounded Word and Sentence Embeddings**|Hassan Shahmohammadi et.al.|[2206.08823v1](http://arxiv.org/abs/2206.08823v1)|[link](https://github.com/hazel1994/visually_grounded_word_embeddings_2)|
 |**2022-06-17**|**Crowdsourcing Relative Rankings of Multi-Word Expressions: Experts versus Non-Experts**|David Alfter et.al.|[2206.08724v1](http://arxiv.org/abs/2206.08724v1)|null|
 |**2022-06-17**|**CookDial: A dataset for task-oriented dialogs grounded in procedural documents**|Yiwei Jiang et.al.|[2206.08723v1](http://arxiv.org/abs/2206.08723v1)|[link](https://github.com/yiweijiang2015/cookdial)|
@@ -40,24 +41,14 @@
 |**2022-06-14**|**LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks**|Tuan Dinh et.al.|[2206.06565v2](http://arxiv.org/abs/2206.06565v2)|[link](https://github.com/uw-madison-lee-lab/languageinterfacedfinetuning)|
 |**2022-06-13**|**Memory-Based Model Editing at Scale**|Eric Mitchell et.al.|[2206.06520v1](http://arxiv.org/abs/2206.06520v1)|null|
 |**2022-06-13**|**Automatic generation of a large dictionary with concreteness/abstractness ratings based on a small human dictionary**|Vladimir Ivanov et.al.|[2206.06200v1](http://arxiv.org/abs/2206.06200v1)|null|
-|**2022-06-12**|**Fine-tuning Pre-trained Language Models with Noise Stability Regularization**|Hang Hua et.al.|[2206.05658v1](http://arxiv.org/abs/2206.05658v1)|null|
-|**2022-06-11**|**A Decomposition-Based Approach for Evaluating Inter-Annotator Disagreement in Narrative Analysis**|Effi Levi et.al.|[2206.05446v1](http://arxiv.org/abs/2206.05446v1)|null|
-|**2022-06-10**|**Teacher Perception of Automatically Extracted Grammar Concepts for L2 Language Learning**|Aditi Chaudhary et.al.|[2206.05154v1](http://arxiv.org/abs/2206.05154v1)|null|
-|**2022-06-10**|**Less Is More: Linear Layers on CLIP Features as Powerful VizWiz Model**|Fabian Deuser et.al.|[2206.05281v1](http://arxiv.org/abs/2206.05281v1)|null|
-|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
-|**2022-06-09**|**Defending Compositionality in Emergent Languages**|Michal Auersperger et.al.|[2206.04751v1](http://arxiv.org/abs/2206.04751v1)|null|
-|**2022-06-09**|**Jewelry Shop Conversational Chatbot**|Safa Zaid et.al.|[2206.04659v1](http://arxiv.org/abs/2206.04659v1)|null|
-|**2022-06-09**|**Privacy Leakage in Text Classification: A Data Extraction Approach**|Adel Elmahdy et.al.|[2206.04591v1](http://arxiv.org/abs/2206.04591v1)|null|
-|**2022-06-09**|**Revisiting End-to-End Speech-to-Text Translation From Scratch**|Biao Zhang et.al.|[2206.04571v1](http://arxiv.org/abs/2206.04571v1)|[link](https://github.com/bzhangGo/zero)|
-|**2022-06-09**|**Corpus Similarity Measures Remain Robust Across Diverse Languages**|Haipeng Li et.al.|[2206.04332v1](http://arxiv.org/abs/2206.04332v1)|null|
-|**2022-06-09**|**Analyzing Folktales of Different Regions Using Topic Modeling and Clustering**|Jacob Werzinsky et.al.|[2206.04221v1](http://arxiv.org/abs/2206.04221v1)|null|
-|**2022-06-08**|**Few-shot Question Generation for Personalized Feedback in Intelligent Tutoring Systems**|Devang Kulshreshtha et.al.|[2206.04187v1](http://arxiv.org/abs/2206.04187v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-21**|**Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**|Karthik Valmeekam et.al.|[2206.10498v1](http://arxiv.org/abs/2206.10498v1)|null|
+|**2022-06-21**|**An Automatic and Efficient BERT Pruning for Edge AI Systems**|Shaoyi Huang et.al.|[2206.10461v1](http://arxiv.org/abs/2206.10461v1)|null|
 |**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
 |**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
 |**2022-06-16**|**DIALOG-22 RuATD Generated Text Detection**|Narek Maloyan et.al.|[2206.08029v1](http://arxiv.org/abs/2206.08029v1)|null|
@@ -194,6 +185,3 @@
 |**2022-04-27**|**Query2Particles: Knowledge Graph Reasoning with Particle Embeddings**|Jiaxin Bai et.al.|[2204.12847v1](http://arxiv.org/abs/2204.12847v1)|[link](https://github.com/hkust-knowcomp/query2particles)|
 |**2022-04-27**|**Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation**|Wei Peng et.al.|[2204.12749v1](http://arxiv.org/abs/2204.12749v1)|null|
 |**2022-04-26**|**Testing the Ability of Language Models to Interpret Figurative Language**|Emmy Liu et.al.|[2204.12632v2](http://arxiv.org/abs/2204.12632v2)|[link](https://github.com/nightingal3/fig-qa)|
-|**2022-04-26**|**Science Checker: Extractive-Boolean Question Answering For Scientific Fact Checking**|Loïc Rakotoson et.al.|[2204.12263v2](http://arxiv.org/abs/2204.12263v2)|[link](https://github.com/opscidia/science-checker)|
-|**2022-04-25**|**Super-Prompting: Utilizing Model-Independent Contextual Data to Reduce Data Annotation Required in Visual Commonsense Tasks**|Navid Rezaei et.al.|[2204.11922v1](http://arxiv.org/abs/2204.11922v1)|null|
-|**2022-04-24**|**Open-domain Dialogue Generation Grounded with Dynamic Multi-form Knowledge Fusion**|Feifei Xu et.al.|[2204.11239v1](http://arxiv.org/abs/2204.11239v1)|null|
