@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-23 09:47:32
+ Automated deployment @ 2022-06-23 20:38:11
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,20 +8,22 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
+|**2022-06-22**|**Modeling Emergent Lexicon Formation with a Self-Reinforcing Stochastic Process**|Brendon Boldt et.al.|[2206.11146v1](http://arxiv.org/abs/2206.11146v1)|[link](https://github.com/brendon-boldt/filex-emergent-language)|
 |**2022-06-21**|**Plug and Play Counterfactual Text Generation for Model Robustness**|Nishtha Madaan et.al.|[2206.10429v1](http://arxiv.org/abs/2206.10429v1)|null|
 |**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
 |**2022-06-19**|**A Unified Understanding of Deep NLP Models for Text Classification**|Zhen Li et.al.|[2206.09355v1](http://arxiv.org/abs/2206.09355v1)|null|
 |**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
 |**2022-06-15**|**Sparse Structure Search for Parameter-Efficient Tuning**|Shengding Hu et.al.|[2206.07382v1](http://arxiv.org/abs/2206.07382v1)|null|
-|**2022-06-14**|**SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable AMR Meaning Features**|Juri Opitz et.al.|[2206.07023v1](http://arxiv.org/abs/2206.07023v1)|null|
-|**2022-06-13**|**Mediators: Conversational Agents Explaining NLP Model Behavior**|Nils Feldhus et.al.|[2206.06029v1](http://arxiv.org/abs/2206.06029v1)|null|
-|**2022-06-13**|**On the Learning of Non-Autoregressive Transformers**|Fei Huang et.al.|[2206.05975v1](http://arxiv.org/abs/2206.05975v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
+|**2022-06-22**|**Answer Fast: Accelerating BERT on the Tensor Streaming Processor**|Ibrahim Ahmed et.al.|[2206.11062v1](http://arxiv.org/abs/2206.11062v1)|null|
+|**2022-06-21**|**Questions Are All You Need to Train a Dense Passage Retriever**|Devendra Singh Sachan et.al.|[2206.10658v1](http://arxiv.org/abs/2206.10658v1)|null|
 |**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
 |**2022-06-20**|**SPBERTQA: A Two-Stage Question Answering System Based on Sentence Transformers for Medical Texts**|Nhung Thi-Hong Nguyen et.al.|[2206.09600v1](http://arxiv.org/abs/2206.09600v1)|null|
 |**2022-06-17**|**Language with Vision: a Study on Grounded Word and Sentence Embeddings**|Hassan Shahmohammadi et.al.|[2206.08823v1](http://arxiv.org/abs/2206.08823v1)|[link](https://github.com/hazel1994/visually_grounded_word_embeddings_2)|
@@ -36,17 +38,14 @@
 |**2022-06-16**|**Zero-Shot Video Question Answering via Frozen Bidirectional Language Models**|Antoine Yang et.al.|[2206.08155v1](http://arxiv.org/abs/2206.08155v1)|null|
 |**2022-06-16**|**An Open-Domain QA System for e-Governance**|Radu Ion et.al.|[2206.08046v1](http://arxiv.org/abs/2206.08046v1)|null|
 |**2022-06-15**|**Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**|Zi-Yi Dou et.al.|[2206.07643v1](http://arxiv.org/abs/2206.07643v1)|null|
-|**2022-06-14**|**Task Transfer and Domain Adaptation for Zero-Shot Question Answering**|Xiang Pan et.al.|[2206.06705v1](http://arxiv.org/abs/2206.06705v1)|[link](https://github.com/adityaarunsinghal/Domain-Adaptation)|
-|**2022-06-14**|**CHQ-Summ: A Dataset for Consumer Healthcare Question Summarization**|Shweta Yadav et.al.|[2206.06581v2](http://arxiv.org/abs/2206.06581v2)|[link](https://github.com/shwetanlp/yahoo-chq-summ)|
-|**2022-06-14**|**LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks**|Tuan Dinh et.al.|[2206.06565v2](http://arxiv.org/abs/2206.06565v2)|[link](https://github.com/uw-madison-lee-lab/languageinterfacedfinetuning)|
-|**2022-06-13**|**Memory-Based Model Editing at Scale**|Eric Mitchell et.al.|[2206.06520v1](http://arxiv.org/abs/2206.06520v1)|null|
-|**2022-06-13**|**Automatic generation of a large dictionary with concreteness/abstractness ratings based on a small human dictionary**|Vladimir Ivanov et.al.|[2206.06200v1](http://arxiv.org/abs/2206.06200v1)|null|
+|**2022-06-14**|**Can Foundation Models Talk Causality?**|Moritz Willig et.al.|[2206.10591v1](http://arxiv.org/abs/2206.10591v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-21**|**Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**|Karthik Valmeekam et.al.|[2206.10498v1](http://arxiv.org/abs/2206.10498v1)|[link](https://github.com/karthikv792/gpt-plan-benchmark)|
 |**2022-06-21**|**An Automatic and Efficient BERT Pruning for Edge AI Systems**|Shaoyi Huang et.al.|[2206.10461v1](http://arxiv.org/abs/2206.10461v1)|null|
 |**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
@@ -54,6 +53,7 @@
 |**2022-06-16**|**DIALOG-22 RuATD Generated Text Detection**|Narek Maloyan et.al.|[2206.08029v1](http://arxiv.org/abs/2206.08029v1)|null|
 |**2022-06-16**|**PInKS: Preconditioned Commonsense Inference with Minimal Supervision**|Ehsan Qasemi et.al.|[2206.07920v1](http://arxiv.org/abs/2206.07920v1)|null|
 |**2022-06-14**|**Multimodal Event Graphs: Towards Event Centric Understanding of Multimodal World**|Hammad A. Ayyubi et.al.|[2206.07207v1](http://arxiv.org/abs/2206.07207v1)|null|
+|**2022-06-14**|**Can Foundation Models Talk Causality?**|Moritz Willig et.al.|[2206.10591v1](http://arxiv.org/abs/2206.10591v1)|null|
 |**2022-06-14**|**Understanding Narratives through Dimensions of Analogy**|Thiloshon Nagarajah et.al.|[2206.07167v1](http://arxiv.org/abs/2206.07167v1)|[link](https://github.com/usc-isi-i2/analogical-transfer-learning)|
 |**2022-06-14**|**NewsEdits: A News Article Revision Dataset and a Document-Level Reasoning Challenge**|Alexander Spangher et.al.|[2206.07106v1](http://arxiv.org/abs/2206.07106v1)|null|
 |**2022-06-14**|**The Causal Structure of Semantic Ambiguities**|Daphne Wang et.al.|[2206.06807v1](http://arxiv.org/abs/2206.06807v1)|null|
@@ -183,5 +183,3 @@
 |**2022-04-28**|**HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data**|Kai Nakamura et.al.|[2204.13243v1](http://arxiv.org/abs/2204.13243v1)|null|
 |**2022-04-27**|**Towards Teachable Reasoning Systems**|Bhavana Dalvi et.al.|[2204.13074v1](http://arxiv.org/abs/2204.13074v1)|null|
 |**2022-04-27**|**Query2Particles: Knowledge Graph Reasoning with Particle Embeddings**|Jiaxin Bai et.al.|[2204.12847v1](http://arxiv.org/abs/2204.12847v1)|[link](https://github.com/hkust-knowcomp/query2particles)|
-|**2022-04-27**|**Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation**|Wei Peng et.al.|[2204.12749v1](http://arxiv.org/abs/2204.12749v1)|null|
-|**2022-04-26**|**Testing the Ability of Language Models to Interpret Figurative Language**|Emmy Liu et.al.|[2204.12632v2](http://arxiv.org/abs/2204.12632v2)|[link](https://github.com/nightingal3/fig-qa)|
