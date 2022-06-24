@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-24 09:48:52
+ Automated deployment @ 2022-06-24 20:40:17
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -14,7 +14,6 @@
 |**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
 |**2022-06-19**|**A Unified Understanding of Deep NLP Models for Text Classification**|Zhen Li et.al.|[2206.09355v1](http://arxiv.org/abs/2206.09355v1)|null|
 |**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
-|**2022-06-15**|**Sparse Structure Search for Parameter-Efficient Tuning**|Shengding Hu et.al.|[2206.07382v1](http://arxiv.org/abs/2206.07382v1)|null|
 
 ## Question Answering
 
@@ -38,7 +37,6 @@
 |**2022-06-16**|**Zero-Shot Video Question Answering via Frozen Bidirectional Language Models**|Antoine Yang et.al.|[2206.08155v1](http://arxiv.org/abs/2206.08155v1)|null|
 |**2022-06-16**|**An Open-Domain QA System for e-Governance**|Radu Ion et.al.|[2206.08046v1](http://arxiv.org/abs/2206.08046v1)|null|
 |**2022-06-15**|**Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**|Zi-Yi Dou et.al.|[2206.07643v1](http://arxiv.org/abs/2206.07643v1)|null|
-|**2022-06-14**|**Can Foundation Models Talk Causality?**|Moritz Willig et.al.|[2206.10591v1](http://arxiv.org/abs/2206.10591v1)|null|
 
 ## Reasoning
 
@@ -66,6 +64,7 @@
 |**2022-06-08**|**Set Interdependence Transformer: Set-to-Sequence Neural Networks for Permutation Learning and Structure Prediction**|Mateusz Jurewicz et.al.|[2206.03720v1](http://arxiv.org/abs/2206.03720v1)|null|
 |**2022-06-08**|**Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning**|Yu Jin Kim et.al.|[2206.03715v2](http://arxiv.org/abs/2206.03715v2)|null|
 |**2022-06-06**|**Neuro-Symbolic Causal Language Planning with Commonsense Prompting**|Yujie Lu et.al.|[2206.02928v1](http://arxiv.org/abs/2206.02928v1)|null|
+|**2022-06-06**|**CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking**|Xuming Hu et.al.|[2206.11863v1](http://arxiv.org/abs/2206.11863v1)|null|
 |**2022-06-06**|**Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation**|Jin Xu et.al.|[2206.02369v1](http://arxiv.org/abs/2206.02369v1)|null|
 |**2022-06-06**|**On the Advance of Making Language Models Better Reasoners**|Yifei Li et.al.|[2206.02336v2](http://arxiv.org/abs/2206.02336v2)|null|
 |**2022-06-03**|**QAGCN: A Graph Convolutional Network-based Multi-Relation Question Answering System**|Ruijie Wang et.al.|[2206.01818v1](http://arxiv.org/abs/2206.01818v1)|null|
@@ -181,5 +180,3 @@
 |**2022-04-28**|**Inferring Implicit Relations with Language Models**|Uri Katz et.al.|[2204.13778v1](http://arxiv.org/abs/2204.13778v1)|[link](https://github.com/katzurik/implicitrelations)|
 |**2022-04-28**|**Faithful to the Document or to the World? Mitigating Hallucinations via Entity-linked Knowledge in Abstractive Summarization**|Yue Dong et.al.|[2204.13761v1](http://arxiv.org/abs/2204.13761v1)|null|
 |**2022-04-28**|**HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data**|Kai Nakamura et.al.|[2204.13243v1](http://arxiv.org/abs/2204.13243v1)|null|
-|**2022-04-27**|**Towards Teachable Reasoning Systems**|Bhavana Dalvi et.al.|[2204.13074v1](http://arxiv.org/abs/2204.13074v1)|null|
-|**2022-04-27**|**Query2Particles: Knowledge Graph Reasoning with Particle Embeddings**|Jiaxin Bai et.al.|[2204.12847v1](http://arxiv.org/abs/2204.12847v1)|[link](https://github.com/hkust-knowcomp/query2particles)|
