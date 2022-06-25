@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-25 09:53:17
+ Automated deployment @ 2022-06-25 20:30:45
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -64,7 +64,7 @@
 |**2022-06-08**|**Set Interdependence Transformer: Set-to-Sequence Neural Networks for Permutation Learning and Structure Prediction**|Mateusz Jurewicz et.al.|[2206.03720v1](http://arxiv.org/abs/2206.03720v1)|null|
 |**2022-06-08**|**Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning**|Yu Jin Kim et.al.|[2206.03715v2](http://arxiv.org/abs/2206.03715v2)|null|
 |**2022-06-06**|**Neuro-Symbolic Causal Language Planning with Commonsense Prompting**|Yujie Lu et.al.|[2206.02928v1](http://arxiv.org/abs/2206.02928v1)|null|
-|**2022-06-06**|**CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking**|Xuming Hu et.al.|[2206.11863v1](http://arxiv.org/abs/2206.11863v1)|null|
+|**2022-06-06**|**CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking**|Xuming Hu et.al.|[2206.11863v1](http://arxiv.org/abs/2206.11863v1)|[link](https://github.com/thu-bpm/chef)|
 |**2022-06-06**|**Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation**|Jin Xu et.al.|[2206.02369v1](http://arxiv.org/abs/2206.02369v1)|null|
 |**2022-06-06**|**On the Advance of Making Language Models Better Reasoners**|Yifei Li et.al.|[2206.02336v2](http://arxiv.org/abs/2206.02336v2)|null|
 |**2022-06-03**|**QAGCN: A Graph Convolutional Network-based Multi-Relation Question Answering System**|Ruijie Wang et.al.|[2206.01818v1](http://arxiv.org/abs/2206.01818v1)|null|
