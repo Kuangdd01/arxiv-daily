@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-27 09:56:10
+ Automated deployment @ 2022-06-27 20:41:18
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-24**|**Robustness of Explanation Methods for NLP Models**|Shriya Atmakuri et.al.|[2206.12284v1](http://arxiv.org/abs/2206.12284v1)|null|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-22**|**Modeling Emergent Lexicon Formation with a Self-Reinforcing Stochastic Process**|Brendon Boldt et.al.|[2206.11146v1](http://arxiv.org/abs/2206.11146v1)|[link](https://github.com/brendon-boldt/filex-emergent-language)|
 |**2022-06-21**|**Plug and Play Counterfactual Text Generation for Model Robustness**|Nishtha Madaan et.al.|[2206.10429v1](http://arxiv.org/abs/2206.10429v1)|null|
@@ -20,6 +21,8 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-24**|**QAGAN: Adversarial Approach To Learning Domain Invariant Language Features**|Shubham Shrivastava et.al.|[2206.12388v1](http://arxiv.org/abs/2206.12388v1)|[link](https://github.com/towardsautonomy/qagan)|
+|**2022-06-24**|**SC-Ques: A Sentence Completion Question Dataset for English as a Second Language Learners**|Qiongqiong Liu et.al.|[2206.12036v1](http://arxiv.org/abs/2206.12036v1)|[link](https://github.com/ai4ed/sc-ques)|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-22**|**Answer Fast: Accelerating BERT on the Tensor Streaming Processor**|Ibrahim Ahmed et.al.|[2206.11062v1](http://arxiv.org/abs/2206.11062v1)|null|
 |**2022-06-21**|**Questions Are All You Need to Train a Dense Passage Retriever**|Devendra Singh Sachan et.al.|[2206.10658v1](http://arxiv.org/abs/2206.10658v1)|null|
@@ -36,13 +39,13 @@
 |**2022-06-16**|**All the World's a (Hyper)Graph: A Data Drama**|Corinna Coupette et.al.|[2206.08225v2](http://arxiv.org/abs/2206.08225v2)|[link](https://github.com/hyperbard/hyperbard)|
 |**2022-06-16**|**Zero-Shot Video Question Answering via Frozen Bidirectional Language Models**|Antoine Yang et.al.|[2206.08155v1](http://arxiv.org/abs/2206.08155v1)|null|
 |**2022-06-16**|**An Open-Domain QA System for e-Governance**|Radu Ion et.al.|[2206.08046v1](http://arxiv.org/abs/2206.08046v1)|null|
-|**2022-06-15**|**Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**|Zi-Yi Dou et.al.|[2206.07643v1](http://arxiv.org/abs/2206.07643v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-24**|**Unified BERT for Few-shot Natural Language Understanding**|JunYu Lu et.al.|[2206.12094v1](http://arxiv.org/abs/2206.12094v1)|null|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-21**|**Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**|Karthik Valmeekam et.al.|[2206.10498v1](http://arxiv.org/abs/2206.10498v1)|[link](https://github.com/karthikv792/gpt-plan-benchmark)|
 |**2022-06-21**|**An Automatic and Efficient BERT Pruning for Edge AI Systems**|Shaoyi Huang et.al.|[2206.10461v1](http://arxiv.org/abs/2206.10461v1)|null|
@@ -179,4 +182,3 @@
 |**2022-04-29**|**QRelScore: Better Evaluating Generated Questions with Deeper Understanding of Context-aware Relevance**|Xiaoqiang Wang et.al.|[2204.13921v1](http://arxiv.org/abs/2204.13921v1)|null|
 |**2022-04-28**|**Inferring Implicit Relations with Language Models**|Uri Katz et.al.|[2204.13778v1](http://arxiv.org/abs/2204.13778v1)|[link](https://github.com/katzurik/implicitrelations)|
 |**2022-04-28**|**Faithful to the Document or to the World? Mitigating Hallucinations via Entity-linked Knowledge in Abstractive Summarization**|Yue Dong et.al.|[2204.13761v1](http://arxiv.org/abs/2204.13761v1)|null|
-|**2022-04-28**|**HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data**|Kai Nakamura et.al.|[2204.13243v1](http://arxiv.org/abs/2204.13243v1)|null|
