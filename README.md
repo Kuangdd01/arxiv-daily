@@ -1,26 +1,19 @@
 # arxiv-daily
- Automated deployment @ 2022-06-28 09:52:55
+ Automated deployment @ 2022-06-28 20:38:39
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-24**|**Robustness of Explanation Methods for NLP Models**|Shriya Atmakuri et.al.|[2206.12284v1](http://arxiv.org/abs/2206.12284v1)|null|
-|**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
-|**2022-06-22**|**Modeling Emergent Lexicon Formation with a Self-Reinforcing Stochastic Process**|Brendon Boldt et.al.|[2206.11146v1](http://arxiv.org/abs/2206.11146v1)|[link](https://github.com/brendon-boldt/filex-emergent-language)|
-|**2022-06-21**|**Plug and Play Counterfactual Text Generation for Model Robustness**|Nishtha Madaan et.al.|[2206.10429v1](http://arxiv.org/abs/2206.10429v1)|null|
-|**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
-|**2022-06-19**|**A Unified Understanding of Deep NLP Models for Text Classification**|Zhen Li et.al.|[2206.09355v1](http://arxiv.org/abs/2206.09355v1)|null|
-|**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-27**|**Linguistic Correlation Analysis: Discovering Salient Neurons in deepNLP models**|Nadir Durrani et.al.|[2206.13288v1](http://arxiv.org/abs/2206.13288v1)|null|
+|**2022-06-27**|**Center-Embedding and Constituency in the Brain and a New Characterization of Context-Free Languages**|Daniel Mitropolsky et.al.|[2206.13217v1](http://arxiv.org/abs/2206.13217v1)|null|
+|**2022-06-27**|**Implementing a Chatbot Solution for Learning Management System**|Andreas Kilde Lien et.al.|[2206.13187v1](http://arxiv.org/abs/2206.13187v1)|null|
+|**2022-06-26**|**Contextual embedding and model weighting by fusing domain knowledge on Biomedical Question Answering**|Yuxuan Lu et.al.|[2206.12866v1](http://arxiv.org/abs/2206.12866v1)|[link](https://github.com/leoleoasd/mlp-based-weighting)|
+|**2022-06-25**|**Evaluation of Semantic Answer Similarity Metrics**|Farida Mustafazade et.al.|[2206.12664v1](http://arxiv.org/abs/2206.12664v1)|[link](https://github.com/e184633/semantic-answer-similarity)|
+|**2022-06-24**|**OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience**|Miaoran Li et.al.|[2206.12449v1](http://arxiv.org/abs/2206.12449v1)|null|
 |**2022-06-24**|**QAGAN: Adversarial Approach To Learning Domain Invariant Language Features**|Shubham Shrivastava et.al.|[2206.12388v1](http://arxiv.org/abs/2206.12388v1)|[link](https://github.com/towardsautonomy/qagan)|
 |**2022-06-24**|**SC-Ques: A Sentence Completion Question Dataset for English as a Second Language Learners**|Qiongqiong Liu et.al.|[2206.12036v1](http://arxiv.org/abs/2206.12036v1)|[link](https://github.com/ai4ed/sc-ques)|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
@@ -29,16 +22,21 @@
 |**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
 |**2022-06-20**|**SPBERTQA: A Two-Stage Question Answering System Based on Sentence Transformers for Medical Texts**|Nhung Thi-Hong Nguyen et.al.|[2206.09600v1](http://arxiv.org/abs/2206.09600v1)|null|
 |**2022-06-17**|**Language with Vision: a Study on Grounded Word and Sentence Embeddings**|Hassan Shahmohammadi et.al.|[2206.08823v1](http://arxiv.org/abs/2206.08823v1)|[link](https://github.com/hazel1994/visually_grounded_word_embeddings_2)|
-|**2022-06-17**|**Crowdsourcing Relative Rankings of Multi-Word Expressions: Experts versus Non-Experts**|David Alfter et.al.|[2206.08724v1](http://arxiv.org/abs/2206.08724v1)|null|
-|**2022-06-17**|**CookDial: A dataset for task-oriented dialogs grounded in procedural documents**|Yiwei Jiang et.al.|[2206.08723v1](http://arxiv.org/abs/2206.08723v1)|[link](https://github.com/yiweijiang2015/cookdial)|
-|**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
-|**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
-|**2022-06-16**|**GAAMA 2.0: An Integrated System that Answers Boolean and Extractive Questions**|Scott McCarley et.al.|[2206.08441v2](http://arxiv.org/abs/2206.08441v2)|null|
-|**2022-06-16**|**Balancing Cost and Quality: An Exploration of Human-in-the-loop Frameworks for Automated Short Answer Scoring**|Hiroaki Funayama et.al.|[2206.08288v1](http://arxiv.org/abs/2206.08288v1)|null|
-|**2022-06-16**|**'John ate 5 apples' != 'John ate some apples': Self-Supervised Paraphrase Quality Detection for Algebraic Word Problems**|Rishabh Gupta et.al.|[2206.08263v1](http://arxiv.org/abs/2206.08263v1)|[link](https://github.com/ads-ai/paraqd)|
-|**2022-06-16**|**All the World's a (Hyper)Graph: A Data Drama**|Corinna Coupette et.al.|[2206.08225v2](http://arxiv.org/abs/2206.08225v2)|[link](https://github.com/hyperbard/hyperbard)|
-|**2022-06-16**|**Zero-Shot Video Question Answering via Frozen Bidirectional Language Models**|Antoine Yang et.al.|[2206.08155v1](http://arxiv.org/abs/2206.08155v1)|null|
-|**2022-06-16**|**An Open-Domain QA System for e-Governance**|Radu Ion et.al.|[2206.08046v1](http://arxiv.org/abs/2206.08046v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-27**|**Analyzing Encoded Concepts in Transformer Language Models**|Hassan Sajjad et.al.|[2206.13289v1](http://arxiv.org/abs/2206.13289v1)|null|
+|**2022-06-27**|**Which one is more toxic? Findings from Jigsaw Rate Severity of Toxic Comments**|Millon Madhur Das et.al.|[2206.13284v1](http://arxiv.org/abs/2206.13284v1)|null|
+|**2022-06-26**|**Explainable and High-Performance Hate and Offensive Speech Detection**|Marzieh Babaeianjelodar et.al.|[2206.12983v1](http://arxiv.org/abs/2206.12983v1)|null|
+|**2022-06-25**|**Sentiment Analysis with R: Natural Language Processing for Semi-Automated Assessments of Qualitative Data**|Dennis Klinkhammer et.al.|[2206.12649v1](http://arxiv.org/abs/2206.12649v1)|null|
+|**2022-06-24**|**Robustness of Explanation Methods for NLP Models**|Shriya Atmakuri et.al.|[2206.12284v1](http://arxiv.org/abs/2206.12284v1)|null|
+|**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
+|**2022-06-22**|**Modeling Emergent Lexicon Formation with a Self-Reinforcing Stochastic Process**|Brendon Boldt et.al.|[2206.11146v1](http://arxiv.org/abs/2206.11146v1)|[link](https://github.com/brendon-boldt/filex-emergent-language)|
+|**2022-06-21**|**Plug and Play Counterfactual Text Generation for Model Robustness**|Nishtha Madaan et.al.|[2206.10429v1](http://arxiv.org/abs/2206.10429v1)|null|
+|**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
 
 ## Reasoning
 
