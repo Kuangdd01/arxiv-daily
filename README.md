@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-29 09:56:18
+ Automated deployment @ 2022-06-29 20:39:46
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
+|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|null|
 |**2022-06-27**|**Analyzing Encoded Concepts in Transformer Language Models**|Hassan Sajjad et.al.|[2206.13289v1](http://arxiv.org/abs/2206.13289v1)|[link](https://github.com/hsajjad/conceptx)|
 |**2022-06-27**|**Which one is more toxic? Findings from Jigsaw Rate Severity of Toxic Comments**|Millon Madhur Das et.al.|[2206.13284v1](http://arxiv.org/abs/2206.13284v1)|null|
 |**2022-06-26**|**Explainable and High-Performance Hate and Offensive Speech Detection**|Marzieh Babaeianjelodar et.al.|[2206.12983v1](http://arxiv.org/abs/2206.12983v1)|null|
@@ -16,13 +18,15 @@
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-22**|**Modeling Emergent Lexicon Formation with a Self-Reinforcing Stochastic Process**|Brendon Boldt et.al.|[2206.11146v1](http://arxiv.org/abs/2206.11146v1)|[link](https://github.com/brendon-boldt/filex-emergent-language)|
 |**2022-06-21**|**Plug and Play Counterfactual Text Generation for Model Robustness**|Nishtha Madaan et.al.|[2206.10429v1](http://arxiv.org/abs/2206.10429v1)|null|
-|**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28**|**Joint Generator-Ranker Learning for Natural Language Generation**|Weizhou Shen et.al.|[2206.13974v1](http://arxiv.org/abs/2206.13974v1)|null|
+|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|null|
+|**2022-06-28**|**Kwame for Science: An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2206.13703v1](http://arxiv.org/abs/2206.13703v1)|null|
 |**2022-06-27**|**Linguistic Correlation Analysis: Discovering Salient Neurons in deepNLP models**|Nadir Durrani et.al.|[2206.13288v1](http://arxiv.org/abs/2206.13288v1)|null|
 |**2022-06-27**|**Center-Embedding and Constituency in the Brain and a New Characterization of Context-Free Languages**|Daniel Mitropolsky et.al.|[2206.13217v1](http://arxiv.org/abs/2206.13217v1)|[link](https://github.com/dmitropolsky/assemblies)|
 |**2022-06-27**|**Implementing a Chatbot Solution for Learning Management System**|Andreas Kilde Lien et.al.|[2206.13187v1](http://arxiv.org/abs/2206.13187v1)|null|
@@ -36,13 +40,13 @@
 |**2022-06-21**|**Questions Are All You Need to Train a Dense Passage Retriever**|Devendra Singh Sachan et.al.|[2206.10658v1](http://arxiv.org/abs/2206.10658v1)|null|
 |**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
 |**2022-06-20**|**SPBERTQA: A Two-Stage Question Answering System Based on Sentence Transformers for Medical Texts**|Nhung Thi-Hong Nguyen et.al.|[2206.09600v1](http://arxiv.org/abs/2206.09600v1)|null|
-|**2022-06-17**|**Language with Vision: a Study on Grounded Word and Sentence Embeddings**|Hassan Shahmohammadi et.al.|[2206.08823v1](http://arxiv.org/abs/2206.08823v1)|[link](https://github.com/hazel1994/visually_grounded_word_embeddings_2)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
 |**2022-06-24**|**Unified BERT for Few-shot Natural Language Understanding**|JunYu Lu et.al.|[2206.12094v1](http://arxiv.org/abs/2206.12094v1)|null|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-21**|**Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**|Karthik Valmeekam et.al.|[2206.10498v1](http://arxiv.org/abs/2206.10498v1)|[link](https://github.com/karthikv792/gpt-plan-benchmark)|
@@ -178,5 +182,3 @@
 |**2022-04-29**|**PIE: a Parameter and Inference Efficient Solution for Large Scale Knowledge Graph Embedding Reasoning**|Linlin Chao et.al.|[2204.13957v2](http://arxiv.org/abs/2204.13957v2)|[link](https://github.com/alipay/parameter_inference_efficient_pie)|
 |**2022-04-29**|**"My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics**|Wenge Liu et.al.|[2204.13953v2](http://arxiv.org/abs/2204.13953v2)|[link](https://github.com/lwgkzl/br-agent)|
 |**2022-04-29**|**QRelScore: Better Evaluating Generated Questions with Deeper Understanding of Context-aware Relevance**|Xiaoqiang Wang et.al.|[2204.13921v1](http://arxiv.org/abs/2204.13921v1)|null|
-|**2022-04-28**|**Inferring Implicit Relations with Language Models**|Uri Katz et.al.|[2204.13778v1](http://arxiv.org/abs/2204.13778v1)|[link](https://github.com/katzurik/implicitrelations)|
-|**2022-04-28**|**Faithful to the Document or to the World? Mitigating Hallucinations via Entity-linked Knowledge in Abstractive Summarization**|Yue Dong et.al.|[2204.13761v1](http://arxiv.org/abs/2204.13761v1)|null|
