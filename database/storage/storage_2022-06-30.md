@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-30 09:54:03
+ Automated deployment @ 2022-06-30 20:39:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|null|
 |**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
 |**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
 |**2022-06-27**|**Analyzing Encoded Concepts in Transformer Language Models**|Hassan Sajjad et.al.|[2206.13289v1](http://arxiv.org/abs/2206.13289v1)|[link](https://github.com/hsajjad/conceptx)|
@@ -17,13 +18,17 @@
 |**2022-06-24**|**Robustness of Explanation Methods for NLP Models**|Shriya Atmakuri et.al.|[2206.12284v1](http://arxiv.org/abs/2206.12284v1)|null|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-22**|**Modeling Emergent Lexicon Formation with a Self-Reinforcing Stochastic Process**|Brendon Boldt et.al.|[2206.11146v1](http://arxiv.org/abs/2206.11146v1)|[link](https://github.com/brendon-boldt/filex-emergent-language)|
-|**2022-06-21**|**Plug and Play Counterfactual Text Generation for Model Robustness**|Nishtha Madaan et.al.|[2206.10429v1](http://arxiv.org/abs/2206.10429v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-29**|**On the Robustness of Dialogue History Representation in Conversational Question Answering: A Comprehensive Study and a New Prompt-based Method**|Zorik Gekhman et.al.|[2206.14796v1](http://arxiv.org/abs/2206.14796v1)|[link](https://github.com/zorikg/marcqap)|
+|**2022-06-29**|**longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks**|Venelin Kovatchev et.al.|[2206.14729v1](http://arxiv.org/abs/2206.14729v1)|null|
+|**2022-06-29**|**EBMs vs. CL: Exploring Self-Supervised Visual Pretraining for Visual Question Answering**|Violetta Shevchenko et.al.|[2206.14355v1](http://arxiv.org/abs/2206.14355v1)|null|
+|**2022-06-29**|**What Can Secondary Predictions Tell Us? An Exploration on Question-Answering with SQuAD-v2.0**|Michael Kamfonas et.al.|[2206.14348v1](http://arxiv.org/abs/2206.14348v1)|null|
+|**2022-06-28**|**Simple and Effective Knowledge-Driven Query Expansion for QA-Based Product Attribute Extraction**|Keiji Shinzato et.al.|[2206.14264v1](http://arxiv.org/abs/2206.14264v1)|null|
 |**2022-06-28**|**Joint Generator-Ranker Learning for Natural Language Generation**|Weizhou Shen et.al.|[2206.13974v1](http://arxiv.org/abs/2206.13974v1)|null|
 |**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
 |**2022-06-28**|**Kwame for Science: An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2206.13703v1](http://arxiv.org/abs/2206.13703v1)|null|
@@ -38,17 +43,18 @@
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-22**|**Answer Fast: Accelerating BERT on the Tensor Streaming Processor**|Ibrahim Ahmed et.al.|[2206.11062v1](http://arxiv.org/abs/2206.11062v1)|null|
 |**2022-06-21**|**Questions Are All You Need to Train a Dense Passage Retriever**|Devendra Singh Sachan et.al.|[2206.10658v1](http://arxiv.org/abs/2206.10658v1)|null|
-|**2022-06-20**|**EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL**|Thomas Carta et.al.|[2206.09674v1](http://arxiv.org/abs/2206.09674v1)|null|
-|**2022-06-20**|**SPBERTQA: A Two-Stage Question Answering System Based on Sentence Transformers for Medical Texts**|Nhung Thi-Hong Nguyen et.al.|[2206.09600v1](http://arxiv.org/abs/2206.09600v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v1](http://arxiv.org/abs/2206.14774v1)|null|
+|**2022-06-29**|**Improving Deliberation by Text-Only and Semi-Supervised Training**|Ke Hu et.al.|[2206.14716v1](http://arxiv.org/abs/2206.14716v1)|null|
 |**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
 |**2022-06-24**|**Unified BERT for Few-shot Natural Language Understanding**|JunYu Lu et.al.|[2206.12094v1](http://arxiv.org/abs/2206.12094v1)|null|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
+|**2022-06-21**|**Using cognitive psychology to understand GPT-3**|Marcel Binz et.al.|[2206.14576v1](http://arxiv.org/abs/2206.14576v1)|null|
 |**2022-06-21**|**Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**|Karthik Valmeekam et.al.|[2206.10498v1](http://arxiv.org/abs/2206.10498v1)|[link](https://github.com/karthikv792/gpt-plan-benchmark)|
 |**2022-06-21**|**An Automatic and Efficient BERT Pruning for Edge AI Systems**|Shaoyi Huang et.al.|[2206.10461v1](http://arxiv.org/abs/2206.10461v1)|null|
 |**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
@@ -178,7 +184,3 @@
 |**2022-04-30**|**A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction**|Nankai Lin et.al.|[2205.00217v1](http://arxiv.org/abs/2205.00217v1)|null|
 |**2022-04-29**|**Logically Consistent Adversarial Attacks for Soft Theorem Provers**|Alexander Gaskell et.al.|[2205.00047v1](http://arxiv.org/abs/2205.00047v1)|[link](https://github.com/alexgaskell10/lava)|
 |**2022-04-29**|**OPERA:Operation-Pivoted Discrete Reasoning over Text**|Yongwei Zhou et.al.|[2204.14166v2](http://arxiv.org/abs/2204.14166v2)|null|
-|**2022-04-29**|**Developmental Negation Processing in Transformer Language Models**|Antonio Laverghetta Jr. et.al.|[2204.14114v1](http://arxiv.org/abs/2204.14114v1)|[link](https://github.com/advancing-machine-human-reasoning-lab/negation-processing-acl-2022)|
-|**2022-04-29**|**PIE: a Parameter and Inference Efficient Solution for Large Scale Knowledge Graph Embedding Reasoning**|Linlin Chao et.al.|[2204.13957v2](http://arxiv.org/abs/2204.13957v2)|[link](https://github.com/alipay/parameter_inference_efficient_pie)|
-|**2022-04-29**|**"My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics**|Wenge Liu et.al.|[2204.13953v2](http://arxiv.org/abs/2204.13953v2)|[link](https://github.com/lwgkzl/br-agent)|
-|**2022-04-29**|**QRelScore: Better Evaluating Generated Questions with Deeper Understanding of Context-aware Relevance**|Xiaoqiang Wang et.al.|[2204.13921v1](http://arxiv.org/abs/2204.13921v1)|null|
