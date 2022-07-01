@@ -1,7 +1,23 @@
 # arxiv-daily
- Automated deployment @ 2022-07-01 20:40:14
+ Automated deployment @ 2022-07-01 21:25:13
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30**|**Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations**|Ziyan Yang et.al.|[2206.15462v1](http://arxiv.org/abs/2206.15462v1)|null|
+|**2022-06-30**|**GSCLIP : A Framework for Explaining Distribution Shifts in Natural Language**|Zhiying Zhu et.al.|[2206.15007v1](http://arxiv.org/abs/2206.15007v1)|null|
+|**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|[link](https://github.com/tanyuqian/knowledge-harvest-from-lms)|
+|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
+|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
+|**2022-06-27**|**Analyzing Encoded Concepts in Transformer Language Models**|Hassan Sajjad et.al.|[2206.13289v1](http://arxiv.org/abs/2206.13289v1)|[link](https://github.com/hsajjad/conceptx)|
+|**2022-06-27**|**Which one is more toxic? Findings from Jigsaw Rate Severity of Toxic Comments**|Millon Madhur Das et.al.|[2206.13284v1](http://arxiv.org/abs/2206.13284v1)|null|
+|**2022-06-26**|**Explainable and High-Performance Hate and Offensive Speech Detection**|Marzieh Babaeianjelodar et.al.|[2206.12983v1](http://arxiv.org/abs/2206.12983v1)|null|
+|**2022-06-25**|**Sentiment Analysis with R: Natural Language Processing for Semi-Automated Assessments of Qualitative Data**|Dennis Klinkhammer et.al.|[2206.12649v1](http://arxiv.org/abs/2206.12649v1)|null|
+|**2022-06-24**|**Robustness of Explanation Methods for NLP Models**|Shriya Atmakuri et.al.|[2206.12284v1](http://arxiv.org/abs/2206.12284v1)|null|
 
 ## Question Answering
 
@@ -32,22 +48,6 @@
 |**2022-06-24**|**SC-Ques: A Sentence Completion Question Dataset for English as a Second Language Learners**|Qiongqiong Liu et.al.|[2206.12036v1](http://arxiv.org/abs/2206.12036v1)|[link](https://github.com/ai4ed/sc-ques)|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-22**|**Answer Fast: Accelerating BERT on the Tensor Streaming Processor**|Ibrahim Ahmed et.al.|[2206.11062v1](http://arxiv.org/abs/2206.11062v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-30**|**Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations**|Ziyan Yang et.al.|[2206.15462v1](http://arxiv.org/abs/2206.15462v1)|null|
-|**2022-06-30**|**GSCLIP : A Framework for Explaining Distribution Shifts in Natural Language**|Zhiying Zhu et.al.|[2206.15007v1](http://arxiv.org/abs/2206.15007v1)|null|
-|**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|[link](https://github.com/tanyuqian/knowledge-harvest-from-lms)|
-|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
-|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
-|**2022-06-27**|**Analyzing Encoded Concepts in Transformer Language Models**|Hassan Sajjad et.al.|[2206.13289v1](http://arxiv.org/abs/2206.13289v1)|[link](https://github.com/hsajjad/conceptx)|
-|**2022-06-27**|**Which one is more toxic? Findings from Jigsaw Rate Severity of Toxic Comments**|Millon Madhur Das et.al.|[2206.13284v1](http://arxiv.org/abs/2206.13284v1)|null|
-|**2022-06-26**|**Explainable and High-Performance Hate and Offensive Speech Detection**|Marzieh Babaeianjelodar et.al.|[2206.12983v1](http://arxiv.org/abs/2206.12983v1)|null|
-|**2022-06-25**|**Sentiment Analysis with R: Natural Language Processing for Semi-Automated Assessments of Qualitative Data**|Dennis Klinkhammer et.al.|[2206.12649v1](http://arxiv.org/abs/2206.12649v1)|null|
-|**2022-06-24**|**Robustness of Explanation Methods for NLP Models**|Shriya Atmakuri et.al.|[2206.12284v1](http://arxiv.org/abs/2206.12284v1)|null|
 
 ## Reasoning
 
