@@ -1,29 +1,19 @@
 # arxiv-daily
- Automated deployment @ 2022-07-01 10:04:20
+ Automated deployment @ 2022-07-01 20:40:14
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|[link](https://github.com/tanyuqian/knowledge-harvest-from-lms)|
-|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
-|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
-|**2022-06-27**|**Analyzing Encoded Concepts in Transformer Language Models**|Hassan Sajjad et.al.|[2206.13289v1](http://arxiv.org/abs/2206.13289v1)|[link](https://github.com/hsajjad/conceptx)|
-|**2022-06-27**|**Which one is more toxic? Findings from Jigsaw Rate Severity of Toxic Comments**|Millon Madhur Das et.al.|[2206.13284v1](http://arxiv.org/abs/2206.13284v1)|null|
-|**2022-06-26**|**Explainable and High-Performance Hate and Offensive Speech Detection**|Marzieh Babaeianjelodar et.al.|[2206.12983v1](http://arxiv.org/abs/2206.12983v1)|null|
-|**2022-06-25**|**Sentiment Analysis with R: Natural Language Processing for Semi-Automated Assessments of Qualitative Data**|Dennis Klinkhammer et.al.|[2206.12649v1](http://arxiv.org/abs/2206.12649v1)|null|
-|**2022-06-24**|**Robustness of Explanation Methods for NLP Models**|Shriya Atmakuri et.al.|[2206.12284v1](http://arxiv.org/abs/2206.12284v1)|null|
-|**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
-|**2022-06-22**|**Modeling Emergent Lexicon Formation with a Self-Reinforcing Stochastic Process**|Brendon Boldt et.al.|[2206.11146v1](http://arxiv.org/abs/2206.11146v1)|[link](https://github.com/brendon-boldt/filex-emergent-language)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30**|**Forecasting Future World Events with Neural Networks**|Andy Zou et.al.|[2206.15474v1](http://arxiv.org/abs/2206.15474v1)|[link](https://github.com/andyzoujm/autocast)|
+|**2022-06-30**|**Visual grounding of abstract and concrete words: A response to Günther et al. (2020)**|Hassan Shahmohammadi et.al.|[2206.15381v1](http://arxiv.org/abs/2206.15381v1)|null|
+|**2022-06-30**|**Story-thinking, computational-thinking, programming and software engineering**|Austen Rainer et.al.|[2206.15066v1](http://arxiv.org/abs/2206.15066v1)|null|
+|**2022-06-30**|**Modern Question Answering Datasets and Benchmarks: A Survey**|Zhen Wang et.al.|[2206.15030v1](http://arxiv.org/abs/2206.15030v1)|null|
+|**2022-06-29**|**Space-Efficient Representation of Entity-centric Query Language Models**|Christophe Van Gysel et.al.|[2206.14885v1](http://arxiv.org/abs/2206.14885v1)|null|
+|**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v1](http://arxiv.org/abs/2206.14858v1)|null|
 |**2022-06-29**|**On the Robustness of Dialogue History Representation in Conversational Question Answering: A Comprehensive Study and a New Prompt-based Method**|Zorik Gekhman et.al.|[2206.14796v1](http://arxiv.org/abs/2206.14796v1)|[link](https://github.com/zorikg/marcqap)|
 |**2022-06-29**|**longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks**|Venelin Kovatchev et.al.|[2206.14729v1](http://arxiv.org/abs/2206.14729v1)|null|
 |**2022-06-29**|**EBMs vs. CL: Exploring Self-Supervised Visual Pretraining for Visual Question Answering**|Violetta Shevchenko et.al.|[2206.14355v1](http://arxiv.org/abs/2206.14355v1)|null|
@@ -42,13 +32,29 @@
 |**2022-06-24**|**SC-Ques: A Sentence Completion Question Dataset for English as a Second Language Learners**|Qiongqiong Liu et.al.|[2206.12036v1](http://arxiv.org/abs/2206.12036v1)|[link](https://github.com/ai4ed/sc-ques)|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 |**2022-06-22**|**Answer Fast: Accelerating BERT on the Tensor Streaming Processor**|Ibrahim Ahmed et.al.|[2206.11062v1](http://arxiv.org/abs/2206.11062v1)|null|
-|**2022-06-21**|**Questions Are All You Need to Train a Dense Passage Retriever**|Devendra Singh Sachan et.al.|[2206.10658v1](http://arxiv.org/abs/2206.10658v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30**|**Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations**|Ziyan Yang et.al.|[2206.15462v1](http://arxiv.org/abs/2206.15462v1)|null|
+|**2022-06-30**|**GSCLIP : A Framework for Explaining Distribution Shifts in Natural Language**|Zhiying Zhu et.al.|[2206.15007v1](http://arxiv.org/abs/2206.15007v1)|null|
+|**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|[link](https://github.com/tanyuqian/knowledge-harvest-from-lms)|
+|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
+|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
+|**2022-06-27**|**Analyzing Encoded Concepts in Transformer Language Models**|Hassan Sajjad et.al.|[2206.13289v1](http://arxiv.org/abs/2206.13289v1)|[link](https://github.com/hsajjad/conceptx)|
+|**2022-06-27**|**Which one is more toxic? Findings from Jigsaw Rate Severity of Toxic Comments**|Millon Madhur Das et.al.|[2206.13284v1](http://arxiv.org/abs/2206.13284v1)|null|
+|**2022-06-26**|**Explainable and High-Performance Hate and Offensive Speech Detection**|Marzieh Babaeianjelodar et.al.|[2206.12983v1](http://arxiv.org/abs/2206.12983v1)|null|
+|**2022-06-25**|**Sentiment Analysis with R: Natural Language Processing for Semi-Automated Assessments of Qualitative Data**|Dennis Klinkhammer et.al.|[2206.12649v1](http://arxiv.org/abs/2206.12649v1)|null|
+|**2022-06-24**|**Robustness of Explanation Methods for NLP Models**|Shriya Atmakuri et.al.|[2206.12284v1](http://arxiv.org/abs/2206.12284v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v1](http://arxiv.org/abs/2206.14858v1)|null|
 |**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v1](http://arxiv.org/abs/2206.14774v1)|null|
 |**2022-06-29**|**Improving Deliberation by Text-Only and Semi-Supervised Training**|Ke Hu et.al.|[2206.14716v1](http://arxiv.org/abs/2206.14716v1)|null|
 |**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
@@ -181,6 +187,3 @@
 |**2022-05-01**|**MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**|Ehud Karpas et.al.|[2205.00445v1](http://arxiv.org/abs/2205.00445v1)|null|
 |**2022-04-30**|**Visual Spatial Reasoning**|Fangyu Liu et.al.|[2205.00363v1](http://arxiv.org/abs/2205.00363v1)|[link](https://github.com/cambridgeltl/visual-spatial-reasoning)|
 |**2022-04-30**|**Using Wordle for Learning to Design and Compare Strategies**|Chao-Lin Liu et.al.|[2205.11225v1](http://arxiv.org/abs/2205.11225v1)|null|
-|**2022-04-30**|**A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction**|Nankai Lin et.al.|[2205.00217v1](http://arxiv.org/abs/2205.00217v1)|null|
-|**2022-04-29**|**Logically Consistent Adversarial Attacks for Soft Theorem Provers**|Alexander Gaskell et.al.|[2205.00047v1](http://arxiv.org/abs/2205.00047v1)|[link](https://github.com/alexgaskell10/lava)|
-|**2022-04-29**|**OPERA:Operation-Pivoted Discrete Reasoning over Text**|Yongwei Zhou et.al.|[2204.14166v2](http://arxiv.org/abs/2204.14166v2)|null|
