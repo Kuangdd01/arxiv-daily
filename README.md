@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-04 10:01:50
+ Automated deployment @ 2022-07-04 20:37:52
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -24,6 +24,8 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-01**|**Conditional Generation with a Question-Answering Blueprint**|Shashi Narayan et.al.|[2207.00397v1](http://arxiv.org/abs/2207.00397v1)|null|
+|**2022-07-01**|**An Understanding-Oriented Robust Machine Reading Comprehension Model**|Feiliang Ren et.al.|[2207.00187v1](http://arxiv.org/abs/2207.00187v1)|[link](https://github.com/neukg/robustmrc)|
 |**2022-06-30**|**Forecasting Future World Events with Neural Networks**|Andy Zou et.al.|[2206.15474v1](http://arxiv.org/abs/2206.15474v1)|[link](https://github.com/andyzoujm/autocast)|
 |**2022-06-30**|**Visual grounding of abstract and concrete words: A response to Günther et al. (2020)**|Hassan Shahmohammadi et.al.|[2206.15381v1](http://arxiv.org/abs/2206.15381v1)|null|
 |**2022-06-30**|**Story-thinking, computational-thinking, programming and software engineering**|Austen Rainer et.al.|[2206.15066v1](http://arxiv.org/abs/2206.15066v1)|null|
@@ -47,13 +49,13 @@
 |**2022-06-24**|**QAGAN: Adversarial Approach To Learning Domain Invariant Language Features**|Shubham Shrivastava et.al.|[2206.12388v1](http://arxiv.org/abs/2206.12388v1)|[link](https://github.com/towardsautonomy/qagan)|
 |**2022-06-24**|**SC-Ques: A Sentence Completion Question Dataset for English as a Second Language Learners**|Qiongqiong Liu et.al.|[2206.12036v1](http://arxiv.org/abs/2206.12036v1)|[link](https://github.com/ai4ed/sc-ques)|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
-|**2022-06-22**|**Answer Fast: Accelerating BERT on the Tensor Streaming Processor**|Ibrahim Ahmed et.al.|[2206.11062v1](http://arxiv.org/abs/2206.11062v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v1](http://arxiv.org/abs/2207.00473v1)|null|
 |**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v2](http://arxiv.org/abs/2206.14858v2)|null|
 |**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v1](http://arxiv.org/abs/2206.14774v1)|null|
 |**2022-06-29**|**Improving Deliberation by Text-Only and Semi-Supervised Training**|Ke Hu et.al.|[2206.14716v1](http://arxiv.org/abs/2206.14716v1)|null|
@@ -186,4 +188,3 @@
 |**2022-05-01**|**Nearest Neighbor Knowledge Distillation for Neural Machine Translation**|Zhixian Yang et.al.|[2205.00479v1](http://arxiv.org/abs/2205.00479v1)|[link](https://github.com/fadedcosine/knn-kd)|
 |**2022-05-01**|**MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**|Ehud Karpas et.al.|[2205.00445v1](http://arxiv.org/abs/2205.00445v1)|null|
 |**2022-04-30**|**Visual Spatial Reasoning**|Fangyu Liu et.al.|[2205.00363v1](http://arxiv.org/abs/2205.00363v1)|[link](https://github.com/cambridgeltl/visual-spatial-reasoning)|
-|**2022-04-30**|**Using Wordle for Learning to Design and Compare Strategies**|Chao-Lin Liu et.al.|[2205.11225v1](http://arxiv.org/abs/2205.11225v1)|null|
