@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-05 09:54:21
+ Automated deployment @ 2022-07-05 20:49:07
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-04**|**Understanding Performance of Long-Document Ranking Models through Comprehensive Evaluation and Leaderboarding**|Leonid Boytsov et.al.|[2207.01262v1](http://arxiv.org/abs/2207.01262v1)|[link](https://github.com/searchivarius/long_doc_rank_model_analysis)|
+|**2022-07-02**|**FRAME: Evaluating Simulatability Metrics for Free-Text Rationales**|Aaron Chan et.al.|[2207.00779v1](http://arxiv.org/abs/2207.00779v1)|null|
 |**2022-06-30**|**Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations**|Ziyan Yang et.al.|[2206.15462v1](http://arxiv.org/abs/2206.15462v1)|null|
 |**2022-06-30**|**GSCLIP : A Framework for Explaining Distribution Shifts in Natural Language**|Zhiying Zhu et.al.|[2206.15007v1](http://arxiv.org/abs/2206.15007v1)|null|
 |**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|[link](https://github.com/tanyuqian/knowledge-harvest-from-lms)|
@@ -17,13 +19,19 @@
 |**2022-06-27**|**Which one is more toxic? Findings from Jigsaw Rate Severity of Toxic Comments**|Millon Madhur Das et.al.|[2206.13284v1](http://arxiv.org/abs/2206.13284v1)|null|
 |**2022-06-26**|**Explainable and High-Performance Hate and Offensive Speech Detection**|Marzieh Babaeianjelodar et.al.|[2206.12983v1](http://arxiv.org/abs/2206.12983v1)|null|
 |**2022-06-25**|**Sentiment Analysis with R: Natural Language Processing for Semi-Automated Assessments of Qualitative Data**|Dennis Klinkhammer et.al.|[2206.12649v1](http://arxiv.org/abs/2206.12649v1)|null|
-|**2022-06-24**|**Robustness of Explanation Methods for NLP Models**|Shriya Atmakuri et.al.|[2206.12284v1](http://arxiv.org/abs/2206.12284v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-04**|**Mix and Match: An Empirical Study on Training Corpus Composition for Polyglot Text-To-Speech (TTS)**|Ziyao Zhang et.al.|[2207.01507v1](http://arxiv.org/abs/2207.01507v1)|null|
+|**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
+|**2022-07-02**|**ANEC: An Amharic Named Entity Corpus and Transformer Based Recognizer**|Ebrahim Chekol Jibril et.al.|[2207.00785v1](http://arxiv.org/abs/2207.00785v1)|null|
+|**2022-07-02**|**MIA 2022 Shared Task: Evaluating Cross-lingual Open-Retrieval Question Answering for 16 Diverse Languages**|Akari Asai et.al.|[2207.00758v1](http://arxiv.org/abs/2207.00758v1)|null|
+|**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
+|**2022-07-02**|**INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions**|Zeqiu Wu et.al.|[2207.00746v1](http://arxiv.org/abs/2207.00746v1)|null|
+|**2022-07-01**|**American == White in Multimodal Language-and-Image AI**|Robert Wolfe et.al.|[2207.00691v1](http://arxiv.org/abs/2207.00691v1)|null|
 |**2022-07-01**|**Conditional Generation with a Question-Answering Blueprint**|Shashi Narayan et.al.|[2207.00397v1](http://arxiv.org/abs/2207.00397v1)|null|
 |**2022-07-01**|**An Understanding-Oriented Robust Machine Reading Comprehension Model**|Feiliang Ren et.al.|[2207.00187v1](http://arxiv.org/abs/2207.00187v1)|[link](https://github.com/neukg/robustmrc)|
 |**2022-06-30**|**Forecasting Future World Events with Neural Networks**|Andy Zou et.al.|[2206.15474v1](http://arxiv.org/abs/2206.15474v1)|[link](https://github.com/andyzoujm/autocast)|
@@ -47,14 +55,15 @@
 |**2022-06-25**|**Evaluation of Semantic Answer Similarity Metrics**|Farida Mustafazade et.al.|[2206.12664v1](http://arxiv.org/abs/2206.12664v1)|[link](https://github.com/e184633/semantic-answer-similarity)|
 |**2022-06-24**|**OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience**|Miaoran Li et.al.|[2206.12449v1](http://arxiv.org/abs/2206.12449v1)|null|
 |**2022-06-24**|**QAGAN: Adversarial Approach To Learning Domain Invariant Language Features**|Shubham Shrivastava et.al.|[2206.12388v1](http://arxiv.org/abs/2206.12388v1)|[link](https://github.com/towardsautonomy/qagan)|
-|**2022-06-24**|**SC-Ques: A Sentence Completion Question Dataset for English as a Second Language Learners**|Qiongqiong Liu et.al.|[2206.12036v1](http://arxiv.org/abs/2206.12036v1)|[link](https://github.com/ai4ed/sc-ques)|
-|**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-04**|**Unify and Conquer: How Phonetic Feature Representation Affects Polyglot Text-To-Speech (TTS)**|Ariadna Sanchez et.al.|[2207.01547v1](http://arxiv.org/abs/2207.01547v1)|null|
+|**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
+|**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
 |**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v2](http://arxiv.org/abs/2207.00473v2)|null|
 |**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v2](http://arxiv.org/abs/2206.14858v2)|null|
 |**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v1](http://arxiv.org/abs/2206.14774v1)|null|
@@ -78,7 +87,7 @@
 |**2022-06-12**|**CoSe-Co: Text Conditioned Generative CommonSense Contextualizer**|Rachit Bansal et.al.|[2206.05706v2](http://arxiv.org/abs/2206.05706v2)|null|
 |**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
 |**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v2](http://arxiv.org/abs/2206.04615v2)|[link](https://github.com/google/BIG-bench)|
-|**2022-06-09**|**Unveiling Transformers with LEGO: a synthetic reasoning task**|Yi Zhang et.al.|[2206.04301v2](http://arxiv.org/abs/2206.04301v2)|null|
+|**2022-06-09**|**Unveiling Transformers with LEGO: a synthetic reasoning task**|Yi Zhang et.al.|[2206.04301v2](http://arxiv.org/abs/2206.04301v2)|[link](https://github.com/yizhangzzz/transformers-lego)|
 |**2022-06-08**|**Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization**|Sarah Masud et.al.|[2206.04007v1](http://arxiv.org/abs/2206.04007v1)|[link](https://github.com/LCS2-IIITD/Hate_Norm)|
 |**2022-06-08**|**Set Interdependence Transformer: Set-to-Sequence Neural Networks for Permutation Learning and Structure Prediction**|Mateusz Jurewicz et.al.|[2206.03720v1](http://arxiv.org/abs/2206.03720v1)|null|
 |**2022-06-08**|**Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning**|Yu Jin Kim et.al.|[2206.03715v2](http://arxiv.org/abs/2206.03715v2)|null|
@@ -181,10 +190,3 @@
 |**2022-05-03**|**A Holistic Framework for Analyzing the COVID-19 Vaccine Debate**|Maria Leonor Pacheco et.al.|[2205.01817v1](http://arxiv.org/abs/2205.01817v1)|null|
 |**2022-05-03**|**Scientific Explanation and Natural Language: A Unified Epistemological-Linguistic Perspective for Explainable AI**|Marco Valentino et.al.|[2205.01809v2](http://arxiv.org/abs/2205.01809v2)|null|
 |**2022-05-03**|**Quiz Design Task: Helping Teachers Create Quizzes with Automated Question Generation**|Philippe Laban et.al.|[2205.01730v1](http://arxiv.org/abs/2205.01730v1)|null|
-|**2022-05-03**|**ElitePLM: An Empirical Study on General Language Ability Evaluation of Pretrained Language Models**|Junyi Li et.al.|[2205.01523v1](http://arxiv.org/abs/2205.01523v1)|[link](https://github.com/rucaibox/eliteplm)|
-|**2022-05-02**|**Neutral Utterances are Also Causes: Enhancing Conversational Causal Emotion Entailment with Social Commonsense Knowledge**|Jiangnan Li et.al.|[2205.00759v2](http://arxiv.org/abs/2205.00759v2)|[link](https://github.com/leqsnan/kec)|
-|**2022-05-02**|**Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning**|Fangzhi Xu et.al.|[2205.00731v1](http://arxiv.org/abs/2205.00731v1)|null|
-|**2022-05-01**|**CUP: Curriculum Learning based Prompt Tuning for Implicit Event Argument Extraction**|Jiaju Lin et.al.|[2205.00498v2](http://arxiv.org/abs/2205.00498v2)|[link](https://github.com/linmou/cup)|
-|**2022-05-01**|**Nearest Neighbor Knowledge Distillation for Neural Machine Translation**|Zhixian Yang et.al.|[2205.00479v1](http://arxiv.org/abs/2205.00479v1)|[link](https://github.com/fadedcosine/knn-kd)|
-|**2022-05-01**|**MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**|Ehud Karpas et.al.|[2205.00445v1](http://arxiv.org/abs/2205.00445v1)|null|
-|**2022-04-30**|**Visual Spatial Reasoning**|Fangyu Liu et.al.|[2205.00363v1](http://arxiv.org/abs/2205.00363v1)|[link](https://github.com/cambridgeltl/visual-spatial-reasoning)|
