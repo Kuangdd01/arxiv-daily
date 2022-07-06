@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-06 10:03:15
+ Automated deployment @ 2022-07-06 20:41:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -18,13 +18,16 @@
 |**2022-06-27**|**Analyzing Encoded Concepts in Transformer Language Models**|Hassan Sajjad et.al.|[2206.13289v1](http://arxiv.org/abs/2206.13289v1)|[link](https://github.com/hsajjad/conceptx)|
 |**2022-06-27**|**Which one is more toxic? Findings from Jigsaw Rate Severity of Toxic Comments**|Millon Madhur Das et.al.|[2206.13284v1](http://arxiv.org/abs/2206.13284v1)|null|
 |**2022-06-26**|**Explainable and High-Performance Hate and Offensive Speech Detection**|Marzieh Babaeianjelodar et.al.|[2206.12983v1](http://arxiv.org/abs/2206.12983v1)|null|
-|**2022-06-25**|**Sentiment Analysis with R: Natural Language Processing for Semi-Automated Assessments of Qualitative Data**|Dennis Klinkhammer et.al.|[2206.12649v1](http://arxiv.org/abs/2206.12649v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-05**|**MIA 2022 Shared Task Submission: Leveraging Entity Representations, Dense-Sparse Hybrids, and Fusion-in-Decoder for Cross-Lingual Question Answering**|Zhucheng Tu et.al.|[2207.01940v1](http://arxiv.org/abs/2207.01940v1)|null|
+|**2022-07-05**|**Cross-Lingual QA as a Stepping Stone for Monolingual Open QA in Icelandic**|Vésteinn Snæbjarnarson et.al.|[2207.01918v1](http://arxiv.org/abs/2207.01918v1)|null|
+|**2022-07-05**|**Vision-and-Language Pretraining**|Thong Nguyen et.al.|[2207.01772v1](http://arxiv.org/abs/2207.01772v1)|null|
+|**2022-07-05**|**PReGAN: Answer Oriented Passage Ranking with Weakly Supervised GAN**|Pan Du et.al.|[2207.01762v1](http://arxiv.org/abs/2207.01762v1)|null|
 |**2022-07-04**|**Mix and Match: An Empirical Study on Training Corpus Composition for Polyglot Text-To-Speech (TTS)**|Ziyao Zhang et.al.|[2207.01507v1](http://arxiv.org/abs/2207.01507v1)|null|
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
 |**2022-07-02**|**ANEC: An Amharic Named Entity Corpus and Transformer Based Recognizer**|Ebrahim Chekol Jibril et.al.|[2207.00785v1](http://arxiv.org/abs/2207.00785v1)|null|
@@ -52,9 +55,6 @@
 |**2022-06-27**|**Center-Embedding and Constituency in the Brain and a New Characterization of Context-Free Languages**|Daniel Mitropolsky et.al.|[2206.13217v1](http://arxiv.org/abs/2206.13217v1)|[link](https://github.com/dmitropolsky/assemblies)|
 |**2022-06-27**|**Implementing a Chatbot Solution for Learning Management System**|Dimitrios Chaskopoulos et.al.|[2206.13187v2](http://arxiv.org/abs/2206.13187v2)|null|
 |**2022-06-26**|**Contextual embedding and model weighting by fusing domain knowledge on Biomedical Question Answering**|Yuxuan Lu et.al.|[2206.12866v1](http://arxiv.org/abs/2206.12866v1)|[link](https://github.com/leoleoasd/mlp-based-weighting)|
-|**2022-06-25**|**Evaluation of Semantic Answer Similarity Metrics**|Farida Mustafazade et.al.|[2206.12664v2](http://arxiv.org/abs/2206.12664v2)|[link](https://github.com/e184633/semantic-answer-similarity)|
-|**2022-06-24**|**OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience**|Miaoran Li et.al.|[2206.12449v1](http://arxiv.org/abs/2206.12449v1)|null|
-|**2022-06-24**|**QAGAN: Adversarial Approach To Learning Domain Invariant Language Features**|Shubham Shrivastava et.al.|[2206.12388v1](http://arxiv.org/abs/2206.12388v1)|[link](https://github.com/towardsautonomy/qagan)|
 
 ## Reasoning
 
@@ -64,7 +64,7 @@
 |**2022-07-04**|**Unify and Conquer: How Phonetic Feature Representation Affects Polyglot Text-To-Speech (TTS)**|Ariadna Sanchez et.al.|[2207.01547v1](http://arxiv.org/abs/2207.01547v1)|null|
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
 |**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
-|**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v3](http://arxiv.org/abs/2207.00473v3)|null|
+|**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v3](http://arxiv.org/abs/2207.00473v3)|[link](https://github.com/oliver-lloyd/kge_param_sens)|
 |**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v2](http://arxiv.org/abs/2206.14858v2)|null|
 |**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v1](http://arxiv.org/abs/2206.14774v1)|null|
 |**2022-06-29**|**Improving Deliberation by Text-Only and Semi-Supervised Training**|Ke Hu et.al.|[2206.14716v1](http://arxiv.org/abs/2206.14716v1)|null|
@@ -189,4 +189,3 @@
 |**2022-05-04**|**Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models**|Jinhao Jiang et.al.|[2205.01841v1](http://arxiv.org/abs/2205.01841v1)|[link](https://github.com/rucaibox/safe)|
 |**2022-05-03**|**A Holistic Framework for Analyzing the COVID-19 Vaccine Debate**|Maria Leonor Pacheco et.al.|[2205.01817v1](http://arxiv.org/abs/2205.01817v1)|null|
 |**2022-05-03**|**Scientific Explanation and Natural Language: A Unified Epistemological-Linguistic Perspective for Explainable AI**|Marco Valentino et.al.|[2205.01809v2](http://arxiv.org/abs/2205.01809v2)|null|
-|**2022-05-03**|**Quiz Design Task: Helping Teachers Create Quizzes with Automated Question Generation**|Philippe Laban et.al.|[2205.01730v1](http://arxiv.org/abs/2205.01730v1)|null|
