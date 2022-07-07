@@ -1,29 +1,18 @@
 # arxiv-daily
- Automated deployment @ 2022-07-07 10:00:14
+ Automated deployment @ 2022-07-07 20:49:18
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-07-04**|**Understanding Performance of Long-Document Ranking Models through Comprehensive Evaluation and Leaderboarding**|Leonid Boytsov et.al.|[2207.01262v1](http://arxiv.org/abs/2207.01262v1)|[link](https://github.com/searchivarius/long_doc_rank_model_analysis)|
-|**2022-07-02**|**FRAME: Evaluating Simulatability Metrics for Free-Text Rationales**|Aaron Chan et.al.|[2207.00779v1](http://arxiv.org/abs/2207.00779v1)|null|
-|**2022-06-30**|**Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations**|Ziyan Yang et.al.|[2206.15462v2](http://arxiv.org/abs/2206.15462v2)|null|
-|**2022-06-30**|**GSCLIP : A Framework for Explaining Distribution Shifts in Natural Language**|Zhiying Zhu et.al.|[2206.15007v1](http://arxiv.org/abs/2206.15007v1)|null|
-|**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|[link](https://github.com/tanyuqian/knowledge-harvest-from-lms)|
-|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
-|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
-|**2022-06-27**|**Analyzing Encoded Concepts in Transformer Language Models**|Hassan Sajjad et.al.|[2206.13289v1](http://arxiv.org/abs/2206.13289v1)|[link](https://github.com/hsajjad/conceptx)|
-|**2022-06-27**|**Which one is more toxic? Findings from Jigsaw Rate Severity of Toxic Comments**|Millon Madhur Das et.al.|[2206.13284v1](http://arxiv.org/abs/2206.13284v1)|null|
-|**2022-06-26**|**Explainable and High-Performance Hate and Offensive Speech Detection**|Marzieh Babaeianjelodar et.al.|[2206.12983v1](http://arxiv.org/abs/2206.12983v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|null|
+|**2022-07-06**|**Learning to Diversify for Product Question Generation**|Haggai Roitman et.al.|[2207.02534v1](http://arxiv.org/abs/2207.02534v1)|null|
+|**2022-07-06**|**The Role of Complex NLP in Transformers for Text Ranking?**|David Rau et.al.|[2207.02522v1](http://arxiv.org/abs/2207.02522v1)|null|
+|**2022-07-06**|**Aspect-Based Sentiment Analysis using Local Context Focus Mechanism with DeBERTa**|Tianyu Zhao et.al.|[2207.02424v1](http://arxiv.org/abs/2207.02424v1)|null|
+|**2022-07-06**|**BioTABQA: Instruction Learning for Biomedical Table Question Answering**|Man Luo et.al.|[2207.02419v1](http://arxiv.org/abs/2207.02419v1)|null|
 |**2022-07-05**|**MIA 2022 Shared Task Submission: Leveraging Entity Representations, Dense-Sparse Hybrids, and Fusion-in-Decoder for Cross-Lingual Question Answering**|Zhucheng Tu et.al.|[2207.01940v2](http://arxiv.org/abs/2207.01940v2)|null|
 |**2022-07-05**|**Cross-Lingual QA as a Stepping Stone for Monolingual Open QA in Icelandic**|Vésteinn Snæbjarnarson et.al.|[2207.01918v1](http://arxiv.org/abs/2207.01918v1)|null|
 |**2022-07-05**|**Vision-and-Language Pretraining**|Thong Nguyen et.al.|[2207.01772v1](http://arxiv.org/abs/2207.01772v1)|null|
@@ -50,17 +39,27 @@
 |**2022-06-28**|**Simple and Effective Knowledge-Driven Query Expansion for QA-Based Product Attribute Extraction**|Keiji Shinzato et.al.|[2206.14264v1](http://arxiv.org/abs/2206.14264v1)|null|
 |**2022-06-28**|**Joint Generator-Ranker Learning for Natural Language Generation**|Weizhou Shen et.al.|[2206.13974v1](http://arxiv.org/abs/2206.13974v1)|null|
 |**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
-|**2022-06-28**|**Kwame for Science: An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2206.13703v1](http://arxiv.org/abs/2206.13703v1)|null|
-|**2022-06-27**|**Linguistic Correlation Analysis: Discovering Salient Neurons in deepNLP models**|Nadir Durrani et.al.|[2206.13288v1](http://arxiv.org/abs/2206.13288v1)|null|
-|**2022-06-27**|**Center-Embedding and Constituency in the Brain and a New Characterization of Context-Free Languages**|Daniel Mitropolsky et.al.|[2206.13217v1](http://arxiv.org/abs/2206.13217v1)|[link](https://github.com/dmitropolsky/assemblies)|
-|**2022-06-27**|**Implementing a Chatbot Solution for Learning Management System**|Dimitrios Chaskopoulos et.al.|[2206.13187v2](http://arxiv.org/abs/2206.13187v2)|null|
-|**2022-06-26**|**Contextual embedding and model weighting by fusing domain knowledge on Biomedical Question Answering**|Yuxuan Lu et.al.|[2206.12866v1](http://arxiv.org/abs/2206.12866v1)|[link](https://github.com/leoleoasd/mlp-based-weighting)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-07-04**|**Understanding Performance of Long-Document Ranking Models through Comprehensive Evaluation and Leaderboarding**|Leonid Boytsov et.al.|[2207.01262v1](http://arxiv.org/abs/2207.01262v1)|[link](https://github.com/searchivarius/long_doc_rank_model_analysis)|
+|**2022-07-02**|**FRAME: Evaluating Simulatability Metrics for Free-Text Rationales**|Aaron Chan et.al.|[2207.00779v1](http://arxiv.org/abs/2207.00779v1)|null|
+|**2022-06-30**|**Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations**|Ziyan Yang et.al.|[2206.15462v2](http://arxiv.org/abs/2206.15462v2)|null|
+|**2022-06-30**|**GSCLIP : A Framework for Explaining Distribution Shifts in Natural Language**|Zhiying Zhu et.al.|[2206.15007v1](http://arxiv.org/abs/2206.15007v1)|null|
+|**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|[link](https://github.com/tanyuqian/knowledge-harvest-from-lms)|
+|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
+|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|null|
+|**2022-07-06**|**Learning to Diversify for Product Question Generation**|Haggai Roitman et.al.|[2207.02534v1](http://arxiv.org/abs/2207.02534v1)|null|
 |**2022-07-04**|**Unify and Conquer: How Phonetic Feature Representation Affects Polyglot Text-To-Speech (TTS)**|Ariadna Sanchez et.al.|[2207.01547v1](http://arxiv.org/abs/2207.01547v1)|null|
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
 |**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
@@ -186,6 +185,3 @@
 |**2022-05-05**|**CATs are Fuzzy PETs: A Corpus and Analysis of Potentially Euphemistic Terms**|Martha Gavidia et.al.|[2205.02728v1](http://arxiv.org/abs/2205.02728v1)|null|
 |**2022-05-05**|**METGEN: A Module-Based Entailment Tree Generation Framework for Answer Explanation**|Ruixin Hong et.al.|[2205.02593v1](http://arxiv.org/abs/2205.02593v1)|null|
 |**2022-05-05**|**Optimising Equal Opportunity Fairness in Model Training**|Aili Shen et.al.|[2205.02393v1](http://arxiv.org/abs/2205.02393v1)|[link](https://github.com/ailiaili/difference_mean_fair_models)|
-|**2022-05-04**|**Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models**|Jinhao Jiang et.al.|[2205.01841v1](http://arxiv.org/abs/2205.01841v1)|[link](https://github.com/rucaibox/safe)|
-|**2022-05-03**|**A Holistic Framework for Analyzing the COVID-19 Vaccine Debate**|Maria Leonor Pacheco et.al.|[2205.01817v1](http://arxiv.org/abs/2205.01817v1)|null|
-|**2022-05-03**|**Scientific Explanation and Natural Language: A Unified Epistemological-Linguistic Perspective for Explainable AI**|Marco Valentino et.al.|[2205.01809v2](http://arxiv.org/abs/2205.01809v2)|null|
