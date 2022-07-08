@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-08 09:56:55
+ Automated deployment @ 2022-07-08 20:38:28
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,20 +8,25 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
+|**2022-07-07**|**Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions**|Kosuke Nishida et.al.|[2207.03133v1](http://arxiv.org/abs/2207.03133v1)|null|
+|**2022-07-05**|**Machine Learning Model Sizes and the Parameter Gap**|Pablo Villalobos et.al.|[2207.02852v1](http://arxiv.org/abs/2207.02852v1)|null|
 |**2022-07-04**|**Understanding Performance of Long-Document Ranking Models through Comprehensive Evaluation and Leaderboarding**|Leonid Boytsov et.al.|[2207.01262v1](http://arxiv.org/abs/2207.01262v1)|[link](https://github.com/searchivarius/long_doc_rank_model_analysis)|
 |**2022-07-02**|**FRAME: Evaluating Simulatability Metrics for Free-Text Rationales**|Aaron Chan et.al.|[2207.00779v1](http://arxiv.org/abs/2207.00779v1)|null|
 |**2022-06-30**|**Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations**|Ziyan Yang et.al.|[2206.15462v2](http://arxiv.org/abs/2206.15462v2)|null|
 |**2022-06-30**|**GSCLIP : A Framework for Explaining Distribution Shifts in Natural Language**|Zhiying Zhu et.al.|[2206.15007v1](http://arxiv.org/abs/2206.15007v1)|null|
 |**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|[link](https://github.com/tanyuqian/knowledge-harvest-from-lms)|
-|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
-|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|null|
+|**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
+|**2022-07-07**|**CoQAR: Question Rewriting on CoQA**|Quentin Brabant et.al.|[2207.03240v1](http://arxiv.org/abs/2207.03240v1)|null|
+|**2022-07-07**|**Active Learning and Multi-label Classification for Ellipsis and Coreference Detection in Conversational Question-Answering**|Quentin Brabant et.al.|[2207.03145v1](http://arxiv.org/abs/2207.03145v1)|null|
+|**2022-07-07**|**Multi-Task Retrieval-Augmented Text Generation with Relevance Sampling**|Sebastian Hofstätter et.al.|[2207.03030v1](http://arxiv.org/abs/2207.03030v1)|null|
+|**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|[link](https://github.com/knowledgetechnologyuhh/grid-3d)|
 |**2022-07-06**|**Learning to Diversify for Product Question Generation**|Haggai Roitman et.al.|[2207.02534v1](http://arxiv.org/abs/2207.02534v1)|null|
 |**2022-07-06**|**The Role of Complex NLP in Transformers for Text Ranking?**|David Rau et.al.|[2207.02522v1](http://arxiv.org/abs/2207.02522v1)|null|
 |**2022-07-06**|**Aspect-Based Sentiment Analysis using Local Context Focus Mechanism with DeBERTa**|Tianyu Zhao et.al.|[2207.02424v2](http://arxiv.org/abs/2207.02424v2)|null|
@@ -49,23 +54,20 @@
 |**2022-06-29**|**longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks**|Venelin Kovatchev et.al.|[2206.14729v1](http://arxiv.org/abs/2206.14729v1)|null|
 |**2022-06-29**|**EBMs vs. CL: Exploring Self-Supervised Visual Pretraining for Visual Question Answering**|Violetta Shevchenko et.al.|[2206.14355v1](http://arxiv.org/abs/2206.14355v1)|null|
 |**2022-06-29**|**What Can Secondary Predictions Tell Us? An Exploration on Question-Answering with SQuAD-v2.0**|Michael Kamfonas et.al.|[2206.14348v1](http://arxiv.org/abs/2206.14348v1)|null|
-|**2022-06-28**|**Simple and Effective Knowledge-Driven Query Expansion for QA-Based Product Attribute Extraction**|Keiji Shinzato et.al.|[2206.14264v1](http://arxiv.org/abs/2206.14264v1)|null|
-|**2022-06-28**|**Joint Generator-Ranker Learning for Natural Language Generation**|Weizhou Shen et.al.|[2206.13974v1](http://arxiv.org/abs/2206.13974v1)|null|
-|**2022-06-28**|**CC-Riddle: A Question Answering Dataset of Chinese Character Riddles**|Fan Xu et.al.|[2206.13778v1](http://arxiv.org/abs/2206.13778v1)|[link](https://github.com/sailxuovo/cc-riddle)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|null|
+|**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|[link](https://github.com/knowledgetechnologyuhh/grid-3d)|
 |**2022-07-06**|**Learning to Diversify for Product Question Generation**|Haggai Roitman et.al.|[2207.02534v1](http://arxiv.org/abs/2207.02534v1)|null|
 |**2022-07-04**|**Unify and Conquer: How Phonetic Feature Representation Affects Polyglot Text-To-Speech (TTS)**|Ariadna Sanchez et.al.|[2207.01547v1](http://arxiv.org/abs/2207.01547v1)|null|
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
 |**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
 |**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v3](http://arxiv.org/abs/2207.00473v3)|[link](https://github.com/oliver-lloyd/kge_param_sens)|
 |**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v2](http://arxiv.org/abs/2206.14858v2)|null|
-|**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v1](http://arxiv.org/abs/2206.14774v1)|null|
+|**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v1](http://arxiv.org/abs/2206.14774v1)|[link](https://github.com/cardiffnlp/tweetnlp)|
 |**2022-06-29**|**Improving Deliberation by Text-Only and Semi-Supervised Training**|Ke Hu et.al.|[2206.14716v1](http://arxiv.org/abs/2206.14716v1)|null|
 |**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
 |**2022-06-24**|**Unified BERT for Few-shot Natural Language Understanding**|JunYu Lu et.al.|[2206.12094v1](http://arxiv.org/abs/2206.12094v1)|null|
@@ -184,4 +186,3 @@
 |**2022-05-06**|**QLEVR: A Diagnostic Dataset for Quantificational Language and Elementary Visual Reasoning**|Zechen Li et.al.|[2205.03075v1](http://arxiv.org/abs/2205.03075v1)|[link](https://github.com/zechenli03/qlevr)|
 |**2022-05-05**|**CATs are Fuzzy PETs: A Corpus and Analysis of Potentially Euphemistic Terms**|Martha Gavidia et.al.|[2205.02728v1](http://arxiv.org/abs/2205.02728v1)|null|
 |**2022-05-05**|**METGEN: A Module-Based Entailment Tree Generation Framework for Answer Explanation**|Ruixin Hong et.al.|[2205.02593v1](http://arxiv.org/abs/2205.02593v1)|null|
-|**2022-05-05**|**Optimising Equal Opportunity Fairness in Model Training**|Aili Shen et.al.|[2205.02393v1](http://arxiv.org/abs/2205.02393v1)|[link](https://github.com/ailiaili/difference_mean_fair_models)|
