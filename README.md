@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-11 09:53:52
+ Automated deployment @ 2022-07-11 20:39:46
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -15,13 +15,15 @@
 |**2022-07-02**|**FRAME: Evaluating Simulatability Metrics for Free-Text Rationales**|Aaron Chan et.al.|[2207.00779v1](http://arxiv.org/abs/2207.00779v1)|null|
 |**2022-06-30**|**Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations**|Ziyan Yang et.al.|[2206.15462v2](http://arxiv.org/abs/2206.15462v2)|null|
 |**2022-06-30**|**GSCLIP : A Framework for Explaining Distribution Shifts in Natural Language**|Zhiying Zhu et.al.|[2206.15007v1](http://arxiv.org/abs/2206.15007v1)|null|
-|**2022-06-28**|**BertNet: Harvesting Knowledge Graphs from Pretrained Language Models**|Shibo Hao et.al.|[2206.14268v1](http://arxiv.org/abs/2206.14268v1)|[link](https://github.com/tanyuqian/knowledge-harvest-from-lms)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|null|
+|**2022-07-08**|**Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base**|Minhao Zhang et.al.|[2207.03680v1](http://arxiv.org/abs/2207.03680v1)|[link](https://github.com/aozmh/crake)|
+|**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|null|
 |**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
 |**2022-07-07**|**CoQAR: Question Rewriting on CoQA**|Quentin Brabant et.al.|[2207.03240v1](http://arxiv.org/abs/2207.03240v1)|null|
 |**2022-07-07**|**Active Learning and Multi-label Classification for Ellipsis and Coreference Detection in Conversational Question-Answering**|Quentin Brabant et.al.|[2207.03145v1](http://arxiv.org/abs/2207.03145v1)|null|
@@ -48,18 +50,16 @@
 |**2022-06-30**|**Visual grounding of abstract and concrete words: A response to Günther et al. (2020)**|Hassan Shahmohammadi et.al.|[2206.15381v1](http://arxiv.org/abs/2206.15381v1)|null|
 |**2022-06-30**|**Story-thinking, computational-thinking, programming and software engineering**|Austen Rainer et.al.|[2206.15066v1](http://arxiv.org/abs/2206.15066v1)|null|
 |**2022-06-30**|**Modern Question Answering Datasets and Benchmarks: A Survey**|Zhen Wang et.al.|[2206.15030v1](http://arxiv.org/abs/2206.15030v1)|null|
-|**2022-06-29**|**Space-Efficient Representation of Entity-centric Query Language Models**|Christophe Van Gysel et.al.|[2206.14885v1](http://arxiv.org/abs/2206.14885v1)|null|
-|**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v2](http://arxiv.org/abs/2206.14858v2)|null|
-|**2022-06-29**|**On the Robustness of Dialogue History Representation in Conversational Question Answering: A Comprehensive Study and a New Prompt-based Method**|Zorik Gekhman et.al.|[2206.14796v1](http://arxiv.org/abs/2206.14796v1)|[link](https://github.com/zorikg/marcqap)|
-|**2022-06-29**|**longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks**|Venelin Kovatchev et.al.|[2206.14729v1](http://arxiv.org/abs/2206.14729v1)|null|
-|**2022-06-29**|**EBMs vs. CL: Exploring Self-Supervised Visual Pretraining for Visual Question Answering**|Violetta Shevchenko et.al.|[2206.14355v1](http://arxiv.org/abs/2206.14355v1)|null|
-|**2022-06-29**|**What Can Secondary Predictions Tell Us? An Exploration on Question-Answering with SQuAD-v2.0**|Michael Kamfonas et.al.|[2206.14348v1](http://arxiv.org/abs/2206.14348v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|null|
+|**2022-07-08**|**A Medical Information Extraction Workbench to Process German Clinical Text**|Roland Roller et.al.|[2207.03885v1](http://arxiv.org/abs/2207.03885v1)|null|
+|**2022-07-08**|**An Efficiency Study for SPLADE Models**|Carlos Lassance et.al.|[2207.03834v1](http://arxiv.org/abs/2207.03834v1)|[link](https://github.com/naver/splade)|
+|**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|null|
 |**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|[link](https://github.com/knowledgetechnologyuhh/grid-3d)|
 |**2022-07-06**|**Learning to Diversify for Product Question Generation**|Haggai Roitman et.al.|[2207.02534v1](http://arxiv.org/abs/2207.02534v1)|null|
 |**2022-07-04**|**Unify and Conquer: How Phonetic Feature Representation Affects Polyglot Text-To-Speech (TTS)**|Ariadna Sanchez et.al.|[2207.01547v1](http://arxiv.org/abs/2207.01547v1)|null|
@@ -183,6 +183,3 @@
 |**2022-05-07**|**CogIntAc: Modeling the Relationships between Intention, Emotion and Action in Interactive Process from Cognitive Perspective**|Wei Peng et.al.|[2205.03540v2](http://arxiv.org/abs/2205.03540v2)|[link](https://github.com/pengwei-iie/cogintac)|
 |**2022-05-07**|**Attract me to Buy: Advertisement Copywriting Generation with Multimodal Multi-structured Information**|Zhipeng Zhang et.al.|[2205.03534v1](http://arxiv.org/abs/2205.03534v1)|null|
 |**2022-05-06**|**The Unreliability of Explanations in Few-Shot In-Context Learning**|Xi Ye et.al.|[2205.03401v1](http://arxiv.org/abs/2205.03401v1)|null|
-|**2022-05-06**|**QLEVR: A Diagnostic Dataset for Quantificational Language and Elementary Visual Reasoning**|Zechen Li et.al.|[2205.03075v1](http://arxiv.org/abs/2205.03075v1)|[link](https://github.com/zechenli03/qlevr)|
-|**2022-05-05**|**CATs are Fuzzy PETs: A Corpus and Analysis of Potentially Euphemistic Terms**|Martha Gavidia et.al.|[2205.02728v1](http://arxiv.org/abs/2205.02728v1)|null|
-|**2022-05-05**|**METGEN: A Module-Based Entailment Tree Generation Framework for Answer Explanation**|Ruixin Hong et.al.|[2205.02593v1](http://arxiv.org/abs/2205.02593v1)|null|
