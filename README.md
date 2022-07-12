@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-12 20:51:05
+ Automated deployment @ 2022-07-12 21:35:34
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -26,7 +26,7 @@
 |**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
 |**2022-07-10**|**Human-Centric Research for NLP: Towards a Definition and Guiding Questions**|Bhushan Kotnis et.al.|[2207.04447v1](http://arxiv.org/abs/2207.04447v1)|null|
 |**2022-07-08**|**TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues**|Dylan Slack et.al.|[2207.04154v1](http://arxiv.org/abs/2207.04154v1)|null|
-|**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|null|
+|**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|[link](https://github.com/hyounghk/cosim)|
 |**2022-07-08**|**Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base**|Minhao Zhang et.al.|[2207.03680v1](http://arxiv.org/abs/2207.03680v1)|[link](https://github.com/aozmh/crake)|
 |**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|null|
 |**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
@@ -61,7 +61,7 @@
 |**2022-07-11**|**CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts**|Muskan Garg et.al.|[2207.04674v1](http://arxiv.org/abs/2207.04674v1)|[link](https://github.com/drmuskangarg/cams)|
 |**2022-07-08**|**Probing Classifiers are Unreliable for Concept Removal and Detection**|Abhinav Kumar et.al.|[2207.04153v1](http://arxiv.org/abs/2207.04153v1)|null|
 |**2022-07-08**|**Improving Entity Disambiguation by Reasoning over a Knowledge Base**|Tom Ayoola et.al.|[2207.04106v1](http://arxiv.org/abs/2207.04106v1)|null|
-|**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|null|
+|**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|[link](https://github.com/hyounghk/cosim)|
 |**2022-07-08**|**A Medical Information Extraction Workbench to Process German Clinical Text**|Roland Roller et.al.|[2207.03885v1](http://arxiv.org/abs/2207.03885v1)|null|
 |**2022-07-08**|**An Efficiency Study for SPLADE Models**|Carlos Lassance et.al.|[2207.03834v1](http://arxiv.org/abs/2207.03834v1)|[link](https://github.com/naver/splade)|
 |**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|null|
