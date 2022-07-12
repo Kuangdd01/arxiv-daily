@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-12 10:01:11
+ Automated deployment @ 2022-07-12 20:51:05
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,19 +8,24 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-11**|**TArC: Tunisian Arabish Corpus First complete release**|Elisa Gugliotta et.al.|[2207.04796v1](http://arxiv.org/abs/2207.04796v1)|null|
+|**2022-07-09**|**Explaining Chest X-ray Pathologies in Natural Language**|Maxime Kayser et.al.|[2207.04343v1](http://arxiv.org/abs/2207.04343v1)|null|
+|**2022-07-08**|**TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues**|Dylan Slack et.al.|[2207.04154v1](http://arxiv.org/abs/2207.04154v1)|null|
 |**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
 |**2022-07-07**|**Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions**|Kosuke Nishida et.al.|[2207.03133v1](http://arxiv.org/abs/2207.03133v1)|null|
 |**2022-07-05**|**Machine Learning Model Sizes and the Parameter Gap**|Pablo Villalobos et.al.|[2207.02852v1](http://arxiv.org/abs/2207.02852v1)|null|
 |**2022-07-04**|**Understanding Performance of Long-Document Ranking Models through Comprehensive Evaluation and Leaderboarding**|Leonid Boytsov et.al.|[2207.01262v1](http://arxiv.org/abs/2207.01262v1)|[link](https://github.com/searchivarius/long_doc_rank_model_analysis)|
 |**2022-07-02**|**FRAME: Evaluating Simulatability Metrics for Free-Text Rationales**|Aaron Chan et.al.|[2207.00779v1](http://arxiv.org/abs/2207.00779v1)|null|
-|**2022-06-30**|**Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations**|Ziyan Yang et.al.|[2206.15462v2](http://arxiv.org/abs/2206.15462v2)|null|
-|**2022-06-30**|**GSCLIP : A Framework for Explaining Distribution Shifts in Natural Language**|Zhiying Zhu et.al.|[2206.15007v1](http://arxiv.org/abs/2206.15007v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-11**|**Embedding Recycling for Language Models**|Jon Saad-Falcon et.al.|[2207.04993v1](http://arxiv.org/abs/2207.04993v1)|null|
+|**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
+|**2022-07-10**|**Human-Centric Research for NLP: Towards a Definition and Guiding Questions**|Bhushan Kotnis et.al.|[2207.04447v1](http://arxiv.org/abs/2207.04447v1)|null|
+|**2022-07-08**|**TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues**|Dylan Slack et.al.|[2207.04154v1](http://arxiv.org/abs/2207.04154v1)|null|
 |**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|null|
 |**2022-07-08**|**Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base**|Minhao Zhang et.al.|[2207.03680v1](http://arxiv.org/abs/2207.03680v1)|[link](https://github.com/aozmh/crake)|
 |**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|null|
@@ -46,16 +51,16 @@
 |**2022-07-01**|**American == White in Multimodal Language-and-Image AI**|Robert Wolfe et.al.|[2207.00691v1](http://arxiv.org/abs/2207.00691v1)|null|
 |**2022-07-01**|**Conditional Generation with a Question-Answering Blueprint**|Shashi Narayan et.al.|[2207.00397v1](http://arxiv.org/abs/2207.00397v1)|null|
 |**2022-07-01**|**An Understanding-Oriented Robust Machine Reading Comprehension Model**|Feiliang Ren et.al.|[2207.00187v1](http://arxiv.org/abs/2207.00187v1)|[link](https://github.com/neukg/robustmrc)|
-|**2022-06-30**|**Forecasting Future World Events with Neural Networks**|Andy Zou et.al.|[2206.15474v1](http://arxiv.org/abs/2206.15474v1)|[link](https://github.com/andyzoujm/autocast)|
-|**2022-06-30**|**Visual grounding of abstract and concrete words: A response to Günther et al. (2020)**|Hassan Shahmohammadi et.al.|[2206.15381v1](http://arxiv.org/abs/2206.15381v1)|null|
-|**2022-06-30**|**Story-thinking, computational-thinking, programming and software engineering**|Austen Rainer et.al.|[2206.15066v1](http://arxiv.org/abs/2206.15066v1)|null|
-|**2022-06-30**|**Modern Question Answering Datasets and Benchmarks: A Survey**|Zhen Wang et.al.|[2206.15030v1](http://arxiv.org/abs/2206.15030v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
+|**2022-07-11**|**CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts**|Muskan Garg et.al.|[2207.04674v1](http://arxiv.org/abs/2207.04674v1)|[link](https://github.com/drmuskangarg/cams)|
+|**2022-07-08**|**Probing Classifiers are Unreliable for Concept Removal and Detection**|Abhinav Kumar et.al.|[2207.04153v1](http://arxiv.org/abs/2207.04153v1)|null|
+|**2022-07-08**|**Improving Entity Disambiguation by Reasoning over a Knowledge Base**|Tom Ayoola et.al.|[2207.04106v1](http://arxiv.org/abs/2207.04106v1)|null|
 |**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|null|
 |**2022-07-08**|**A Medical Information Extraction Workbench to Process German Clinical Text**|Roland Roller et.al.|[2207.03885v1](http://arxiv.org/abs/2207.03885v1)|null|
 |**2022-07-08**|**An Efficiency Study for SPLADE Models**|Carlos Lassance et.al.|[2207.03834v1](http://arxiv.org/abs/2207.03834v1)|[link](https://github.com/naver/splade)|
@@ -178,8 +183,3 @@
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718v1](http://arxiv.org/abs/2205.05718v1)|[link](https://github.com/collinskatie/structured_flexible_and_robust)|
 |**2022-05-10**|**Unifying Language Learning Paradigms**|Yi Tay et.al.|[2205.05131v1](http://arxiv.org/abs/2205.05131v1)|[link](https://github.com/google-research/google-research)|
 |**2022-05-10**|**Towards Climate Awareness in NLP Research**|Daniel Hershcovich et.al.|[2205.05071v3](http://arxiv.org/abs/2205.05071v3)|null|
-|**2022-05-09**|**ProQA: Structural Prompt-based Pre-training for Unified Question Answering**|Wanjun Zhong et.al.|[2205.04040v1](http://arxiv.org/abs/2205.04040v1)|null|
-|**2022-05-07**|**Better Retrieval May Not Lead to Better Question Answering**|Zhengzhong Liang et.al.|[2205.03685v1](http://arxiv.org/abs/2205.03685v1)|null|
-|**2022-05-07**|**CogIntAc: Modeling the Relationships between Intention, Emotion and Action in Interactive Process from Cognitive Perspective**|Wei Peng et.al.|[2205.03540v2](http://arxiv.org/abs/2205.03540v2)|[link](https://github.com/pengwei-iie/cogintac)|
-|**2022-05-07**|**Attract me to Buy: Advertisement Copywriting Generation with Multimodal Multi-structured Information**|Zhipeng Zhang et.al.|[2205.03534v1](http://arxiv.org/abs/2205.03534v1)|null|
-|**2022-05-06**|**The Unreliability of Explanations in Few-Shot In-Context Learning**|Xi Ye et.al.|[2205.03401v1](http://arxiv.org/abs/2205.03401v1)|null|
