@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-13 09:53:55
+ Automated deployment @ 2022-07-13 20:36:39
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -22,13 +22,18 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-07-11**|**Embedding Recycling for Language Models**|Jon Saad-Falcon et.al.|[2207.04993v1](http://arxiv.org/abs/2207.04993v1)|null|
+|**2022-07-12**|**How Do Multilingual Encoders Learn Cross-lingual Representation?**|Shijie Wu et.al.|[2207.05737v1](http://arxiv.org/abs/2207.05737v1)|null|
+|**2022-07-12**|**Inner Monologue: Embodied Reasoning through Planning with Language Models**|Wenlong Huang et.al.|[2207.05608v1](http://arxiv.org/abs/2207.05608v1)|null|
+|**2022-07-12**|**Effective Few-Shot Named Entity Linking by Meta-Learning**|Xiuxing Li et.al.|[2207.05280v1](http://arxiv.org/abs/2207.05280v1)|null|
+|**2022-07-12**|**A Survey on Table Question Answering: Recent Advances**|Nengzheng Jin et.al.|[2207.05270v1](http://arxiv.org/abs/2207.05270v1)|null|
+|**2022-07-11**|**Language Models (Mostly) Know What They Know**|Saurav Kadavath et.al.|[2207.05221v1](http://arxiv.org/abs/2207.05221v1)|null|
+|**2022-07-11**|**Embedding Recycling for Language Models**|Jon Saad-Falcon et.al.|[2207.04993v1](http://arxiv.org/abs/2207.04993v1)|[link](https://github.com/allenai/embeddingrecycling)|
 |**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
 |**2022-07-10**|**Human-Centric Research for NLP: Towards a Definition and Guiding Questions**|Bhushan Kotnis et.al.|[2207.04447v1](http://arxiv.org/abs/2207.04447v1)|null|
 |**2022-07-08**|**TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues**|Dylan Slack et.al.|[2207.04154v1](http://arxiv.org/abs/2207.04154v1)|null|
 |**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|[link](https://github.com/hyounghk/cosim)|
 |**2022-07-08**|**Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base**|Minhao Zhang et.al.|[2207.03680v1](http://arxiv.org/abs/2207.03680v1)|[link](https://github.com/aozmh/crake)|
-|**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|null|
+|**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|[link](https://github.com/jzbjyb/omnitab)|
 |**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
 |**2022-07-07**|**CoQAR: Question Rewriting on CoQA**|Quentin Brabant et.al.|[2207.03240v1](http://arxiv.org/abs/2207.03240v1)|null|
 |**2022-07-07**|**Active Learning and Multi-label Classification for Ellipsis and Coreference Detection in Conversational Question-Answering**|Quentin Brabant et.al.|[2207.03145v1](http://arxiv.org/abs/2207.03145v1)|null|
@@ -47,16 +52,13 @@
 |**2022-07-02**|**ANEC: An Amharic Named Entity Corpus and Transformer Based Recognizer**|Ebrahim Chekol Jibril et.al.|[2207.00785v1](http://arxiv.org/abs/2207.00785v1)|null|
 |**2022-07-02**|**MIA 2022 Shared Task: Evaluating Cross-lingual Open-Retrieval Question Answering for 16 Diverse Languages**|Akari Asai et.al.|[2207.00758v1](http://arxiv.org/abs/2207.00758v1)|null|
 |**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
-|**2022-07-02**|**INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions**|Zeqiu Wu et.al.|[2207.00746v1](http://arxiv.org/abs/2207.00746v1)|null|
-|**2022-07-01**|**American == White in Multimodal Language-and-Image AI**|Robert Wolfe et.al.|[2207.00691v1](http://arxiv.org/abs/2207.00691v1)|null|
-|**2022-07-01**|**Conditional Generation with a Question-Answering Blueprint**|Shashi Narayan et.al.|[2207.00397v1](http://arxiv.org/abs/2207.00397v1)|null|
-|**2022-07-01**|**An Understanding-Oriented Robust Machine Reading Comprehension Model**|Feiliang Ren et.al.|[2207.00187v1](http://arxiv.org/abs/2207.00187v1)|[link](https://github.com/neukg/robustmrc)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-12**|**Inner Monologue: Embodied Reasoning through Planning with Language Models**|Wenlong Huang et.al.|[2207.05608v1](http://arxiv.org/abs/2207.05608v1)|null|
 |**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
 |**2022-07-11**|**CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts**|Muskan Garg et.al.|[2207.04674v1](http://arxiv.org/abs/2207.04674v1)|[link](https://github.com/drmuskangarg/cams)|
 |**2022-07-08**|**Probing Classifiers are Unreliable for Concept Removal and Detection**|Abhinav Kumar et.al.|[2207.04153v1](http://arxiv.org/abs/2207.04153v1)|null|
@@ -64,7 +66,8 @@
 |**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|[link](https://github.com/hyounghk/cosim)|
 |**2022-07-08**|**A Medical Information Extraction Workbench to Process German Clinical Text**|Roland Roller et.al.|[2207.03885v1](http://arxiv.org/abs/2207.03885v1)|null|
 |**2022-07-08**|**An Efficiency Study for SPLADE Models**|Carlos Lassance et.al.|[2207.03834v1](http://arxiv.org/abs/2207.03834v1)|[link](https://github.com/naver/splade)|
-|**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|null|
+|**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|[link](https://github.com/jzbjyb/omnitab)|
+|**2022-07-07**|**Can Language Models perform Abductive Commonsense Reasoning?**|Seungone Kim et.al.|[2207.05155v1](http://arxiv.org/abs/2207.05155v1)|null|
 |**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|[link](https://github.com/knowledgetechnologyuhh/grid-3d)|
 |**2022-07-06**|**Learning to Diversify for Product Question Generation**|Haggai Roitman et.al.|[2207.02534v1](http://arxiv.org/abs/2207.02534v1)|null|
 |**2022-07-04**|**Unify and Conquer: How Phonetic Feature Representation Affects Polyglot Text-To-Speech (TTS)**|Ariadna Sanchez et.al.|[2207.01547v1](http://arxiv.org/abs/2207.01547v1)|null|
