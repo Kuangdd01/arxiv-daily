@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-14 09:59:53
+ Automated deployment @ 2022-07-14 20:38:27
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -14,14 +14,15 @@
 |**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
 |**2022-07-07**|**Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions**|Kosuke Nishida et.al.|[2207.03133v1](http://arxiv.org/abs/2207.03133v1)|null|
 |**2022-07-05**|**Machine Learning Model Sizes and the Parameter Gap**|Pablo Villalobos et.al.|[2207.02852v1](http://arxiv.org/abs/2207.02852v1)|null|
-|**2022-07-04**|**Understanding Performance of Long-Document Ranking Models through Comprehensive Evaluation and Leaderboarding**|Leonid Boytsov et.al.|[2207.01262v1](http://arxiv.org/abs/2207.01262v1)|[link](https://github.com/searchivarius/long_doc_rank_model_analysis)|
-|**2022-07-02**|**FRAME: Evaluating Simulatability Metrics for Free-Text Rationales**|Aaron Chan et.al.|[2207.00779v1](http://arxiv.org/abs/2207.00779v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
+|**2022-07-13**|**Re2G: Retrieve, Rerank, Generate**|Michael Glass et.al.|[2207.06300v1](http://arxiv.org/abs/2207.06300v1)|[link](https://github.com/ibm/kgi-slot-filling)|
+|**2022-07-12**|**A Novel DeBERTa-based Model for Financial Question Answering Task**|Yanbo J. Wang et.al.|[2207.05875v1](http://arxiv.org/abs/2207.05875v1)|null|
 |**2022-07-12**|**How Do Multilingual Encoders Learn Cross-lingual Representation?**|Shijie Wu et.al.|[2207.05737v1](http://arxiv.org/abs/2207.05737v1)|null|
 |**2022-07-12**|**Inner Monologue: Embodied Reasoning through Planning with Language Models**|Wenlong Huang et.al.|[2207.05608v1](http://arxiv.org/abs/2207.05608v1)|null|
 |**2022-07-12**|**Effective Few-Shot Named Entity Linking by Meta-Learning**|Xiuxing Li et.al.|[2207.05280v1](http://arxiv.org/abs/2207.05280v1)|null|
@@ -49,15 +50,15 @@
 |**2022-07-05**|**PReGAN: Answer Oriented Passage Ranking with Weakly Supervised GAN**|Pan Du et.al.|[2207.01762v1](http://arxiv.org/abs/2207.01762v1)|null|
 |**2022-07-04**|**Mix and Match: An Empirical Study on Training Corpus Composition for Polyglot Text-To-Speech (TTS)**|Ziyao Zhang et.al.|[2207.01507v1](http://arxiv.org/abs/2207.01507v1)|null|
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
-|**2022-07-02**|**ANEC: An Amharic Named Entity Corpus and Transformer Based Recognizer**|Ebrahim Chekol Jibril et.al.|[2207.00785v1](http://arxiv.org/abs/2207.00785v1)|null|
-|**2022-07-02**|**MIA 2022 Shared Task: Evaluating Cross-lingual Open-Retrieval Question Answering for 16 Diverse Languages**|Akari Asai et.al.|[2207.00758v1](http://arxiv.org/abs/2207.00758v1)|null|
-|**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
+|**2022-07-12**|**A Novel DeBERTa-based Model for Financial Question Answering Task**|Yanbo J. Wang et.al.|[2207.05875v1](http://arxiv.org/abs/2207.05875v1)|null|
+|**2022-07-12**|**OSLAT: Open Set Label Attention Transformer for Medical Entity Span Extraction**|Raymond Li et.al.|[2207.05817v1](http://arxiv.org/abs/2207.05817v1)|[link](https://github.com/curai/curai-research)|
 |**2022-07-12**|**Inner Monologue: Embodied Reasoning through Planning with Language Models**|Wenlong Huang et.al.|[2207.05608v1](http://arxiv.org/abs/2207.05608v1)|null|
 |**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
 |**2022-07-11**|**CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts**|Muskan Garg et.al.|[2207.04674v1](http://arxiv.org/abs/2207.04674v1)|[link](https://github.com/drmuskangarg/cams)|
@@ -185,4 +186,3 @@
 |**2022-05-12**|**e-CARE: a New Dataset for Exploring Explainable Causal Reasoning**|Li Du et.al.|[2205.05849v1](http://arxiv.org/abs/2205.05849v1)|[link](https://github.com/waste-wood/e-care)|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718v1](http://arxiv.org/abs/2205.05718v1)|[link](https://github.com/collinskatie/structured_flexible_and_robust)|
 |**2022-05-10**|**Unifying Language Learning Paradigms**|Yi Tay et.al.|[2205.05131v1](http://arxiv.org/abs/2205.05131v1)|[link](https://github.com/google-research/google-research)|
-|**2022-05-10**|**Towards Climate Awareness in NLP Research**|Daniel Hershcovich et.al.|[2205.05071v3](http://arxiv.org/abs/2205.05071v3)|null|
