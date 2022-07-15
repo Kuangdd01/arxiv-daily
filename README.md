@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-15 10:07:52
+ Automated deployment @ 2022-07-15 20:39:37
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-14**|**Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language**|Rita Sevastjanova et.al.|[2207.06897v1](http://arxiv.org/abs/2207.06897v1)|null|
 |**2022-07-11**|**TArC: Tunisian Arabish Corpus First complete release**|Elisa Gugliotta et.al.|[2207.04796v1](http://arxiv.org/abs/2207.04796v1)|null|
 |**2022-07-09**|**Explaining Chest X-ray Pathologies in Natural Language**|Maxime Kayser et.al.|[2207.04343v1](http://arxiv.org/abs/2207.04343v1)|null|
 |**2022-07-08**|**TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues**|Dylan Slack et.al.|[2207.04154v1](http://arxiv.org/abs/2207.04154v1)|null|
@@ -20,6 +21,9 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-14**|**Deep versus Wide: An Analysis of Student Architectures for Task-Agnostic Knowledge Distillation of Self-Supervised Speech Models**|Takanori Ashihara et.al.|[2207.06867v1](http://arxiv.org/abs/2207.06867v1)|null|
+|**2022-07-14**|**Neural Data-to-Text Generation Based on Small Datasets: Comparing the Added Value of Two Semi-Supervised Learning Approaches on Top of a Large Language Model**|Chris van der Lee et.al.|[2207.06839v1](http://arxiv.org/abs/2207.06839v1)|null|
+|**2022-07-14**|**Layout-Aware Information Extraction for Document-Grounded Dialogue: Dataset, Method and Demonstration**|Zhenyu Zhang et.al.|[2207.06717v1](http://arxiv.org/abs/2207.06717v1)|null|
 |**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
 |**2022-07-13**|**Re2G: Retrieve, Rerank, Generate**|Michael Glass et.al.|[2207.06300v1](http://arxiv.org/abs/2207.06300v1)|[link](https://github.com/ibm/kgi-slot-filling)|
 |**2022-07-12**|**A Novel DeBERTa-based Model for Financial Question Answering Task**|Yanbo J. Wang et.al.|[2207.05875v1](http://arxiv.org/abs/2207.05875v1)|null|
@@ -44,18 +48,15 @@
 |**2022-07-06**|**The Role of Complex NLP in Transformers for Text Ranking?**|David Rau et.al.|[2207.02522v1](http://arxiv.org/abs/2207.02522v1)|null|
 |**2022-07-06**|**Aspect-Based Sentiment Analysis using Local Context Focus Mechanism with DeBERTa**|Tianyu Zhao et.al.|[2207.02424v2](http://arxiv.org/abs/2207.02424v2)|null|
 |**2022-07-06**|**BioTABQA: Instruction Learning for Biomedical Table Question Answering**|Man Luo et.al.|[2207.02419v1](http://arxiv.org/abs/2207.02419v1)|null|
-|**2022-07-05**|**MIA 2022 Shared Task Submission: Leveraging Entity Representations, Dense-Sparse Hybrids, and Fusion-in-Decoder for Cross-Lingual Question Answering**|Zhucheng Tu et.al.|[2207.01940v2](http://arxiv.org/abs/2207.01940v2)|null|
-|**2022-07-05**|**Cross-Lingual QA as a Stepping Stone for Monolingual Open QA in Icelandic**|Vésteinn Snæbjarnarson et.al.|[2207.01918v1](http://arxiv.org/abs/2207.01918v1)|null|
-|**2022-07-05**|**Vision-and-Language Pretraining**|Thong Nguyen et.al.|[2207.01772v1](http://arxiv.org/abs/2207.01772v1)|null|
-|**2022-07-05**|**PReGAN: Answer Oriented Passage Ranking with Weakly Supervised GAN**|Pan Du et.al.|[2207.01762v1](http://arxiv.org/abs/2207.01762v1)|null|
-|**2022-07-04**|**Mix and Match: An Empirical Study on Training Corpus Composition for Polyglot Text-To-Speech (TTS)**|Ziyao Zhang et.al.|[2207.01507v1](http://arxiv.org/abs/2207.01507v1)|null|
-|**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-14**|**Language models show human-like content effects on reasoning**|Ishita Dasgupta et.al.|[2207.07051v1](http://arxiv.org/abs/2207.07051v1)|null|
+|**2022-07-14**|**Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language**|Rita Sevastjanova et.al.|[2207.06897v1](http://arxiv.org/abs/2207.06897v1)|null|
+|**2022-07-14**|**Recurrent Memory Transformer**|Aydar Bulatov et.al.|[2207.06881v1](http://arxiv.org/abs/2207.06881v1)|[link](https://github.com/booydar/transformer-xl)|
 |**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
 |**2022-07-12**|**A Novel DeBERTa-based Model for Financial Question Answering Task**|Yanbo J. Wang et.al.|[2207.05875v1](http://arxiv.org/abs/2207.05875v1)|null|
 |**2022-07-12**|**OSLAT: Open Set Label Attention Transformer for Medical Entity Span Extraction**|Raymond Li et.al.|[2207.05817v1](http://arxiv.org/abs/2207.05817v1)|[link](https://github.com/curai/curai-research)|
@@ -78,6 +79,7 @@
 |**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v2](http://arxiv.org/abs/2206.14858v2)|null|
 |**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v1](http://arxiv.org/abs/2206.14774v1)|[link](https://github.com/cardiffnlp/tweetnlp)|
 |**2022-06-29**|**Improving Deliberation by Text-Only and Semi-Supervised Training**|Ke Hu et.al.|[2206.14716v1](http://arxiv.org/abs/2206.14716v1)|null|
+|**2022-06-29**|**A Robustly Optimized Long Text to Math Models for Numerical Reasoning On FinQA**|Renhui Zhang et.al.|[2207.06490v1](http://arxiv.org/abs/2207.06490v1)|null|
 |**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
 |**2022-06-24**|**Unified BERT for Few-shot Natural Language Understanding**|JunYu Lu et.al.|[2206.12094v1](http://arxiv.org/abs/2206.12094v1)|null|
 |**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
@@ -182,7 +184,3 @@
 |**2022-05-13**|**Developing a Production System for Purpose of Call Detection in Business Phone Conversations**|Elena Khasanova et.al.|[2205.06904v1](http://arxiv.org/abs/2205.06904v1)|null|
 |**2022-05-13**|**Who Are We Talking About? Handling Person Names in Speech Translation**|Marco Gaido et.al.|[2205.06755v1](http://arxiv.org/abs/2205.06755v1)|[link](https://github.com/hlt-mt/fbk-fairseq)|
 |**2022-05-13**|**Improving the Numerical Reasoning Skills of Pretrained Language Models**|Dominic Petrak et.al.|[2205.06733v1](http://arxiv.org/abs/2205.06733v1)|null|
-|**2022-05-12**|**Predicting Human Psychometric Properties Using Computational Language Models**|Antonio Laverghetta Jr. et.al.|[2205.06203v1](http://arxiv.org/abs/2205.06203v1)|null|
-|**2022-05-12**|**e-CARE: a New Dataset for Exploring Explainable Causal Reasoning**|Li Du et.al.|[2205.05849v1](http://arxiv.org/abs/2205.05849v1)|[link](https://github.com/waste-wood/e-care)|
-|**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718v1](http://arxiv.org/abs/2205.05718v1)|[link](https://github.com/collinskatie/structured_flexible_and_robust)|
-|**2022-05-10**|**Unifying Language Learning Paradigms**|Yi Tay et.al.|[2205.05131v1](http://arxiv.org/abs/2205.05131v1)|[link](https://github.com/google-research/google-research)|
