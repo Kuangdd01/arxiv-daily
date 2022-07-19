@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-19 10:07:52
+ Automated deployment @ 2022-07-19 20:40:35
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,20 +8,25 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-18**|**Human Brains Can't Detect Fake News: A Neuro-Cognitive Study of Textual Disinformation Susceptibility**|Cagri Arisoy et.al.|[2207.08376v1](http://arxiv.org/abs/2207.08376v1)|null|
+|**2022-07-17**|**Towards Explainability in NLP: Analyzing and Calculating Word Saliency through Word Properties**|Jialiang Dong et.al.|[2207.08083v1](http://arxiv.org/abs/2207.08083v1)|null|
 |**2022-07-15**|**Modeling Non-Cooperative Dialogue: Theoretical and Empirical Insights**|Anthony Sicilia et.al.|[2207.07255v1](http://arxiv.org/abs/2207.07255v1)|[link](https://github.com/anthonysicilia/modeling-non-cooperation-tacl2022)|
 |**2022-07-14**|**Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language**|Rita Sevastjanova et.al.|[2207.06897v1](http://arxiv.org/abs/2207.06897v1)|null|
 |**2022-07-11**|**TArC: Tunisian Arabish Corpus First complete release**|Elisa Gugliotta et.al.|[2207.04796v1](http://arxiv.org/abs/2207.04796v1)|null|
 |**2022-07-09**|**Explaining Chest X-ray Pathologies in Natural Language**|Maxime Kayser et.al.|[2207.04343v1](http://arxiv.org/abs/2207.04343v1)|null|
 |**2022-07-08**|**TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues**|Dylan Slack et.al.|[2207.04154v1](http://arxiv.org/abs/2207.04154v1)|null|
-|**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
-|**2022-07-07**|**Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions**|Kosuke Nishida et.al.|[2207.03133v1](http://arxiv.org/abs/2207.03133v1)|null|
-|**2022-07-05**|**Machine Learning Model Sizes and the Parameter Gap**|Pablo Villalobos et.al.|[2207.02852v1](http://arxiv.org/abs/2207.02852v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v1](http://arxiv.org/abs/2207.08739v1)|[link](https://github.com/itemzheng/kddaug)|
+|**2022-07-17**|**An Overview of Distant Supervision for Relation Extraction with a Focus on Denoising and Pre-training Methods**|William Hogan et.al.|[2207.08286v1](http://arxiv.org/abs/2207.08286v1)|null|
+|**2022-07-17**|**Can large language models reason about medical questions?**|Valentin Liévin et.al.|[2207.08143v1](http://arxiv.org/abs/2207.08143v1)|null|
+|**2022-07-17**|**United States Politicians' Tone Became More Negative with 2016 Primary Campaigns**|Jonathan Külz et.al.|[2207.08112v1](http://arxiv.org/abs/2207.08112v1)|[link](https://github.com/epfl-dlab/negativity_in_2016_campaign)|
+|**2022-07-17**|**A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for Debiasing in Multimodal Conversational Emotion Recognition**|Jinglin Wang et.al.|[2207.08104v1](http://arxiv.org/abs/2207.08104v1)|null|
+|**2022-07-17**|**Aspect-specific Context Modeling for Aspect-based Sentiment Analysis**|Fang Ma et.al.|[2207.08099v1](http://arxiv.org/abs/2207.08099v1)|null|
 |**2022-07-14**|**Deep versus Wide: An Analysis of Student Architectures for Task-Agnostic Knowledge Distillation of Self-Supervised Speech Models**|Takanori Ashihara et.al.|[2207.06867v1](http://arxiv.org/abs/2207.06867v1)|null|
 |**2022-07-14**|**Neural Data-to-Text Generation Based on Small Datasets: Comparing the Added Value of Two Semi-Supervised Learning Approaches on Top of a Large Language Model**|Chris van der Lee et.al.|[2207.06839v1](http://arxiv.org/abs/2207.06839v1)|null|
 |**2022-07-14**|**Layout-Aware Information Extraction for Document-Grounded Dialogue: Dataset, Method and Demonstration**|Zhenyu Zhang et.al.|[2207.06717v1](http://arxiv.org/abs/2207.06717v1)|null|
@@ -40,18 +45,16 @@
 |**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|[link](https://github.com/hyounghk/cosim)|
 |**2022-07-08**|**Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base**|Minhao Zhang et.al.|[2207.03680v1](http://arxiv.org/abs/2207.03680v1)|[link](https://github.com/aozmh/crake)|
 |**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|[link](https://github.com/jzbjyb/omnitab)|
-|**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
-|**2022-07-07**|**CoQAR: Question Rewriting on CoQA**|Quentin Brabant et.al.|[2207.03240v1](http://arxiv.org/abs/2207.03240v1)|null|
-|**2022-07-07**|**Active Learning and Multi-label Classification for Ellipsis and Coreference Detection in Conversational Question-Answering**|Quentin Brabant et.al.|[2207.03145v1](http://arxiv.org/abs/2207.03145v1)|null|
-|**2022-07-07**|**Multi-Task Retrieval-Augmented Text Generation with Relevance Sampling**|Sebastian Hofstätter et.al.|[2207.03030v1](http://arxiv.org/abs/2207.03030v1)|null|
-|**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|[link](https://github.com/knowledgetechnologyuhh/grid-3d)|
-|**2022-07-06**|**Learning to Diversify for Product Question Generation**|Haggai Roitman et.al.|[2207.02534v1](http://arxiv.org/abs/2207.02534v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v1](http://arxiv.org/abs/2207.08739v1)|[link](https://github.com/itemzheng/kddaug)|
+|**2022-07-18**|**Classifying COVID-19 vaccine narratives**|Yue Li et.al.|[2207.08522v1](http://arxiv.org/abs/2207.08522v1)|null|
+|**2022-07-17**|**Representation Learning of Image Schema**|Fajrian Yunus et.al.|[2207.08256v1](http://arxiv.org/abs/2207.08256v1)|null|
+|**2022-07-17**|**Can large language models reason about medical questions?**|Valentin Liévin et.al.|[2207.08143v1](http://arxiv.org/abs/2207.08143v1)|null|
 |**2022-07-15**|**Reasoning about Actions over Visual and Linguistic Modalities: A Survey**|Shailaja Keyur Sampat et.al.|[2207.07568v1](http://arxiv.org/abs/2207.07568v1)|null|
 |**2022-07-14**|**Emotion Recognition in Conversation using Probabilistic Soft Logic**|Eriq Augustine et.al.|[2207.07238v1](http://arxiv.org/abs/2207.07238v1)|null|
 |**2022-07-14**|**Language models show human-like content effects on reasoning**|Ishita Dasgupta et.al.|[2207.07051v1](http://arxiv.org/abs/2207.07051v1)|null|
@@ -180,7 +183,3 @@
 |**2022-05-17**|**LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning**|Zhicheng Yang et.al.|[2205.08232v1](http://arxiv.org/abs/2205.08232v1)|null|
 |**2022-05-17**|**Unbiased Math Word Problems Benchmark for Mitigating Solving Bias**|Zhicheng Yang et.al.|[2205.08108v1](http://arxiv.org/abs/2205.08108v1)|[link](https://github.com/yangzhch6/unbiasedmwp)|
 |**2022-05-16**|**Reasoning about Procedures with Natural Language Processing: A Tutorial**|Li Zhang et.al.|[2205.07455v1](http://arxiv.org/abs/2205.07455v1)|null|
-|**2022-05-14**|**Generating Literal and Implied Subquestions to Fact-check Complex Claims**|Jifan Chen et.al.|[2205.06938v1](http://arxiv.org/abs/2205.06938v1)|null|
-|**2022-05-13**|**Developing a Production System for Purpose of Call Detection in Business Phone Conversations**|Elena Khasanova et.al.|[2205.06904v1](http://arxiv.org/abs/2205.06904v1)|null|
-|**2022-05-13**|**Who Are We Talking About? Handling Person Names in Speech Translation**|Marco Gaido et.al.|[2205.06755v1](http://arxiv.org/abs/2205.06755v1)|[link](https://github.com/hlt-mt/fbk-fairseq)|
-|**2022-05-13**|**Improving the Numerical Reasoning Skills of Pretrained Language Models**|Dominic Petrak et.al.|[2205.06733v1](http://arxiv.org/abs/2205.06733v1)|null|
