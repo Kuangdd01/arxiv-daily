@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-20 09:54:08
+ Automated deployment @ 2022-07-20 20:38:53
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,19 +8,21 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-19**|**Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks**|Motonari Kambara et.al.|[2207.09083v1](http://arxiv.org/abs/2207.09083v1)|null|
 |**2022-07-18**|**Human Brains Can't Detect Fake News: A Neuro-Cognitive Study of Textual Disinformation Susceptibility**|Cagri Arisoy et.al.|[2207.08376v1](http://arxiv.org/abs/2207.08376v1)|null|
 |**2022-07-17**|**Towards Explainability in NLP: Analyzing and Calculating Word Saliency through Word Properties**|Jialiang Dong et.al.|[2207.08083v1](http://arxiv.org/abs/2207.08083v1)|null|
 |**2022-07-15**|**Modeling Non-Cooperative Dialogue: Theoretical and Empirical Insights**|Anthony Sicilia et.al.|[2207.07255v1](http://arxiv.org/abs/2207.07255v1)|[link](https://github.com/anthonysicilia/modeling-non-cooperation-tacl2022)|
 |**2022-07-14**|**Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language**|Rita Sevastjanova et.al.|[2207.06897v1](http://arxiv.org/abs/2207.06897v1)|null|
 |**2022-07-11**|**TArC: Tunisian Arabish Corpus First complete release**|Elisa Gugliotta et.al.|[2207.04796v1](http://arxiv.org/abs/2207.04796v1)|null|
-|**2022-07-09**|**Explaining Chest X-ray Pathologies in Natural Language**|Maxime Kayser et.al.|[2207.04343v1](http://arxiv.org/abs/2207.04343v1)|null|
-|**2022-07-08**|**TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues**|Dylan Slack et.al.|[2207.04154v1](http://arxiv.org/abs/2207.04154v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-19**|**On the Usability of Transformers-based models for a French Question-Answering task**|Oralie Cattan et.al.|[2207.09150v1](http://arxiv.org/abs/2207.09150v1)|null|
+|**2022-07-19**|**Can You Fool AI by Doing a 180? $\unicode{x2013}$ A Case Study on Authorship Analysis of Texts by Arata Osada**|Jagna Nieuwazny et.al.|[2207.09085v1](http://arxiv.org/abs/2207.09085v1)|null|
+|**2022-07-19**|**PiC: A Phrase-in-Context Dataset for Phrase Understanding and Semantic Search**|Thang M. Pham et.al.|[2207.09068v1](http://arxiv.org/abs/2207.09068v1)|null|
 |**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v1](http://arxiv.org/abs/2207.08739v1)|[link](https://github.com/itemzheng/kddaug)|
 |**2022-07-17**|**An Overview of Distant Supervision for Relation Extraction with a Focus on Denoising and Pre-training Methods**|William Hogan et.al.|[2207.08286v1](http://arxiv.org/abs/2207.08286v1)|null|
 |**2022-07-17**|**Can large language models reason about medical questions?**|Valentin Liévin et.al.|[2207.08143v1](http://arxiv.org/abs/2207.08143v1)|null|
@@ -41,10 +43,6 @@
 |**2022-07-11**|**Embedding Recycling for Language Models**|Jon Saad-Falcon et.al.|[2207.04993v1](http://arxiv.org/abs/2207.04993v1)|[link](https://github.com/allenai/embeddingrecycling)|
 |**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
 |**2022-07-10**|**Human-Centric Research for NLP: Towards a Definition and Guiding Questions**|Bhushan Kotnis et.al.|[2207.04447v1](http://arxiv.org/abs/2207.04447v1)|null|
-|**2022-07-08**|**TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues**|Dylan Slack et.al.|[2207.04154v1](http://arxiv.org/abs/2207.04154v1)|null|
-|**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|[link](https://github.com/hyounghk/cosim)|
-|**2022-07-08**|**Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base**|Minhao Zhang et.al.|[2207.03680v1](http://arxiv.org/abs/2207.03680v1)|[link](https://github.com/aozmh/crake)|
-|**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|[link](https://github.com/jzbjyb/omnitab)|
 
 ## Reasoning
 
