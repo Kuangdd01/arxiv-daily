@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-21 09:55:56
+ Automated deployment @ 2022-07-21 20:41:14
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,18 +8,19 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-07-19**|**Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks**|Motonari Kambara et.al.|[2207.09083v1](http://arxiv.org/abs/2207.09083v1)|null|
+|**2022-07-19**|**QuoteKG: A Multilingual Knowledge Graph of Quotes**|Tin Kuculo et.al.|[2207.09562v1](http://arxiv.org/abs/2207.09562v1)|[link](https://github.com/tkuculo/quotekg)|
+|**2022-07-19**|**Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks**|Motonari Kambara et.al.|[2207.09083v1](http://arxiv.org/abs/2207.09083v1)|[link](https://github.com/keio-smilab22/relationalfuturecaptioningmodel)|
 |**2022-07-18**|**Human Brains Can't Detect Fake News: A Neuro-Cognitive Study of Textual Disinformation Susceptibility**|Cagri Arisoy et.al.|[2207.08376v1](http://arxiv.org/abs/2207.08376v1)|null|
 |**2022-07-17**|**Towards Explainability in NLP: Analyzing and Calculating Word Saliency through Word Properties**|Jialiang Dong et.al.|[2207.08083v1](http://arxiv.org/abs/2207.08083v1)|null|
 |**2022-07-15**|**Modeling Non-Cooperative Dialogue: Theoretical and Empirical Insights**|Anthony Sicilia et.al.|[2207.07255v1](http://arxiv.org/abs/2207.07255v1)|[link](https://github.com/anthonysicilia/modeling-non-cooperation-tacl2022)|
 |**2022-07-14**|**Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language**|Rita Sevastjanova et.al.|[2207.06897v1](http://arxiv.org/abs/2207.06897v1)|null|
-|**2022-07-11**|**TArC: Tunisian Arabish Corpus First complete release**|Elisa Gugliotta et.al.|[2207.04796v1](http://arxiv.org/abs/2207.04796v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-20**|**Integrating Linguistic Theory and Neural Language Models**|Bai Li et.al.|[2207.09643v1](http://arxiv.org/abs/2207.09643v1)|[link](https://github.com/spoclab-ca/neural-reality-constructions)|
 |**2022-07-19**|**On the Usability of Transformers-based models for a French Question-Answering task**|Oralie Cattan et.al.|[2207.09150v1](http://arxiv.org/abs/2207.09150v1)|null|
 |**2022-07-19**|**Can You Fool AI by Doing a 180? $\unicode{x2013}$ A Case Study on Authorship Analysis of Texts by Arata Osada**|Jagna Nieuwazny et.al.|[2207.09085v1](http://arxiv.org/abs/2207.09085v1)|null|
 |**2022-07-19**|**PiC: A Phrase-in-Context Dataset for Phrase Understanding and Semantic Search**|Thang M. Pham et.al.|[2207.09068v2](http://arxiv.org/abs/2207.09068v2)|[link](https://github.com/Phrase-in-Context/eval)|
@@ -28,7 +29,7 @@
 |**2022-07-17**|**Can large language models reason about medical questions?**|Valentin Liévin et.al.|[2207.08143v1](http://arxiv.org/abs/2207.08143v1)|null|
 |**2022-07-17**|**United States Politicians' Tone Became More Negative with 2016 Primary Campaigns**|Jonathan Külz et.al.|[2207.08112v1](http://arxiv.org/abs/2207.08112v1)|[link](https://github.com/epfl-dlab/negativity_in_2016_campaign)|
 |**2022-07-17**|**A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for Debiasing in Multimodal Conversational Emotion Recognition**|Jinglin Wang et.al.|[2207.08104v1](http://arxiv.org/abs/2207.08104v1)|null|
-|**2022-07-17**|**Aspect-specific Context Modeling for Aspect-based Sentiment Analysis**|Fang Ma et.al.|[2207.08099v1](http://arxiv.org/abs/2207.08099v1)|null|
+|**2022-07-17**|**Aspect-specific Context Modeling for Aspect-based Sentiment Analysis**|Fang Ma et.al.|[2207.08099v1](http://arxiv.org/abs/2207.08099v1)|[link](https://github.com/bd-mf/ascm4absa)|
 |**2022-07-14**|**Deep versus Wide: An Analysis of Student Architectures for Task-Agnostic Knowledge Distillation of Self-Supervised Speech Models**|Takanori Ashihara et.al.|[2207.06867v1](http://arxiv.org/abs/2207.06867v1)|null|
 |**2022-07-14**|**Neural Data-to-Text Generation Based on Small Datasets: Comparing the Added Value of Two Semi-Supervised Learning Approaches on Top of a Large Language Model**|Chris van der Lee et.al.|[2207.06839v1](http://arxiv.org/abs/2207.06839v1)|null|
 |**2022-07-14**|**Layout-Aware Information Extraction for Document-Grounded Dialogue: Dataset, Method and Demonstration**|Zhenyu Zhang et.al.|[2207.06717v1](http://arxiv.org/abs/2207.06717v1)|null|
@@ -42,7 +43,6 @@
 |**2022-07-11**|**Language Models (Mostly) Know What They Know**|Saurav Kadavath et.al.|[2207.05221v3](http://arxiv.org/abs/2207.05221v3)|null|
 |**2022-07-11**|**Embedding Recycling for Language Models**|Jon Saad-Falcon et.al.|[2207.04993v1](http://arxiv.org/abs/2207.04993v1)|[link](https://github.com/allenai/embeddingrecycling)|
 |**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
-|**2022-07-10**|**Human-Centric Research for NLP: Towards a Definition and Guiding Questions**|Bhushan Kotnis et.al.|[2207.04447v1](http://arxiv.org/abs/2207.04447v1)|null|
 
 ## Reasoning
 
@@ -173,11 +173,9 @@
 |**2022-05-19**|**Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning**|Antonia Creswell et.al.|[2205.09712v1](http://arxiv.org/abs/2205.09712v1)|null|
 |**2022-05-19**|**Educational Tools for Mapuzugun**|Cristian Ahumada et.al.|[2205.10411v1](http://arxiv.org/abs/2205.10411v1)|null|
 |**2022-05-18**|**Modeling Multi-hop Question Answering as Single Sequence Prediction**|Semih Yavuz et.al.|[2205.09226v1](http://arxiv.org/abs/2205.09226v1)|null|
-|**2022-05-18**|**Entailment Tree Explanations via Iterative Retrieval-Generation Reasoner**|Danilo Ribeiro et.al.|[2205.09224v2](http://arxiv.org/abs/2205.09224v2)|null|
+|**2022-05-18**|**Entailment Tree Explanations via Iterative Retrieval-Generation Reasoner**|Danilo Ribeiro et.al.|[2205.09224v2](http://arxiv.org/abs/2205.09224v2)|[link](https://github.com/amazon-research/irgr)|
 |**2022-05-18**|**Color Overmodification Emerges from Data-Driven Learning and Pragmatic Reasoning**|Fei Fang et.al.|[2205.09172v1](http://arxiv.org/abs/2205.09172v1)|null|
 |**2022-05-18**|**Entity Alignment with Reliable Path Reasoning and Relation-Aware Heterogeneous Graph Transformer**|Weishan Cai et.al.|[2205.08806v1](http://arxiv.org/abs/2205.08806v1)|null|
 |**2022-05-18**|**LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**|Xinyu Pi et.al.|[2205.08794v1](http://arxiv.org/abs/2205.08794v1)|null|
 |**2022-05-17**|**Tackling Math Word Problems with Fine-to-Coarse Abstracting and Reasoning**|Ailisi Li et.al.|[2205.08274v1](http://arxiv.org/abs/2205.08274v1)|null|
 |**2022-05-17**|**LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning**|Zhicheng Yang et.al.|[2205.08232v1](http://arxiv.org/abs/2205.08232v1)|null|
-|**2022-05-17**|**Unbiased Math Word Problems Benchmark for Mitigating Solving Bias**|Zhicheng Yang et.al.|[2205.08108v1](http://arxiv.org/abs/2205.08108v1)|[link](https://github.com/yangzhch6/unbiasedmwp)|
-|**2022-05-16**|**Reasoning about Procedures with Natural Language Processing: A Tutorial**|Li Zhang et.al.|[2205.07455v1](http://arxiv.org/abs/2205.07455v1)|null|
