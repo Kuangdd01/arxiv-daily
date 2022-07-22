@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-22 09:58:49
+ Automated deployment @ 2022-07-22 20:38:35
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
 |**2022-07-19**|**QuoteKG: A Multilingual Knowledge Graph of Quotes**|Tin Kuculo et.al.|[2207.09562v1](http://arxiv.org/abs/2207.09562v1)|[link](https://github.com/tkuculo/quotekg)|
 |**2022-07-19**|**Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks**|Motonari Kambara et.al.|[2207.09083v1](http://arxiv.org/abs/2207.09083v1)|[link](https://github.com/keio-smilab22/relationalfuturecaptioningmodel)|
 |**2022-07-18**|**Human Brains Can't Detect Fake News: A Neuro-Cognitive Study of Textual Disinformation Susceptibility**|Cagri Arisoy et.al.|[2207.08376v1](http://arxiv.org/abs/2207.08376v1)|null|
@@ -20,6 +21,7 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-21**|**Leveraging Natural Supervision for Language Representation Learning and Generation**|Mingda Chen et.al.|[2207.10617v1](http://arxiv.org/abs/2207.10617v1)|[link](https://github.com/mingdachen/syntactic-template-generation)|
 |**2022-07-20**|**Integrating Linguistic Theory and Neural Language Models**|Bai Li et.al.|[2207.09643v1](http://arxiv.org/abs/2207.09643v1)|[link](https://github.com/spoclab-ca/neural-reality-constructions)|
 |**2022-07-19**|**On the Usability of Transformers-based models for a French Question-Answering task**|Oralie Cattan et.al.|[2207.09150v1](http://arxiv.org/abs/2207.09150v1)|null|
 |**2022-07-19**|**Can You Fool AI by Doing a 180? $\unicode{x2013}$ A Case Study on Authorship Analysis of Texts by Arata Osada**|Jagna Nieuwazny et.al.|[2207.09085v1](http://arxiv.org/abs/2207.09085v1)|null|
@@ -35,20 +37,17 @@
 |**2022-07-14**|**Layout-Aware Information Extraction for Document-Grounded Dialogue: Dataset, Method and Demonstration**|Zhenyu Zhang et.al.|[2207.06717v1](http://arxiv.org/abs/2207.06717v1)|null|
 |**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
 |**2022-07-13**|**Re2G: Retrieve, Rerank, Generate**|Michael Glass et.al.|[2207.06300v1](http://arxiv.org/abs/2207.06300v1)|[link](https://github.com/ibm/kgi-slot-filling)|
+|**2022-07-13**|**Wide & Deep Learning for Judging Student Performance in Online One-on-one Math Classes**|Jiahao Chen et.al.|[2207.10645v1](http://arxiv.org/abs/2207.10645v1)|null|
 |**2022-07-12**|**A Novel DeBERTa-based Model for Financial Question Answering Task**|Yanbo J. Wang et.al.|[2207.05875v1](http://arxiv.org/abs/2207.05875v1)|null|
 |**2022-07-12**|**How Do Multilingual Encoders Learn Cross-lingual Representation?**|Shijie Wu et.al.|[2207.05737v1](http://arxiv.org/abs/2207.05737v1)|null|
 |**2022-07-12**|**Inner Monologue: Embodied Reasoning through Planning with Language Models**|Wenlong Huang et.al.|[2207.05608v1](http://arxiv.org/abs/2207.05608v1)|null|
-|**2022-07-12**|**Effective Few-Shot Named Entity Linking by Meta-Learning**|Xiuxing Li et.al.|[2207.05280v2](http://arxiv.org/abs/2207.05280v2)|null|
-|**2022-07-12**|**A Survey on Table Question Answering: Recent Advances**|Nengzheng Jin et.al.|[2207.05270v1](http://arxiv.org/abs/2207.05270v1)|null|
-|**2022-07-11**|**Language Models (Mostly) Know What They Know**|Saurav Kadavath et.al.|[2207.05221v3](http://arxiv.org/abs/2207.05221v3)|null|
-|**2022-07-11**|**Embedding Recycling for Language Models**|Jon Saad-Falcon et.al.|[2207.04993v1](http://arxiv.org/abs/2207.04993v1)|[link](https://github.com/allenai/embeddingrecycling)|
-|**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
 |**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v1](http://arxiv.org/abs/2207.08739v1)|[link](https://github.com/itemzheng/kddaug)|
 |**2022-07-18**|**Classifying COVID-19 vaccine narratives**|Yue Li et.al.|[2207.08522v1](http://arxiv.org/abs/2207.08522v1)|null|
 |**2022-07-17**|**Representation Learning of Image Schema**|Fajrian Yunus et.al.|[2207.08256v1](http://arxiv.org/abs/2207.08256v1)|null|
@@ -87,6 +86,7 @@
 |**2022-06-21**|**Using cognitive psychology to understand GPT-3**|Marcel Binz et.al.|[2206.14576v1](http://arxiv.org/abs/2206.14576v1)|null|
 |**2022-06-21**|**Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**|Karthik Valmeekam et.al.|[2206.10498v1](http://arxiv.org/abs/2206.10498v1)|[link](https://github.com/karthikv792/gpt-plan-benchmark)|
 |**2022-06-21**|**An Automatic and Efficient BERT Pruning for Edge AI Systems**|Shaoyi Huang et.al.|[2206.10461v1](http://arxiv.org/abs/2206.10461v1)|null|
+|**2022-06-18**|**AI Based Chatbot: An Approach of Utilizing On Customer Service Assistance**|Rejwan Bin Sulaiman et.al.|[2207.10573v1](http://arxiv.org/abs/2207.10573v1)|null|
 |**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
 |**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
 |**2022-06-16**|**DIALOG-22 RuATD Generated Text Detection**|Narek Maloyan et.al.|[2206.08029v1](http://arxiv.org/abs/2206.08029v1)|null|
@@ -176,6 +176,3 @@
 |**2022-05-18**|**Entailment Tree Explanations via Iterative Retrieval-Generation Reasoner**|Danilo Ribeiro et.al.|[2205.09224v2](http://arxiv.org/abs/2205.09224v2)|[link](https://github.com/amazon-research/irgr)|
 |**2022-05-18**|**Color Overmodification Emerges from Data-Driven Learning and Pragmatic Reasoning**|Fei Fang et.al.|[2205.09172v1](http://arxiv.org/abs/2205.09172v1)|null|
 |**2022-05-18**|**Entity Alignment with Reliable Path Reasoning and Relation-Aware Heterogeneous Graph Transformer**|Weishan Cai et.al.|[2205.08806v1](http://arxiv.org/abs/2205.08806v1)|null|
-|**2022-05-18**|**LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**|Xinyu Pi et.al.|[2205.08794v1](http://arxiv.org/abs/2205.08794v1)|null|
-|**2022-05-17**|**Tackling Math Word Problems with Fine-to-Coarse Abstracting and Reasoning**|Ailisi Li et.al.|[2205.08274v1](http://arxiv.org/abs/2205.08274v1)|null|
-|**2022-05-17**|**LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning**|Zhicheng Yang et.al.|[2205.08232v1](http://arxiv.org/abs/2205.08232v1)|null|
