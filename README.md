@@ -1,7 +1,20 @@
 # arxiv-daily
- Automated deployment @ 2022-07-25 20:41:55
+ Automated deployment @ 2022-07-25 21:27:22
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
+|**2022-07-19**|**QuoteKG: A Multilingual Knowledge Graph of Quotes**|Tin Kuculo et.al.|[2207.09562v1](http://arxiv.org/abs/2207.09562v1)|[link](https://github.com/tkuculo/quotekg)|
+|**2022-07-19**|**Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks**|Motonari Kambara et.al.|[2207.09083v1](http://arxiv.org/abs/2207.09083v1)|[link](https://github.com/keio-smilab22/relationalfuturecaptioningmodel)|
+|**2022-07-18**|**Human Brains Can't Detect Fake News: A Neuro-Cognitive Study of Textual Disinformation Susceptibility**|Cagri Arisoy et.al.|[2207.08376v1](http://arxiv.org/abs/2207.08376v1)|null|
+|**2022-07-17**|**Towards Explainability in NLP: Analyzing and Calculating Word Saliency through Word Properties**|Jialiang Dong et.al.|[2207.08083v1](http://arxiv.org/abs/2207.08083v1)|null|
+|**2022-07-15**|**Modeling Non-Cooperative Dialogue: Theoretical and Empirical Insights**|Anthony Sicilia et.al.|[2207.07255v1](http://arxiv.org/abs/2207.07255v1)|[link](https://github.com/anthonysicilia/modeling-non-cooperation-tacl2022)|
+|**2022-07-14**|**Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language**|Rita Sevastjanova et.al.|[2207.06897v1](http://arxiv.org/abs/2207.06897v1)|null|
 
 ## Question Answering
 
@@ -24,19 +37,6 @@
 |**2022-07-14**|**Layout-Aware Information Extraction for Document-Grounded Dialogue: Dataset, Method and Demonstration**|Zhenyu Zhang et.al.|[2207.06717v1](http://arxiv.org/abs/2207.06717v1)|null|
 |**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
 |**2022-07-13**|**Re2G: Retrieve, Rerank, Generate**|Michael Glass et.al.|[2207.06300v1](http://arxiv.org/abs/2207.06300v1)|[link](https://github.com/ibm/kgi-slot-filling)|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
-|**2022-07-19**|**QuoteKG: A Multilingual Knowledge Graph of Quotes**|Tin Kuculo et.al.|[2207.09562v1](http://arxiv.org/abs/2207.09562v1)|[link](https://github.com/tkuculo/quotekg)|
-|**2022-07-19**|**Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks**|Motonari Kambara et.al.|[2207.09083v1](http://arxiv.org/abs/2207.09083v1)|[link](https://github.com/keio-smilab22/relationalfuturecaptioningmodel)|
-|**2022-07-18**|**Human Brains Can't Detect Fake News: A Neuro-Cognitive Study of Textual Disinformation Susceptibility**|Cagri Arisoy et.al.|[2207.08376v1](http://arxiv.org/abs/2207.08376v1)|null|
-|**2022-07-17**|**Towards Explainability in NLP: Analyzing and Calculating Word Saliency through Word Properties**|Jialiang Dong et.al.|[2207.08083v1](http://arxiv.org/abs/2207.08083v1)|null|
-|**2022-07-15**|**Modeling Non-Cooperative Dialogue: Theoretical and Empirical Insights**|Anthony Sicilia et.al.|[2207.07255v1](http://arxiv.org/abs/2207.07255v1)|[link](https://github.com/anthonysicilia/modeling-non-cooperation-tacl2022)|
-|**2022-07-14**|**Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language**|Rita Sevastjanova et.al.|[2207.06897v1](http://arxiv.org/abs/2207.06897v1)|null|
 
 ## Reasoning
 
