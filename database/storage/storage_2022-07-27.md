@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-27 10:04:33
+ Automated deployment @ 2022-07-27 20:43:30
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,18 +8,20 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
 |**2022-07-23**|**Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations**|Qian Yang et.al.|[2207.11401v1](http://arxiv.org/abs/2207.11401v1)|null|
 |**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
 |**2022-07-19**|**QuoteKG: A Multilingual Knowledge Graph of Quotes**|Tin Kuculo et.al.|[2207.09562v1](http://arxiv.org/abs/2207.09562v1)|[link](https://github.com/tkuculo/quotekg)|
 |**2022-07-19**|**Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks**|Motonari Kambara et.al.|[2207.09083v1](http://arxiv.org/abs/2207.09083v1)|[link](https://github.com/keio-smilab22/relationalfuturecaptioningmodel)|
-|**2022-07-18**|**Human Brains Can't Detect Fake News: A Neuro-Cognitive Study of Textual Disinformation Susceptibility**|Cagri Arisoy et.al.|[2207.08376v1](http://arxiv.org/abs/2207.08376v1)|null|
-|**2022-07-17**|**Towards Explainability in NLP: Analyzing and Calculating Word Saliency through Word Properties**|Jialiang Dong et.al.|[2207.08083v1](http://arxiv.org/abs/2207.08083v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
+|**2022-07-26**|**Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**|Haoxuan You et.al.|[2207.12661v1](http://arxiv.org/abs/2207.12661v1)|[link](https://github.com/hxyou/msclip)|
+|**2022-07-25**|**WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models**|Yonatan Bitton et.al.|[2207.12576v1](http://arxiv.org/abs/2207.12576v1)|[link](https://github.com/winogavil/winogavil-experiments)|
 |**2022-07-25**|**Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?**|Pietro Bongini et.al.|[2207.12101v1](http://arxiv.org/abs/2207.12101v1)|null|
 |**2022-07-23**|**$μ\text{KG}$: A Library for Multi-source Knowledge Graph Embeddings and Applications**|Xindi Luo et.al.|[2207.11442v1](http://arxiv.org/abs/2207.11442v1)|[link](https://github.com/nju-websoft/mukg)|
 |**2022-07-21**|**Leveraging Natural Supervision for Language Representation Learning and Generation**|Mingda Chen et.al.|[2207.10617v1](http://arxiv.org/abs/2207.10617v1)|[link](https://github.com/mingdachen/syntactic-template-generation)|
@@ -39,6 +41,8 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|[link](https://github.com/newsstoriesdata/newsstories.github.io)|
+|**2022-07-25**|**WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models**|Yonatan Bitton et.al.|[2207.12576v1](http://arxiv.org/abs/2207.12576v1)|[link](https://github.com/winogavil/winogavil-experiments)|
 |**2022-07-24**|**Counterfactual Reasoning for Out-of-distribution Multimodal Sentiment Analysis**|Teng Sun et.al.|[2207.11652v1](http://arxiv.org/abs/2207.11652v1)|[link](https://github.com/teng-sun/clue_model)|
 |**2022-07-23**|**Better Reasoning Behind Classification Predictions with BERT for Fake News Detection**|Daesoo Lee et.al.|[2207.11562v1](http://arxiv.org/abs/2207.11562v1)|null|
 |**2022-07-23**|**Enhancing Document-level Relation Extraction by Entity Knowledge Injection**|Xinyi Wang et.al.|[2207.11433v1](http://arxiv.org/abs/2207.11433v1)|[link](https://github.com/nju-websoft/kire)|
@@ -161,5 +165,3 @@
 |**2022-05-22**|**Interpretable Proof Generation via Iterative Backward Reasoning**|Hanhao Qu et.al.|[2205.10714v2](http://arxiv.org/abs/2205.10714v2)|[link](https://github.com/find-knowledge/ibr)|
 |**2022-05-21**|**An Empirical Investigation of Commonsense Self-Supervision with Knowledge Graphs**|Jiarui Zhang et.al.|[2205.10661v1](http://arxiv.org/abs/2205.10661v1)|null|
 |**2022-05-21**|**Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**|Denny Zhou et.al.|[2205.10625v1](http://arxiv.org/abs/2205.10625v1)|null|
-|**2022-05-21**|**Named Entity Linking on Namesakes**|Oleg Vasilyev et.al.|[2205.10498v1](http://arxiv.org/abs/2205.10498v1)|null|
-|**2022-05-20**|**Down and Across: Introducing Crossword-Solving as a New NLP Benchmark**|Saurabh Kulshreshtha et.al.|[2205.10442v1](http://arxiv.org/abs/2205.10442v1)|null|
