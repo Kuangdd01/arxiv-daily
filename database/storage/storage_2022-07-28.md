@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-28 09:53:50
+ Automated deployment @ 2022-07-28 20:43:32
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -19,6 +19,8 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-27**|**RealTime QA: What's the Answer Right Now?**|Jungo Kasai et.al.|[2207.13332v1](http://arxiv.org/abs/2207.13332v1)|null|
+|**2022-07-27**|**Uncertainty-based Visual Question Answering: Estimating Semantic Inconsistency between Image and Knowledge Base**|Jinyeong Chae et.al.|[2207.13242v1](http://arxiv.org/abs/2207.13242v1)|null|
 |**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
 |**2022-07-26**|**Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**|Haoxuan You et.al.|[2207.12661v1](http://arxiv.org/abs/2207.12661v1)|[link](https://github.com/hxyou/msclip)|
 |**2022-07-25**|**WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models**|Yonatan Bitton et.al.|[2207.12576v1](http://arxiv.org/abs/2207.12576v1)|[link](https://github.com/winogavil/winogavil-experiments)|
@@ -31,10 +33,6 @@
 |**2022-07-19**|**PiC: A Phrase-in-Context Dataset for Phrase Understanding and Semantic Search**|Thang M. Pham et.al.|[2207.09068v2](http://arxiv.org/abs/2207.09068v2)|[link](https://github.com/Phrase-in-Context/eval)|
 |**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v1](http://arxiv.org/abs/2207.08739v1)|[link](https://github.com/itemzheng/kddaug)|
 |**2022-07-17**|**An Overview of Distant Supervision for Relation Extraction with a Focus on Denoising and Pre-training Methods**|William Hogan et.al.|[2207.08286v1](http://arxiv.org/abs/2207.08286v1)|null|
-|**2022-07-17**|**Can large language models reason about medical questions?**|Valentin Liévin et.al.|[2207.08143v1](http://arxiv.org/abs/2207.08143v1)|null|
-|**2022-07-17**|**United States Politicians' Tone Became More Negative with 2016 Primary Campaigns**|Jonathan Külz et.al.|[2207.08112v1](http://arxiv.org/abs/2207.08112v1)|[link](https://github.com/epfl-dlab/negativity_in_2016_campaign)|
-|**2022-07-17**|**A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for Debiasing in Multimodal Conversational Emotion Recognition**|Jinglin Wang et.al.|[2207.08104v1](http://arxiv.org/abs/2207.08104v1)|null|
-|**2022-07-17**|**Aspect-specific Context Modeling for Aspect-based Sentiment Analysis**|Fang Ma et.al.|[2207.08099v1](http://arxiv.org/abs/2207.08099v1)|[link](https://github.com/bd-mf/ascm4absa)|
 
 ## Reasoning
 
@@ -164,4 +162,3 @@
 |**2022-05-23**|**DistilCamemBERT: a distillation of the French model CamemBERT**|Cyrile Delestre et.al.|[2205.11111v1](http://arxiv.org/abs/2205.11111v1)|null|
 |**2022-05-22**|**Interpretable Proof Generation via Iterative Backward Reasoning**|Hanhao Qu et.al.|[2205.10714v2](http://arxiv.org/abs/2205.10714v2)|[link](https://github.com/find-knowledge/ibr)|
 |**2022-05-21**|**An Empirical Investigation of Commonsense Self-Supervision with Knowledge Graphs**|Jiarui Zhang et.al.|[2205.10661v1](http://arxiv.org/abs/2205.10661v1)|null|
-|**2022-05-21**|**Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**|Denny Zhou et.al.|[2205.10625v1](http://arxiv.org/abs/2205.10625v1)|null|
