@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-29 10:02:55
+ Automated deployment @ 2022-07-29 20:39:45
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,17 +8,18 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-27**|**CompText: Visualizing, Comparing & Understanding Text Corpus**|Suvi Varshney et.al.|[2207.13771v1](http://arxiv.org/abs/2207.13771v1)|null|
 |**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
 |**2022-07-23**|**Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations**|Qian Yang et.al.|[2207.11401v1](http://arxiv.org/abs/2207.11401v1)|null|
 |**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
-|**2022-07-19**|**QuoteKG: A Multilingual Knowledge Graph of Quotes**|Tin Kuculo et.al.|[2207.09562v1](http://arxiv.org/abs/2207.09562v1)|[link](https://github.com/tkuculo/quotekg)|
-|**2022-07-19**|**Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks**|Motonari Kambara et.al.|[2207.09083v1](http://arxiv.org/abs/2207.09083v1)|[link](https://github.com/keio-smilab22/relationalfuturecaptioningmodel)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-28**|**Measuring Causal Effects of Data Statistics on Language Model's `Factual' Predictions**|Yanai Elazar et.al.|[2207.14251v1](http://arxiv.org/abs/2207.14251v1)|null|
+|**2022-07-28**|**Sequence to sequence pretraining for a less-resourced Slovenian language**|Matej Ulčar et.al.|[2207.13988v1](http://arxiv.org/abs/2207.13988v1)|null|
 |**2022-07-27**|**RealTime QA: What's the Answer Right Now?**|Jungo Kasai et.al.|[2207.13332v1](http://arxiv.org/abs/2207.13332v1)|[link](https://github.com/realtimeqa/realtimeqa_public)|
 |**2022-07-27**|**Uncertainty-based Visual Question Answering: Estimating Semantic Inconsistency between Image and Knowledge Base**|Jinyeong Chae et.al.|[2207.13242v1](http://arxiv.org/abs/2207.13242v1)|null|
 |**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
@@ -31,14 +32,15 @@
 |**2022-07-19**|**On the Usability of Transformers-based models for a French Question-Answering task**|Oralie Cattan et.al.|[2207.09150v1](http://arxiv.org/abs/2207.09150v1)|null|
 |**2022-07-19**|**Can You Fool AI by Doing a 180? $\unicode{x2013}$ A Case Study on Authorship Analysis of Texts by Arata Osada**|Jagna Nieuwazny et.al.|[2207.09085v1](http://arxiv.org/abs/2207.09085v1)|null|
 |**2022-07-19**|**PiC: A Phrase-in-Context Dataset for Phrase Understanding and Semantic Search**|Thang M. Pham et.al.|[2207.09068v2](http://arxiv.org/abs/2207.09068v2)|[link](https://github.com/Phrase-in-Context/eval)|
-|**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v1](http://arxiv.org/abs/2207.08739v1)|[link](https://github.com/itemzheng/kddaug)|
-|**2022-07-17**|**An Overview of Distant Supervision for Relation Extraction with a Focus on Denoising and Pre-training Methods**|William Hogan et.al.|[2207.08286v1](http://arxiv.org/abs/2207.08286v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-28**|**Measuring Causal Effects of Data Statistics on Language Model's `Factual' Predictions**|Yanai Elazar et.al.|[2207.14251v1](http://arxiv.org/abs/2207.14251v1)|null|
+|**2022-07-28**|**Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation**|Qiming Bao et.al.|[2207.14000v1](http://arxiv.org/abs/2207.14000v1)|null|
+|**2022-07-28**|**An Interpretability Evaluation Benchmark for Pre-trained Language Models**|Yaozong Shen et.al.|[2207.13948v1](http://arxiv.org/abs/2207.13948v1)|null|
 |**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|[link](https://github.com/newsstoriesdata/newsstories.github.io)|
 |**2022-07-25**|**WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models**|Yonatan Bitton et.al.|[2207.12576v1](http://arxiv.org/abs/2207.12576v1)|[link](https://github.com/winogavil/winogavil-experiments)|
 |**2022-07-24**|**Counterfactual Reasoning for Out-of-distribution Multimodal Sentiment Analysis**|Teng Sun et.al.|[2207.11652v1](http://arxiv.org/abs/2207.11652v1)|[link](https://github.com/teng-sun/clue_model)|
@@ -160,5 +162,3 @@
 |**2022-05-23**|**Consistency of UML class, object and statechart diagrams using ontology reasoners**|Ali Hanzala Khan et.al.|[2205.11177v1](http://arxiv.org/abs/2205.11177v1)|null|
 |**2022-05-23**|**PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models**|Yuan Yao et.al.|[2205.11169v1](http://arxiv.org/abs/2205.11169v1)|[link](https://github.com/thunlp/pevl)|
 |**2022-05-23**|**DistilCamemBERT: a distillation of the French model CamemBERT**|Cyrile Delestre et.al.|[2205.11111v1](http://arxiv.org/abs/2205.11111v1)|null|
-|**2022-05-22**|**Interpretable Proof Generation via Iterative Backward Reasoning**|Hanhao Qu et.al.|[2205.10714v2](http://arxiv.org/abs/2205.10714v2)|[link](https://github.com/find-knowledge/ibr)|
-|**2022-05-21**|**An Empirical Investigation of Commonsense Self-Supervision with Knowledge Graphs**|Jiarui Zhang et.al.|[2205.10661v1](http://arxiv.org/abs/2205.10661v1)|null|
