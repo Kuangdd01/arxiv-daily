@@ -1,7 +1,19 @@
 # arxiv-daily
- Automated deployment @ 2022-08-01 20:39:33
+ Automated deployment @ 2022-08-01 21:29:08
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
+|**2022-07-28**|**Large Language Models and the Reverse Turing Test**|Terrence Sejnowski et.al.|[2207.14382v1](http://arxiv.org/abs/2207.14382v1)|null|
+|**2022-07-27**|**CompText: Visualizing, Comparing & Understanding Text Corpus**|Suvi Varshney et.al.|[2207.13771v1](http://arxiv.org/abs/2207.13771v1)|null|
+|**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
+|**2022-07-23**|**Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations**|Qian Yang et.al.|[2207.11401v1](http://arxiv.org/abs/2207.11401v1)|null|
+|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
 
 ## Question Answering
 
@@ -19,18 +31,6 @@
 |**2022-07-23**|**$μ\text{KG}$: A Library for Multi-source Knowledge Graph Embeddings and Applications**|Xindi Luo et.al.|[2207.11442v2](http://arxiv.org/abs/2207.11442v2)|[link](https://github.com/nju-websoft/mukg)|
 |**2022-07-21**|**Leveraging Natural Supervision for Language Representation Learning and Generation**|Mingda Chen et.al.|[2207.10617v1](http://arxiv.org/abs/2207.10617v1)|[link](https://github.com/mingdachen/syntactic-template-generation)|
 |**2022-07-20**|**Integrating Linguistic Theory and Neural Language Models**|Bai Li et.al.|[2207.09643v1](http://arxiv.org/abs/2207.09643v1)|[link](https://github.com/spoclab-ca/neural-reality-constructions)|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
-|**2022-07-28**|**Large Language Models and the Reverse Turing Test**|Terrence Sejnowski et.al.|[2207.14382v1](http://arxiv.org/abs/2207.14382v1)|null|
-|**2022-07-27**|**CompText: Visualizing, Comparing & Understanding Text Corpus**|Suvi Varshney et.al.|[2207.13771v1](http://arxiv.org/abs/2207.13771v1)|null|
-|**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
-|**2022-07-23**|**Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations**|Qian Yang et.al.|[2207.11401v1](http://arxiv.org/abs/2207.11401v1)|null|
-|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
 
 ## Reasoning
 
