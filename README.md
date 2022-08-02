@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-02 10:09:52
+ Automated deployment @ 2022-08-02 20:41:56
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,18 +8,23 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-01**|**Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets**|Yousef Altaher et.al.|[2208.00932v1](http://arxiv.org/abs/2208.00932v1)|null|
+|**2022-07-31**|**PASTA: A Dataset for Modeling Participant States in Narratives**|Sayontan Ghosh et.al.|[2208.00329v1](http://arxiv.org/abs/2208.00329v1)|null|
 |**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
 |**2022-07-28**|**Large Language Models and the Reverse Turing Test**|Terrence Sejnowski et.al.|[2207.14382v2](http://arxiv.org/abs/2207.14382v2)|null|
 |**2022-07-27**|**CompText: Visualizing, Comparing & Understanding Text Corpus**|Suvi Varshney et.al.|[2207.13771v1](http://arxiv.org/abs/2207.13771v1)|null|
 |**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
 |**2022-07-23**|**Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations**|Qian Yang et.al.|[2207.11401v1](http://arxiv.org/abs/2207.11401v1)|null|
-|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|[link](https://github.com/junshern/few-shot-adaptation)|
+|**2022-08-01**|**Generative Bias for Visual Question Answering**|Jae Won Cho et.al.|[2208.00690v1](http://arxiv.org/abs/2208.00690v1)|null|
+|**2022-07-31**|**Neural Knowledge Bank for Pretrained Transformers**|Damai Dai et.al.|[2208.00399v1](http://arxiv.org/abs/2208.00399v1)|null|
+|**2022-07-30**|**Masked Autoencoders As The Unified Learners For Pre-Trained Sentence Representation**|Alexander Liu et.al.|[2208.00231v1](http://arxiv.org/abs/2208.00231v1)|null|
 |**2022-07-28**|**Measuring Causal Effects of Data Statistics on Language Model's `Factual' Predictions**|Yanai Elazar et.al.|[2207.14251v1](http://arxiv.org/abs/2207.14251v1)|null|
 |**2022-07-28**|**Sequence to sequence pretraining for a less-resourced Slovenian language**|Matej Ulčar et.al.|[2207.13988v1](http://arxiv.org/abs/2207.13988v1)|[link](https://github.com/matejulcar/slot5-tools)|
 |**2022-07-27**|**RealTime QA: What's the Answer Right Now?**|Jungo Kasai et.al.|[2207.13332v1](http://arxiv.org/abs/2207.13332v1)|[link](https://github.com/realtimeqa/realtimeqa_public)|
@@ -30,13 +35,13 @@
 |**2022-07-25**|**Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?**|Pietro Bongini et.al.|[2207.12101v1](http://arxiv.org/abs/2207.12101v1)|null|
 |**2022-07-23**|**$μ\text{KG}$: A Library for Multi-source Knowledge Graph Embeddings and Applications**|Xindi Luo et.al.|[2207.11442v2](http://arxiv.org/abs/2207.11442v2)|[link](https://github.com/nju-websoft/mukg)|
 |**2022-07-21**|**Leveraging Natural Supervision for Language Representation Learning and Generation**|Mingda Chen et.al.|[2207.10617v1](http://arxiv.org/abs/2207.10617v1)|[link](https://github.com/mingdachen/syntactic-template-generation)|
-|**2022-07-20**|**Integrating Linguistic Theory and Neural Language Models**|Bai Li et.al.|[2207.09643v1](http://arxiv.org/abs/2207.09643v1)|[link](https://github.com/spoclab-ca/neural-reality-constructions)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-31**|**PASTA: A Dataset for Modeling Participant States in Narratives**|Sayontan Ghosh et.al.|[2208.00329v1](http://arxiv.org/abs/2208.00329v1)|null|
 |**2022-07-28**|**Measuring Causal Effects of Data Statistics on Language Model's `Factual' Predictions**|Yanai Elazar et.al.|[2207.14251v1](http://arxiv.org/abs/2207.14251v1)|null|
 |**2022-07-28**|**Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation**|Qiming Bao et.al.|[2207.14000v1](http://arxiv.org/abs/2207.14000v1)|[link](https://github.com/strong-ai-lab/multi-step-deductive-reasoning-over-natural-language)|
 |**2022-07-28**|**An Interpretability Evaluation Benchmark for Pre-trained Language Models**|Yaozong Shen et.al.|[2207.13948v1](http://arxiv.org/abs/2207.13948v1)|null|
@@ -157,7 +162,3 @@
 |**2022-05-23**|**Penguins Don't Fly: Reasoning about Generics through Instantiations and Exceptions**|Emily Allaway et.al.|[2205.11658v1](http://arxiv.org/abs/2205.11658v1)|null|
 |**2022-05-23**|**On the Paradox of Learning to Reason from Data**|Honghua Zhang et.al.|[2205.11502v2](http://arxiv.org/abs/2205.11502v2)|[link](https://github.com/joshuacnf/paradox-learning2reason)|
 |**2022-05-23**|**VQA-GNN: Reasoning with Multimodal Semantic Graph for Visual Question Answering**|Yanan Wang et.al.|[2205.11501v1](http://arxiv.org/abs/2205.11501v1)|null|
-|**2022-05-23**|**Logical Reasoning with Span Predictions: Span-level Logical Atoms for Interpretable and Robust NLI Models**|Joe Stacey et.al.|[2205.11432v1](http://arxiv.org/abs/2205.11432v1)|null|
-|**2022-05-23**|**Consistency of UML class, object and statechart diagrams using ontology reasoners**|Ali Hanzala Khan et.al.|[2205.11177v1](http://arxiv.org/abs/2205.11177v1)|null|
-|**2022-05-23**|**PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models**|Yuan Yao et.al.|[2205.11169v1](http://arxiv.org/abs/2205.11169v1)|[link](https://github.com/thunlp/pevl)|
-|**2022-05-23**|**DistilCamemBERT: a distillation of the French model CamemBERT**|Cyrile Delestre et.al.|[2205.11111v1](http://arxiv.org/abs/2205.11111v1)|null|
