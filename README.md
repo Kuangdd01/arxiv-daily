@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-03 09:56:24
+ Automated deployment @ 2022-08-03 20:39:42
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,19 +8,26 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
+|**2022-08-02**|**Unravelling Interlanguage Facts via Explainable Machine Learning**|Barbara Berti et.al.|[2208.01468v1](http://arxiv.org/abs/2208.01468v1)|null|
+|**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
+|**2022-08-02**|**Automatic Classification of Bug Reports Based on Multiple Text Information and Reports' Intention**|Fanqi Meng et.al.|[2208.01274v1](http://arxiv.org/abs/2208.01274v1)|null|
+|**2022-08-01**|**Performance Disparities Between Accents in Automatic Speech Recognition**|Alex DiChristofano et.al.|[2208.01157v1](http://arxiv.org/abs/2208.01157v1)|null|
 |**2022-08-01**|**Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets**|Yousef Altaher et.al.|[2208.00932v1](http://arxiv.org/abs/2208.00932v1)|null|
 |**2022-07-31**|**PASTA: A Dataset for Modeling Participant States in Narratives**|Sayontan Ghosh et.al.|[2208.00329v1](http://arxiv.org/abs/2208.00329v1)|null|
 |**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
 |**2022-07-28**|**Large Language Models and the Reverse Turing Test**|Terrence Sejnowski et.al.|[2207.14382v2](http://arxiv.org/abs/2207.14382v2)|null|
 |**2022-07-27**|**CompText: Visualizing, Comparing & Understanding Text Corpus**|Suvi Varshney et.al.|[2207.13771v1](http://arxiv.org/abs/2207.13771v1)|null|
 |**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
-|**2022-07-23**|**Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations**|Qian Yang et.al.|[2207.11401v1](http://arxiv.org/abs/2207.11401v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
+|**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
+|**2022-08-02**|**To Answer or Not to Answer? Improving Machine Reading Comprehension Model with Span-based Contrastive Learning**|Yunjie Ji et.al.|[2208.01299v1](http://arxiv.org/abs/2208.01299v1)|null|
 |**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|[link](https://github.com/junshern/few-shot-adaptation)|
 |**2022-08-01**|**Generative Bias for Visual Question Answering**|Jae Won Cho et.al.|[2208.00690v2](http://arxiv.org/abs/2208.00690v2)|null|
 |**2022-07-31**|**Neural Knowledge Bank for Pretrained Transformers**|Damai Dai et.al.|[2208.00399v1](http://arxiv.org/abs/2208.00399v1)|null|
@@ -34,13 +41,14 @@
 |**2022-07-25**|**WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models**|Yonatan Bitton et.al.|[2207.12576v1](http://arxiv.org/abs/2207.12576v1)|[link](https://github.com/winogavil/winogavil-experiments)|
 |**2022-07-25**|**Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?**|Pietro Bongini et.al.|[2207.12101v1](http://arxiv.org/abs/2207.12101v1)|null|
 |**2022-07-23**|**$μ\text{KG}$: A Library for Multi-source Knowledge Graph Embeddings and Applications**|Xindi Luo et.al.|[2207.11442v2](http://arxiv.org/abs/2207.11442v2)|[link](https://github.com/nju-websoft/mukg)|
-|**2022-07-21**|**Leveraging Natural Supervision for Language Representation Learning and Generation**|Mingda Chen et.al.|[2207.10617v1](http://arxiv.org/abs/2207.10617v1)|[link](https://github.com/mingdachen/syntactic-template-generation)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
+|**2022-08-01**|**TextWorldExpress: Simulating Text Games at One Million Steps Per Second**|Peter A. Jansen et.al.|[2208.01174v1](http://arxiv.org/abs/2208.01174v1)|null|
 |**2022-07-31**|**PASTA: A Dataset for Modeling Participant States in Narratives**|Sayontan Ghosh et.al.|[2208.00329v1](http://arxiv.org/abs/2208.00329v1)|null|
 |**2022-07-28**|**Measuring Causal Effects of Data Statistics on Language Model's `Factual' Predictions**|Yanai Elazar et.al.|[2207.14251v1](http://arxiv.org/abs/2207.14251v1)|null|
 |**2022-07-28**|**Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation**|Qiming Bao et.al.|[2207.14000v1](http://arxiv.org/abs/2207.14000v1)|[link](https://github.com/strong-ai-lab/multi-step-deductive-reasoning-over-natural-language)|
@@ -160,5 +168,3 @@
 |**2022-05-24**|**A Survey on Neural Open Information Extraction: Current Status and Future Directions**|Shaowen Zhou et.al.|[2205.11725v2](http://arxiv.org/abs/2205.11725v2)|null|
 |**2022-05-24**|**On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization**|Shruti Palaskar et.al.|[2205.11686v1](http://arxiv.org/abs/2205.11686v1)|null|
 |**2022-05-23**|**Penguins Don't Fly: Reasoning about Generics through Instantiations and Exceptions**|Emily Allaway et.al.|[2205.11658v1](http://arxiv.org/abs/2205.11658v1)|null|
-|**2022-05-23**|**On the Paradox of Learning to Reason from Data**|Honghua Zhang et.al.|[2205.11502v2](http://arxiv.org/abs/2205.11502v2)|[link](https://github.com/joshuacnf/paradox-learning2reason)|
-|**2022-05-23**|**VQA-GNN: Reasoning with Multimodal Semantic Graph for Visual Question Answering**|Yanan Wang et.al.|[2205.11501v1](http://arxiv.org/abs/2205.11501v1)|null|
