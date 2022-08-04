@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-04 09:52:05
+ Automated deployment @ 2022-08-04 20:38:33
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -25,6 +25,8 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-03**|**A Study of Modeling Rising Intonation in Cantonese Neural Speech Synthesis**|Qibing Bai et.al.|[2208.02189v1](http://arxiv.org/abs/2208.02189v1)|null|
+|**2022-08-03**|**SpanDrop: Simple and Effective Counterfactual Learning for Long Sequences**|Peng Qi et.al.|[2208.02169v1](http://arxiv.org/abs/2208.02169v1)|null|
 |**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
 |**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
 |**2022-08-02**|**To Answer or Not to Answer? Improving Machine Reading Comprehension Model with Span-based Contrastive Learning**|Yunjie Ji et.al.|[2208.01299v1](http://arxiv.org/abs/2208.01299v1)|null|
@@ -40,13 +42,13 @@
 |**2022-07-26**|**Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**|Haoxuan You et.al.|[2207.12661v1](http://arxiv.org/abs/2207.12661v1)|[link](https://github.com/hxyou/msclip)|
 |**2022-07-25**|**WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models**|Yonatan Bitton et.al.|[2207.12576v1](http://arxiv.org/abs/2207.12576v1)|[link](https://github.com/winogavil/winogavil-experiments)|
 |**2022-07-25**|**Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?**|Pietro Bongini et.al.|[2207.12101v1](http://arxiv.org/abs/2207.12101v1)|null|
-|**2022-07-23**|**$μ\text{KG}$: A Library for Multi-source Knowledge Graph Embeddings and Applications**|Xindi Luo et.al.|[2207.11442v2](http://arxiv.org/abs/2207.11442v2)|[link](https://github.com/nju-websoft/mukg)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-03**|**SpanDrop: Simple and Effective Counterfactual Learning for Long Sequences**|Peng Qi et.al.|[2208.02169v1](http://arxiv.org/abs/2208.02169v1)|null|
 |**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
 |**2022-08-01**|**TextWorldExpress: Simulating Text Games at One Million Steps Per Second**|Peter A. Jansen et.al.|[2208.01174v1](http://arxiv.org/abs/2208.01174v1)|null|
 |**2022-07-31**|**PASTA: A Dataset for Modeling Participant States in Narratives**|Sayontan Ghosh et.al.|[2208.00329v1](http://arxiv.org/abs/2208.00329v1)|null|
@@ -167,4 +169,3 @@
 |**2022-05-24**|**From Easy to Hard: Two-stage Selector and Reader for Multi-hop Question Answering**|Xin-Yi Li et.al.|[2205.11729v1](http://arxiv.org/abs/2205.11729v1)|null|
 |**2022-05-24**|**A Survey on Neural Open Information Extraction: Current Status and Future Directions**|Shaowen Zhou et.al.|[2205.11725v2](http://arxiv.org/abs/2205.11725v2)|null|
 |**2022-05-24**|**On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization**|Shruti Palaskar et.al.|[2205.11686v1](http://arxiv.org/abs/2205.11686v1)|null|
-|**2022-05-23**|**Penguins Don't Fly: Reasoning about Generics through Instantiations and Exceptions**|Emily Allaway et.al.|[2205.11658v1](http://arxiv.org/abs/2205.11658v1)|null|
