@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-05 09:54:17
+ Automated deployment @ 2022-08-05 20:39:08
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -25,6 +25,8 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-04**|**N-best Response-based Analysis of Contradiction-awareness in Neural Response Generation Models**|Shiki Sato et.al.|[2208.02578v1](http://arxiv.org/abs/2208.02578v1)|null|
+|**2022-08-04**|**"Yeah, it does have a...Windows `98 Vibe'': Usability Study of Security Features in Programmable Logic Controllers**|Karen Li et.al.|[2208.02500v1](http://arxiv.org/abs/2208.02500v1)|null|
 |**2022-08-03**|**A Study of Modeling Rising Intonation in Cantonese Neural Speech Synthesis**|Qibing Bai et.al.|[2208.02189v1](http://arxiv.org/abs/2208.02189v1)|null|
 |**2022-08-03**|**SpanDrop: Simple and Effective Counterfactual Learning for Long Sequences**|Peng Qi et.al.|[2208.02169v1](http://arxiv.org/abs/2208.02169v1)|null|
 |**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
@@ -39,15 +41,13 @@
 |**2022-07-27**|**RealTime QA: What's the Answer Right Now?**|Jungo Kasai et.al.|[2207.13332v1](http://arxiv.org/abs/2207.13332v1)|[link](https://github.com/realtimeqa/realtimeqa_public)|
 |**2022-07-27**|**Uncertainty-based Visual Question Answering: Estimating Semantic Inconsistency between Image and Knowledge Base**|Jinyeong Chae et.al.|[2207.13242v1](http://arxiv.org/abs/2207.13242v1)|null|
 |**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|null|
-|**2022-07-26**|**Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**|Haoxuan You et.al.|[2207.12661v1](http://arxiv.org/abs/2207.12661v1)|[link](https://github.com/hxyou/msclip)|
-|**2022-07-25**|**WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models**|Yonatan Bitton et.al.|[2207.12576v1](http://arxiv.org/abs/2207.12576v1)|[link](https://github.com/winogavil/winogavil-experiments)|
-|**2022-07-25**|**Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?**|Pietro Bongini et.al.|[2207.12101v1](http://arxiv.org/abs/2207.12101v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-04**|**"Yeah, it does have a...Windows `98 Vibe'': Usability Study of Security Features in Programmable Logic Controllers**|Karen Li et.al.|[2208.02500v1](http://arxiv.org/abs/2208.02500v1)|null|
 |**2022-08-03**|**SpanDrop: Simple and Effective Counterfactual Learning for Long Sequences**|Peng Qi et.al.|[2208.02169v1](http://arxiv.org/abs/2208.02169v1)|null|
 |**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
 |**2022-08-01**|**TextWorldExpress: Simulating Text Games at One Million Steps Per Second**|Peter A. Jansen et.al.|[2208.01174v1](http://arxiv.org/abs/2208.01174v1)|[link](https://github.com/cognitiveailab/textworldexpress)|
@@ -167,5 +167,3 @@
 |**2022-05-24**|**Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations**|Jaehun Jung et.al.|[2205.11822v1](http://arxiv.org/abs/2205.11822v1)|null|
 |**2022-05-24**|**WeDef: Weakly Supervised Backdoor Defense for Text Classification**|Lesheng Jin et.al.|[2205.11803v1](http://arxiv.org/abs/2205.11803v1)|null|
 |**2022-05-24**|**From Easy to Hard: Two-stage Selector and Reader for Multi-hop Question Answering**|Xin-Yi Li et.al.|[2205.11729v1](http://arxiv.org/abs/2205.11729v1)|null|
-|**2022-05-24**|**A Survey on Neural Open Information Extraction: Current Status and Future Directions**|Shaowen Zhou et.al.|[2205.11725v2](http://arxiv.org/abs/2205.11725v2)|null|
-|**2022-05-24**|**On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization**|Shruti Palaskar et.al.|[2205.11686v1](http://arxiv.org/abs/2205.11686v1)|null|
