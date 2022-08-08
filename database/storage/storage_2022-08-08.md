@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-08 09:50:02
+ Automated deployment @ 2022-08-08 20:38:52
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -18,13 +18,16 @@
 |**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
 |**2022-07-28**|**Large Language Models and the Reverse Turing Test**|Terrence Sejnowski et.al.|[2207.14382v2](http://arxiv.org/abs/2207.14382v2)|null|
 |**2022-07-27**|**CompText: Visualizing, Comparing & Understanding Text Corpus**|Suvi Varshney et.al.|[2207.13771v1](http://arxiv.org/abs/2207.13771v1)|null|
-|**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|[link](https://github.com/yl3800/eigv)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-05**|**Few-shot Learning with Retrieval Augmented Language Model**|Gautier Izacard et.al.|[2208.03299v1](http://arxiv.org/abs/2208.03299v1)|null|
+|**2022-08-05**|**Low-Resource Dense Retrieval for Open-Domain Question Answering: A Comprehensive Survey**|Xiaoyu Shen et.al.|[2208.03197v1](http://arxiv.org/abs/2208.03197v1)|null|
+|**2022-08-05**|**Knowledge Authoring with Factual English**|Yuheng Wang et.al.|[2208.03094v1](http://arxiv.org/abs/2208.03094v1)|null|
+|**2022-08-05**|**ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**|Bingning Wang et.al.|[2208.03030v1](http://arxiv.org/abs/2208.03030v1)|[link](https://github.com/benywon/ChiQA)|
 |**2022-08-04**|**N-best Response-based Analysis of Contradiction-awareness in Neural Response Generation Models**|Shiki Sato et.al.|[2208.02578v1](http://arxiv.org/abs/2208.02578v1)|[link](https://github.com/shiki-sato/nbest-contradiction-analysis)|
 |**2022-08-04**|**"Yeah, it does have a...Windows `98 Vibe'': Usability Study of Security Features in Programmable Logic Controllers**|Karen Li et.al.|[2208.02500v1](http://arxiv.org/abs/2208.02500v1)|null|
 |**2022-08-03**|**A Study of Modeling Rising Intonation in Cantonese Neural Speech Synthesis**|Qibing Bai et.al.|[2208.02189v1](http://arxiv.org/abs/2208.02189v1)|null|
@@ -38,15 +41,15 @@
 |**2022-07-30**|**Masked Autoencoders As The Unified Learners For Pre-Trained Sentence Representation**|Alexander Liu et.al.|[2208.00231v1](http://arxiv.org/abs/2208.00231v1)|null|
 |**2022-07-28**|**Measuring Causal Effects of Data Statistics on Language Model's `Factual' Predictions**|Yanai Elazar et.al.|[2207.14251v1](http://arxiv.org/abs/2207.14251v1)|null|
 |**2022-07-28**|**Sequence to sequence pretraining for a less-resourced Slovenian language**|Matej Ulčar et.al.|[2207.13988v1](http://arxiv.org/abs/2207.13988v1)|[link](https://github.com/matejulcar/slot5-tools)|
-|**2022-07-27**|**RealTime QA: What's the Answer Right Now?**|Jungo Kasai et.al.|[2207.13332v1](http://arxiv.org/abs/2207.13332v1)|[link](https://github.com/realtimeqa/realtimeqa_public)|
-|**2022-07-27**|**Uncertainty-based Visual Question Answering: Estimating Semantic Inconsistency between Image and Knowledge Base**|Jinyeong Chae et.al.|[2207.13242v1](http://arxiv.org/abs/2207.13242v1)|null|
-|**2022-07-26**|**Equivariant and Invariant Grounding for Video Question Answering**|Yicong Li et.al.|[2207.12783v1](http://arxiv.org/abs/2207.12783v1)|[link](https://github.com/yl3800/eigv)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-05**|**Learning New Skills after Deployment: Improving open-domain internet-driven dialogue with human feedback**|Jing Xu et.al.|[2208.03270v1](http://arxiv.org/abs/2208.03270v1)|null|
+|**2022-08-05**|**Knowledge Authoring with Factual English**|Yuheng Wang et.al.|[2208.03094v1](http://arxiv.org/abs/2208.03094v1)|null|
+|**2022-08-05**|**ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**|Bingning Wang et.al.|[2208.03030v1](http://arxiv.org/abs/2208.03030v1)|[link](https://github.com/benywon/ChiQA)|
 |**2022-08-04**|**"Yeah, it does have a...Windows `98 Vibe'': Usability Study of Security Features in Programmable Logic Controllers**|Karen Li et.al.|[2208.02500v1](http://arxiv.org/abs/2208.02500v1)|null|
 |**2022-08-03**|**SpanDrop: Simple and Effective Counterfactual Learning for Long Sequences**|Peng Qi et.al.|[2208.02169v1](http://arxiv.org/abs/2208.02169v1)|null|
 |**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
@@ -158,12 +161,3 @@
 |**2022-05-25**|**Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI**|Suzanna Sia et.al.|[2205.12469v1](http://arxiv.org/abs/2205.12469v1)|null|
 |**2022-05-25**|**Generating Natural Language Proofs with Verifier-Guided Search**|Kaiyu Yang et.al.|[2205.12443v1](http://arxiv.org/abs/2205.12443v1)|[link](https://github.com/princeton-nlp/NLProofS)|
 |**2022-05-24**|**FLUTE: Figurative Language Understanding and Textual Explanations**|Tuhin Chakrabarty et.al.|[2205.12404v1](http://arxiv.org/abs/2205.12404v1)|[link](https://github.com/tuhinjubcse/model-in-the-loop-fig-lang)|
-|**2022-05-24**|**Continual-T0: Progressively Instructing 50+ Tasks to Language Models Without Forgetting**|Thomas Scialom et.al.|[2205.12393v1](http://arxiv.org/abs/2205.12393v1)|null|
-|**2022-05-24**|**Policy Compliance Detection via Expression Tree Inference**|Neema Kotonya et.al.|[2205.12259v1](http://arxiv.org/abs/2205.12259v1)|null|
-|**2022-05-24**|**TALM: Tool Augmented Language Models**|Aaron Parisi et.al.|[2205.12255v1](http://arxiv.org/abs/2205.12255v1)|null|
-|**2022-05-24**|**Partial-input baselines show that NLI models can ignore context, but they don't**|Neha Srikanth et.al.|[2205.12181v1](http://arxiv.org/abs/2205.12181v1)|[link](https://github.com/nehasrikn/context-editing)|
-|**2022-05-24**|**Large Language Models are Zero-Shot Reasoners**|Takeshi Kojima et.al.|[2205.11916v2](http://arxiv.org/abs/2205.11916v2)|[link](https://github.com/kojima-takeshi188/zero_shot_cot)|
-|**2022-05-24**|**A Paradigm Change for Formal Syntax: Computational Algorithms in the Grammar of English**|Anat Ninio et.al.|[2205.12825v1](http://arxiv.org/abs/2205.12825v1)|null|
-|**2022-05-24**|**Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations**|Jaehun Jung et.al.|[2205.11822v1](http://arxiv.org/abs/2205.11822v1)|null|
-|**2022-05-24**|**WeDef: Weakly Supervised Backdoor Defense for Text Classification**|Lesheng Jin et.al.|[2205.11803v1](http://arxiv.org/abs/2205.11803v1)|null|
-|**2022-05-24**|**From Easy to Hard: Two-stage Selector and Reader for Multi-hop Question Answering**|Xin-Yi Li et.al.|[2205.11729v1](http://arxiv.org/abs/2205.11729v1)|null|
