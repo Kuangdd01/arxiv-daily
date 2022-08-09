@@ -1,29 +1,17 @@
 # arxiv-daily
- Automated deployment @ 2022-08-09 10:00:46
+ Automated deployment @ 2022-08-09 20:42:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
-|**2022-08-02**|**Unravelling Interlanguage Facts via Explainable Machine Learning**|Barbara Berti et.al.|[2208.01468v1](http://arxiv.org/abs/2208.01468v1)|null|
-|**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
-|**2022-08-02**|**Automatic Classification of Bug Reports Based on Multiple Text Information and Reports' Intention**|Fanqi Meng et.al.|[2208.01274v1](http://arxiv.org/abs/2208.01274v1)|null|
-|**2022-08-01**|**Performance Disparities Between Accents in Automatic Speech Recognition**|Alex DiChristofano et.al.|[2208.01157v1](http://arxiv.org/abs/2208.01157v1)|null|
-|**2022-08-01**|**Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets**|Yousef Altaher et.al.|[2208.00932v1](http://arxiv.org/abs/2208.00932v1)|null|
-|**2022-07-31**|**PASTA: A Dataset for Modeling Participant States in Narratives**|Sayontan Ghosh et.al.|[2208.00329v1](http://arxiv.org/abs/2208.00329v1)|null|
-|**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
-|**2022-07-28**|**Large Language Models and the Reverse Turing Test**|Terrence Sejnowski et.al.|[2207.14382v2](http://arxiv.org/abs/2207.14382v2)|null|
-|**2022-07-27**|**CompText: Visualizing, Comparing & Understanding Text Corpus**|Suvi Varshney et.al.|[2207.13771v1](http://arxiv.org/abs/2207.13771v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-08**|**INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation**|Ahtsham Manzoor et.al.|[2208.04104v1](http://arxiv.org/abs/2208.04104v1)|null|
+|**2022-08-08**|**Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph**|Aiwei Liu et.al.|[2208.03903v1](http://arxiv.org/abs/2208.03903v1)|null|
+|**2022-08-08**|**What can we know about that which we cannot even imagine?**|David H. Wolpert et.al.|[2208.03886v1](http://arxiv.org/abs/2208.03886v1)|null|
+|**2022-08-05**|**Going Beyond Approximation: Encoding Constraints for Explainable Multi-hop Inference via Differentiable Combinatorial Solvers**|Mokanarangan Thayaparan et.al.|[2208.03339v1](http://arxiv.org/abs/2208.03339v1)|null|
 |**2022-08-05**|**Few-shot Learning with Retrieval Augmented Language Models**|Gautier Izacard et.al.|[2208.03299v2](http://arxiv.org/abs/2208.03299v2)|null|
 |**2022-08-05**|**Low-Resource Dense Retrieval for Open-Domain Question Answering: A Comprehensive Survey**|Xiaoyu Shen et.al.|[2208.03197v1](http://arxiv.org/abs/2208.03197v1)|null|
 |**2022-08-05**|**Knowledge Authoring with Factual English**|Yuheng Wang et.al.|[2208.03094v1](http://arxiv.org/abs/2208.03094v1)|[link](https://github.com/yuhengwang1/kalm-fl)|
@@ -39,14 +27,30 @@
 |**2022-08-01**|**Generative Bias for Visual Question Answering**|Jae Won Cho et.al.|[2208.00690v2](http://arxiv.org/abs/2208.00690v2)|null|
 |**2022-07-31**|**Neural Knowledge Bank for Pretrained Transformers**|Damai Dai et.al.|[2208.00399v1](http://arxiv.org/abs/2208.00399v1)|null|
 |**2022-07-30**|**Masked Autoencoders As The Unified Learners For Pre-Trained Sentence Representation**|Alexander Liu et.al.|[2208.00231v1](http://arxiv.org/abs/2208.00231v1)|null|
-|**2022-07-28**|**Measuring Causal Effects of Data Statistics on Language Model's `Factual' Predictions**|Yanai Elazar et.al.|[2207.14251v1](http://arxiv.org/abs/2207.14251v1)|null|
-|**2022-07-28**|**Sequence to sequence pretraining for a less-resourced Slovenian language**|Matej Ulčar et.al.|[2207.13988v1](http://arxiv.org/abs/2207.13988v1)|[link](https://github.com/matejulcar/slot5-tools)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-06**|**Short Duration Traffic Flow Prediction Using Kalman Filtering**|Khondhaker Al Momin et.al.|[2208.03415v1](http://arxiv.org/abs/2208.03415v1)|null|
+|**2022-08-05**|**Going Beyond Approximation: Encoding Constraints for Explainable Multi-hop Inference via Differentiable Combinatorial Solvers**|Mokanarangan Thayaparan et.al.|[2208.03339v1](http://arxiv.org/abs/2208.03339v1)|null|
+|**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
+|**2022-08-02**|**Unravelling Interlanguage Facts via Explainable Machine Learning**|Barbara Berti et.al.|[2208.01468v1](http://arxiv.org/abs/2208.01468v1)|null|
+|**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
+|**2022-08-02**|**Automatic Classification of Bug Reports Based on Multiple Text Information and Reports' Intention**|Fanqi Meng et.al.|[2208.01274v1](http://arxiv.org/abs/2208.01274v1)|null|
+|**2022-08-01**|**Performance Disparities Between Accents in Automatic Speech Recognition**|Alex DiChristofano et.al.|[2208.01157v1](http://arxiv.org/abs/2208.01157v1)|null|
+|**2022-08-01**|**Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets**|Yousef Altaher et.al.|[2208.00932v1](http://arxiv.org/abs/2208.00932v1)|null|
+|**2022-07-31**|**PASTA: A Dataset for Modeling Participant States in Narratives**|Sayontan Ghosh et.al.|[2208.00329v1](http://arxiv.org/abs/2208.00329v1)|null|
+|**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
+|**2022-07-28**|**Large Language Models and the Reverse Turing Test**|Terrence Sejnowski et.al.|[2207.14382v2](http://arxiv.org/abs/2207.14382v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-06**|**Short Duration Traffic Flow Prediction Using Kalman Filtering**|Khondhaker Al Momin et.al.|[2208.03415v1](http://arxiv.org/abs/2208.03415v1)|null|
 |**2022-08-05**|**Learning New Skills after Deployment: Improving open-domain internet-driven dialogue with human feedback**|Jing Xu et.al.|[2208.03270v1](http://arxiv.org/abs/2208.03270v1)|null|
 |**2022-08-05**|**Knowledge Authoring with Factual English**|Yuheng Wang et.al.|[2208.03094v1](http://arxiv.org/abs/2208.03094v1)|[link](https://github.com/yuhengwang1/kalm-fl)|
 |**2022-08-05**|**ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**|Bingning Wang et.al.|[2208.03030v1](http://arxiv.org/abs/2208.03030v1)|[link](https://github.com/benywon/ChiQA)|
@@ -159,5 +163,3 @@
 |**2022-05-25**|**ToKen: Task Decomposition and Knowledge Infusion for Few-Shot Hate Speech Detection**|Badr AlKhamissi et.al.|[2205.12495v1](http://arxiv.org/abs/2205.12495v1)|null|
 |**2022-05-25**|**End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models**|Barry Menglong Yao et.al.|[2205.12487v1](http://arxiv.org/abs/2205.12487v1)|null|
 |**2022-05-25**|**Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI**|Suzanna Sia et.al.|[2205.12469v1](http://arxiv.org/abs/2205.12469v1)|null|
-|**2022-05-25**|**Generating Natural Language Proofs with Verifier-Guided Search**|Kaiyu Yang et.al.|[2205.12443v1](http://arxiv.org/abs/2205.12443v1)|[link](https://github.com/princeton-nlp/NLProofS)|
-|**2022-05-24**|**FLUTE: Figurative Language Understanding and Textual Explanations**|Tuhin Chakrabarty et.al.|[2205.12404v1](http://arxiv.org/abs/2205.12404v1)|[link](https://github.com/tuhinjubcse/model-in-the-loop-fig-lang)|
