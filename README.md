@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-10 09:43:32
+ Automated deployment @ 2022-08-10 20:37:26
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,7 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-08-06**|**Short Duration Traffic Flow Prediction Using Kalman Filtering**|Khondhaker Al Momin et.al.|[2208.03415v1](http://arxiv.org/abs/2208.03415v1)|null|
+|**2022-08-09**|**Exploring Hate Speech Detection with HateXplain and BERT**|Arvind Subramaniam et.al.|[2208.04489v1](http://arxiv.org/abs/2208.04489v1)|null|
+|**2022-08-09**|**The Analysis of Synonymy and Antonymy in Discourse Relations: An interpretable Modeling Approach**|A. Reig-Alamillo et.al.|[2208.04479v1](http://arxiv.org/abs/2208.04479v1)|null|
 |**2022-08-05**|**Going Beyond Approximation: Encoding Constraints for Explainable Multi-hop Inference via Differentiable Combinatorial Solvers**|Mokanarangan Thayaparan et.al.|[2208.03339v1](http://arxiv.org/abs/2208.03339v1)|null|
 |**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
 |**2022-08-02**|**Unravelling Interlanguage Facts via Explainable Machine Learning**|Barbara Berti et.al.|[2208.01468v1](http://arxiv.org/abs/2208.01468v1)|null|
@@ -17,14 +18,13 @@
 |**2022-08-01**|**Performance Disparities Between Accents in Automatic Speech Recognition**|Alex DiChristofano et.al.|[2208.01157v1](http://arxiv.org/abs/2208.01157v1)|null|
 |**2022-08-01**|**Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets**|Yousef Altaher et.al.|[2208.00932v1](http://arxiv.org/abs/2208.00932v1)|null|
 |**2022-07-31**|**PASTA: A Dataset for Modeling Participant States in Narratives**|Sayontan Ghosh et.al.|[2208.00329v1](http://arxiv.org/abs/2208.00329v1)|null|
-|**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
-|**2022-07-28**|**Large Language Models and the Reverse Turing Test**|Terrence Sejnowski et.al.|[2207.14382v2](http://arxiv.org/abs/2207.14382v2)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-09**|**Where's the Learning in Representation Learning for Compositional Semantics and the Case of Thematic Fit**|Mughilan Muthupari et.al.|[2208.04749v1](http://arxiv.org/abs/2208.04749v1)|null|
 |**2022-08-08**|**INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation**|Ahtsham Manzoor et.al.|[2208.04104v1](http://arxiv.org/abs/2208.04104v1)|null|
 |**2022-08-08**|**Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph**|Aiwei Liu et.al.|[2208.03903v1](http://arxiv.org/abs/2208.03903v1)|null|
 |**2022-08-08**|**What can we know about that which we cannot even imagine?**|David H. Wolpert et.al.|[2208.03886v1](http://arxiv.org/abs/2208.03886v1)|null|
@@ -42,15 +42,13 @@
 |**2022-08-02**|**To Answer or Not to Answer? Improving Machine Reading Comprehension Model with Span-based Contrastive Learning**|Yunjie Ji et.al.|[2208.01299v1](http://arxiv.org/abs/2208.01299v1)|null|
 |**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v2](http://arxiv.org/abs/2208.01009v2)|[link](https://github.com/junshern/few-shot-adaptation)|
 |**2022-08-01**|**Generative Bias for Visual Question Answering**|Jae Won Cho et.al.|[2208.00690v2](http://arxiv.org/abs/2208.00690v2)|null|
-|**2022-07-31**|**Neural Knowledge Bank for Pretrained Transformers**|Damai Dai et.al.|[2208.00399v1](http://arxiv.org/abs/2208.00399v1)|null|
-|**2022-07-30**|**Masked Autoencoders As The Unified Learners For Pre-Trained Sentence Representation**|Alexander Liu et.al.|[2208.00231v1](http://arxiv.org/abs/2208.00231v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-08-06**|**Short Duration Traffic Flow Prediction Using Kalman Filtering**|Khondhaker Al Momin et.al.|[2208.03415v1](http://arxiv.org/abs/2208.03415v1)|null|
+|**2022-08-08**|**Deep Learning Driven Natural Languages Text to SQL Query Conversion: A Survey**|Ayush Kumar et.al.|[2208.04415v1](http://arxiv.org/abs/2208.04415v1)|null|
 |**2022-08-05**|**Learning New Skills after Deployment: Improving open-domain internet-driven dialogue with human feedback**|Jing Xu et.al.|[2208.03270v1](http://arxiv.org/abs/2208.03270v1)|null|
 |**2022-08-05**|**Knowledge Authoring with Factual English**|Yuheng Wang et.al.|[2208.03094v1](http://arxiv.org/abs/2208.03094v1)|[link](https://github.com/yuhengwang1/kalm-fl)|
 |**2022-08-05**|**ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**|Bingning Wang et.al.|[2208.03030v1](http://arxiv.org/abs/2208.03030v1)|[link](https://github.com/benywon/ChiQA)|
@@ -161,5 +159,3 @@
 |**2022-05-25**|**Is a Question Decomposition Unit All We Need?**|Pruthvi Patel et.al.|[2205.12538v1](http://arxiv.org/abs/2205.12538v1)|null|
 |**2022-05-25**|**Teaching Broad Reasoning Skills via Decomposition-Guided Contexts**|Harsh Trivedi et.al.|[2205.12496v1](http://arxiv.org/abs/2205.12496v1)|[link](https://github.com/stonybrooknlp/teabreac)|
 |**2022-05-25**|**ToKen: Task Decomposition and Knowledge Infusion for Few-Shot Hate Speech Detection**|Badr AlKhamissi et.al.|[2205.12495v1](http://arxiv.org/abs/2205.12495v1)|null|
-|**2022-05-25**|**End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models**|Barry Menglong Yao et.al.|[2205.12487v1](http://arxiv.org/abs/2205.12487v1)|null|
-|**2022-05-25**|**Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI**|Suzanna Sia et.al.|[2205.12469v1](http://arxiv.org/abs/2205.12469v1)|null|
