@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-11 09:46:53
+ Automated deployment @ 2022-08-11 20:40:56
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -17,13 +17,14 @@
 |**2022-08-02**|**Automatic Classification of Bug Reports Based on Multiple Text Information and Reports' Intention**|Fanqi Meng et.al.|[2208.01274v1](http://arxiv.org/abs/2208.01274v1)|null|
 |**2022-08-01**|**Performance Disparities Between Accents in Automatic Speech Recognition**|Alex DiChristofano et.al.|[2208.01157v1](http://arxiv.org/abs/2208.01157v1)|null|
 |**2022-08-01**|**Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets**|Yousef Altaher et.al.|[2208.00932v1](http://arxiv.org/abs/2208.00932v1)|null|
-|**2022-07-31**|**PASTA: A Dataset for Modeling Participant States in Narratives**|Sayontan Ghosh et.al.|[2208.00329v1](http://arxiv.org/abs/2208.00329v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|null|
+|**2022-08-10**|**TagRec++: Hierarchical Label Aware Attention Network for Question Categorization**|Venktesh Viswanathan et.al.|[2208.05152v1](http://arxiv.org/abs/2208.05152v1)|null|
 |**2022-08-09**|**Where's the Learning in Representation Learning for Compositional Semantics and the Case of Thematic Fit**|Mughilan Muthupari et.al.|[2208.04749v1](http://arxiv.org/abs/2208.04749v1)|null|
 |**2022-08-08**|**INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation**|Ahtsham Manzoor et.al.|[2208.04104v1](http://arxiv.org/abs/2208.04104v1)|null|
 |**2022-08-08**|**Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph**|Aiwei Liu et.al.|[2208.03903v1](http://arxiv.org/abs/2208.03903v1)|null|
@@ -41,13 +42,15 @@
 |**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
 |**2022-08-02**|**To Answer or Not to Answer? Improving Machine Reading Comprehension Model with Span-based Contrastive Learning**|Yunjie Ji et.al.|[2208.01299v1](http://arxiv.org/abs/2208.01299v1)|null|
 |**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v2](http://arxiv.org/abs/2208.01009v2)|[link](https://github.com/junshern/few-shot-adaptation)|
-|**2022-08-01**|**Generative Bias for Visual Question Answering**|Jae Won Cho et.al.|[2208.00690v2](http://arxiv.org/abs/2208.00690v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-10**|**A Quantum Natural Language Processing Approach to Pronoun Resolution**|Hadi Wazni et.al.|[2208.05393v1](http://arxiv.org/abs/2208.05393v1)|null|
+|**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|null|
+|**2022-08-09**|**Limitations of Language Models in Arithmetic and Symbolic Induction**|Jing Qian et.al.|[2208.05051v1](http://arxiv.org/abs/2208.05051v1)|null|
 |**2022-08-08**|**Deep Learning Driven Natural Languages Text to SQL Query Conversion: A Survey**|Ayush Kumar et.al.|[2208.04415v1](http://arxiv.org/abs/2208.04415v1)|null|
 |**2022-08-05**|**Learning New Skills after Deployment: Improving open-domain internet-driven dialogue with human feedback**|Jing Xu et.al.|[2208.03270v1](http://arxiv.org/abs/2208.03270v1)|null|
 |**2022-08-05**|**Knowledge Authoring with Factual English**|Yuheng Wang et.al.|[2208.03094v1](http://arxiv.org/abs/2208.03094v1)|[link](https://github.com/yuhengwang1/kalm-fl)|
@@ -154,8 +157,3 @@
 |**2022-05-25**|**DisinfoMeme: A Multimodal Dataset for Detecting Meme Intentionally Spreading Out Disinformation**|Jingnong Qu et.al.|[2205.12617v1](http://arxiv.org/abs/2205.12617v1)|null|
 |**2022-05-25**|**Towards More Realistic Generation of Information-Seeking Conversations**|Gangwoo Kim et.al.|[2205.12609v1](http://arxiv.org/abs/2205.12609v1)|null|
 |**2022-05-25**|**Intermediate Training on Question Answering Datasets Improves Generative Data Augmentation**|Dheeraj Mekala et.al.|[2205.12604v1](http://arxiv.org/abs/2205.12604v1)|null|
-|**2022-05-25**|**RobustLR: Evaluating Robustness to Logical Perturbation in Deductive Reasoning**|Soumya Sanyal et.al.|[2205.12598v1](http://arxiv.org/abs/2205.12598v1)|null|
-|**2022-05-25**|**ER-TEST: Evaluating Explanation Regularization Methods for NLP Models**|Brihi Joshi et.al.|[2205.12542v1](http://arxiv.org/abs/2205.12542v1)|null|
-|**2022-05-25**|**Is a Question Decomposition Unit All We Need?**|Pruthvi Patel et.al.|[2205.12538v1](http://arxiv.org/abs/2205.12538v1)|null|
-|**2022-05-25**|**Teaching Broad Reasoning Skills via Decomposition-Guided Contexts**|Harsh Trivedi et.al.|[2205.12496v1](http://arxiv.org/abs/2205.12496v1)|[link](https://github.com/stonybrooknlp/teabreac)|
-|**2022-05-25**|**ToKen: Task Decomposition and Knowledge Infusion for Few-Shot Hate Speech Detection**|Badr AlKhamissi et.al.|[2205.12495v1](http://arxiv.org/abs/2205.12495v1)|null|
