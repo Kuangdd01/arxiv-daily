@@ -1,22 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2022-08-12 09:49:56
+ Automated deployment @ 2022-08-12 20:35:59
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-09**|**Exploring Hate Speech Detection with HateXplain and BERT**|Arvind Subramaniam et.al.|[2208.04489v1](http://arxiv.org/abs/2208.04489v1)|[link](https://github.com/sayani-kundu/11711-HateXplain)|
-|**2022-08-09**|**The Analysis of Synonymy and Antonymy in Discourse Relations: An interpretable Modeling Approach**|A. Reig-Alamillo et.al.|[2208.04479v1](http://arxiv.org/abs/2208.04479v1)|null|
-|**2022-08-05**|**Going Beyond Approximation: Encoding Constraints for Explainable Multi-hop Inference via Differentiable Combinatorial Solvers**|Mokanarangan Thayaparan et.al.|[2208.03339v1](http://arxiv.org/abs/2208.03339v1)|null|
-|**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
-|**2022-08-02**|**Unravelling Interlanguage Facts via Explainable Machine Learning**|Barbara Berti et.al.|[2208.01468v1](http://arxiv.org/abs/2208.01468v1)|null|
-|**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
-|**2022-08-02**|**Automatic Classification of Bug Reports Based on Multiple Text Information and Reports' Intention**|Fanqi Meng et.al.|[2208.01274v1](http://arxiv.org/abs/2208.01274v1)|null|
-|**2022-08-01**|**Performance Disparities Between Accents in Automatic Speech Recognition**|Alex DiChristofano et.al.|[2208.01157v1](http://arxiv.org/abs/2208.01157v1)|null|
-|**2022-08-01**|**Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets**|Yousef Altaher et.al.|[2208.00932v1](http://arxiv.org/abs/2208.00932v1)|null|
 
 ## Question Answering
 
@@ -39,15 +24,28 @@
 |**2022-08-03**|**A Study of Modeling Rising Intonation in Cantonese Neural Speech Synthesis**|Qibing Bai et.al.|[2208.02189v1](http://arxiv.org/abs/2208.02189v1)|null|
 |**2022-08-03**|**SpanDrop: Simple and Effective Counterfactual Learning for Long Sequences**|Peng Qi et.al.|[2208.02169v1](http://arxiv.org/abs/2208.02169v1)|null|
 |**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-11**|**Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax**|Jean-Philippe Bernardy et.al.|[2208.05719v1](http://arxiv.org/abs/2208.05719v1)|null|
+|**2022-08-09**|**Exploring Hate Speech Detection with HateXplain and BERT**|Arvind Subramaniam et.al.|[2208.04489v1](http://arxiv.org/abs/2208.04489v1)|[link](https://github.com/sayani-kundu/11711-HateXplain)|
+|**2022-08-09**|**The Analysis of Synonymy and Antonymy in Discourse Relations: An interpretable Modeling Approach**|A. Reig-Alamillo et.al.|[2208.04479v1](http://arxiv.org/abs/2208.04479v1)|null|
+|**2022-08-05**|**Going Beyond Approximation: Encoding Constraints for Explainable Multi-hop Inference via Differentiable Combinatorial Solvers**|Mokanarangan Thayaparan et.al.|[2208.03339v1](http://arxiv.org/abs/2208.03339v1)|null|
+|**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
+|**2022-08-02**|**Unravelling Interlanguage Facts via Explainable Machine Learning**|Barbara Berti et.al.|[2208.01468v1](http://arxiv.org/abs/2208.01468v1)|null|
 |**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
-|**2022-08-02**|**To Answer or Not to Answer? Improving Machine Reading Comprehension Model with Span-based Contrastive Learning**|Yunjie Ji et.al.|[2208.01299v1](http://arxiv.org/abs/2208.01299v1)|null|
-|**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v2](http://arxiv.org/abs/2208.01009v2)|[link](https://github.com/junshern/few-shot-adaptation)|
+|**2022-08-02**|**Automatic Classification of Bug Reports Based on Multiple Text Information and Reports' Intention**|Fanqi Meng et.al.|[2208.01274v1](http://arxiv.org/abs/2208.01274v1)|null|
+|**2022-08-01**|**Performance Disparities Between Accents in Automatic Speech Recognition**|Alex DiChristofano et.al.|[2208.01157v1](http://arxiv.org/abs/2208.01157v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-11**|**A Model of Anaphoric Ambiguities using Sheaf Theoretic Quantum-like Contextuality and BERT**|Kin Ian Lo et.al.|[2208.05720v1](http://arxiv.org/abs/2208.05720v1)|null|
 |**2022-08-10**|**A Quantum Natural Language Processing Approach to Pronoun Resolution**|Hadi Wazni et.al.|[2208.05393v1](http://arxiv.org/abs/2208.05393v1)|null|
 |**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|null|
 |**2022-08-09**|**Limitations of Language Models in Arithmetic and Symbolic Induction**|Jing Qian et.al.|[2208.05051v1](http://arxiv.org/abs/2208.05051v1)|null|
@@ -155,5 +153,3 @@
 |**2022-05-25**|**Does Your Model Classify Entities Reasonably? Diagnosing and Mitigating Spurious Correlations in Entity Typing**|Nan Xu et.al.|[2205.12640v1](http://arxiv.org/abs/2205.12640v1)|null|
 |**2022-05-25**|**Unbiased and Efficient Sampling of Dependency Trees**|Miloš Stanojević et.al.|[2205.12621v1](http://arxiv.org/abs/2205.12621v1)|null|
 |**2022-05-25**|**DisinfoMeme: A Multimodal Dataset for Detecting Meme Intentionally Spreading Out Disinformation**|Jingnong Qu et.al.|[2205.12617v1](http://arxiv.org/abs/2205.12617v1)|null|
-|**2022-05-25**|**Towards More Realistic Generation of Information-Seeking Conversations**|Gangwoo Kim et.al.|[2205.12609v1](http://arxiv.org/abs/2205.12609v1)|null|
-|**2022-05-25**|**Intermediate Training on Question Answering Datasets Improves Generative Data Augmentation**|Dheeraj Mekala et.al.|[2205.12604v1](http://arxiv.org/abs/2205.12604v1)|null|
