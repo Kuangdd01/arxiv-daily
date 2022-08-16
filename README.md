@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-16 10:05:37
+ Automated deployment @ 2022-08-16 20:34:43
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,19 +8,20 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-15**|**Explainable Artificial Intelligence for Assault Sentence Prediction in New Zealand**|Harry Rodger et.al.|[2208.06981v1](http://arxiv.org/abs/2208.06981v1)|null|
+|**2022-08-13**|**Interpreting BERT-based Text Similarity via Activation and Saliency Maps**|Itzik Malkiel et.al.|[2208.06612v1](http://arxiv.org/abs/2208.06612v1)|null|
 |**2022-08-11**|**Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax**|Jean-Philippe Bernardy et.al.|[2208.05719v1](http://arxiv.org/abs/2208.05719v1)|null|
 |**2022-08-09**|**Exploring Hate Speech Detection with HateXplain and BERT**|Arvind Subramaniam et.al.|[2208.04489v1](http://arxiv.org/abs/2208.04489v1)|[link](https://github.com/sayani-kundu/11711-HateXplain)|
 |**2022-08-09**|**The Analysis of Synonymy and Antonymy in Discourse Relations: An interpretable Modeling Approach**|A. Reig-Alamillo et.al.|[2208.04479v1](http://arxiv.org/abs/2208.04479v1)|null|
 |**2022-08-05**|**Going Beyond Approximation: Encoding Constraints for Explainable Multi-hop Inference via Differentiable Combinatorial Solvers**|Mokanarangan Thayaparan et.al.|[2208.03339v1](http://arxiv.org/abs/2208.03339v1)|null|
-|**2022-08-02**|**ferret: a Framework for Benchmarking Explainers on Transformers**|Giuseppe Attanasio et.al.|[2208.01575v1](http://arxiv.org/abs/2208.01575v1)|[link](https://github.com/g8a9/ferret)|
-|**2022-08-02**|**Unravelling Interlanguage Facts via Explainable Machine Learning**|Barbara Berti et.al.|[2208.01468v1](http://arxiv.org/abs/2208.01468v1)|null|
-|**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-13**|**An Answer Verbalization Dataset for Conversational Question Answerings over Knowledge Graphs**|Endri Kacupaj et.al.|[2208.06734v1](http://arxiv.org/abs/2208.06734v1)|null|
+|**2022-08-12**|**Forecasting Question Answering over Temporal Knowledge Graphs**|Zifeng Ding et.al.|[2208.06501v1](http://arxiv.org/abs/2208.06501v1)|null|
 |**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|null|
 |**2022-08-10**|**TagRec++: Hierarchical Label Aware Attention Network for Question Categorization**|Venktesh Viswanathan et.al.|[2208.05152v1](http://arxiv.org/abs/2208.05152v1)|null|
 |**2022-08-09**|**Where's the Learning in Representation Learning for Compositional Semantics and the Case of Thematic Fit**|Mughilan Muthupari et.al.|[2208.04749v1](http://arxiv.org/abs/2208.04749v1)|null|
@@ -32,16 +33,13 @@
 |**2022-08-05**|**Low-Resource Dense Retrieval for Open-Domain Question Answering: A Comprehensive Survey**|Xiaoyu Shen et.al.|[2208.03197v1](http://arxiv.org/abs/2208.03197v1)|null|
 |**2022-08-05**|**Knowledge Authoring with Factual English**|Yuheng Wang et.al.|[2208.03094v1](http://arxiv.org/abs/2208.03094v1)|[link](https://github.com/yuhengwang1/kalm-fl)|
 |**2022-08-05**|**ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**|Bingning Wang et.al.|[2208.03030v1](http://arxiv.org/abs/2208.03030v1)|[link](https://github.com/benywon/ChiQA)|
-|**2022-08-04**|**N-best Response-based Analysis of Contradiction-awareness in Neural Response Generation Models**|Shiki Sato et.al.|[2208.02578v1](http://arxiv.org/abs/2208.02578v1)|[link](https://github.com/shiki-sato/nbest-contradiction-analysis)|
-|**2022-08-04**|**"Yeah, it does have a...Windows `98 Vibe'': Usability Study of Security Features in Programmable Logic Controllers**|Karen Li et.al.|[2208.02500v1](http://arxiv.org/abs/2208.02500v1)|null|
-|**2022-08-03**|**A Study of Modeling Rising Intonation in Cantonese Neural Speech Synthesis**|Qibing Bai et.al.|[2208.02189v1](http://arxiv.org/abs/2208.02189v1)|null|
-|**2022-08-03**|**SpanDrop: Simple and Effective Counterfactual Learning for Long Sequences**|Peng Qi et.al.|[2208.02169v1](http://arxiv.org/abs/2208.02169v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-12**|**Forecasting Question Answering over Temporal Knowledge Graphs**|Zifeng Ding et.al.|[2208.06501v1](http://arxiv.org/abs/2208.06501v1)|null|
 |**2022-08-11**|**A Model of Anaphoric Ambiguities using Sheaf Theoretic Quantum-like Contextuality and BERT**|Kin Ian Lo et.al.|[2208.05720v1](http://arxiv.org/abs/2208.05720v1)|null|
 |**2022-08-10**|**A Quantum Natural Language Processing Approach to Pronoun Resolution**|Hadi Wazni et.al.|[2208.05393v1](http://arxiv.org/abs/2208.05393v1)|null|
 |**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|null|
@@ -90,6 +88,7 @@
 |**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|[link](https://github.com/knowledgetechnologyuhh/grid-3d)|
 |**2022-07-06**|**Learning to Diversify for Product Question Generation**|Haggai Roitman et.al.|[2207.02534v1](http://arxiv.org/abs/2207.02534v1)|null|
 |**2022-07-04**|**Unify and Conquer: How Phonetic Feature Representation Affects Polyglot Text-To-Speech (TTS)**|Ariadna Sanchez et.al.|[2207.01547v1](http://arxiv.org/abs/2207.01547v1)|null|
+|**2022-07-04**|**VEM$^2$L: A Plug-and-play Framework for Fusing Text and Structure Knowledge on Sparse Knowledge Graph Completion**|Tao He et.al.|[2207.01528v3](http://arxiv.org/abs/2207.01528v3)|null|
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
 |**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
 |**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v3](http://arxiv.org/abs/2207.00473v3)|[link](https://github.com/oliver-lloyd/kge_param_sens)|
@@ -146,7 +145,3 @@
 |**2022-05-25**|**NaturalProver: Grounded Mathematical Proof Generation with Language Models**|Sean Welleck et.al.|[2205.12910v1](http://arxiv.org/abs/2205.12910v1)|[link](https://github.com/wellecks/naturalproofs)|
 |**2022-05-25**|**Reasoning over Logically Interacted Conditions for Question Answering**|Haitian Sun et.al.|[2205.12898v1](http://arxiv.org/abs/2205.12898v1)|null|
 |**2022-05-25**|**Understanding Natural Language in Context**|Avichai Levy et.al.|[2205.12691v1](http://arxiv.org/abs/2205.12691v1)|null|
-|**2022-05-25**|**LEPUS: Prompt-based Unsupervised Multi-hop Reranking for Open-domain QA**|Muhammad Khalifa et.al.|[2205.12650v1](http://arxiv.org/abs/2205.12650v1)|[link](https://github.com/mukhal/lepus)|
-|**2022-05-25**|**Does Your Model Classify Entities Reasonably? Diagnosing and Mitigating Spurious Correlations in Entity Typing**|Nan Xu et.al.|[2205.12640v1](http://arxiv.org/abs/2205.12640v1)|null|
-|**2022-05-25**|**Unbiased and Efficient Sampling of Dependency Trees**|Miloš Stanojević et.al.|[2205.12621v1](http://arxiv.org/abs/2205.12621v1)|null|
-|**2022-05-25**|**DisinfoMeme: A Multimodal Dataset for Detecting Meme Intentionally Spreading Out Disinformation**|Jingnong Qu et.al.|[2205.12617v1](http://arxiv.org/abs/2205.12617v1)|null|
