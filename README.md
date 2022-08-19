@@ -1,7 +1,28 @@
 # arxiv-daily
- Automated deployment @ 2022-08-19 09:59:28
+ Automated deployment @ 2022-08-19 20:37:43
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Question Answering
+
+### QA
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-18**|**Exploring and Exploiting Multi-Granularity Representations for Machine Reading Comprehension**|Nuo Chen et.al.|[2208.08750v1](http://arxiv.org/abs/2208.08750v1)|null|
+|**2022-08-17**|**Analyzing Robustness of End-to-End Neural Models for Automatic Speech Recognition**|Goutham Rajendran et.al.|[2208.08509v1](http://arxiv.org/abs/2208.08509v1)|[link](https://github.com/weizou52/robustness_analysis_asr)|
+|**2022-08-17**|**Ask Question First for Enhancing Lifelong Language Learning**|Han Wang et.al.|[2208.08367v1](http://arxiv.org/abs/2208.08367v1)|null|
+|**2022-08-17**|**ILLUME: Rationalizing Vision-Language Models by Interacting with their Jabber**|Manuel Brack et.al.|[2208.08241v2](http://arxiv.org/abs/2208.08241v2)|null|
+|**2022-08-17**|**HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models**|Swaroop Mishra et.al.|[2208.08232v1](http://arxiv.org/abs/2208.08232v1)|null|
+|**2022-08-17**|**Learning Transductions to Test Systematic Compositionality**|Josef Valvoda et.al.|[2208.08195v1](http://arxiv.org/abs/2208.08195v1)|null|
+|**2022-08-17**|**Differential Privacy in Natural Language Processing: The Story So Far**|Oleksandra Klymenko et.al.|[2208.08140v1](http://arxiv.org/abs/2208.08140v1)|null|
+|**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104v1](http://arxiv.org/abs/2208.08104v1)|null|
+|**2022-08-17**|**NECE: Narrative Event Chain Extraction Toolkit**|Guangxuan Xu et.al.|[2208.08063v2](http://arxiv.org/abs/2208.08063v2)|null|
+|**2022-08-16**|**CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**|Jiangui Chen et.al.|[2208.07652v1](http://arxiv.org/abs/2208.07652v1)|[link](https://github.com/ict-bigdatalab/corpusbrain)|
+|**2022-08-13**|**An Answer Verbalization Dataset for Conversational Question Answerings over Knowledge Graphs**|Endri Kacupaj et.al.|[2208.06734v1](http://arxiv.org/abs/2208.06734v1)|null|
+|**2022-08-12**|**Forecasting Question Answering over Temporal Knowledge Graphs**|Zifeng Ding et.al.|[2208.06501v1](http://arxiv.org/abs/2208.06501v1)|null|
+|**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|[link](https://github.com/dali-does/clevr-math)|
+|**2022-08-10**|**TagRec++: Hierarchical Label Aware Attention Network for Question Categorization**|Venktesh Viswanathan et.al.|[2208.05152v1](http://arxiv.org/abs/2208.05152v1)|[link](https://github.com/ads-ai/tagrec_plus_plus_tkde)|
+|**2022-08-09**|**Where's the Learning in Representation Learning for Compositional Semantics and the Case of Thematic Fit**|Mughilan Muthupari et.al.|[2208.04749v1](http://arxiv.org/abs/2208.04749v1)|null|
 
 ## Explanation
 
@@ -17,28 +38,6 @@
 |**2022-08-11**|**Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax**|Jean-Philippe Bernardy et.al.|[2208.05719v1](http://arxiv.org/abs/2208.05719v1)|null|
 |**2022-08-09**|**Exploring Hate Speech Detection with HateXplain and BERT**|Arvind Subramaniam et.al.|[2208.04489v1](http://arxiv.org/abs/2208.04489v1)|[link](https://github.com/sayani-kundu/11711-HateXplain)|
 |**2022-08-09**|**The Analysis of Synonymy and Antonymy in Discourse Relations: An interpretable Modeling Approach**|A. Reig-Alamillo et.al.|[2208.04479v1](http://arxiv.org/abs/2208.04479v1)|null|
-
-## Question Answering
-
-### QA
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-17**|**Ask Question First for Enhancing Lifelong Language Learning**|Han Wang et.al.|[2208.08367v1](http://arxiv.org/abs/2208.08367v1)|null|
-|**2022-08-17**|**ILLUME: Rationalizing Vision-Language Models by Interacting with their Jabber**|Manuel Brack et.al.|[2208.08241v2](http://arxiv.org/abs/2208.08241v2)|null|
-|**2022-08-17**|**HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models**|Swaroop Mishra et.al.|[2208.08232v1](http://arxiv.org/abs/2208.08232v1)|null|
-|**2022-08-17**|**Learning Transductions to Test Systematic Compositionality**|Josef Valvoda et.al.|[2208.08195v1](http://arxiv.org/abs/2208.08195v1)|null|
-|**2022-08-17**|**Differential Privacy in Natural Language Processing: The Story So Far**|Oleksandra Klymenko et.al.|[2208.08140v1](http://arxiv.org/abs/2208.08140v1)|null|
-|**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104v1](http://arxiv.org/abs/2208.08104v1)|null|
-|**2022-08-17**|**NECE: Narrative Event Chain Extraction Toolkit**|Guangxuan Xu et.al.|[2208.08063v2](http://arxiv.org/abs/2208.08063v2)|null|
-|**2022-08-16**|**CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**|Jiangui Chen et.al.|[2208.07652v1](http://arxiv.org/abs/2208.07652v1)|[link](https://github.com/ict-bigdatalab/corpusbrain)|
-|**2022-08-13**|**An Answer Verbalization Dataset for Conversational Question Answerings over Knowledge Graphs**|Endri Kacupaj et.al.|[2208.06734v1](http://arxiv.org/abs/2208.06734v1)|null|
-|**2022-08-12**|**Forecasting Question Answering over Temporal Knowledge Graphs**|Zifeng Ding et.al.|[2208.06501v1](http://arxiv.org/abs/2208.06501v1)|null|
-|**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|[link](https://github.com/dali-does/clevr-math)|
-|**2022-08-10**|**TagRec++: Hierarchical Label Aware Attention Network for Question Categorization**|Venktesh Viswanathan et.al.|[2208.05152v1](http://arxiv.org/abs/2208.05152v1)|[link](https://github.com/ads-ai/tagrec_plus_plus_tkde)|
-|**2022-08-09**|**Where's the Learning in Representation Learning for Compositional Semantics and the Case of Thematic Fit**|Mughilan Muthupari et.al.|[2208.04749v1](http://arxiv.org/abs/2208.04749v1)|null|
-|**2022-08-08**|**INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation**|Ahtsham Manzoor et.al.|[2208.04104v1](http://arxiv.org/abs/2208.04104v1)|null|
-|**2022-08-08**|**Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph**|Aiwei Liu et.al.|[2208.03903v1](http://arxiv.org/abs/2208.03903v1)|null|
-|**2022-08-08**|**What can we know about that which we cannot even imagine?**|David H. Wolpert et.al.|[2208.03886v1](http://arxiv.org/abs/2208.03886v1)|null|
 
 ## Reasoning
 
@@ -152,4 +151,3 @@
 |**2022-05-27**|**Can Foundation Models Help Us Achieve Perfect Secrecy?**|Simran Arora et.al.|[2205.13722v1](http://arxiv.org/abs/2205.13722v1)|[link](https://github.com/simran-arora/focus)|
 |**2022-05-26**|**Your Transformer May Not be as Powerful as You Expect**|Shengjie Luo et.al.|[2205.13401v1](http://arxiv.org/abs/2205.13401v1)|null|
 |**2022-05-26**|**Leveraging Causal Inference for Explainable Automatic Program Repair**|Jianzong Wang et.al.|[2205.13342v2](http://arxiv.org/abs/2205.13342v2)|null|
-|**2022-05-26**|**Revisiting Generative Commonsense Reasoning: A Pre-Ordering Approach**|Chao Zhao et.al.|[2205.13183v1](http://arxiv.org/abs/2205.13183v1)|[link](https://github.com/zhaochaocs/planned-ptm)|
