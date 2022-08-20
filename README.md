@@ -1,22 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2022-08-20 09:59:10
+ Automated deployment @ 2022-08-20 20:33:27
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-17**|**HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models**|Swaroop Mishra et.al.|[2208.08232v1](http://arxiv.org/abs/2208.08232v1)|null|
-|**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
-|**2022-08-17**|**Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides**|Dong Won Lee et.al.|[2208.08080v1](http://arxiv.org/abs/2208.08080v1)|null|
-|**2022-08-17**|**EGCR: Explanation Generation for Conversational Recommendation**|Bingbing Wen et.al.|[2208.08035v2](http://arxiv.org/abs/2208.08035v2)|null|
-|**2022-08-15**|**Explainable Artificial Intelligence for Assault Sentence Prediction in New Zealand**|Harry Rodger et.al.|[2208.06981v1](http://arxiv.org/abs/2208.06981v1)|null|
-|**2022-08-13**|**Interpreting BERT-based Text Similarity via Activation and Saliency Maps**|Itzik Malkiel et.al.|[2208.06612v1](http://arxiv.org/abs/2208.06612v1)|null|
-|**2022-08-11**|**Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax**|Jean-Philippe Bernardy et.al.|[2208.05719v1](http://arxiv.org/abs/2208.05719v1)|null|
-|**2022-08-09**|**Exploring Hate Speech Detection with HateXplain and BERT**|Arvind Subramaniam et.al.|[2208.04489v1](http://arxiv.org/abs/2208.04489v1)|[link](https://github.com/sayani-kundu/11711-HateXplain)|
-|**2022-08-09**|**The Analysis of Synonymy and Antonymy in Discourse Relations: An interpretable Modeling Approach**|A. Reig-Alamillo et.al.|[2208.04479v1](http://arxiv.org/abs/2208.04479v1)|null|
 
 ## Question Answering
 
@@ -38,6 +23,21 @@
 |**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|[link](https://github.com/dali-does/clevr-math)|
 |**2022-08-10**|**TagRec++: Hierarchical Label Aware Attention Network for Question Categorization**|Venktesh Viswanathan et.al.|[2208.05152v1](http://arxiv.org/abs/2208.05152v1)|[link](https://github.com/ads-ai/tagrec_plus_plus_tkde)|
 |**2022-08-09**|**Where's the Learning in Representation Learning for Compositional Semantics and the Case of Thematic Fit**|Mughilan Muthupari et.al.|[2208.04749v1](http://arxiv.org/abs/2208.04749v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-17**|**HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models**|Swaroop Mishra et.al.|[2208.08232v1](http://arxiv.org/abs/2208.08232v1)|null|
+|**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
+|**2022-08-17**|**Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides**|Dong Won Lee et.al.|[2208.08080v1](http://arxiv.org/abs/2208.08080v1)|null|
+|**2022-08-17**|**EGCR: Explanation Generation for Conversational Recommendation**|Bingbing Wen et.al.|[2208.08035v2](http://arxiv.org/abs/2208.08035v2)|null|
+|**2022-08-15**|**Explainable Artificial Intelligence for Assault Sentence Prediction in New Zealand**|Harry Rodger et.al.|[2208.06981v1](http://arxiv.org/abs/2208.06981v1)|null|
+|**2022-08-13**|**Interpreting BERT-based Text Similarity via Activation and Saliency Maps**|Itzik Malkiel et.al.|[2208.06612v1](http://arxiv.org/abs/2208.06612v1)|null|
+|**2022-08-11**|**Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax**|Jean-Philippe Bernardy et.al.|[2208.05719v1](http://arxiv.org/abs/2208.05719v1)|null|
+|**2022-08-09**|**Exploring Hate Speech Detection with HateXplain and BERT**|Arvind Subramaniam et.al.|[2208.04489v1](http://arxiv.org/abs/2208.04489v1)|[link](https://github.com/sayani-kundu/11711-HateXplain)|
+|**2022-08-09**|**The Analysis of Synonymy and Antonymy in Discourse Relations: An interpretable Modeling Approach**|A. Reig-Alamillo et.al.|[2208.04479v1](http://arxiv.org/abs/2208.04479v1)|null|
 
 ## Reasoning
 
