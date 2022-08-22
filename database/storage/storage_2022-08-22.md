@@ -1,28 +1,16 @@
 # arxiv-daily
- Automated deployment @ 2022-08-22 09:58:45
+ Automated deployment @ 2022-08-22 20:40:28
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-17**|**HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models**|Swaroop Mishra et.al.|[2208.08232v1](http://arxiv.org/abs/2208.08232v1)|null|
-|**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
-|**2022-08-17**|**Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides**|Dong Won Lee et.al.|[2208.08080v1](http://arxiv.org/abs/2208.08080v1)|null|
-|**2022-08-17**|**EGCR: Explanation Generation for Conversational Recommendation**|Bingbing Wen et.al.|[2208.08035v2](http://arxiv.org/abs/2208.08035v2)|null|
-|**2022-08-15**|**Explainable Artificial Intelligence for Assault Sentence Prediction in New Zealand**|Harry Rodger et.al.|[2208.06981v1](http://arxiv.org/abs/2208.06981v1)|null|
-|**2022-08-13**|**Interpreting BERT-based Text Similarity via Activation and Saliency Maps**|Itzik Malkiel et.al.|[2208.06612v1](http://arxiv.org/abs/2208.06612v1)|null|
-|**2022-08-11**|**Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax**|Jean-Philippe Bernardy et.al.|[2208.05719v1](http://arxiv.org/abs/2208.05719v1)|null|
-|**2022-08-09**|**Exploring Hate Speech Detection with HateXplain and BERT**|Arvind Subramaniam et.al.|[2208.04489v1](http://arxiv.org/abs/2208.04489v1)|[link](https://github.com/sayani-kundu/11711-HateXplain)|
-|**2022-08-09**|**The Analysis of Synonymy and Antonymy in Discourse Relations: An interpretable Modeling Approach**|A. Reig-Alamillo et.al.|[2208.04479v1](http://arxiv.org/abs/2208.04479v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-19**|**Text to Image Generation: Leaving no Language Behind**|Pedro Reviriego et.al.|[2208.09333v1](http://arxiv.org/abs/2208.09333v1)|null|
+|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v1](http://arxiv.org/abs/2208.09316v1)|null|
+|**2022-08-18**|**Treeformer: Dense Gradient Trees for Efficient Attention Computation**|Lovish Madaan et.al.|[2208.09015v1](http://arxiv.org/abs/2208.09015v1)|null|
 |**2022-08-18**|**Exploring and Exploiting Multi-Granularity Representations for Machine Reading Comprehension**|Nuo Chen et.al.|[2208.08750v1](http://arxiv.org/abs/2208.08750v1)|null|
 |**2022-08-17**|**Analyzing Robustness of End-to-End Neural Models for Automatic Speech Recognition**|Goutham Rajendran et.al.|[2208.08509v1](http://arxiv.org/abs/2208.08509v1)|[link](https://github.com/weizou52/robustness_analysis_asr)|
 |**2022-08-17**|**Ask Question First for Enhancing Lifelong Language Learning**|Han Wang et.al.|[2208.08367v1](http://arxiv.org/abs/2208.08367v1)|null|
@@ -37,13 +25,31 @@
 |**2022-08-12**|**Forecasting Question Answering over Temporal Knowledge Graphs**|Zifeng Ding et.al.|[2208.06501v1](http://arxiv.org/abs/2208.06501v1)|null|
 |**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|[link](https://github.com/dali-does/clevr-math)|
 |**2022-08-10**|**TagRec++: Hierarchical Label Aware Attention Network for Question Categorization**|Venktesh Viswanathan et.al.|[2208.05152v1](http://arxiv.org/abs/2208.05152v1)|[link](https://github.com/ads-ai/tagrec_plus_plus_tkde)|
-|**2022-08-09**|**Where's the Learning in Representation Learning for Compositional Semantics and the Case of Thematic Fit**|Mughilan Muthupari et.al.|[2208.04749v1](http://arxiv.org/abs/2208.04749v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-19**|**Sparse Optimization for Unsupervised Extractive Summarization of Long Documents with the Frank-Wolfe Algorithm**|Alicia Y. Tsai et.al.|[2208.09454v1](http://arxiv.org/abs/2208.09454v1)|null|
+|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v1](http://arxiv.org/abs/2208.09316v1)|null|
+|**2022-08-18**|**A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches**|Annemarie Friedrich et.al.|[2208.09012v1](http://arxiv.org/abs/2208.09012v1)|null|
+|**2022-08-17**|**HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models**|Swaroop Mishra et.al.|[2208.08232v1](http://arxiv.org/abs/2208.08232v1)|null|
+|**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
+|**2022-08-17**|**Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides**|Dong Won Lee et.al.|[2208.08080v1](http://arxiv.org/abs/2208.08080v1)|null|
+|**2022-08-17**|**EGCR: Explanation Generation for Conversational Recommendation**|Bingbing Wen et.al.|[2208.08035v2](http://arxiv.org/abs/2208.08035v2)|null|
+|**2022-08-15**|**Explainable Artificial Intelligence for Assault Sentence Prediction in New Zealand**|Harry Rodger et.al.|[2208.06981v1](http://arxiv.org/abs/2208.06981v1)|null|
+|**2022-08-13**|**Interpreting BERT-based Text Similarity via Activation and Saliency Maps**|Itzik Malkiel et.al.|[2208.06612v1](http://arxiv.org/abs/2208.06612v1)|null|
+|**2022-08-11**|**Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax**|Jean-Philippe Bernardy et.al.|[2208.05719v1](http://arxiv.org/abs/2208.05719v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-19**|**Causal Intervention Improves Implicit Sentiment Analysis**|Siyin Wang et.al.|[2208.09329v1](http://arxiv.org/abs/2208.09329v1)|null|
+|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v1](http://arxiv.org/abs/2208.09316v1)|null|
+|**2022-08-18**|**VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations**|Georgios Chochlakis et.al.|[2208.09021v1](http://arxiv.org/abs/2208.09021v1)|[link](https://github.com/gchochla/vault)|
 |**2022-08-17**|**Ask Question First for Enhancing Lifelong Language Learning**|Han Wang et.al.|[2208.08367v1](http://arxiv.org/abs/2208.08367v1)|null|
 |**2022-08-17**|**ILLUME: Rationalizing Vision-Language Models by Interacting with their Jabber**|Manuel Brack et.al.|[2208.08241v2](http://arxiv.org/abs/2208.08241v2)|[link](https://github.com/ml-research/ILLUME)|
 |**2022-08-17**|**Constrained Few-Shot Learning: Human-Like Low Sample Complexity Learning and Non-Episodic Text Classification**|Jaron Mar et.al.|[2208.08089v1](http://arxiv.org/abs/2208.08089v1)|null|
@@ -148,6 +154,3 @@
 |**2022-05-30**|**From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering**|Jiangtong Li et.al.|[2205.14895v1](http://arxiv.org/abs/2205.14895v1)|[link](https://github.com/bcmi/causal-vidqa)|
 |**2022-05-29**|**CoNT: Contrastive Neural Text Generation**|Chenxin An et.al.|[2205.14690v1](http://arxiv.org/abs/2205.14690v1)|[link](https://github.com/shark-nlp/cont)|
 |**2022-05-28**|**Few-shot Subgoal Planning with Language Models**|Lajanugen Logeswaran et.al.|[2205.14288v1](http://arxiv.org/abs/2205.14288v1)|null|
-|**2022-05-27**|**Can Foundation Models Help Us Achieve Perfect Secrecy?**|Simran Arora et.al.|[2205.13722v1](http://arxiv.org/abs/2205.13722v1)|[link](https://github.com/simran-arora/focus)|
-|**2022-05-26**|**Your Transformer May Not be as Powerful as You Expect**|Shengjie Luo et.al.|[2205.13401v1](http://arxiv.org/abs/2205.13401v1)|null|
-|**2022-05-26**|**Leveraging Causal Inference for Explainable Automatic Program Repair**|Jianzong Wang et.al.|[2205.13342v2](http://arxiv.org/abs/2205.13342v2)|null|
