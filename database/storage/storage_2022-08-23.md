@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-23 10:04:58
+ Automated deployment @ 2022-08-23 20:37:26
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,8 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
 |**2022-08-19**|**Sparse Optimization for Unsupervised Extractive Summarization of Long Documents with the Frank-Wolfe Algorithm**|Alicia Y. Tsai et.al.|[2208.09454v1](http://arxiv.org/abs/2208.09454v1)|null|
-|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v1](http://arxiv.org/abs/2208.09316v1)|null|
+|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v1](http://arxiv.org/abs/2208.09316v1)|[link](https://github.com/ukp-square/square-core)|
 |**2022-08-18**|**A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches**|Annemarie Friedrich et.al.|[2208.09012v1](http://arxiv.org/abs/2208.09012v1)|null|
 |**2022-08-17**|**HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models**|Swaroop Mishra et.al.|[2208.08232v1](http://arxiv.org/abs/2208.08232v1)|null|
 |**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
@@ -24,8 +25,13 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|null|
+|**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
+|**2022-08-21**|**Automatic tagging of knowledge points for K12 math problems**|Xiaolu Wang et.al.|[2208.09867v1](http://arxiv.org/abs/2208.09867v1)|null|
+|**2022-08-20**|**Cognitive Modeling of Semantic Fluency Using Transformers**|Animesh Nighojkar et.al.|[2208.09719v1](http://arxiv.org/abs/2208.09719v1)|null|
+|**2022-08-20**|**Trigger-free Event Detection via Derangement Reading Comprehension**|Jiachen Zhao et.al.|[2208.09659v1](http://arxiv.org/abs/2208.09659v1)|null|
 |**2022-08-19**|**Text to Image Generation: Leaving no Language Behind**|Pedro Reviriego et.al.|[2208.09333v1](http://arxiv.org/abs/2208.09333v1)|null|
-|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v1](http://arxiv.org/abs/2208.09316v1)|null|
+|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v1](http://arxiv.org/abs/2208.09316v1)|[link](https://github.com/ukp-square/square-core)|
 |**2022-08-18**|**Treeformer: Dense Gradient Trees for Efficient Attention Computation**|Lovish Madaan et.al.|[2208.09015v1](http://arxiv.org/abs/2208.09015v1)|null|
 |**2022-08-18**|**Exploring and Exploiting Multi-Granularity Representations for Machine Reading Comprehension**|Nuo Chen et.al.|[2208.08750v1](http://arxiv.org/abs/2208.08750v1)|null|
 |**2022-08-17**|**Analyzing Robustness of End-to-End Neural Models for Automatic Speech Recognition**|Goutham Rajendran et.al.|[2208.08509v1](http://arxiv.org/abs/2208.08509v1)|[link](https://github.com/weizou52/robustness_analysis_asr)|
@@ -39,16 +45,18 @@
 |**2022-08-16**|**CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**|Jiangui Chen et.al.|[2208.07652v1](http://arxiv.org/abs/2208.07652v1)|[link](https://github.com/ict-bigdatalab/corpusbrain)|
 |**2022-08-13**|**An Answer Verbalization Dataset for Conversational Question Answerings over Knowledge Graphs**|Endri Kacupaj et.al.|[2208.06734v1](http://arxiv.org/abs/2208.06734v1)|null|
 |**2022-08-12**|**Forecasting Question Answering over Temporal Knowledge Graphs**|Zifeng Ding et.al.|[2208.06501v1](http://arxiv.org/abs/2208.06501v1)|null|
-|**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|[link](https://github.com/dali-does/clevr-math)|
-|**2022-08-10**|**TagRec++: Hierarchical Label Aware Attention Network for Question Categorization**|Venktesh Viswanathan et.al.|[2208.05152v1](http://arxiv.org/abs/2208.05152v1)|[link](https://github.com/ads-ai/tagrec_plus_plus_tkde)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|null|
+|**2022-08-22**|**Inductive Knowledge Graph Reasoning for Multi-batch Emerging Entities**|Yuanning Cui et.al.|[2208.10378v1](http://arxiv.org/abs/2208.10378v1)|[link](https://github.com/nju-websoft/mbe)|
+|**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
+|**2022-08-21**|**I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning**|Yang Liu et.al.|[2208.09828v1](http://arxiv.org/abs/2208.09828v1)|[link](https://github.com/nju-websoft/cole)|
 |**2022-08-19**|**Causal Intervention Improves Implicit Sentiment Analysis**|Siyin Wang et.al.|[2208.09329v1](http://arxiv.org/abs/2208.09329v1)|null|
-|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v1](http://arxiv.org/abs/2208.09316v1)|null|
+|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v1](http://arxiv.org/abs/2208.09316v1)|[link](https://github.com/ukp-square/square-core)|
 |**2022-08-18**|**VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations**|Georgios Chochlakis et.al.|[2208.09021v1](http://arxiv.org/abs/2208.09021v1)|[link](https://github.com/gchochla/vault)|
 |**2022-08-17**|**Ask Question First for Enhancing Lifelong Language Learning**|Han Wang et.al.|[2208.08367v1](http://arxiv.org/abs/2208.08367v1)|null|
 |**2022-08-17**|**ILLUME: Rationalizing Vision-Language Models by Interacting with their Jabber**|Manuel Brack et.al.|[2208.08241v2](http://arxiv.org/abs/2208.08241v2)|[link](https://github.com/ml-research/ILLUME)|
@@ -152,5 +160,3 @@
 |**2022-05-31**|**Why are NLP Models Fumbling at Elementary Math? A Survey of Deep Learning based Word Problem Solvers**|Sowmya S Sundaram et.al.|[2205.15683v1](http://arxiv.org/abs/2205.15683v1)|null|
 |**2022-05-30**|**A Survey in Mathematical Language Processing**|Jordan Meadows et.al.|[2205.15231v1](http://arxiv.org/abs/2205.15231v1)|null|
 |**2022-05-30**|**From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering**|Jiangtong Li et.al.|[2205.14895v1](http://arxiv.org/abs/2205.14895v1)|[link](https://github.com/bcmi/causal-vidqa)|
-|**2022-05-29**|**CoNT: Contrastive Neural Text Generation**|Chenxin An et.al.|[2205.14690v1](http://arxiv.org/abs/2205.14690v1)|[link](https://github.com/shark-nlp/cont)|
-|**2022-05-28**|**Few-shot Subgoal Planning with Language Models**|Lajanugen Logeswaran et.al.|[2205.14288v1](http://arxiv.org/abs/2205.14288v1)|null|
