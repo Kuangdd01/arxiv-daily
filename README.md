@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-24 10:02:31
+ Automated deployment @ 2022-08-24 20:38:55
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -18,13 +18,17 @@
 |**2022-08-17**|**EGCR: Explanation Generation for Conversational Recommendation**|Bingbing Wen et.al.|[2208.08035v2](http://arxiv.org/abs/2208.08035v2)|null|
 |**2022-08-15**|**Explainable Artificial Intelligence for Assault Sentence Prediction in New Zealand**|Harry Rodger et.al.|[2208.06981v1](http://arxiv.org/abs/2208.06981v1)|null|
 |**2022-08-13**|**Interpreting BERT-based Text Similarity via Activation and Saliency Maps**|Itzik Malkiel et.al.|[2208.06612v1](http://arxiv.org/abs/2208.06612v1)|null|
-|**2022-08-11**|**Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax**|Jean-Philippe Bernardy et.al.|[2208.05719v1](http://arxiv.org/abs/2208.05719v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-23**|**Prompting as Probing: Using Language Models for Knowledge Base Construction**|Dimitrios Alivanistos et.al.|[2208.11057v1](http://arxiv.org/abs/2208.11057v1)|[link](https://github.com/hemile/iswc-challenge)|
+|**2022-08-23**|**Evaluate Confidence Instead of Perplexity for Zero-shot Commonsense Reasoning**|Letian Peng et.al.|[2208.11007v1](http://arxiv.org/abs/2208.11007v1)|null|
+|**2022-08-23**|**Improving Personality Consistency in Conversation by Persona Extending**|Yifan Liu et.al.|[2208.10816v1](http://arxiv.org/abs/2208.10816v1)|null|
+|**2022-08-23**|**Unsupervised Question Answering via Answer Diversifying**|Yuxiang Nie et.al.|[2208.10813v1](http://arxiv.org/abs/2208.10813v1)|[link](https://github.com/jerrrynie/diverseqa)|
+|**2022-08-23**|**Computational valency lexica and Homeric formularity**|Barbara McGillivray et.al.|[2208.10795v1](http://arxiv.org/abs/2208.10795v1)|null|
 |**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|[link](https://github.com/microsoft/unilm/tree/master/beit)|
 |**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
 |**2022-08-21**|**Automatic tagging of knowledge points for K12 math problems**|Xiaolu Wang et.al.|[2208.09867v1](http://arxiv.org/abs/2208.09867v1)|null|
@@ -44,13 +48,13 @@
 |**2022-08-17**|**NECE: Narrative Event Chain Extraction Toolkit**|Guangxuan Xu et.al.|[2208.08063v3](http://arxiv.org/abs/2208.08063v3)|null|
 |**2022-08-16**|**CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**|Jiangui Chen et.al.|[2208.07652v1](http://arxiv.org/abs/2208.07652v1)|[link](https://github.com/ict-bigdatalab/corpusbrain)|
 |**2022-08-13**|**An Answer Verbalization Dataset for Conversational Question Answerings over Knowledge Graphs**|Endri Kacupaj et.al.|[2208.06734v1](http://arxiv.org/abs/2208.06734v1)|null|
-|**2022-08-12**|**Forecasting Question Answering over Temporal Knowledge Graphs**|Zifeng Ding et.al.|[2208.06501v1](http://arxiv.org/abs/2208.06501v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-23**|**Evaluate Confidence Instead of Perplexity for Zero-shot Commonsense Reasoning**|Letian Peng et.al.|[2208.11007v1](http://arxiv.org/abs/2208.11007v1)|null|
 |**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|[link](https://github.com/microsoft/unilm/tree/master/beit)|
 |**2022-08-22**|**Inductive Knowledge Graph Reasoning for Multi-batch Emerging Entities**|Yuanning Cui et.al.|[2208.10378v1](http://arxiv.org/abs/2208.10378v1)|[link](https://github.com/nju-websoft/mbe)|
 |**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
@@ -159,4 +163,3 @@
 |**2022-05-31**|**Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues**|Sandhya Singh et.al.|[2205.15951v2](http://arxiv.org/abs/2205.15951v2)|null|
 |**2022-05-31**|**Why are NLP Models Fumbling at Elementary Math? A Survey of Deep Learning based Word Problem Solvers**|Sowmya S Sundaram et.al.|[2205.15683v1](http://arxiv.org/abs/2205.15683v1)|null|
 |**2022-05-30**|**A Survey in Mathematical Language Processing**|Jordan Meadows et.al.|[2205.15231v1](http://arxiv.org/abs/2205.15231v1)|null|
-|**2022-05-30**|**From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering**|Jiangtong Li et.al.|[2205.14895v1](http://arxiv.org/abs/2205.14895v1)|[link](https://github.com/bcmi/causal-vidqa)|
