@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-26 10:12:18
+ Automated deployment @ 2022-08-26 20:38:36
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -23,7 +23,10 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-08-24**|**Diverse Title Generation for Stack Overflow Posts with Multiple Sampling Enhanced Transformer**|Fengji Zhang et.al.|[2208.11523v1](http://arxiv.org/abs/2208.11523v1)|null|
+|**2022-08-25**|**Kencorpus: A Kenyan Language Corpus of Swahili, Dholuo and Luhya for Natural Language Processing Tasks**|Barack Wanjawa et.al.|[2208.12081v1](http://arxiv.org/abs/2208.12081v1)|null|
+|**2022-08-25**|**On Reality and the Limits of Language Data**|Nigel H. Collier et.al.|[2208.11981v1](http://arxiv.org/abs/2208.11981v1)|null|
+|**2022-08-25**|**A logical theory for strong and weak ontic necessities in branching time**|Fengkui Ju et.al.|[2208.11922v1](http://arxiv.org/abs/2208.11922v1)|null|
+|**2022-08-24**|**Diverse Title Generation for Stack Overflow Posts with Multiple Sampling Enhanced Transformer**|Fengji Zhang et.al.|[2208.11523v1](http://arxiv.org/abs/2208.11523v1)|[link](https://github.com/zfj1998/m3nsct5)|
 |**2022-08-24**|**DPTDR: Deep Prompt Tuning for Dense Passage Retrieval**|Zhengyang Tang et.al.|[2208.11503v1](http://arxiv.org/abs/2208.11503v1)|[link](https://github.com/tangzhy/dptdr)|
 |**2022-08-24**|**Induced Natural Language Rationales and Interleaved Markup Tokens Enable Extrapolation in Large Language Models**|Mirelle Bueno et.al.|[2208.11445v1](http://arxiv.org/abs/2208.11445v1)|[link](https://github.com/mirelleb/induced-rationales-markup-tokens)|
 |**2022-08-24**|**FashionVQA: A Domain-Specific Visual Question Answering System**|Min Wang et.al.|[2208.11253v1](http://arxiv.org/abs/2208.11253v1)|null|
@@ -56,6 +59,9 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-25**|**Training a T5 Using Lab-sized Resources**|Manuel R. Ciosici et.al.|[2208.12097v1](http://arxiv.org/abs/2208.12097v1)|null|
+|**2022-08-25**|**On Reality and the Limits of Language Data**|Nigel H. Collier et.al.|[2208.11981v1](http://arxiv.org/abs/2208.11981v1)|null|
+|**2022-08-25**|**Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey**|Mengnan Du et.al.|[2208.11857v1](http://arxiv.org/abs/2208.11857v1)|null|
 |**2022-08-24**|**Modeling Paragraph-Level Vision-Language Semantic Alignment for Multi-Modal Summarization**|Xinnian Liang et.al.|[2208.11303v1](http://arxiv.org/abs/2208.11303v1)|null|
 |**2022-08-23**|**Evaluate Confidence Instead of Perplexity for Zero-shot Commonsense Reasoning**|Letian Peng et.al.|[2208.11007v1](http://arxiv.org/abs/2208.11007v1)|null|
 |**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|[link](https://github.com/microsoft/unilm/tree/master/beit)|
@@ -163,6 +169,3 @@
 |**2022-06-02**|**VL-BEiT: Generative Vision-Language Pretraining**|Hangbo Bao et.al.|[2206.01127v1](http://arxiv.org/abs/2206.01127v1)|null|
 |**2022-06-02**|**The ParlaSent-BCS dataset of sentiment-annotated parliamentary debates from Bosnia-Herzegovina, Croatia, and Serbia**|Michal Mochtak et.al.|[2206.00929v1](http://arxiv.org/abs/2206.00929v1)|null|
 |**2022-06-01**|**On Layer Normalizations and Residual Connections in Transformers**|Sho Takase et.al.|[2206.00330v1](http://arxiv.org/abs/2206.00330v1)|null|
-|**2022-05-31**|**Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues**|Sandhya Singh et.al.|[2205.15951v2](http://arxiv.org/abs/2205.15951v2)|null|
-|**2022-05-31**|**Why are NLP Models Fumbling at Elementary Math? A Survey of Deep Learning based Word Problem Solvers**|Sowmya S Sundaram et.al.|[2205.15683v1](http://arxiv.org/abs/2205.15683v1)|null|
-|**2022-05-30**|**A Survey in Mathematical Language Processing**|Jordan Meadows et.al.|[2205.15231v1](http://arxiv.org/abs/2205.15231v1)|null|
