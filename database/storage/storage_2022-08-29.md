@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-29 10:12:17
+ Automated deployment @ 2022-08-29 20:39:29
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -13,16 +13,15 @@
 |**2022-08-19**|**Sparse Optimization for Unsupervised Extractive Summarization of Long Documents with the Frank-Wolfe Algorithm**|Alicia Y. Tsai et.al.|[2208.09454v1](http://arxiv.org/abs/2208.09454v1)|null|
 |**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v2](http://arxiv.org/abs/2208.09316v2)|[link](https://github.com/ukp-square/square-core)|
 |**2022-08-18**|**A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches**|Annemarie Friedrich et.al.|[2208.09012v1](http://arxiv.org/abs/2208.09012v1)|null|
-|**2022-08-17**|**HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models**|Swaroop Mishra et.al.|[2208.08232v1](http://arxiv.org/abs/2208.08232v1)|null|
-|**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
-|**2022-08-17**|**Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides**|Dong Won Lee et.al.|[2208.08080v1](http://arxiv.org/abs/2208.08080v1)|[link](https://github.com/dondongwon/mlpdataset)|
-|**2022-08-17**|**EGCR: Explanation Generation for Conversational Recommendation**|Bingbing Wen et.al.|[2208.08035v2](http://arxiv.org/abs/2208.08035v2)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-26**|**SeSQL: Yet Another Large-scale Session-level Chinese Text-to-SQL Dataset**|Saihao Huang et.al.|[2208.12711v1](http://arxiv.org/abs/2208.12711v1)|null|
+|**2022-08-26**|**AiM: Taking Answers in Mind to Correct Chinese Cloze Tests in Educational Applications**|Yusen Zhang et.al.|[2208.12505v1](http://arxiv.org/abs/2208.12505v1)|null|
+|**2022-08-26**|**AutoQGS: Auto-Prompt for Low-Resource Knowledge-based Question Generation from SPARQL**|Guanming Xiong et.al.|[2208.12461v1](http://arxiv.org/abs/2208.12461v1)|[link](https://github.com/jimxionggm/autoqgs)|
 |**2022-08-25**|**Kencorpus: A Kenyan Language Corpus of Swahili, Dholuo and Luhya for Natural Language Processing Tasks**|Barack Wanjawa et.al.|[2208.12081v1](http://arxiv.org/abs/2208.12081v1)|null|
 |**2022-08-25**|**On Reality and the Limits of Language Data**|Nigel H. Collier et.al.|[2208.11981v1](http://arxiv.org/abs/2208.11981v1)|null|
 |**2022-08-25**|**A logical theory for strong and weak ontic necessities in branching time**|Fengkui Ju et.al.|[2208.11922v1](http://arxiv.org/abs/2208.11922v1)|null|
@@ -52,13 +51,13 @@
 |**2022-08-17**|**Differential Privacy in Natural Language Processing: The Story So Far**|Oleksandra Klymenko et.al.|[2208.08140v1](http://arxiv.org/abs/2208.08140v1)|null|
 |**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104v1](http://arxiv.org/abs/2208.08104v1)|null|
 |**2022-08-17**|**NECE: Narrative Event Chain Extraction Toolkit**|Guangxuan Xu et.al.|[2208.08063v3](http://arxiv.org/abs/2208.08063v3)|null|
-|**2022-08-16**|**CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**|Jiangui Chen et.al.|[2208.07652v1](http://arxiv.org/abs/2208.07652v1)|[link](https://github.com/ict-bigdatalab/corpusbrain)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-26**|**Cross-lingual Transfer Learning for Fake News Detector in a Low-Resource Language**|Sangdo Han et.al.|[2208.12482v1](http://arxiv.org/abs/2208.12482v1)|[link](https://github.com/hansd410/cross-lingfnd)|
 |**2022-08-25**|**Training a T5 Using Lab-sized Resources**|Manuel R. Ciosici et.al.|[2208.12097v1](http://arxiv.org/abs/2208.12097v1)|null|
 |**2022-08-25**|**On Reality and the Limits of Language Data**|Nigel H. Collier et.al.|[2208.11981v1](http://arxiv.org/abs/2208.11981v1)|null|
 |**2022-08-25**|**Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey**|Mengnan Du et.al.|[2208.11857v1](http://arxiv.org/abs/2208.11857v1)|null|
@@ -167,5 +166,3 @@
 |**2022-06-02**|**MMTM: Multi-Tasking Multi-Decoder Transformer for Math Word Problems**|Keyur Faldu et.al.|[2206.01268v1](http://arxiv.org/abs/2206.01268v1)|null|
 |**2022-06-02**|**Vygotskian Autotelic Artificial Intelligence: Language and Culture Internalization for Human-Like AI**|Cédric Colas et.al.|[2206.01134v1](http://arxiv.org/abs/2206.01134v1)|null|
 |**2022-06-02**|**VL-BEiT: Generative Vision-Language Pretraining**|Hangbo Bao et.al.|[2206.01127v1](http://arxiv.org/abs/2206.01127v1)|null|
-|**2022-06-02**|**The ParlaSent-BCS dataset of sentiment-annotated parliamentary debates from Bosnia-Herzegovina, Croatia, and Serbia**|Michal Mochtak et.al.|[2206.00929v1](http://arxiv.org/abs/2206.00929v1)|null|
-|**2022-06-01**|**On Layer Normalizations and Residual Connections in Transformers**|Sho Takase et.al.|[2206.00330v1](http://arxiv.org/abs/2206.00330v1)|null|
