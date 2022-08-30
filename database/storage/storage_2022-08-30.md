@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-30 10:19:57
+ Automated deployment @ 2022-08-30 20:42:25
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-29**|**Supporting Medical Relation Extraction via Causality-Pruned Semantic Dependency Forest**|Yifan Jin et.al.|[2208.13472v1](http://arxiv.org/abs/2208.13472v1)|null|
+|**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v1](http://arxiv.org/abs/2208.13266v1)|null|
 |**2022-08-24**|**PEER: A Collaborative Language Model**|Timo Schick et.al.|[2208.11663v1](http://arxiv.org/abs/2208.11663v1)|null|
 |**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
 |**2022-08-19**|**Sparse Optimization for Unsupervised Extractive Summarization of Long Documents with the Frank-Wolfe Algorithm**|Alicia Y. Tsai et.al.|[2208.09454v1](http://arxiv.org/abs/2208.09454v1)|null|
@@ -19,6 +21,10 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-29**|**A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions**|Bowen Qin et.al.|[2208.13629v1](http://arxiv.org/abs/2208.13629v1)|null|
+|**2022-08-27**|**Domain-Specific NER via Retrieving Correlated Samples**|Xin Zhang et.al.|[2208.12995v1](http://arxiv.org/abs/2208.12995v1)|[link](https://github.com/izhx/ner-unlabeled-data-retrieval)|
+|**2022-08-26**|**Building the Intent Landscape of Real-World Conversational Corpora with Extractive Question-Answering Transformers**|Jean-Philippe Corbeil et.al.|[2208.12886v1](http://arxiv.org/abs/2208.12886v1)|null|
+|**2022-08-26**|**What Do NLP Researchers Believe? Results of the NLP Community Metasurvey**|Julian Michael et.al.|[2208.12852v1](http://arxiv.org/abs/2208.12852v1)|null|
 |**2022-08-26**|**SeSQL: Yet Another Large-scale Session-level Chinese Text-to-SQL Dataset**|Saihao Huang et.al.|[2208.12711v1](http://arxiv.org/abs/2208.12711v1)|null|
 |**2022-08-26**|**AiM: Taking Answers in Mind to Correct Chinese Cloze Tests in Educational Applications**|Yusen Zhang et.al.|[2208.12505v1](http://arxiv.org/abs/2208.12505v1)|null|
 |**2022-08-26**|**AutoQGS: Auto-Prompt for Low-Resource Knowledge-based Question Generation from SPARQL**|Guanming Xiong et.al.|[2208.12461v1](http://arxiv.org/abs/2208.12461v1)|[link](https://github.com/jimxionggm/autoqgs)|
@@ -42,21 +48,16 @@
 |**2022-08-19**|**Text to Image Generation: Leaving no Language Behind**|Pedro Reviriego et.al.|[2208.09333v1](http://arxiv.org/abs/2208.09333v1)|null|
 |**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v2](http://arxiv.org/abs/2208.09316v2)|[link](https://github.com/ukp-square/square-core)|
 |**2022-08-18**|**Treeformer: Dense Gradient Trees for Efficient Attention Computation**|Lovish Madaan et.al.|[2208.09015v1](http://arxiv.org/abs/2208.09015v1)|null|
-|**2022-08-18**|**Exploring and Exploiting Multi-Granularity Representations for Machine Reading Comprehension**|Nuo Chen et.al.|[2208.08750v1](http://arxiv.org/abs/2208.08750v1)|null|
-|**2022-08-17**|**Analyzing Robustness of End-to-End Neural Models for Automatic Speech Recognition**|Goutham Rajendran et.al.|[2208.08509v1](http://arxiv.org/abs/2208.08509v1)|[link](https://github.com/weizou52/robustness_analysis_asr)|
-|**2022-08-17**|**Ask Question First for Enhancing Lifelong Language Learning**|Han Wang et.al.|[2208.08367v1](http://arxiv.org/abs/2208.08367v1)|null|
-|**2022-08-17**|**ILLUME: Rationalizing Vision-Language Models by Interacting with their Jabber**|Manuel Brack et.al.|[2208.08241v2](http://arxiv.org/abs/2208.08241v2)|[link](https://github.com/ml-research/ILLUME)|
-|**2022-08-17**|**HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models**|Swaroop Mishra et.al.|[2208.08232v1](http://arxiv.org/abs/2208.08232v1)|null|
-|**2022-08-17**|**Learning Transductions to Test Systematic Compositionality**|Josef Valvoda et.al.|[2208.08195v1](http://arxiv.org/abs/2208.08195v1)|null|
-|**2022-08-17**|**Differential Privacy in Natural Language Processing: The Story So Far**|Oleksandra Klymenko et.al.|[2208.08140v1](http://arxiv.org/abs/2208.08140v1)|null|
-|**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104v1](http://arxiv.org/abs/2208.08104v1)|null|
-|**2022-08-17**|**NECE: Narrative Event Chain Extraction Toolkit**|Guangxuan Xu et.al.|[2208.08063v3](http://arxiv.org/abs/2208.08063v3)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-29**|**LogicRank: Logic Induced Reranking for Generative Text-to-Image Systems**|Björn Deiseroth et.al.|[2208.13518v1](http://arxiv.org/abs/2208.13518v1)|null|
+|**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v1](http://arxiv.org/abs/2208.13266v1)|null|
+|**2022-08-27**|**Domain-Specific NER via Retrieving Correlated Samples**|Xin Zhang et.al.|[2208.12995v1](http://arxiv.org/abs/2208.12995v1)|[link](https://github.com/izhx/ner-unlabeled-data-retrieval)|
+|**2022-08-26**|**Coalescing Global and Local Information for Procedural Text Understanding**|Kaixin Ma et.al.|[2208.12848v1](http://arxiv.org/abs/2208.12848v1)|[link](https://github.com/mayer123/cgli)|
 |**2022-08-26**|**Cross-lingual Transfer Learning for Fake News Detector in a Low-Resource Language**|Sangdo Han et.al.|[2208.12482v1](http://arxiv.org/abs/2208.12482v1)|[link](https://github.com/hansd410/cross-lingfnd)|
 |**2022-08-25**|**Training a T5 Using Lab-sized Resources**|Manuel R. Ciosici et.al.|[2208.12097v1](http://arxiv.org/abs/2208.12097v1)|null|
 |**2022-08-25**|**On Reality and the Limits of Language Data**|Nigel H. Collier et.al.|[2208.11981v1](http://arxiv.org/abs/2208.11981v1)|null|
@@ -161,8 +162,3 @@
 |**2022-06-06**|**Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation**|Jin Xu et.al.|[2206.02369v1](http://arxiv.org/abs/2206.02369v1)|null|
 |**2022-06-06**|**On the Advance of Making Language Models Better Reasoners**|Yifei Li et.al.|[2206.02336v2](http://arxiv.org/abs/2206.02336v2)|null|
 |**2022-06-03**|**QAGCN: A Graph Convolutional Network-based Multi-Relation Question Answering System**|Ruijie Wang et.al.|[2206.01818v1](http://arxiv.org/abs/2206.01818v1)|null|
-|**2022-06-03**|**A-OKVQA: A Benchmark for Visual Question Answering using World Knowledge**|Dustin Schwenk et.al.|[2206.01718v1](http://arxiv.org/abs/2206.01718v1)|null|
-|**2022-06-03**|**Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization**|Mutian He et.al.|[2206.01532v1](http://arxiv.org/abs/2206.01532v1)|[link](https://github.com/hkust-knowcomp/atomic-conceptualization)|
-|**2022-06-02**|**MMTM: Multi-Tasking Multi-Decoder Transformer for Math Word Problems**|Keyur Faldu et.al.|[2206.01268v1](http://arxiv.org/abs/2206.01268v1)|null|
-|**2022-06-02**|**Vygotskian Autotelic Artificial Intelligence: Language and Culture Internalization for Human-Like AI**|Cédric Colas et.al.|[2206.01134v1](http://arxiv.org/abs/2206.01134v1)|null|
-|**2022-06-02**|**VL-BEiT: Generative Vision-Language Pretraining**|Hangbo Bao et.al.|[2206.01127v1](http://arxiv.org/abs/2206.01127v1)|null|
