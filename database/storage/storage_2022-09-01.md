@@ -1,13 +1,26 @@
 # arxiv-daily
- Automated deployment @ 2022-09-01 10:02:54
+ Automated deployment @ 2022-09-01 20:40:01
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-31**|**Generating Intermediate Steps for NLI with Next-Step Supervision**|Deepanway Ghosal et.al.|[2208.14641v1](http://arxiv.org/abs/2208.14641v1)|null|
+|**2022-08-29**|**Supporting Medical Relation Extraction via Causality-Pruned Semantic Dependency Forest**|Yifan Jin et.al.|[2208.13472v1](http://arxiv.org/abs/2208.13472v1)|null|
+|**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v2](http://arxiv.org/abs/2208.13266v2)|null|
+|**2022-08-24**|**PEER: A Collaborative Language Model**|Timo Schick et.al.|[2208.11663v1](http://arxiv.org/abs/2208.11663v1)|null|
+|**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-31**|**Lifelong Learning for Question Answering with Hierarchical Prompts**|Yi Dai et.al.|[2208.14602v1](http://arxiv.org/abs/2208.14602v1)|null|
+|**2022-08-30**|**MultiCoNER: A Large-scale Multilingual dataset for Complex Named Entity Recognition**|Shervin Malmasi et.al.|[2208.14536v1](http://arxiv.org/abs/2208.14536v1)|null|
 |**2022-08-30**|**Faithful Reasoning Using Large Language Models**|Antonia Creswell et.al.|[2208.14271v1](http://arxiv.org/abs/2208.14271v1)|null|
 |**2022-08-30**|**Efficient and Interpretable Neural Models for Entity Tracking**|Shubham Toshniwal et.al.|[2208.14252v1](http://arxiv.org/abs/2208.14252v1)|null|
 |**2022-08-29**|**Exploring and Evaluating Personalized Models for Code Generation**|Andrei Zlotchevski et.al.|[2208.13928v1](http://arxiv.org/abs/2208.13928v1)|null|
@@ -32,25 +45,14 @@
 |**2022-08-23**|**Unsupervised Question Answering via Answer Diversifying**|Yuxiang Nie et.al.|[2208.10813v1](http://arxiv.org/abs/2208.10813v1)|[link](https://github.com/jerrrynie/diverseqa)|
 |**2022-08-23**|**Computational valency lexica and Homeric formularity**|Barbara McGillivray et.al.|[2208.10795v1](http://arxiv.org/abs/2208.10795v1)|null|
 |**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v2](http://arxiv.org/abs/2208.10442v2)|[link](https://github.com/microsoft/unilm/tree/master/beit)|
-|**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
-|**2022-08-21**|**Automatic tagging of knowledge points for K12 math problems**|Xiaolu Wang et.al.|[2208.09867v1](http://arxiv.org/abs/2208.09867v1)|null|
-|**2022-08-20**|**Cognitive Modeling of Semantic Fluency Using Transformers**|Animesh Nighojkar et.al.|[2208.09719v1](http://arxiv.org/abs/2208.09719v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-29**|**Supporting Medical Relation Extraction via Causality-Pruned Semantic Dependency Forest**|Yifan Jin et.al.|[2208.13472v1](http://arxiv.org/abs/2208.13472v1)|null|
-|**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v2](http://arxiv.org/abs/2208.13266v2)|null|
-|**2022-08-24**|**PEER: A Collaborative Language Model**|Timo Schick et.al.|[2208.11663v1](http://arxiv.org/abs/2208.11663v1)|null|
-|**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-31**|**Hierarchical Local-Global Transformer for Temporal Sentence Grounding**|Xiang Fang et.al.|[2208.14882v1](http://arxiv.org/abs/2208.14882v1)|null|
+|**2022-08-31**|**Generating Intermediate Steps for NLI with Next-Step Supervision**|Deepanway Ghosal et.al.|[2208.14641v1](http://arxiv.org/abs/2208.14641v1)|null|
 |**2022-08-30**|**Faithful Reasoning Using Large Language Models**|Antonia Creswell et.al.|[2208.14271v1](http://arxiv.org/abs/2208.14271v1)|null|
 |**2022-08-29**|**LogicRank: Logic Induced Reranking for Generative Text-to-Image Systems**|Björn Deiseroth et.al.|[2208.13518v1](http://arxiv.org/abs/2208.13518v1)|null|
 |**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v2](http://arxiv.org/abs/2208.13266v2)|null|
@@ -155,6 +157,3 @@
 |**2022-06-08**|**Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization**|Sarah Masud et.al.|[2206.04007v1](http://arxiv.org/abs/2206.04007v1)|[link](https://github.com/LCS2-IIITD/Hate_Norm)|
 |**2022-06-08**|**Set Interdependence Transformer: Set-to-Sequence Neural Networks for Permutation Learning and Structure Prediction**|Mateusz Jurewicz et.al.|[2206.03720v1](http://arxiv.org/abs/2206.03720v1)|null|
 |**2022-06-08**|**Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning**|Yu Jin Kim et.al.|[2206.03715v2](http://arxiv.org/abs/2206.03715v2)|null|
-|**2022-06-06**|**Neuro-Symbolic Causal Language Planning with Commonsense Prompting**|Yujie Lu et.al.|[2206.02928v1](http://arxiv.org/abs/2206.02928v1)|null|
-|**2022-06-06**|**CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking**|Xuming Hu et.al.|[2206.11863v1](http://arxiv.org/abs/2206.11863v1)|[link](https://github.com/thu-bpm/chef)|
-|**2022-06-06**|**Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation**|Jin Xu et.al.|[2206.02369v1](http://arxiv.org/abs/2206.02369v1)|null|
