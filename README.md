@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-02 10:07:01
+ Automated deployment @ 2022-09-02 20:38:38
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -12,19 +12,23 @@
 |**2022-08-29**|**Supporting Medical Relation Extraction via Causality-Pruned Semantic Dependency Forest**|Yifan Jin et.al.|[2208.13472v1](http://arxiv.org/abs/2208.13472v1)|null|
 |**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v2](http://arxiv.org/abs/2208.13266v2)|null|
 |**2022-08-24**|**PEER: A Collaborative Language Model**|Timo Schick et.al.|[2208.11663v1](http://arxiv.org/abs/2208.11663v1)|null|
-|**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-01**|**Why Do Neural Language Models Still Need Commonsense Knowledge to Handle Semantic Variations in Question Answering?**|Sunjae Kwon et.al.|[2209.00599v1](http://arxiv.org/abs/2209.00599v1)|null|
+|**2022-09-01**|**A Dataset for Detecting Real-World Environmental Claims**|Dominik Stammbach et.al.|[2209.00507v1](http://arxiv.org/abs/2209.00507v1)|null|
+|**2022-09-01**|**Focus-Driven Contrastive Learniang for Medical Question Summarization**|Ming Zhang et.al.|[2209.00484v1](http://arxiv.org/abs/2209.00484v1)|null|
+|**2022-08-31**|**Contextualized language models for semantic change detection: lessons learned**|Andrey Kutuzov et.al.|[2209.00154v1](http://arxiv.org/abs/2209.00154v1)|[link](https://github.com/ltgoslo/lscd_lessons)|
 |**2022-08-31**|**Lifelong Learning for Question Answering with Hierarchical Prompts**|Yi Dai et.al.|[2208.14602v1](http://arxiv.org/abs/2208.14602v1)|null|
 |**2022-08-30**|**MultiCoNER: A Large-scale Multilingual dataset for Complex Named Entity Recognition**|Shervin Malmasi et.al.|[2208.14536v1](http://arxiv.org/abs/2208.14536v1)|null|
 |**2022-08-30**|**Faithful Reasoning Using Large Language Models**|Antonia Creswell et.al.|[2208.14271v1](http://arxiv.org/abs/2208.14271v1)|null|
 |**2022-08-30**|**Efficient and Interpretable Neural Models for Entity Tracking**|Shubham Toshniwal et.al.|[2208.14252v1](http://arxiv.org/abs/2208.14252v1)|null|
 |**2022-08-29**|**Exploring and Evaluating Personalized Models for Code Generation**|Andrei Zlotchevski et.al.|[2208.13928v1](http://arxiv.org/abs/2208.13928v1)|null|
 |**2022-08-29**|**Evolving Label Usage within Generation Z when Self-Describing Sexual Orientation**|Wilson Y. Lee et.al.|[2208.13833v1](http://arxiv.org/abs/2208.13833v1)|null|
+|**2022-08-29**|**On Grounded Planning for Embodied Tasks with Language Models**|Bill Yuchen Lin et.al.|[2209.00465v1](http://arxiv.org/abs/2209.00465v1)|null|
 |**2022-08-29**|**A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions**|Bowen Qin et.al.|[2208.13629v1](http://arxiv.org/abs/2208.13629v1)|null|
 |**2022-08-27**|**Domain-Specific NER via Retrieving Correlated Samples**|Xin Zhang et.al.|[2208.12995v1](http://arxiv.org/abs/2208.12995v1)|[link](https://github.com/izhx/ner-unlabeled-data-retrieval)|
 |**2022-08-26**|**Building the Intent Landscape of Real-World Conversational Corpora with Extractive Question-Answering Transformers**|Jean-Philippe Corbeil et.al.|[2208.12886v2](http://arxiv.org/abs/2208.12886v2)|null|
@@ -40,17 +44,15 @@
 |**2022-08-24**|**Induced Natural Language Rationales and Interleaved Markup Tokens Enable Extrapolation in Large Language Models**|Mirelle Bueno et.al.|[2208.11445v1](http://arxiv.org/abs/2208.11445v1)|[link](https://github.com/mirelleb/induced-rationales-markup-tokens)|
 |**2022-08-24**|**FashionVQA: A Domain-Specific Visual Question Answering System**|Min Wang et.al.|[2208.11253v1](http://arxiv.org/abs/2208.11253v1)|null|
 |**2022-08-23**|**Prompting as Probing: Using Language Models for Knowledge Base Construction**|Dimitrios Alivanistos et.al.|[2208.11057v2](http://arxiv.org/abs/2208.11057v2)|[link](https://github.com/hemile/iswc-challenge)|
-|**2022-08-23**|**Evaluate Confidence Instead of Perplexity for Zero-shot Commonsense Reasoning**|Letian Peng et.al.|[2208.11007v1](http://arxiv.org/abs/2208.11007v1)|null|
-|**2022-08-23**|**Improving Personality Consistency in Conversation by Persona Extending**|Yifan Liu et.al.|[2208.10816v1](http://arxiv.org/abs/2208.10816v1)|null|
-|**2022-08-23**|**Unsupervised Question Answering via Answer Diversifying**|Yuxiang Nie et.al.|[2208.10813v1](http://arxiv.org/abs/2208.10813v1)|[link](https://github.com/jerrrynie/diverseqa)|
-|**2022-08-23**|**Computational valency lexica and Homeric formularity**|Barbara McGillivray et.al.|[2208.10795v1](http://arxiv.org/abs/2208.10795v1)|null|
-|**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v2](http://arxiv.org/abs/2208.10442v2)|[link](https://github.com/microsoft/unilm/tree/master/beit)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-01**|**Why Do Neural Language Models Still Need Commonsense Knowledge to Handle Semantic Variations in Question Answering?**|Sunjae Kwon et.al.|[2209.00599v1](http://arxiv.org/abs/2209.00599v1)|null|
+|**2022-09-01**|**An Ion Exchange Mechanism Inspired Story Ending Generator for Different Characters**|Xinyu Jiang et.al.|[2209.00200v1](http://arxiv.org/abs/2209.00200v1)|null|
+|**2022-08-31**|**Intelligent Traffic Monitoring with Hybrid AI**|Ehsan Qasemi et.al.|[2209.00448v1](http://arxiv.org/abs/2209.00448v1)|null|
 |**2022-08-31**|**Hierarchical Local-Global Transformer for Temporal Sentence Grounding**|Xiang Fang et.al.|[2208.14882v1](http://arxiv.org/abs/2208.14882v1)|null|
 |**2022-08-31**|**Generating Intermediate Steps for NLI with Next-Step Supervision**|Deepanway Ghosal et.al.|[2208.14641v1](http://arxiv.org/abs/2208.14641v1)|null|
 |**2022-08-30**|**Faithful Reasoning Using Large Language Models**|Antonia Creswell et.al.|[2208.14271v1](http://arxiv.org/abs/2208.14271v1)|null|
@@ -154,6 +156,3 @@
 |**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
 |**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v2](http://arxiv.org/abs/2206.04615v2)|[link](https://github.com/google/BIG-bench)|
 |**2022-06-09**|**Unveiling Transformers with LEGO: a synthetic reasoning task**|Yi Zhang et.al.|[2206.04301v2](http://arxiv.org/abs/2206.04301v2)|[link](https://github.com/yizhangzzz/transformers-lego)|
-|**2022-06-08**|**Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization**|Sarah Masud et.al.|[2206.04007v1](http://arxiv.org/abs/2206.04007v1)|[link](https://github.com/LCS2-IIITD/Hate_Norm)|
-|**2022-06-08**|**Set Interdependence Transformer: Set-to-Sequence Neural Networks for Permutation Learning and Structure Prediction**|Mateusz Jurewicz et.al.|[2206.03720v1](http://arxiv.org/abs/2206.03720v1)|null|
-|**2022-06-08**|**Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning**|Yu Jin Kim et.al.|[2206.03715v2](http://arxiv.org/abs/2206.03715v2)|null|
