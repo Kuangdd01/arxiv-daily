@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-05 10:13:05
+ Automated deployment @ 2022-09-05 20:38:44
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-02**|**Extend and Explain: Interpreting Very Long Language Models**|Joel Stremmel et.al.|[2209.01174v1](http://arxiv.org/abs/2209.01174v1)|null|
+|**2022-09-02**|**"More Than Words": Linking Music Preferences and Moral Values Through Lyrics**|Vjosa Preniqi et.al.|[2209.01169v1](http://arxiv.org/abs/2209.01169v1)|[link](https://github.com/vjosapreniqi/lyrics-content-features)|
+|**2022-09-02**|**INTERACTION: A Generative XAI Framework for Natural Language Inference Explanations**|Jialin Yu et.al.|[2209.01061v1](http://arxiv.org/abs/2209.01061v1)|null|
 |**2022-08-31**|**Generating Intermediate Steps for NLI with Next-Step Supervision**|Deepanway Ghosal et.al.|[2208.14641v1](http://arxiv.org/abs/2208.14641v1)|null|
 |**2022-08-29**|**Supporting Medical Relation Extraction via Causality-Pruned Semantic Dependency Forest**|Yifan Jin et.al.|[2208.13472v1](http://arxiv.org/abs/2208.13472v1)|null|
 |**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v2](http://arxiv.org/abs/2208.13266v2)|null|
@@ -18,6 +21,9 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-02**|**Exploiting Hybrid Semantics of Relation Paths for Multi-hop Question Answering Over Knowledge Graphs**|Zile Qiao et.al.|[2209.00870v1](http://arxiv.org/abs/2209.00870v1)|null|
+|**2022-09-02**|**Structural Bias for Aspect Sentiment Triplet Extraction**|Chen Zhang et.al.|[2209.00820v1](http://arxiv.org/abs/2209.00820v1)|[link](https://github.com/genezc/structbias)|
+|**2022-09-01**|**In conversation with Artificial Intelligence: aligning language models with human values**|Atoosa Kasirzadeh et.al.|[2209.00731v1](http://arxiv.org/abs/2209.00731v1)|null|
 |**2022-09-01**|**Why Do Neural Language Models Still Need Commonsense Knowledge to Handle Semantic Variations in Question Answering?**|Sunjae Kwon et.al.|[2209.00599v1](http://arxiv.org/abs/2209.00599v1)|null|
 |**2022-09-01**|**A Dataset for Detecting Real-World Environmental Claims**|Dominik Stammbach et.al.|[2209.00507v1](http://arxiv.org/abs/2209.00507v1)|[link](https://github.com/dominiksinsaarland/environmental_claims)|
 |**2022-09-01**|**Focus-Driven Contrastive Learniang for Medical Question Summarization**|Ming Zhang et.al.|[2209.00484v1](http://arxiv.org/abs/2209.00484v1)|null|
@@ -40,16 +46,14 @@
 |**2022-08-25**|**On Reality and the Limits of Language Data**|Nigel H. Collier et.al.|[2208.11981v1](http://arxiv.org/abs/2208.11981v1)|null|
 |**2022-08-25**|**A logical theory for strong and weak ontic necessities in branching time**|Fengkui Ju et.al.|[2208.11922v1](http://arxiv.org/abs/2208.11922v1)|null|
 |**2022-08-24**|**Diverse Title Generation for Stack Overflow Posts with Multiple Sampling Enhanced Transformer**|Fengji Zhang et.al.|[2208.11523v1](http://arxiv.org/abs/2208.11523v1)|[link](https://github.com/zfj1998/m3nsct5)|
-|**2022-08-24**|**DPTDR: Deep Prompt Tuning for Dense Passage Retrieval**|Zhengyang Tang et.al.|[2208.11503v1](http://arxiv.org/abs/2208.11503v1)|[link](https://github.com/tangzhy/dptdr)|
-|**2022-08-24**|**Induced Natural Language Rationales and Interleaved Markup Tokens Enable Extrapolation in Large Language Models**|Mirelle Bueno et.al.|[2208.11445v1](http://arxiv.org/abs/2208.11445v1)|[link](https://github.com/mirelleb/induced-rationales-markup-tokens)|
-|**2022-08-24**|**FashionVQA: A Domain-Specific Visual Question Answering System**|Min Wang et.al.|[2208.11253v1](http://arxiv.org/abs/2208.11253v1)|null|
-|**2022-08-23**|**Prompting as Probing: Using Language Models for Knowledge Base Construction**|Dimitrios Alivanistos et.al.|[2208.11057v2](http://arxiv.org/abs/2208.11057v2)|[link](https://github.com/hemile/iswc-challenge)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-02**|**Exploiting Hybrid Semantics of Relation Paths for Multi-hop Question Answering Over Knowledge Graphs**|Zile Qiao et.al.|[2209.00870v1](http://arxiv.org/abs/2209.00870v1)|null|
+|**2022-09-02**|**FOLIO: Natural Language Reasoning with First-Order Logic**|Simeng Han et.al.|[2209.00840v1](http://arxiv.org/abs/2209.00840v1)|[link](https://github.com/yale-lily/folio)|
 |**2022-09-01**|**Why Do Neural Language Models Still Need Commonsense Knowledge to Handle Semantic Variations in Question Answering?**|Sunjae Kwon et.al.|[2209.00599v1](http://arxiv.org/abs/2209.00599v1)|null|
 |**2022-09-01**|**An Ion Exchange Mechanism Inspired Story Ending Generator for Different Characters**|Xinyu Jiang et.al.|[2209.00200v1](http://arxiv.org/abs/2209.00200v1)|null|
 |**2022-08-31**|**Intelligent Traffic Monitoring with Hybrid AI**|Ehsan Qasemi et.al.|[2209.00448v1](http://arxiv.org/abs/2209.00448v1)|null|
@@ -153,6 +157,3 @@
 |**2022-06-14**|**The Causal Structure of Semantic Ambiguities**|Daphne Wang et.al.|[2206.06807v1](http://arxiv.org/abs/2206.06807v1)|null|
 |**2022-06-13**|**Memory-Based Model Editing at Scale**|Eric Mitchell et.al.|[2206.06520v1](http://arxiv.org/abs/2206.06520v1)|null|
 |**2022-06-12**|**CoSe-Co: Text Conditioned Generative CommonSense Contextualizer**|Rachit Bansal et.al.|[2206.05706v2](http://arxiv.org/abs/2206.05706v2)|null|
-|**2022-06-10**|**Ask to Know More: Generating Counterfactual Explanations for Fake Claims**|Shih-Chieh Dai et.al.|[2206.04869v2](http://arxiv.org/abs/2206.04869v2)|[link](https://github.com/yilihsu/asktoknowmore)|
-|**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v2](http://arxiv.org/abs/2206.04615v2)|[link](https://github.com/google/BIG-bench)|
-|**2022-06-09**|**Unveiling Transformers with LEGO: a synthetic reasoning task**|Yi Zhang et.al.|[2206.04301v2](http://arxiv.org/abs/2206.04301v2)|[link](https://github.com/yizhangzzz/transformers-lego)|
