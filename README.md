@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-07 10:12:06
+ Automated deployment @ 2022-09-07 20:41:04
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,19 +8,27 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
+|**2022-09-06**|**"Mama Always Had a Way of Explaining Things So I Could Understand'': A Dialogue Corpus for Learning to Construct Explanations**|Henning Wachsmuth et.al.|[2209.02508v1](http://arxiv.org/abs/2209.02508v1)|null|
+|**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
+|**2022-09-04**|**Do Large Language Models know what humans know?**|Sean Trott et.al.|[2209.01515v1](http://arxiv.org/abs/2209.01515v1)|null|
 |**2022-09-02**|**Extend and Explain: Interpreting Very Long Language Models**|Joel Stremmel et.al.|[2209.01174v1](http://arxiv.org/abs/2209.01174v1)|null|
 |**2022-09-02**|**"More Than Words": Linking Music Preferences and Moral Values Through Lyrics**|Vjosa Preniqi et.al.|[2209.01169v1](http://arxiv.org/abs/2209.01169v1)|[link](https://github.com/vjosapreniqi/lyrics-content-features)|
 |**2022-09-02**|**INTERACTION: A Generative XAI Framework for Natural Language Inference Explanations**|Jialin Yu et.al.|[2209.01061v1](http://arxiv.org/abs/2209.01061v1)|null|
 |**2022-08-31**|**Generating Intermediate Steps for NLI with Next-Step Supervision**|Deepanway Ghosal et.al.|[2208.14641v1](http://arxiv.org/abs/2208.14641v1)|null|
 |**2022-08-29**|**Supporting Medical Relation Extraction via Causality-Pruned Semantic Dependency Forest**|Yifan Jin et.al.|[2208.13472v1](http://arxiv.org/abs/2208.13472v1)|null|
 |**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v2](http://arxiv.org/abs/2208.13266v2)|null|
-|**2022-08-24**|**PEER: A Collaborative Language Model**|Timo Schick et.al.|[2208.11663v1](http://arxiv.org/abs/2208.11663v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
+|**2022-09-05**|**Query-focused Extractive Summarisation for Biomedical and COVID-19 Complex Question Answering**|Diego Mollá et.al.|[2209.01815v1](http://arxiv.org/abs/2209.01815v1)|null|
+|**2022-09-05**|**Continuous Decomposition of Granularity for Neural Paraphrase Generation**|Xiaodong Gu et.al.|[2209.01765v1](http://arxiv.org/abs/2209.01765v1)|[link](https://github.com/guxd/c-dnpg)|
+|**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
+|**2022-09-02**|**Elaboration-Generating Commonsense Question Answering at Scale**|Wenya Wang et.al.|[2209.01232v1](http://arxiv.org/abs/2209.01232v1)|null|
 |**2022-09-02**|**Exploiting Hybrid Semantics of Relation Paths for Multi-hop Question Answering Over Knowledge Graphs**|Zile Qiao et.al.|[2209.00870v1](http://arxiv.org/abs/2209.00870v1)|null|
 |**2022-09-02**|**Structural Bias for Aspect Sentiment Triplet Extraction**|Chen Zhang et.al.|[2209.00820v1](http://arxiv.org/abs/2209.00820v1)|[link](https://github.com/genezc/structbias)|
 |**2022-09-01**|**In conversation with Artificial Intelligence: aligning language models with human values**|Atoosa Kasirzadeh et.al.|[2209.00731v1](http://arxiv.org/abs/2209.00731v1)|null|
@@ -36,22 +44,17 @@
 |**2022-08-29**|**Evolving Label Usage within Generation Z when Self-Describing Sexual Orientation**|Wilson Y. Lee et.al.|[2208.13833v1](http://arxiv.org/abs/2208.13833v1)|null|
 |**2022-08-29**|**On Grounded Planning for Embodied Tasks with Language Models**|Bill Yuchen Lin et.al.|[2209.00465v1](http://arxiv.org/abs/2209.00465v1)|null|
 |**2022-08-29**|**A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions**|Bowen Qin et.al.|[2208.13629v1](http://arxiv.org/abs/2208.13629v1)|null|
-|**2022-08-27**|**Domain-Specific NER via Retrieving Correlated Samples**|Xin Zhang et.al.|[2208.12995v1](http://arxiv.org/abs/2208.12995v1)|[link](https://github.com/izhx/ner-unlabeled-data-retrieval)|
-|**2022-08-26**|**Building the Intent Landscape of Real-World Conversational Corpora with Extractive Question-Answering Transformers**|Jean-Philippe Corbeil et.al.|[2208.12886v2](http://arxiv.org/abs/2208.12886v2)|null|
-|**2022-08-26**|**What Do NLP Researchers Believe? Results of the NLP Community Metasurvey**|Julian Michael et.al.|[2208.12852v1](http://arxiv.org/abs/2208.12852v1)|null|
-|**2022-08-26**|**SeSQL: Yet Another Large-scale Session-level Chinese Text-to-SQL Dataset**|Saihao Huang et.al.|[2208.12711v1](http://arxiv.org/abs/2208.12711v1)|null|
-|**2022-08-26**|**AiM: Taking Answers in Mind to Correct Chinese Cloze Tests in Educational Applications**|Yusen Zhang et.al.|[2208.12505v1](http://arxiv.org/abs/2208.12505v1)|[link](https://github.com/yusenzhang826/aim)|
-|**2022-08-26**|**AutoQGS: Auto-Prompt for Low-Resource Knowledge-based Question Generation from SPARQL**|Guanming Xiong et.al.|[2208.12461v1](http://arxiv.org/abs/2208.12461v1)|[link](https://github.com/jimxionggm/autoqgs)|
-|**2022-08-25**|**Kencorpus: A Kenyan Language Corpus of Swahili, Dholuo and Luhya for Natural Language Processing Tasks**|Barack Wanjawa et.al.|[2208.12081v1](http://arxiv.org/abs/2208.12081v1)|null|
-|**2022-08-25**|**On Reality and the Limits of Language Data**|Nigel H. Collier et.al.|[2208.11981v1](http://arxiv.org/abs/2208.11981v1)|null|
-|**2022-08-25**|**A logical theory for strong and weak ontic necessities in branching time**|Fengkui Ju et.al.|[2208.11922v1](http://arxiv.org/abs/2208.11922v1)|null|
-|**2022-08-24**|**Diverse Title Generation for Stack Overflow Posts with Multiple Sampling Enhanced Transformer**|Fengji Zhang et.al.|[2208.11523v1](http://arxiv.org/abs/2208.11523v1)|[link](https://github.com/zfj1998/m3nsct5)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
+|**2022-09-06**|**Reconstructing Action-Conditioned Human-Object Interactions Using Commonsense Knowledge Priors**|Xi Wang et.al.|[2209.02485v1](http://arxiv.org/abs/2209.02485v1)|null|
+|**2022-09-05**|**How Much User Context Do We Need? Privacy by Design in Mental Health NLP Application**|Ramit Sawhney et.al.|[2209.02022v1](http://arxiv.org/abs/2209.02022v1)|null|
+|**2022-09-05**|**Selective Annotation Makes Language Models Better Few-Shot Learners**|Hongjin Su et.al.|[2209.01975v1](http://arxiv.org/abs/2209.01975v1)|[link](https://github.com/hkunlp/icl-selective-annotation)|
+|**2022-09-05**|**A Survey on Measuring and Mitigating Reasoning Shortcuts in Machine Reading Comprehension**|Xanh Ho et.al.|[2209.01824v1](http://arxiv.org/abs/2209.01824v1)|null|
 |**2022-09-02**|**Exploiting Hybrid Semantics of Relation Paths for Multi-hop Question Answering Over Knowledge Graphs**|Zile Qiao et.al.|[2209.00870v1](http://arxiv.org/abs/2209.00870v1)|null|
 |**2022-09-02**|**FOLIO: Natural Language Reasoning with First-Order Logic**|Simeng Han et.al.|[2209.00840v1](http://arxiv.org/abs/2209.00840v1)|[link](https://github.com/yale-lily/folio)|
 |**2022-09-01**|**Why Do Neural Language Models Still Need Commonsense Knowledge to Handle Semantic Variations in Question Answering?**|Sunjae Kwon et.al.|[2209.00599v1](http://arxiv.org/abs/2209.00599v1)|null|
@@ -155,5 +158,3 @@
 |**2022-06-14**|**Understanding Narratives through Dimensions of Analogy**|Thiloshon Nagarajah et.al.|[2206.07167v2](http://arxiv.org/abs/2206.07167v2)|[link](https://github.com/usc-isi-i2/analogical-transfer-learning)|
 |**2022-06-14**|**NewsEdits: A News Article Revision Dataset and a Document-Level Reasoning Challenge**|Alexander Spangher et.al.|[2206.07106v1](http://arxiv.org/abs/2206.07106v1)|[link](https://github.com/isi-nlp/newsedits)|
 |**2022-06-14**|**The Causal Structure of Semantic Ambiguities**|Daphne Wang et.al.|[2206.06807v1](http://arxiv.org/abs/2206.06807v1)|null|
-|**2022-06-13**|**Memory-Based Model Editing at Scale**|Eric Mitchell et.al.|[2206.06520v1](http://arxiv.org/abs/2206.06520v1)|null|
-|**2022-06-12**|**CoSe-Co: Text Conditioned Generative CommonSense Contextualizer**|Rachit Bansal et.al.|[2206.05706v2](http://arxiv.org/abs/2206.05706v2)|null|
