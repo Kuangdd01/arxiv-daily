@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-09 10:15:09
+ Automated deployment @ 2022-09-09 20:41:46
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**Towards explainable evaluation of language models on the semantic similarity of visual concepts**|Maria Lymperaiou et.al.|[2209.03723v1](http://arxiv.org/abs/2209.03723v1)|null|
+|**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
 |**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
 |**2022-09-06**|**"Mama Always Had a Way of Explaining Things So I Could Understand'': A Dialogue Corpus for Learning to Construct Explanations**|Henning Wachsmuth et.al.|[2209.02508v1](http://arxiv.org/abs/2209.02508v1)|null|
 |**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
@@ -15,13 +17,14 @@
 |**2022-09-02**|**Extend and Explain: Interpreting Very Long Language Models**|Joel Stremmel et.al.|[2209.01174v2](http://arxiv.org/abs/2209.01174v2)|null|
 |**2022-09-02**|**"More Than Words": Linking Music Preferences and Moral Values Through Lyrics**|Vjosa Preniqi et.al.|[2209.01169v1](http://arxiv.org/abs/2209.01169v1)|[link](https://github.com/vjosapreniqi/lyrics-content-features)|
 |**2022-09-02**|**INTERACTION: A Generative XAI Framework for Natural Language Inference Explanations**|Jialin Yu et.al.|[2209.01061v1](http://arxiv.org/abs/2209.01061v1)|null|
-|**2022-08-31**|**Generating Intermediate Steps for NLI with Next-Step Supervision**|Deepanway Ghosal et.al.|[2208.14641v1](http://arxiv.org/abs/2208.14641v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**|Shiyue Zhang et.al.|[2209.03549v1](http://arxiv.org/abs/2209.03549v1)|[link](https://github.com/zhangshiyue/extractive_is_not_faithful)|
+|**2022-09-07**|**Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**|Paul Pu Liang et.al.|[2209.03430v1](http://arxiv.org/abs/2209.03430v1)|null|
 |**2022-09-07**|**Knowledge-enhanced Iterative Instruction Generation and Reasoning for Knowledge Base Question Answering**|Haowei Du et.al.|[2209.03005v1](http://arxiv.org/abs/2209.03005v1)|null|
 |**2022-09-07**|**Improving the Cross-Lingual Generalisation in Visual Question Answering**|Farhad Nooralahzadeh et.al.|[2209.02982v1](http://arxiv.org/abs/2209.02982v1)|[link](https://github.com/nooralahzadeh/clg-vqa)|
 |**2022-09-07**|**VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph**|Yanzeng Li et.al.|[2209.02981v1](http://arxiv.org/abs/2209.02981v1)|[link](https://github.com/pkumod/vgstore)|
@@ -40,16 +43,16 @@
 |**2022-08-31**|**Contextualized language models for semantic change detection: lessons learned**|Andrey Kutuzov et.al.|[2209.00154v1](http://arxiv.org/abs/2209.00154v1)|[link](https://github.com/ltgoslo/lscd_lessons)|
 |**2022-08-31**|**Lifelong Learning for Question Answering with Hierarchical Prompts**|Yi Dai et.al.|[2208.14602v1](http://arxiv.org/abs/2208.14602v1)|null|
 |**2022-08-30**|**MultiCoNER: A Large-scale Multilingual dataset for Complex Named Entity Recognition**|Shervin Malmasi et.al.|[2208.14536v1](http://arxiv.org/abs/2208.14536v1)|null|
-|**2022-08-30**|**Faithful Reasoning Using Large Language Models**|Antonia Creswell et.al.|[2208.14271v1](http://arxiv.org/abs/2208.14271v1)|null|
-|**2022-08-30**|**Efficient and Interpretable Neural Models for Entity Tracking**|Shubham Toshniwal et.al.|[2208.14252v1](http://arxiv.org/abs/2208.14252v1)|null|
-|**2022-08-29**|**Exploring and Evaluating Personalized Models for Code Generation**|Andrei Zlotchevski et.al.|[2208.13928v1](http://arxiv.org/abs/2208.13928v1)|null|
-|**2022-08-29**|**Evolving Label Usage within Generation Z when Self-Describing Sexual Orientation**|Wilson Y. Lee et.al.|[2208.13833v1](http://arxiv.org/abs/2208.13833v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**Visual Grounding of Inter-lingual Word-Embeddings**|Wafaa Mohammed et.al.|[2209.03714v1](http://arxiv.org/abs/2209.03714v1)|null|
+|**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
+|**2022-09-07**|**Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**|Paul Pu Liang et.al.|[2209.03430v1](http://arxiv.org/abs/2209.03430v1)|null|
+|**2022-09-07**|**Investigating Reasons for Disagreement in Natural Language Inference**|Nan-Jiang Jiang et.al.|[2209.03392v1](http://arxiv.org/abs/2209.03392v1)|null|
 |**2022-09-07**|**The Ethical Need for Watermarks in Machine-Generated Language**|Alexei Grinbaum et.al.|[2209.03118v1](http://arxiv.org/abs/2209.03118v1)|null|
 |**2022-09-07**|**Knowledge-enhanced Iterative Instruction Generation and Reasoning for Knowledge Base Question Answering**|Haowei Du et.al.|[2209.03005v1](http://arxiv.org/abs/2209.03005v1)|null|
 |**2022-09-07**|**VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph**|Yanzeng Li et.al.|[2209.02981v1](http://arxiv.org/abs/2209.02981v1)|[link](https://github.com/pkumod/vgstore)|
@@ -155,6 +158,3 @@
 |**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
 |**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
 |**2022-06-16**|**DIALOG-22 RuATD Generated Text Detection**|Narek Maloyan et.al.|[2206.08029v1](http://arxiv.org/abs/2206.08029v1)|null|
-|**2022-06-16**|**PInKS: Preconditioned Commonsense Inference with Minimal Supervision**|Ehsan Qasemi et.al.|[2206.07920v1](http://arxiv.org/abs/2206.07920v1)|null|
-|**2022-06-14**|**Multimodal Event Graphs: Towards Event Centric Understanding of Multimodal World**|Hammad A. Ayyubi et.al.|[2206.07207v1](http://arxiv.org/abs/2206.07207v1)|null|
-|**2022-06-14**|**Can Foundation Models Talk Causality?**|Moritz Willig et.al.|[2206.10591v1](http://arxiv.org/abs/2206.10591v1)|null|
