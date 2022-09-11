@@ -1,22 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2022-09-11 10:11:59
+ Automated deployment @ 2022-09-11 20:37:21
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08**|**Towards explainable evaluation of language models on the semantic similarity of visual concepts**|Maria Lymperaiou et.al.|[2209.03723v1](http://arxiv.org/abs/2209.03723v1)|null|
-|**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
-|**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
-|**2022-09-06**|**"Mama Always Had a Way of Explaining Things So I Could Understand'': A Dialogue Corpus for Learning to Construct Explanations**|Henning Wachsmuth et.al.|[2209.02508v1](http://arxiv.org/abs/2209.02508v1)|null|
-|**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
-|**2022-09-04**|**Do Large Language Models know what humans know?**|Sean Trott et.al.|[2209.01515v1](http://arxiv.org/abs/2209.01515v1)|[link](https://github.com/ucsd-language-and-cognition-lab/nlm-fb)|
-|**2022-09-02**|**Extend and Explain: Interpreting Very Long Language Models**|Joel Stremmel et.al.|[2209.01174v2](http://arxiv.org/abs/2209.01174v2)|null|
-|**2022-09-02**|**"More Than Words": Linking Music Preferences and Moral Values Through Lyrics**|Vjosa Preniqi et.al.|[2209.01169v1](http://arxiv.org/abs/2209.01169v1)|[link](https://github.com/vjosapreniqi/lyrics-content-features)|
-|**2022-09-02**|**INTERACTION: A Generative XAI Framework for Natural Language Inference Explanations**|Jialin Yu et.al.|[2209.01061v1](http://arxiv.org/abs/2209.01061v1)|null|
 
 ## Question Answering
 
@@ -43,6 +28,21 @@
 |**2022-08-31**|**Contextualized language models for semantic change detection: lessons learned**|Andrey Kutuzov et.al.|[2209.00154v1](http://arxiv.org/abs/2209.00154v1)|[link](https://github.com/ltgoslo/lscd_lessons)|
 |**2022-08-31**|**Lifelong Learning for Question Answering with Hierarchical Prompts**|Yi Dai et.al.|[2208.14602v1](http://arxiv.org/abs/2208.14602v1)|null|
 |**2022-08-30**|**MultiCoNER: A Large-scale Multilingual dataset for Complex Named Entity Recognition**|Shervin Malmasi et.al.|[2208.14536v1](http://arxiv.org/abs/2208.14536v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**Towards explainable evaluation of language models on the semantic similarity of visual concepts**|Maria Lymperaiou et.al.|[2209.03723v1](http://arxiv.org/abs/2209.03723v1)|null|
+|**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
+|**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
+|**2022-09-06**|**"Mama Always Had a Way of Explaining Things So I Could Understand'': A Dialogue Corpus for Learning to Construct Explanations**|Henning Wachsmuth et.al.|[2209.02508v1](http://arxiv.org/abs/2209.02508v1)|null|
+|**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
+|**2022-09-04**|**Do Large Language Models know what humans know?**|Sean Trott et.al.|[2209.01515v1](http://arxiv.org/abs/2209.01515v1)|[link](https://github.com/ucsd-language-and-cognition-lab/nlm-fb)|
+|**2022-09-02**|**Extend and Explain: Interpreting Very Long Language Models**|Joel Stremmel et.al.|[2209.01174v2](http://arxiv.org/abs/2209.01174v2)|null|
+|**2022-09-02**|**"More Than Words": Linking Music Preferences and Moral Values Through Lyrics**|Vjosa Preniqi et.al.|[2209.01169v1](http://arxiv.org/abs/2209.01169v1)|[link](https://github.com/vjosapreniqi/lyrics-content-features)|
+|**2022-09-02**|**INTERACTION: A Generative XAI Framework for Natural Language Inference Explanations**|Jialin Yu et.al.|[2209.01061v1](http://arxiv.org/abs/2209.01061v1)|null|
 
 ## Reasoning
 
