@@ -1,28 +1,17 @@
 # arxiv-daily
- Automated deployment @ 2022-09-13 10:14:18
+ Automated deployment @ 2022-09-13 20:45:09
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08**|**Towards explainable evaluation of language models on the semantic similarity of visual concepts**|Maria Lymperaiou et.al.|[2209.03723v1](http://arxiv.org/abs/2209.03723v1)|null|
-|**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
-|**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
-|**2022-09-06**|**"Mama Always Had a Way of Explaining Things So I Could Understand'': A Dialogue Corpus for Learning to Construct Explanations**|Henning Wachsmuth et.al.|[2209.02508v1](http://arxiv.org/abs/2209.02508v1)|null|
-|**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
-|**2022-09-04**|**Do Large Language Models know what humans know?**|Sean Trott et.al.|[2209.01515v1](http://arxiv.org/abs/2209.01515v1)|[link](https://github.com/ucsd-language-and-cognition-lab/nlm-fb)|
-|**2022-09-02**|**Extend and Explain: Interpreting Very Long Language Models**|Joel Stremmel et.al.|[2209.01174v2](http://arxiv.org/abs/2209.01174v2)|null|
-|**2022-09-02**|**"More Than Words": Linking Music Preferences and Moral Values Through Lyrics**|Vjosa Preniqi et.al.|[2209.01169v1](http://arxiv.org/abs/2209.01169v1)|[link](https://github.com/vjosapreniqi/lyrics-content-features)|
-|**2022-09-02**|**INTERACTION: A Generative XAI Framework for Natural Language Inference Explanations**|Jialin Yu et.al.|[2209.01061v1](http://arxiv.org/abs/2209.01061v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-12**|**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**|Mohit Shridhar et.al.|[2209.05451v1](http://arxiv.org/abs/2209.05451v1)|null|
+|**2022-09-12**|**Towards Multi-Lingual Visual Question Answering**|Soravit Changpinyo et.al.|[2209.05401v1](http://arxiv.org/abs/2209.05401v1)|null|
+|**2022-09-12**|**Domain Adaptation for Question Answering via Question Classification**|Zhenrui Yue et.al.|[2209.04998v1](http://arxiv.org/abs/2209.04998v1)|null|
+|**2022-09-12**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v1](http://arxiv.org/abs/2209.04994v1)|null|
 |**2022-09-09**|**Enhancing Pre-trained Models with Text Structure Knowledge for Question Generation**|Zichen Wu et.al.|[2209.04179v1](http://arxiv.org/abs/2209.04179v1)|null|
 |**2022-09-08**|**Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**|Shiyue Zhang et.al.|[2209.03549v1](http://arxiv.org/abs/2209.03549v1)|[link](https://github.com/zhangshiyue/extractive_is_not_faithful)|
 |**2022-09-07**|**Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**|Paul Pu Liang et.al.|[2209.03430v1](http://arxiv.org/abs/2209.03430v1)|null|
@@ -35,13 +24,22 @@
 |**2022-09-05**|**Continuous Decomposition of Granularity for Neural Paraphrase Generation**|Xiaodong Gu et.al.|[2209.01765v1](http://arxiv.org/abs/2209.01765v1)|[link](https://github.com/guxd/c-dnpg)|
 |**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
 |**2022-09-02**|**Elaboration-Generating Commonsense Question Answering at Scale**|Wenya Wang et.al.|[2209.01232v1](http://arxiv.org/abs/2209.01232v1)|null|
-|**2022-09-02**|**Exploiting Hybrid Semantics of Relation Paths for Multi-hop Question Answering Over Knowledge Graphs**|Zile Qiao et.al.|[2209.00870v1](http://arxiv.org/abs/2209.00870v1)|null|
-|**2022-09-02**|**Structural Bias for Aspect Sentiment Triplet Extraction**|Chen Zhang et.al.|[2209.00820v1](http://arxiv.org/abs/2209.00820v1)|[link](https://github.com/genezc/structbias)|
-|**2022-09-01**|**In conversation with Artificial Intelligence: aligning language models with human values**|Atoosa Kasirzadeh et.al.|[2209.00731v1](http://arxiv.org/abs/2209.00731v1)|null|
-|**2022-09-01**|**Why Do Neural Language Models Still Need Commonsense Knowledge to Handle Semantic Variations in Question Answering?**|Sunjae Kwon et.al.|[2209.00599v1](http://arxiv.org/abs/2209.00599v1)|null|
-|**2022-09-01**|**A Dataset for Detecting Real-World Environmental Claims**|Dominik Stammbach et.al.|[2209.00507v1](http://arxiv.org/abs/2209.00507v1)|[link](https://github.com/dominiksinsaarland/environmental_claims)|
-|**2022-09-01**|**Focus-Driven Contrastive Learniang for Medical Question Summarization**|Ming Zhang et.al.|[2209.00484v1](http://arxiv.org/abs/2209.00484v1)|null|
-|**2022-08-31**|**Contextualized language models for semantic change detection: lessons learned**|Andrey Kutuzov et.al.|[2209.00154v1](http://arxiv.org/abs/2209.00154v1)|[link](https://github.com/ltgoslo/lscd_lessons)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-12**|**On Faithfulness and Coherence of Language Explanations for Recommendation Systems**|Zhouhang Xie et.al.|[2209.05409v1](http://arxiv.org/abs/2209.05409v1)|null|
+|**2022-09-11**|**Chain of Explanation: New Prompting Method to Generate Higher Quality Natural Language Explanation for Implicit Hate Speech**|Fan Huang et.al.|[2209.04889v1](http://arxiv.org/abs/2209.04889v1)|null|
+|**2022-09-11**|**Adaptive Perturbation-Based Gradient Estimation for Discrete Latent Variable Models**|Pasquale Minervini et.al.|[2209.04862v1](http://arxiv.org/abs/2209.04862v1)|null|
+|**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
+|**2022-09-08**|**Towards explainable evaluation of language models on the semantic similarity of visual concepts**|Maria Lymperaiou et.al.|[2209.03723v1](http://arxiv.org/abs/2209.03723v1)|null|
+|**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
+|**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
+|**2022-09-06**|**"Mama Always Had a Way of Explaining Things So I Could Understand'': A Dialogue Corpus for Learning to Construct Explanations**|Henning Wachsmuth et.al.|[2209.02508v1](http://arxiv.org/abs/2209.02508v1)|null|
+|**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
+|**2022-09-04**|**Do Large Language Models know what humans know?**|Sean Trott et.al.|[2209.01515v1](http://arxiv.org/abs/2209.01515v1)|[link](https://github.com/ucsd-language-and-cognition-lab/nlm-fb)|
 
 ## Reasoning
 
@@ -155,5 +153,3 @@
 |**2022-06-21**|**An Automatic and Efficient BERT Pruning for Edge AI Systems**|Shaoyi Huang et.al.|[2206.10461v1](http://arxiv.org/abs/2206.10461v1)|null|
 |**2022-06-18**|**AI Based Chatbot: An Approach of Utilizing On Customer Service Assistance**|Rejwan Bin Sulaiman et.al.|[2207.10573v1](http://arxiv.org/abs/2207.10573v1)|null|
 |**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
-|**2022-06-16**|**Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2206.08486v1](http://arxiv.org/abs/2206.08486v1)|null|
-|**2022-06-16**|**DIALOG-22 RuATD Generated Text Detection**|Narek Maloyan et.al.|[2206.08029v1](http://arxiv.org/abs/2206.08029v1)|null|
