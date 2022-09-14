@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-14 16:22:19
+ Automated deployment @ 2022-09-14 20:43:26
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -49,7 +49,7 @@
 |**2022-09-08**|**Visual Grounding of Inter-lingual Word-Embeddings**|Wafaa Mohammed et.al.|[2209.03714v1](http://arxiv.org/abs/2209.03714v1)|null|
 |**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
 |**2022-09-07**|**Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**|Paul Pu Liang et.al.|[2209.03430v1](http://arxiv.org/abs/2209.03430v1)|null|
-|**2022-09-07**|**Investigating Reasons for Disagreement in Natural Language Inference**|Nan-Jiang Jiang et.al.|[2209.03392v1](http://arxiv.org/abs/2209.03392v1)|null|
+|**2022-09-07**|**Investigating Reasons for Disagreement in Natural Language Inference**|Nan-Jiang Jiang et.al.|[2209.03392v1](http://arxiv.org/abs/2209.03392v1)|[link](https://github.com/njjiang/nli_disagreement_taxonomy)|
 |**2022-09-07**|**The Ethical Need for Watermarks in Machine-Generated Language**|Alexei Grinbaum et.al.|[2209.03118v1](http://arxiv.org/abs/2209.03118v1)|null|
 |**2022-09-07**|**Knowledge-enhanced Iterative Instruction Generation and Reasoning for Knowledge Base Question Answering**|Haowei Du et.al.|[2209.03005v1](http://arxiv.org/abs/2209.03005v1)|null|
 |**2022-09-07**|**VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph**|Yanzeng Li et.al.|[2209.02981v1](http://arxiv.org/abs/2209.02981v1)|[link](https://github.com/pkumod/vgstore)|
