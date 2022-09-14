@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-14 10:10:01
+ Automated deployment @ 2022-09-14 16:22:19
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-13**|**The Role of Explanatory Value in Natural Language Processing**|Kees van Deemter et.al.|[2209.06169v1](http://arxiv.org/abs/2209.06169v1)|null|
 |**2022-09-12**|**On Faithfulness and Coherence of Language Explanations for Recommendation Systems**|Zhouhang Xie et.al.|[2209.05409v1](http://arxiv.org/abs/2209.05409v1)|null|
 |**2022-09-11**|**Chain of Explanation: New Prompting Method to Generate Higher Quality Natural Language Explanation for Implicit Hate Speech**|Fan Huang et.al.|[2209.04889v1](http://arxiv.org/abs/2209.04889v1)|null|
 |**2022-09-11**|**Adaptive Perturbation-Based Gradient Estimation for Discrete Latent Variable Models**|Pasquale Minervini et.al.|[2209.04862v1](http://arxiv.org/abs/2209.04862v1)|null|
@@ -16,8 +17,6 @@
 |**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
 |**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
 |**2022-09-06**|**"Mama Always Had a Way of Explaining Things So I Could Understand'': A Dialogue Corpus for Learning to Construct Explanations**|Henning Wachsmuth et.al.|[2209.02508v1](http://arxiv.org/abs/2209.02508v1)|null|
-|**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
-|**2022-09-04**|**Do Large Language Models know what humans know?**|Sean Trott et.al.|[2209.01515v1](http://arxiv.org/abs/2209.01515v1)|[link](https://github.com/ucsd-language-and-cognition-lab/nlm-fb)|
 
 ## Question Answering
 
@@ -39,13 +38,14 @@
 |**2022-09-05**|**Query-focused Extractive Summarisation for Biomedical and COVID-19 Complex Question Answering**|Diego Mollá et.al.|[2209.01815v1](http://arxiv.org/abs/2209.01815v1)|[link](https://github.com/dmollaaliod/bioasq10b-public)|
 |**2022-09-05**|**Continuous Decomposition of Granularity for Neural Paraphrase Generation**|Xiaodong Gu et.al.|[2209.01765v1](http://arxiv.org/abs/2209.01765v1)|[link](https://github.com/guxd/c-dnpg)|
 |**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
-|**2022-09-02**|**Elaboration-Generating Commonsense Question Answering at Scale**|Wenya Wang et.al.|[2209.01232v1](http://arxiv.org/abs/2209.01232v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-13**|**Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows**|Keisuke Shirai et.al.|[2209.05840v1](http://arxiv.org/abs/2209.05840v1)|null|
+|**2022-09-12**|**PreSTU: Pre-Training for Scene-Text Understanding**|Jihyung Kil et.al.|[2209.05534v1](http://arxiv.org/abs/2209.05534v1)|null|
 |**2022-09-08**|**Visual Grounding of Inter-lingual Word-Embeddings**|Wafaa Mohammed et.al.|[2209.03714v1](http://arxiv.org/abs/2209.03714v1)|null|
 |**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
 |**2022-09-07**|**Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**|Paul Pu Liang et.al.|[2209.03430v1](http://arxiv.org/abs/2209.03430v1)|null|
@@ -151,5 +151,3 @@
 |**2022-06-21**|**Using cognitive psychology to understand GPT-3**|Marcel Binz et.al.|[2206.14576v1](http://arxiv.org/abs/2206.14576v1)|null|
 |**2022-06-21**|**Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**|Karthik Valmeekam et.al.|[2206.10498v1](http://arxiv.org/abs/2206.10498v1)|[link](https://github.com/karthikv792/gpt-plan-benchmark)|
 |**2022-06-21**|**An Automatic and Efficient BERT Pruning for Edge AI Systems**|Shaoyi Huang et.al.|[2206.10461v1](http://arxiv.org/abs/2206.10461v1)|null|
-|**2022-06-18**|**AI Based Chatbot: An Approach of Utilizing On Customer Service Assistance**|Rejwan Bin Sulaiman et.al.|[2207.10573v1](http://arxiv.org/abs/2207.10573v1)|null|
-|**2022-06-17**|**A Numerical Reasoning Question Answering System with Fine-grained Retriever and the Ensemble of Multiple Generators for FinQA**|Bin Wang et.al.|[2206.08506v1](http://arxiv.org/abs/2206.08506v1)|null|
