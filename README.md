@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-15 10:23:30
+ Automated deployment @ 2022-09-15 20:49:00
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-13**|**Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest**|Jack Hessel et.al.|[2209.06293v1](http://arxiv.org/abs/2209.06293v1)|null|
+|**2022-09-13**|**CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**|Ricardo Rei et.al.|[2209.06243v1](http://arxiv.org/abs/2209.06243v1)|null|
 |**2022-09-13**|**The Role of Explanatory Value in Natural Language Processing**|Kees van Deemter et.al.|[2209.06169v1](http://arxiv.org/abs/2209.06169v1)|null|
 |**2022-09-12**|**On Faithfulness and Coherence of Language Explanations for Recommendation Systems**|Zhouhang Xie et.al.|[2209.05409v1](http://arxiv.org/abs/2209.05409v1)|null|
 |**2022-09-11**|**Chain of Explanation: New Prompting Method to Generate Higher Quality Natural Language Explanation for Implicit Hate Speech**|Fan Huang et.al.|[2209.04889v1](http://arxiv.org/abs/2209.04889v1)|null|
@@ -15,14 +17,19 @@
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 |**2022-09-08**|**Towards explainable evaluation of language models on the semantic similarity of visual concepts**|Maria Lymperaiou et.al.|[2209.03723v1](http://arxiv.org/abs/2209.03723v1)|null|
 |**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
-|**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
-|**2022-09-06**|**"Mama Always Had a Way of Explaining Things So I Could Understand'': A Dialogue Corpus for Learning to Construct Explanations**|Henning Wachsmuth et.al.|[2209.02508v1](http://arxiv.org/abs/2209.02508v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v1](http://arxiv.org/abs/2209.06794v1)|null|
+|**2022-09-14**|**Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora**|Flor Miriam Plaza-del-Arco et.al.|[2209.06701v1](http://arxiv.org/abs/2209.06701v1)|[link](https://github.com/fmplaza/zsl_nli_emotion_prompts)|
+|**2022-09-14**|**UIT-ViCoV19QA: A Dataset for COVID-19 Community-based Question Answering on Vietnamese Language**|Triet Minh Thai et.al.|[2209.06668v1](http://arxiv.org/abs/2209.06668v1)|[link](https://github.com/minhtriet2397/uit-vicov19qa)|
+|**2022-09-14**|**CoHS-CQG: Context and History Selection for Conversational Question Generation**|Xuan Long Do et.al.|[2209.06652v1](http://arxiv.org/abs/2209.06652v1)|null|
+|**2022-09-14**|**WildQA: In-the-Wild Video Question Answering**|Santiago Castro et.al.|[2209.06650v1](http://arxiv.org/abs/2209.06650v1)|null|
+|**2022-09-14**|**Pre-training for Information Retrieval: Are Hyperlinks Fully Explored?**|Jiawen Wu et.al.|[2209.06583v1](http://arxiv.org/abs/2209.06583v1)|null|
+|**2022-09-14**|**SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers**|Bowen Qin et.al.|[2209.06442v1](http://arxiv.org/abs/2209.06442v1)|[link](https://github.com/alibabaresearch/damo-convai)|
 |**2022-09-12**|**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**|Mohit Shridhar et.al.|[2209.05451v1](http://arxiv.org/abs/2209.05451v1)|null|
 |**2022-09-12**|**Towards Multi-Lingual Visual Question Answering**|Soravit Changpinyo et.al.|[2209.05401v1](http://arxiv.org/abs/2209.05401v1)|null|
 |**2022-09-12**|**Domain Adaptation for Question Answering via Question Classification**|Zhenrui Yue et.al.|[2209.04998v1](http://arxiv.org/abs/2209.04998v1)|null|
@@ -35,15 +42,13 @@
 |**2022-09-07**|**VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph**|Yanzeng Li et.al.|[2209.02981v1](http://arxiv.org/abs/2209.02981v1)|[link](https://github.com/pkumod/vgstore)|
 |**2022-09-06**|**Increasing Adverse Drug Events extraction robustness on social media: case study on negation and speculation**|Simone Scaboro et.al.|[2209.02812v1](http://arxiv.org/abs/2209.02812v1)|null|
 |**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
-|**2022-09-05**|**Query-focused Extractive Summarisation for Biomedical and COVID-19 Complex Question Answering**|Diego Mollá et.al.|[2209.01815v1](http://arxiv.org/abs/2209.01815v1)|[link](https://github.com/dmollaaliod/bioasq10b-public)|
-|**2022-09-05**|**Continuous Decomposition of Granularity for Neural Paraphrase Generation**|Xiaodong Gu et.al.|[2209.01765v1](http://arxiv.org/abs/2209.01765v1)|[link](https://github.com/guxd/c-dnpg)|
-|**2022-09-04**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621v1](http://arxiv.org/abs/2209.01621v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-14**|**Classical Sequence Match is a Competitive Few-Shot One-Class Learner**|Mengting Hu et.al.|[2209.06394v1](http://arxiv.org/abs/2209.06394v1)|[link](https://github.com/hmt2014/fewone)|
 |**2022-09-13**|**Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows**|Keisuke Shirai et.al.|[2209.05840v1](http://arxiv.org/abs/2209.05840v1)|null|
 |**2022-09-12**|**PreSTU: Pre-Training for Scene-Text Understanding**|Jihyung Kil et.al.|[2209.05534v1](http://arxiv.org/abs/2209.05534v1)|null|
 |**2022-09-08**|**Visual Grounding of Inter-lingual Word-Embeddings**|Wafaa Mohammed et.al.|[2209.03714v1](http://arxiv.org/abs/2209.03714v1)|null|
