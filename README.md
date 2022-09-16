@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-16 10:24:44
+ Automated deployment @ 2022-09-16 20:40:33
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-15**|**Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings**|Sooji Han et.al.|[2209.07494v1](http://arxiv.org/abs/2209.07494v1)|null|
+|**2022-09-15**|**Machine Reading, Fast and Slow: When Do Models "Understand" Language?**|Sagnik Ray Choudhury et.al.|[2209.07430v1](http://arxiv.org/abs/2209.07430v1)|null|
+|**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
 |**2022-09-13**|**Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest**|Jack Hessel et.al.|[2209.06293v1](http://arxiv.org/abs/2209.06293v1)|null|
 |**2022-09-13**|**CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**|Ricardo Rei et.al.|[2209.06243v1](http://arxiv.org/abs/2209.06243v1)|null|
 |**2022-09-13**|**The Role of Explanatory Value in Natural Language Processing**|Kees van Deemter et.al.|[2209.06169v1](http://arxiv.org/abs/2209.06169v1)|null|
@@ -23,6 +26,10 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-15**|**Measuring Geographic Performance Disparities of Offensive Language Classifiers**|Brandon Lwowski et.al.|[2209.07353v1](http://arxiv.org/abs/2209.07353v1)|null|
+|**2022-09-15**|**CommunityLM: Probing Partisan Worldviews from Language Models**|Hang Jiang et.al.|[2209.07065v1](http://arxiv.org/abs/2209.07065v1)|[link](https://github.com/hjian42/communitylm)|
+|**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
+|**2022-09-14**|**Prompt-based Conservation Learning for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2209.06923v1](http://arxiv.org/abs/2209.06923v1)|null|
 |**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v1](http://arxiv.org/abs/2209.06794v1)|null|
 |**2022-09-14**|**Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora**|Flor Miriam Plaza-del-Arco et.al.|[2209.06701v2](http://arxiv.org/abs/2209.06701v2)|[link](https://github.com/fmplaza/zsl_nli_emotion_prompts)|
 |**2022-09-14**|**UIT-ViCoV19QA: A Dataset for COVID-19 Community-based Question Answering on Vietnamese Language**|Triet Minh Thai et.al.|[2209.06668v1](http://arxiv.org/abs/2209.06668v1)|[link](https://github.com/minhtriet2397/uit-vicov19qa)|
@@ -40,14 +47,17 @@
 |**2022-09-07**|**Knowledge-enhanced Iterative Instruction Generation and Reasoning for Knowledge Base Question Answering**|Haowei Du et.al.|[2209.03005v1](http://arxiv.org/abs/2209.03005v1)|null|
 |**2022-09-07**|**Improving the Cross-Lingual Generalisation in Visual Question Answering**|Farhad Nooralahzadeh et.al.|[2209.02982v1](http://arxiv.org/abs/2209.02982v1)|[link](https://github.com/nooralahzadeh/clg-vqa)|
 |**2022-09-07**|**VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph**|Yanzeng Li et.al.|[2209.02981v1](http://arxiv.org/abs/2209.02981v1)|[link](https://github.com/pkumod/vgstore)|
-|**2022-09-06**|**Increasing Adverse Drug Events extraction robustness on social media: case study on negation and speculation**|Simone Scaboro et.al.|[2209.02812v1](http://arxiv.org/abs/2209.02812v1)|null|
-|**2022-09-06**|**Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent**|Van Bach Nguyen et.al.|[2209.02552v1](http://arxiv.org/abs/2209.02552v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-15**|**Machine Reading, Fast and Slow: When Do Models "Understand" Language?**|Sagnik Ray Choudhury et.al.|[2209.07430v1](http://arxiv.org/abs/2209.07430v1)|null|
+|**2022-09-15**|**Rethinking Round-trip Translation for Automatic Machine Translation Evaluation**|Terry Yue Zhuo et.al.|[2209.07351v1](http://arxiv.org/abs/2209.07351v1)|[link](https://github.com/terryyz/rtt-rethinking)|
+|**2022-09-15**|**Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge**|Zhihong Chen et.al.|[2209.07118v1](http://arxiv.org/abs/2209.07118v1)|null|
+|**2022-09-15**|**VIPHY: Probing "Visible" Physical Commonsense Knowledge**|Shikhar Singh et.al.|[2209.07000v1](http://arxiv.org/abs/2209.07000v1)|[link](https://github.com/axe--/viphy)|
+|**2022-09-14**|**Prompt-based Conservation Learning for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2209.06923v1](http://arxiv.org/abs/2209.06923v1)|null|
 |**2022-09-14**|**Classical Sequence Match is a Competitive Few-Shot One-Class Learner**|Mengting Hu et.al.|[2209.06394v1](http://arxiv.org/abs/2209.06394v1)|[link](https://github.com/hmt2014/fewone)|
 |**2022-09-13**|**Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows**|Keisuke Shirai et.al.|[2209.05840v1](http://arxiv.org/abs/2209.05840v1)|null|
 |**2022-09-12**|**PreSTU: Pre-Training for Scene-Text Understanding**|Jihyung Kil et.al.|[2209.05534v1](http://arxiv.org/abs/2209.05534v1)|null|
@@ -152,7 +162,3 @@
 |**2022-06-29**|**A Robustly Optimized Long Text to Math Models for Numerical Reasoning On FinQA**|Renhui Zhang et.al.|[2207.06490v1](http://arxiv.org/abs/2207.06490v1)|[link](https://github.com/uvformal/ltmm)|
 |**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
 |**2022-06-24**|**Unified BERT for Few-shot Natural Language Understanding**|Junyu Lu et.al.|[2206.12094v2](http://arxiv.org/abs/2206.12094v2)|null|
-|**2022-06-22**|**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**|Zhuofan Ying et.al.|[2206.11212v1](http://arxiv.org/abs/2206.11212v1)|[link](https://github.com/zfying/visfis)|
-|**2022-06-21**|**Using cognitive psychology to understand GPT-3**|Marcel Binz et.al.|[2206.14576v1](http://arxiv.org/abs/2206.14576v1)|null|
-|**2022-06-21**|**Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**|Karthik Valmeekam et.al.|[2206.10498v1](http://arxiv.org/abs/2206.10498v1)|[link](https://github.com/karthikv792/gpt-plan-benchmark)|
-|**2022-06-21**|**An Automatic and Efficient BERT Pruning for Edge AI Systems**|Shaoyi Huang et.al.|[2206.10461v1](http://arxiv.org/abs/2206.10461v1)|null|
