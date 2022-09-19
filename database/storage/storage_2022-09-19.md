@@ -1,24 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2022-09-19 20:47:12
+ Automated deployment @ 2022-09-19 21:38:46
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-16**|**Dynamic Generation of Interpretable Inference Rules in a Neuro-Symbolic Expert System**|Nathaniel Weir et.al.|[2209.07662v1](http://arxiv.org/abs/2209.07662v1)|null|
-|**2022-09-15**|**Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings**|Sooji Han et.al.|[2209.07494v1](http://arxiv.org/abs/2209.07494v1)|null|
-|**2022-09-15**|**Machine Reading, Fast and Slow: When Do Models "Understand" Language?**|Sagnik Ray Choudhury et.al.|[2209.07430v1](http://arxiv.org/abs/2209.07430v1)|null|
-|**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
-|**2022-09-13**|**Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest**|Jack Hessel et.al.|[2209.06293v1](http://arxiv.org/abs/2209.06293v1)|null|
-|**2022-09-13**|**CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**|Ricardo Rei et.al.|[2209.06243v1](http://arxiv.org/abs/2209.06243v1)|null|
-|**2022-09-13**|**The Role of Explanatory Value in Natural Language Processing**|Kees van Deemter et.al.|[2209.06169v1](http://arxiv.org/abs/2209.06169v1)|null|
-|**2022-09-12**|**On Faithfulness and Coherence of Language Explanations for Recommendation Systems**|Zhouhang Xie et.al.|[2209.05409v1](http://arxiv.org/abs/2209.05409v1)|null|
-|**2022-09-11**|**Chain of Explanation: New Prompting Method to Generate Higher Quality Natural Language Explanation for Implicit Hate Speech**|Fan Huang et.al.|[2209.04889v1](http://arxiv.org/abs/2209.04889v1)|null|
-|**2022-09-11**|**Adaptive Perturbation-Based Gradient Estimation for Discrete Latent Variable Models**|Pasquale Minervini et.al.|[2209.04862v1](http://arxiv.org/abs/2209.04862v1)|null|
-|**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
 ## Question Answering
 
@@ -45,6 +28,23 @@
 |**2022-09-09**|**Enhancing Pre-trained Models with Text Structure Knowledge for Question Generation**|Zichen Wu et.al.|[2209.04179v1](http://arxiv.org/abs/2209.04179v1)|null|
 |**2022-09-08**|**Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**|Shiyue Zhang et.al.|[2209.03549v1](http://arxiv.org/abs/2209.03549v1)|[link](https://github.com/zhangshiyue/extractive_is_not_faithful)|
 |**2022-09-07**|**Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**|Paul Pu Liang et.al.|[2209.03430v1](http://arxiv.org/abs/2209.03430v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-16**|**Dynamic Generation of Interpretable Inference Rules in a Neuro-Symbolic Expert System**|Nathaniel Weir et.al.|[2209.07662v1](http://arxiv.org/abs/2209.07662v1)|null|
+|**2022-09-15**|**Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings**|Sooji Han et.al.|[2209.07494v1](http://arxiv.org/abs/2209.07494v1)|null|
+|**2022-09-15**|**Machine Reading, Fast and Slow: When Do Models "Understand" Language?**|Sagnik Ray Choudhury et.al.|[2209.07430v1](http://arxiv.org/abs/2209.07430v1)|null|
+|**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
+|**2022-09-13**|**Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest**|Jack Hessel et.al.|[2209.06293v1](http://arxiv.org/abs/2209.06293v1)|null|
+|**2022-09-13**|**CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**|Ricardo Rei et.al.|[2209.06243v1](http://arxiv.org/abs/2209.06243v1)|null|
+|**2022-09-13**|**The Role of Explanatory Value in Natural Language Processing**|Kees van Deemter et.al.|[2209.06169v1](http://arxiv.org/abs/2209.06169v1)|null|
+|**2022-09-12**|**On Faithfulness and Coherence of Language Explanations for Recommendation Systems**|Zhouhang Xie et.al.|[2209.05409v1](http://arxiv.org/abs/2209.05409v1)|null|
+|**2022-09-11**|**Chain of Explanation: New Prompting Method to Generate Higher Quality Natural Language Explanation for Implicit Hate Speech**|Fan Huang et.al.|[2209.04889v1](http://arxiv.org/abs/2209.04889v1)|null|
+|**2022-09-11**|**Adaptive Perturbation-Based Gradient Estimation for Discrete Latent Variable Models**|Pasquale Minervini et.al.|[2209.04862v1](http://arxiv.org/abs/2209.04862v1)|null|
+|**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
 ## Reasoning
 
