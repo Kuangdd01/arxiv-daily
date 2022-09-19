@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-19 10:22:59
+ Automated deployment @ 2022-09-19 20:47:12
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-16**|**Dynamic Generation of Interpretable Inference Rules in a Neuro-Symbolic Expert System**|Nathaniel Weir et.al.|[2209.07662v1](http://arxiv.org/abs/2209.07662v1)|null|
 |**2022-09-15**|**Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings**|Sooji Han et.al.|[2209.07494v1](http://arxiv.org/abs/2209.07494v1)|null|
 |**2022-09-15**|**Machine Reading, Fast and Slow: When Do Models "Understand" Language?**|Sagnik Ray Choudhury et.al.|[2209.07430v1](http://arxiv.org/abs/2209.07430v1)|null|
 |**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
@@ -18,14 +19,14 @@
 |**2022-09-11**|**Chain of Explanation: New Prompting Method to Generate Higher Quality Natural Language Explanation for Implicit Hate Speech**|Fan Huang et.al.|[2209.04889v1](http://arxiv.org/abs/2209.04889v1)|null|
 |**2022-09-11**|**Adaptive Perturbation-Based Gradient Estimation for Discrete Latent Variable Models**|Pasquale Minervini et.al.|[2209.04862v1](http://arxiv.org/abs/2209.04862v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
-|**2022-09-08**|**Towards explainable evaluation of language models on the semantic similarity of visual concepts**|Maria Lymperaiou et.al.|[2209.03723v1](http://arxiv.org/abs/2209.03723v1)|null|
-|**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-16**|**Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios**|Mana Ashida et.al.|[2209.07760v1](http://arxiv.org/abs/2209.07760v1)|null|
+|**2022-09-16**|**Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder**|Fangyu Lei et.al.|[2209.07692v1](http://arxiv.org/abs/2209.07692v1)|null|
 |**2022-09-15**|**Measuring Geographic Performance Disparities of Offensive Language Classifiers**|Brandon Lwowski et.al.|[2209.07353v1](http://arxiv.org/abs/2209.07353v1)|null|
 |**2022-09-15**|**CommunityLM: Probing Partisan Worldviews from Language Models**|Hang Jiang et.al.|[2209.07065v1](http://arxiv.org/abs/2209.07065v1)|[link](https://github.com/hjian42/communitylm)|
 |**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
@@ -44,21 +45,23 @@
 |**2022-09-09**|**Enhancing Pre-trained Models with Text Structure Knowledge for Question Generation**|Zichen Wu et.al.|[2209.04179v1](http://arxiv.org/abs/2209.04179v1)|null|
 |**2022-09-08**|**Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**|Shiyue Zhang et.al.|[2209.03549v1](http://arxiv.org/abs/2209.03549v1)|[link](https://github.com/zhangshiyue/extractive_is_not_faithful)|
 |**2022-09-07**|**Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**|Paul Pu Liang et.al.|[2209.03430v1](http://arxiv.org/abs/2209.03430v1)|null|
-|**2022-09-07**|**Knowledge-enhanced Iterative Instruction Generation and Reasoning for Knowledge Base Question Answering**|Haowei Du et.al.|[2209.03005v1](http://arxiv.org/abs/2209.03005v1)|null|
-|**2022-09-07**|**Improving the Cross-Lingual Generalisation in Visual Question Answering**|Farhad Nooralahzadeh et.al.|[2209.02982v1](http://arxiv.org/abs/2209.02982v1)|[link](https://github.com/nooralahzadeh/clg-vqa)|
-|**2022-09-07**|**VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph**|Yanzeng Li et.al.|[2209.02981v1](http://arxiv.org/abs/2209.02981v1)|[link](https://github.com/pkumod/vgstore)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-16**|**Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios**|Mana Ashida et.al.|[2209.07760v1](http://arxiv.org/abs/2209.07760v1)|null|
+|**2022-09-16**|**Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder**|Fangyu Lei et.al.|[2209.07692v1](http://arxiv.org/abs/2209.07692v1)|null|
+|**2022-09-16**|**Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango**|Aman Madaan et.al.|[2209.07686v1](http://arxiv.org/abs/2209.07686v1)|null|
+|**2022-09-16**|**Dynamic Generation of Interpretable Inference Rules in a Neuro-Symbolic Expert System**|Nathaniel Weir et.al.|[2209.07662v1](http://arxiv.org/abs/2209.07662v1)|null|
 |**2022-09-15**|**Machine Reading, Fast and Slow: When Do Models "Understand" Language?**|Sagnik Ray Choudhury et.al.|[2209.07430v1](http://arxiv.org/abs/2209.07430v1)|null|
 |**2022-09-15**|**Rethinking Round-trip Translation for Automatic Machine Translation Evaluation**|Terry Yue Zhuo et.al.|[2209.07351v1](http://arxiv.org/abs/2209.07351v1)|[link](https://github.com/terryyz/rtt-rethinking)|
 |**2022-09-15**|**Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge**|Zhihong Chen et.al.|[2209.07118v1](http://arxiv.org/abs/2209.07118v1)|null|
 |**2022-09-15**|**VIPHY: Probing "Visible" Physical Commonsense Knowledge**|Shikhar Singh et.al.|[2209.07000v1](http://arxiv.org/abs/2209.07000v1)|[link](https://github.com/axe--/viphy)|
 |**2022-09-14**|**Prompt-based Conservation Learning for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2209.06923v1](http://arxiv.org/abs/2209.06923v1)|null|
 |**2022-09-14**|**Classical Sequence Match is a Competitive Few-Shot One-Class Learner**|Mengting Hu et.al.|[2209.06394v1](http://arxiv.org/abs/2209.06394v1)|[link](https://github.com/hmt2014/fewone)|
+|**2022-09-13**|**Improving Language Model Prompting in Support of Semi-autonomous Task Learning**|James R. Kirk et.al.|[2209.07636v1](http://arxiv.org/abs/2209.07636v1)|null|
 |**2022-09-13**|**Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows**|Keisuke Shirai et.al.|[2209.05840v1](http://arxiv.org/abs/2209.05840v1)|null|
 |**2022-09-12**|**PreSTU: Pre-Training for Scene-Text Understanding**|Jihyung Kil et.al.|[2209.05534v1](http://arxiv.org/abs/2209.05534v1)|null|
 |**2022-09-08**|**Visual Grounding of Inter-lingual Word-Embeddings**|Wafaa Mohammed et.al.|[2209.03714v1](http://arxiv.org/abs/2209.03714v1)|null|
@@ -160,5 +163,3 @@
 |**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v2](http://arxiv.org/abs/2206.14774v2)|[link](https://github.com/cardiffnlp/tweetnlp)|
 |**2022-06-29**|**Improving Deliberation by Text-Only and Semi-Supervised Training**|Ke Hu et.al.|[2206.14716v1](http://arxiv.org/abs/2206.14716v1)|null|
 |**2022-06-29**|**A Robustly Optimized Long Text to Math Models for Numerical Reasoning On FinQA**|Renhui Zhang et.al.|[2207.06490v1](http://arxiv.org/abs/2207.06490v1)|[link](https://github.com/uvformal/ltmm)|
-|**2022-06-28**|**Simplifying Dataflow Dialogue Design**|Joram Meron et.al.|[2206.14125v1](http://arxiv.org/abs/2206.14125v1)|[link](https://github.com/telepathylabsai/OpenDF)|
-|**2022-06-24**|**Unified BERT for Few-shot Natural Language Understanding**|Junyu Lu et.al.|[2206.12094v2](http://arxiv.org/abs/2206.12094v2)|null|
