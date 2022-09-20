@@ -1,33 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2022-09-20 10:09:45
+ Automated deployment @ 2022-09-20 20:43:20
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Question Answering
-
-### QA
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-16**|**Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios**|Mana Ashida et.al.|[2209.07760v1](http://arxiv.org/abs/2209.07760v1)|null|
-|**2022-09-16**|**Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder**|Fangyu Lei et.al.|[2209.07692v1](http://arxiv.org/abs/2209.07692v1)|null|
-|**2022-09-15**|**Measuring Geographic Performance Disparities of Offensive Language Classifiers**|Brandon Lwowski et.al.|[2209.07353v1](http://arxiv.org/abs/2209.07353v1)|null|
-|**2022-09-15**|**CommunityLM: Probing Partisan Worldviews from Language Models**|Hang Jiang et.al.|[2209.07065v1](http://arxiv.org/abs/2209.07065v1)|[link](https://github.com/hjian42/communitylm)|
-|**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
-|**2022-09-14**|**Prompt-based Conservation Learning for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2209.06923v1](http://arxiv.org/abs/2209.06923v1)|null|
-|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v2](http://arxiv.org/abs/2209.06794v2)|null|
-|**2022-09-14**|**Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora**|Flor Miriam Plaza-del-Arco et.al.|[2209.06701v2](http://arxiv.org/abs/2209.06701v2)|[link](https://github.com/fmplaza/zsl_nli_emotion_prompts)|
-|**2022-09-14**|**UIT-ViCoV19QA: A Dataset for COVID-19 Community-based Question Answering on Vietnamese Language**|Triet Minh Thai et.al.|[2209.06668v1](http://arxiv.org/abs/2209.06668v1)|[link](https://github.com/minhtriet2397/uit-vicov19qa)|
-|**2022-09-14**|**CoHS-CQG: Context and History Selection for Conversational Question Generation**|Xuan Long Do et.al.|[2209.06652v1](http://arxiv.org/abs/2209.06652v1)|null|
-|**2022-09-14**|**WildQA: In-the-Wild Video Question Answering**|Santiago Castro et.al.|[2209.06650v1](http://arxiv.org/abs/2209.06650v1)|null|
-|**2022-09-14**|**Pre-training for Information Retrieval: Are Hyperlinks Fully Explored?**|Jiawen Wu et.al.|[2209.06583v1](http://arxiv.org/abs/2209.06583v1)|null|
-|**2022-09-14**|**SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers**|Bowen Qin et.al.|[2209.06442v1](http://arxiv.org/abs/2209.06442v1)|[link](https://github.com/alibabaresearch/damo-convai)|
-|**2022-09-12**|**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**|Mohit Shridhar et.al.|[2209.05451v1](http://arxiv.org/abs/2209.05451v1)|null|
-|**2022-09-12**|**Towards Multi-Lingual Visual Question Answering**|Soravit Changpinyo et.al.|[2209.05401v1](http://arxiv.org/abs/2209.05401v1)|null|
-|**2022-09-12**|**Domain Adaptation for Question Answering via Question Classification**|Zhenrui Yue et.al.|[2209.04998v1](http://arxiv.org/abs/2209.04998v1)|null|
-|**2022-09-12**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v3](http://arxiv.org/abs/2209.04994v3)|null|
-|**2022-09-09**|**Enhancing Pre-trained Models with Text Structure Knowledge for Question Generation**|Zichen Wu et.al.|[2209.04179v1](http://arxiv.org/abs/2209.04179v1)|null|
-|**2022-09-08**|**Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**|Shiyue Zhang et.al.|[2209.03549v1](http://arxiv.org/abs/2209.03549v1)|[link](https://github.com/zhangshiyue/extractive_is_not_faithful)|
-|**2022-09-07**|**Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**|Paul Pu Liang et.al.|[2209.03430v1](http://arxiv.org/abs/2209.03430v1)|null|
 
 ## Explanation
 
@@ -44,13 +18,45 @@
 |**2022-09-12**|**On Faithfulness and Coherence of Language Explanations for Recommendation Systems**|Zhouhang Xie et.al.|[2209.05409v1](http://arxiv.org/abs/2209.05409v1)|null|
 |**2022-09-11**|**Chain of Explanation: New Prompting Method to Generate Higher Quality Natural Language Explanation for Implicit Hate Speech**|Fan Huang et.al.|[2209.04889v1](http://arxiv.org/abs/2209.04889v1)|null|
 |**2022-09-11**|**Adaptive Perturbation-Based Gradient Estimation for Discrete Latent Variable Models**|Pasquale Minervini et.al.|[2209.04862v1](http://arxiv.org/abs/2209.04862v1)|null|
-|**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
+
+## Question Answering
+
+### QA
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-18**|**ERNIE-mmLayout: Multi-grained MultiModal Transformer for Document Understanding**|Wenjin Wang et.al.|[2209.08569v1](http://arxiv.org/abs/2209.08569v1)|null|
+|**2022-09-18**|**Overcoming Language Priors in Visual Question Answering via Distinguishing Superficially Similar Instances**|Yike Wu et.al.|[2209.08529v1](http://arxiv.org/abs/2209.08529v1)|[link](https://github.com/wyk-nku/distinguishing-vqa)|
+|**2022-09-17**|**Learning to Answer Semantic Queries over Code**|Surya Prakash Sahu et.al.|[2209.08372v1](http://arxiv.org/abs/2209.08372v1)|[link](https://github.com/thepurpleowl/codequeries-benchmark)|
+|**2022-09-17**|**Flexible and Structured Knowledge Grounded Question Answering**|Yujie Lu et.al.|[2209.08284v1](http://arxiv.org/abs/2209.08284v1)|null|
+|**2022-09-17**|**Selective Token Generation for Few-shot Natural Language Generation**|Daejin Jo et.al.|[2209.08206v1](http://arxiv.org/abs/2209.08206v1)|null|
+|**2022-09-16**|**ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots**|Yu-Chung Hsiao et.al.|[2209.08199v1](http://arxiv.org/abs/2209.08199v1)|null|
+|**2022-09-16**|**Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios**|Mana Ashida et.al.|[2209.07760v1](http://arxiv.org/abs/2209.07760v1)|null|
+|**2022-09-16**|**Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder**|Fangyu Lei et.al.|[2209.07692v1](http://arxiv.org/abs/2209.07692v1)|null|
+|**2022-09-15**|**LAVIS: A Library for Language-Vision Intelligence**|Dongxu Li et.al.|[2209.09019v1](http://arxiv.org/abs/2209.09019v1)|[link](https://github.com/salesforce/lavis)|
+|**2022-09-15**|**Measuring Geographic Performance Disparities of Offensive Language Classifiers**|Brandon Lwowski et.al.|[2209.07353v1](http://arxiv.org/abs/2209.07353v1)|null|
+|**2022-09-15**|**CommunityLM: Probing Partisan Worldviews from Language Models**|Hang Jiang et.al.|[2209.07065v1](http://arxiv.org/abs/2209.07065v1)|[link](https://github.com/hjian42/communitylm)|
+|**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
+|**2022-09-14**|**Prompt-based Conservation Learning for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2209.06923v1](http://arxiv.org/abs/2209.06923v1)|null|
+|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v2](http://arxiv.org/abs/2209.06794v2)|null|
+|**2022-09-14**|**Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora**|Flor Miriam Plaza-del-Arco et.al.|[2209.06701v2](http://arxiv.org/abs/2209.06701v2)|[link](https://github.com/fmplaza/zsl_nli_emotion_prompts)|
+|**2022-09-14**|**UIT-ViCoV19QA: A Dataset for COVID-19 Community-based Question Answering on Vietnamese Language**|Triet Minh Thai et.al.|[2209.06668v1](http://arxiv.org/abs/2209.06668v1)|[link](https://github.com/minhtriet2397/uit-vicov19qa)|
+|**2022-09-14**|**CoHS-CQG: Context and History Selection for Conversational Question Generation**|Xuan Long Do et.al.|[2209.06652v1](http://arxiv.org/abs/2209.06652v1)|null|
+|**2022-09-14**|**WildQA: In-the-Wild Video Question Answering**|Santiago Castro et.al.|[2209.06650v1](http://arxiv.org/abs/2209.06650v1)|null|
+|**2022-09-14**|**Pre-training for Information Retrieval: Are Hyperlinks Fully Explored?**|Jiawen Wu et.al.|[2209.06583v1](http://arxiv.org/abs/2209.06583v1)|null|
+|**2022-09-14**|**SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers**|Bowen Qin et.al.|[2209.06442v1](http://arxiv.org/abs/2209.06442v1)|[link](https://github.com/alibabaresearch/damo-convai)|
+|**2022-09-12**|**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**|Mohit Shridhar et.al.|[2209.05451v1](http://arxiv.org/abs/2209.05451v1)|null|
+|**2022-09-12**|**Towards Multi-Lingual Visual Question Answering**|Soravit Changpinyo et.al.|[2209.05401v1](http://arxiv.org/abs/2209.05401v1)|null|
+|**2022-09-12**|**Domain Adaptation for Question Answering via Question Classification**|Zhenrui Yue et.al.|[2209.04998v1](http://arxiv.org/abs/2209.04998v1)|null|
+|**2022-09-12**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v3](http://arxiv.org/abs/2209.04994v3)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-17**|**Learning to Answer Semantic Queries over Code**|Surya Prakash Sahu et.al.|[2209.08372v1](http://arxiv.org/abs/2209.08372v1)|[link](https://github.com/thepurpleowl/codequeries-benchmark)|
+|**2022-09-17**|**Flexible and Structured Knowledge Grounded Question Answering**|Yujie Lu et.al.|[2209.08284v1](http://arxiv.org/abs/2209.08284v1)|null|
+|**2022-09-16**|**Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models**|Ben Prystawski et.al.|[2209.08141v1](http://arxiv.org/abs/2209.08141v1)|[link](https://github.com/benpry/chain-of-thought-metaphor)|
 |**2022-09-16**|**Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios**|Mana Ashida et.al.|[2209.07760v1](http://arxiv.org/abs/2209.07760v1)|null|
 |**2022-09-16**|**Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder**|Fangyu Lei et.al.|[2209.07692v1](http://arxiv.org/abs/2209.07692v1)|null|
 |**2022-09-16**|**Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango**|Aman Madaan et.al.|[2209.07686v1](http://arxiv.org/abs/2209.07686v1)|null|
@@ -160,6 +166,3 @@
 |**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
 |**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v3](http://arxiv.org/abs/2207.00473v3)|[link](https://github.com/oliver-lloyd/kge_param_sens)|
 |**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v2](http://arxiv.org/abs/2206.14858v2)|null|
-|**2022-06-29**|**TweetNLP: Cutting-Edge Natural Language Processing for Social Media**|Jose Camacho-Collados et.al.|[2206.14774v2](http://arxiv.org/abs/2206.14774v2)|[link](https://github.com/cardiffnlp/tweetnlp)|
-|**2022-06-29**|**Improving Deliberation by Text-Only and Semi-Supervised Training**|Ke Hu et.al.|[2206.14716v1](http://arxiv.org/abs/2206.14716v1)|null|
-|**2022-06-29**|**A Robustly Optimized Long Text to Math Models for Numerical Reasoning On FinQA**|Renhui Zhang et.al.|[2207.06490v1](http://arxiv.org/abs/2207.06490v1)|[link](https://github.com/uvformal/ltmm)|
