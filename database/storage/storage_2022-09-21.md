@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-21 10:26:48
+ Automated deployment @ 2022-09-21 20:46:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,22 +8,25 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
+|**2022-09-20**|**The language and social behavior of innovators**|A. Fronzetti Colladon et.al.|[2209.09511v1](http://arxiv.org/abs/2209.09511v1)|null|
 |**2022-09-16**|**Dynamic Generation of Interpretable Inference Rules in a Neuro-Symbolic Expert System**|Nathaniel Weir et.al.|[2209.07662v1](http://arxiv.org/abs/2209.07662v1)|null|
 |**2022-09-15**|**Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings**|Sooji Han et.al.|[2209.07494v1](http://arxiv.org/abs/2209.07494v1)|null|
 |**2022-09-15**|**Machine Reading, Fast and Slow: When Do Models "Understand" Language?**|Sagnik Ray Choudhury et.al.|[2209.07430v1](http://arxiv.org/abs/2209.07430v1)|null|
 |**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
+|**2022-09-14**|**PainPoints: A Framework for Language-based Detection of Chronic Pain and Expert-Collaborative Text-Summarization**|Shreyas Fadnavis et.al.|[2209.09814v1](http://arxiv.org/abs/2209.09814v1)|null|
 |**2022-09-13**|**Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest**|Jack Hessel et.al.|[2209.06293v1](http://arxiv.org/abs/2209.06293v1)|null|
 |**2022-09-13**|**CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**|Ricardo Rei et.al.|[2209.06243v1](http://arxiv.org/abs/2209.06243v1)|null|
 |**2022-09-13**|**The Role of Explanatory Value in Natural Language Processing**|Kees van Deemter et.al.|[2209.06169v1](http://arxiv.org/abs/2209.06169v1)|null|
 |**2022-09-12**|**On Faithfulness and Coherence of Language Explanations for Recommendation Systems**|Zhouhang Xie et.al.|[2209.05409v1](http://arxiv.org/abs/2209.05409v1)|null|
-|**2022-09-11**|**Chain of Explanation: New Prompting Method to Generate Higher Quality Natural Language Explanation for Implicit Hate Speech**|Fan Huang et.al.|[2209.04889v1](http://arxiv.org/abs/2209.04889v1)|null|
-|**2022-09-11**|**Adaptive Perturbation-Based Gradient Estimation for Discrete Latent Variable Models**|Pasquale Minervini et.al.|[2209.04862v1](http://arxiv.org/abs/2209.04862v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
+|**2022-09-20**|**Incorporating Casual Analysis into Diversified and Logical Response Generation**|Jiayi Liu et.al.|[2209.09482v1](http://arxiv.org/abs/2209.09482v1)|null|
 |**2022-09-18**|**ERNIE-mmLayout: Multi-grained MultiModal Transformer for Document Understanding**|Wenjin Wang et.al.|[2209.08569v1](http://arxiv.org/abs/2209.08569v1)|null|
 |**2022-09-18**|**Overcoming Language Priors in Visual Question Answering via Distinguishing Superficially Similar Instances**|Yike Wu et.al.|[2209.08529v1](http://arxiv.org/abs/2209.08529v1)|[link](https://github.com/wyk-nku/distinguishing-vqa)|
 |**2022-09-17**|**Learning to Answer Semantic Queries over Code**|Surya Prakash Sahu et.al.|[2209.08372v1](http://arxiv.org/abs/2209.08372v1)|[link](https://github.com/thepurpleowl/codequeries-benchmark)|
@@ -46,14 +49,14 @@
 |**2022-09-14**|**SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers**|Bowen Qin et.al.|[2209.06442v1](http://arxiv.org/abs/2209.06442v1)|[link](https://github.com/alibabaresearch/damo-convai)|
 |**2022-09-12**|**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**|Mohit Shridhar et.al.|[2209.05451v1](http://arxiv.org/abs/2209.05451v1)|null|
 |**2022-09-12**|**Towards Multi-Lingual Visual Question Answering**|Soravit Changpinyo et.al.|[2209.05401v1](http://arxiv.org/abs/2209.05401v1)|null|
-|**2022-09-12**|**Domain Adaptation for Question Answering via Question Classification**|Zhenrui Yue et.al.|[2209.04998v1](http://arxiv.org/abs/2209.04998v1)|null|
-|**2022-09-12**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v3](http://arxiv.org/abs/2209.04994v3)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
+|**2022-09-20**|**Incorporating Casual Analysis into Diversified and Logical Response Generation**|Jiayi Liu et.al.|[2209.09482v1](http://arxiv.org/abs/2209.09482v1)|null|
 |**2022-09-17**|**Learning to Answer Semantic Queries over Code**|Surya Prakash Sahu et.al.|[2209.08372v1](http://arxiv.org/abs/2209.08372v1)|[link](https://github.com/thepurpleowl/codequeries-benchmark)|
 |**2022-09-17**|**Flexible and Structured Knowledge Grounded Question Answering**|Yujie Lu et.al.|[2209.08284v1](http://arxiv.org/abs/2209.08284v1)|null|
 |**2022-09-16**|**Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models**|Ben Prystawski et.al.|[2209.08141v1](http://arxiv.org/abs/2209.08141v1)|[link](https://github.com/benpry/chain-of-thought-metaphor)|
@@ -165,4 +168,3 @@
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
 |**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
 |**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v3](http://arxiv.org/abs/2207.00473v3)|[link](https://github.com/oliver-lloyd/kge_param_sens)|
-|**2022-06-29**|**Solving Quantitative Reasoning Problems with Language Models**|Aitor Lewkowycz et.al.|[2206.14858v2](http://arxiv.org/abs/2206.14858v2)|null|
