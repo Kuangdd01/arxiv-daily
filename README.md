@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-22 10:10:01
+ Automated deployment @ 2022-09-22 20:43:10
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-21**|**WeLM: A Well-Read Pre-trained Language Model for Chinese**|Hui Su et.al.|[2209.10372v1](http://arxiv.org/abs/2209.10372v1)|null|
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
 |**2022-09-20**|**The language and social behavior of innovators**|A. Fronzetti Colladon et.al.|[2209.09511v1](http://arxiv.org/abs/2209.09511v1)|null|
 |**2022-09-16**|**Dynamic Generation of Interpretable Inference Rules in a Neuro-Symbolic Expert System**|Nathaniel Weir et.al.|[2209.07662v1](http://arxiv.org/abs/2209.07662v1)|null|
@@ -18,13 +19,14 @@
 |**2022-09-13**|**Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest**|Jack Hessel et.al.|[2209.06293v1](http://arxiv.org/abs/2209.06293v1)|null|
 |**2022-09-13**|**CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**|Ricardo Rei et.al.|[2209.06243v1](http://arxiv.org/abs/2209.06243v1)|null|
 |**2022-09-13**|**The Role of Explanatory Value in Natural Language Processing**|Kees van Deemter et.al.|[2209.06169v1](http://arxiv.org/abs/2209.06169v1)|null|
-|**2022-09-12**|**On Faithfulness and Coherence of Language Explanations for Recommendation Systems**|Zhouhang Xie et.al.|[2209.05409v1](http://arxiv.org/abs/2209.05409v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-21**|**Generate rather than Retrieve: Large Language Models are Strong Context Generators**|Wenhao Yu et.al.|[2209.10063v1](http://arxiv.org/abs/2209.10063v1)|null|
+|**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
 |**2022-09-20**|**Incorporating Casual Analysis into Diversified and Logical Response Generation**|Jiayi Liu et.al.|[2209.09482v1](http://arxiv.org/abs/2209.09482v1)|null|
 |**2022-09-18**|**ERNIE-mmLayout: Multi-grained MultiModal Transformer for Document Understanding**|Wenjin Wang et.al.|[2209.08569v1](http://arxiv.org/abs/2209.08569v1)|null|
@@ -47,14 +49,15 @@
 |**2022-09-14**|**WildQA: In-the-Wild Video Question Answering**|Santiago Castro et.al.|[2209.06650v1](http://arxiv.org/abs/2209.06650v1)|null|
 |**2022-09-14**|**Pre-training for Information Retrieval: Are Hyperlinks Fully Explored?**|Jiawen Wu et.al.|[2209.06583v1](http://arxiv.org/abs/2209.06583v1)|null|
 |**2022-09-14**|**SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers**|Bowen Qin et.al.|[2209.06442v1](http://arxiv.org/abs/2209.06442v1)|[link](https://github.com/alibabaresearch/damo-convai)|
-|**2022-09-12**|**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**|Mohit Shridhar et.al.|[2209.05451v1](http://arxiv.org/abs/2209.05451v1)|null|
-|**2022-09-12**|**Towards Multi-Lingual Visual Question Answering**|Soravit Changpinyo et.al.|[2209.05401v1](http://arxiv.org/abs/2209.05401v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-21**|**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**|Swarnadeep Saha et.al.|[2209.10492v1](http://arxiv.org/abs/2209.10492v1)|[link](https://github.com/swarnahub/summarizationprograms)|
+|**2022-09-21**|**Seeking Diverse Reasoning Logic: Controlled Equation Expression Generation for Solving Math Word Problems**|Yibin Shen et.al.|[2209.10310v1](http://arxiv.org/abs/2209.10310v1)|null|
+|**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
 |**2022-09-20**|**Incorporating Casual Analysis into Diversified and Logical Response Generation**|Jiayi Liu et.al.|[2209.09482v1](http://arxiv.org/abs/2209.09482v1)|null|
 |**2022-09-17**|**Learning to Answer Semantic Queries over Code**|Surya Prakash Sahu et.al.|[2209.08372v1](http://arxiv.org/abs/2209.08372v1)|[link](https://github.com/thepurpleowl/codequeries-benchmark)|
@@ -166,5 +169,3 @@
 |**2022-07-04**|**Unify and Conquer: How Phonetic Feature Representation Affects Polyglot Text-To-Speech (TTS)**|Ariadna Sanchez et.al.|[2207.01547v1](http://arxiv.org/abs/2207.01547v1)|null|
 |**2022-07-04**|**VEM$^2$L: A Plug-and-play Framework for Fusing Text and Structure Knowledge on Sparse Knowledge Graph Completion**|Tao He et.al.|[2207.01528v3](http://arxiv.org/abs/2207.01528v3)|null|
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
-|**2022-07-02**|**Rationale-Augmented Ensembles in Language Models**|Xuezhi Wang et.al.|[2207.00747v1](http://arxiv.org/abs/2207.00747v1)|null|
-|**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v3](http://arxiv.org/abs/2207.00473v3)|[link](https://github.com/oliver-lloyd/kge_param_sens)|
