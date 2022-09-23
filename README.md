@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-23 10:19:23
+ Automated deployment @ 2022-09-23 20:42:07
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**Learning Interpretable Latent Dialogue Actions With Less Supervision**|Vojtěch Hudeček et.al.|[2209.11128v1](http://arxiv.org/abs/2209.11128v1)|null|
+|**2022-09-22**|**MonoByte: A Pool of Monolingual Byte-level Language Models**|Hugo Abonizio et.al.|[2209.11035v1](http://arxiv.org/abs/2209.11035v1)|null|
 |**2022-09-21**|**WeLM: A Well-Read Pre-trained Language Model for Chinese**|Hui Su et.al.|[2209.10372v2](http://arxiv.org/abs/2209.10372v2)|null|
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
 |**2022-09-20**|**The language and social behavior of innovators**|A. Fronzetti Colladon et.al.|[2209.09511v1](http://arxiv.org/abs/2209.09511v1)|null|
@@ -15,16 +17,13 @@
 |**2022-09-15**|**Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings**|Sooji Han et.al.|[2209.07494v1](http://arxiv.org/abs/2209.07494v1)|null|
 |**2022-09-15**|**Machine Reading, Fast and Slow: When Do Models "Understand" Language?**|Sagnik Ray Choudhury et.al.|[2209.07430v1](http://arxiv.org/abs/2209.07430v1)|null|
 |**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
-|**2022-09-14**|**PainPoints: A Framework for Language-based Detection of Chronic Pain and Expert-Collaborative Text-Summarization**|Shreyas Fadnavis et.al.|[2209.09814v1](http://arxiv.org/abs/2209.09814v1)|null|
-|**2022-09-13**|**Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest**|Jack Hessel et.al.|[2209.06293v1](http://arxiv.org/abs/2209.06293v1)|null|
-|**2022-09-13**|**CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**|Ricardo Rei et.al.|[2209.06243v1](http://arxiv.org/abs/2209.06243v1)|[link](https://github.com/Unbabel/COMET)|
-|**2022-09-13**|**The Role of Explanatory Value in Natural Language Processing**|Kees van Deemter et.al.|[2209.06169v1](http://arxiv.org/abs/2209.06169v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**Selecting Better Samples from Pre-trained LLMs: A Case Study on Question Generation**|Xingdi Yuan et.al.|[2209.11000v1](http://arxiv.org/abs/2209.11000v1)|null|
 |**2022-09-21**|**Generate rather than Retrieve: Large Language Models are Strong Context Generators**|Wenhao Yu et.al.|[2209.10063v1](http://arxiv.org/abs/2209.10063v1)|null|
 |**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
@@ -55,6 +54,8 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**Improving Attention-Based Interpretability of Text Classification Transformers**|Nikolaos Mylonas et.al.|[2209.10876v1](http://arxiv.org/abs/2209.10876v1)|null|
+|**2022-09-22**|**INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**|Yi Xu et.al.|[2209.10754v1](http://arxiv.org/abs/2209.10754v1)|null|
 |**2022-09-21**|**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**|Swarnadeep Saha et.al.|[2209.10492v1](http://arxiv.org/abs/2209.10492v1)|[link](https://github.com/swarnahub/summarizationprograms)|
 |**2022-09-21**|**Seeking Diverse Reasoning Logic: Controlled Equation Expression Generation for Solving Math Word Problems**|Yibin Shen et.al.|[2209.10310v1](http://arxiv.org/abs/2209.10310v1)|null|
 |**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
