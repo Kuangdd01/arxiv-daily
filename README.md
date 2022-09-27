@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-27 10:09:14
+ Automated deployment @ 2022-09-27 20:47:31
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -21,6 +21,11 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-26**|**Effects of language mismatch in automatic forensic voice comparison using deep learning embeddings**|Dávid Sztahó et.al.|[2209.12602v1](http://arxiv.org/abs/2209.12602v1)|null|
+|**2022-09-26**|**Meta-Learning a Cross-lingual Manifold for Semantic Parsing**|Tom Sherborne Mirella Lapata et.al.|[2209.12577v1](http://arxiv.org/abs/2209.12577v1)|null|
+|**2022-09-26**|**Smells like Teen Spirit: An Exploration of Sensorial Style in Literary Genres**|Osama Khalid et.al.|[2209.12352v1](http://arxiv.org/abs/2209.12352v1)|null|
+|**2022-09-24**|**A Deep Investigation of RNN and Self-attention for the Cyrillic-Traditional Mongolian Bidirectional Conversion**|Muhan Na et.al.|[2209.11963v1](http://arxiv.org/abs/2209.11963v1)|null|
+|**2022-09-23**|**Multiple-Choice Question Generation: Towards an Automated Assessment Framework**|Vatsal Raina et.al.|[2209.11830v1](http://arxiv.org/abs/2209.11830v1)|null|
 |**2022-09-23**|**Promptagator: Few-shot Dense Retrieval From 8 Examples**|Zhuyun Dai et.al.|[2209.11755v1](http://arxiv.org/abs/2209.11755v1)|null|
 |**2022-09-23**|**Robust Domain Adaptation for Machine Reading Comprehension**|Liang Jiang et.al.|[2209.11615v1](http://arxiv.org/abs/2209.11615v1)|null|
 |**2022-09-23**|**ET5: A Novel End-to-end Framework for Conversational Machine Reading Comprehension**|Xiao Zhang et.al.|[2209.11484v1](http://arxiv.org/abs/2209.11484v1)|[link](https://github.com/yottaxx/et5)|
@@ -36,19 +41,13 @@
 |**2022-09-17**|**Flexible and Structured Knowledge Grounded Question Answering**|Yujie Lu et.al.|[2209.08284v1](http://arxiv.org/abs/2209.08284v1)|null|
 |**2022-09-17**|**Selective Token Generation for Few-shot Natural Language Generation**|Daejin Jo et.al.|[2209.08206v1](http://arxiv.org/abs/2209.08206v1)|null|
 |**2022-09-16**|**ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots**|Yu-Chung Hsiao et.al.|[2209.08199v1](http://arxiv.org/abs/2209.08199v1)|null|
-|**2022-09-16**|**Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios**|Mana Ashida et.al.|[2209.07760v1](http://arxiv.org/abs/2209.07760v1)|[link](https://github.com/nii-cl/possible-stories)|
-|**2022-09-16**|**Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder**|Fangyu Lei et.al.|[2209.07692v1](http://arxiv.org/abs/2209.07692v1)|null|
-|**2022-09-15**|**LAVIS: A Library for Language-Vision Intelligence**|Dongxu Li et.al.|[2209.09019v1](http://arxiv.org/abs/2209.09019v1)|[link](https://github.com/salesforce/lavis)|
-|**2022-09-15**|**Measuring Geographic Performance Disparities of Offensive Language Classifiers**|Brandon Lwowski et.al.|[2209.07353v1](http://arxiv.org/abs/2209.07353v1)|null|
-|**2022-09-15**|**CommunityLM: Probing Partisan Worldviews from Language Models**|Hang Jiang et.al.|[2209.07065v1](http://arxiv.org/abs/2209.07065v1)|[link](https://github.com/hjian42/communitylm)|
-|**2022-09-15**|**Accuracy of the Uzbek stop words detection: a case study on "School corpus"**|Khabibulla Madatov et.al.|[2209.07053v1](http://arxiv.org/abs/2209.07053v1)|null|
-|**2022-09-14**|**Prompt-based Conservation Learning for Multi-hop Question Answering**|Zhenyun Deng et.al.|[2209.06923v1](http://arxiv.org/abs/2209.06923v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-26**|**Overcoming Referential Ambiguity in Language-Guided Goal-Conditioned Reinforcement Learning**|Hugo Caselles-Dupré et.al.|[2209.12758v1](http://arxiv.org/abs/2209.12758v1)|null|
 |**2022-09-23**|**ET5: A Novel End-to-end Framework for Conversational Machine Reading Comprehension**|Xiao Zhang et.al.|[2209.11484v1](http://arxiv.org/abs/2209.11484v1)|[link](https://github.com/yottaxx/et5)|
 |**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
 |**2022-09-22**|**Improving Attention-Based Interpretability of Text Classification Transformers**|Nikolaos Mylonas et.al.|[2209.10876v1](http://arxiv.org/abs/2209.10876v1)|null|
@@ -74,6 +73,7 @@
 |**2022-09-13**|**Improving Language Model Prompting in Support of Semi-autonomous Task Learning**|James R. Kirk et.al.|[2209.07636v1](http://arxiv.org/abs/2209.07636v1)|null|
 |**2022-09-13**|**Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows**|Keisuke Shirai et.al.|[2209.05840v1](http://arxiv.org/abs/2209.05840v1)|null|
 |**2022-09-12**|**PreSTU: Pre-Training for Scene-Text Understanding**|Jihyung Kil et.al.|[2209.05534v1](http://arxiv.org/abs/2209.05534v1)|null|
+|**2022-09-10**|**Evaluation of Question Answering Systems: Complexity of judging a natural language**|Amer Farea et.al.|[2209.12617v1](http://arxiv.org/abs/2209.12617v1)|null|
 |**2022-09-08**|**Visual Grounding of Inter-lingual Word-Embeddings**|Wafaa Mohammed et.al.|[2209.03714v1](http://arxiv.org/abs/2209.03714v1)|null|
 |**2022-09-08**|**Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task**|Lei Zhao et.al.|[2209.03557v1](http://arxiv.org/abs/2209.03557v1)|null|
 |**2022-09-07**|**Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**|Paul Pu Liang et.al.|[2209.03430v1](http://arxiv.org/abs/2209.03430v1)|null|
@@ -98,6 +98,7 @@
 |**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v3](http://arxiv.org/abs/2208.13266v3)|null|
 |**2022-08-27**|**Domain-Specific NER via Retrieving Correlated Samples**|Xin Zhang et.al.|[2208.12995v2](http://arxiv.org/abs/2208.12995v2)|[link](https://github.com/izhx/ner-unlabeled-data-retrieval)|
 |**2022-08-26**|**Coalescing Global and Local Information for Procedural Text Understanding**|Kaixin Ma et.al.|[2208.12848v1](http://arxiv.org/abs/2208.12848v1)|[link](https://github.com/mayer123/cgli)|
+|**2022-08-26**|**Deep Learning-Based Sentiment Analysis of COVID-19 Vaccination Responses from Twitter Data**|Kazi Nabiul Alam et.al.|[2209.12604v1](http://arxiv.org/abs/2209.12604v1)|null|
 |**2022-08-26**|**Cross-lingual Transfer Learning for Fake News Detector in a Low-Resource Language**|Sangdo Han et.al.|[2208.12482v1](http://arxiv.org/abs/2208.12482v1)|[link](https://github.com/hansd410/cross-lingfnd)|
 |**2022-08-25**|**Training a T5 Using Lab-sized Resources**|Manuel R. Ciosici et.al.|[2208.12097v1](http://arxiv.org/abs/2208.12097v1)|null|
 |**2022-08-25**|**On Reality and the Limits of Language Data**|Nigel H. Collier et.al.|[2208.11981v1](http://arxiv.org/abs/2208.11981v1)|null|
@@ -163,5 +164,3 @@
 |**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|[link](https://github.com/jzbjyb/omnitab)|
 |**2022-07-07**|**Can Language Models perform Abductive Commonsense Reasoning?**|Seungone Kim et.al.|[2207.05155v1](http://arxiv.org/abs/2207.05155v1)|[link](https://github.com/seungonekim/abductive-commonsense-reasoning)|
 |**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|[link](https://github.com/knowledgetechnologyuhh/grid-3d)|
-|**2022-07-06**|**Learning to Diversify for Product Question Generation**|Haggai Roitman et.al.|[2207.02534v1](http://arxiv.org/abs/2207.02534v1)|null|
-|**2022-07-04**|**Unify and Conquer: How Phonetic Feature Representation Affects Polyglot Text-To-Speech (TTS)**|Ariadna Sanchez et.al.|[2207.01547v1](http://arxiv.org/abs/2207.01547v1)|null|
