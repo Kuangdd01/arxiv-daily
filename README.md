@@ -1,21 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2022-09-28 20:44:25
+ Automated deployment @ 2022-09-28 21:38:40
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-27**|**Assessing Digital Language Support on a Global Scale**|Gary F. Simons et.al.|[2209.13515v1](http://arxiv.org/abs/2209.13515v1)|[link](https://github.com/sil-ai/dls-results)|
-|**2022-09-23**|**A Neural Model for Regular Grammar Induction**|Peter Belcák et.al.|[2209.11628v1](http://arxiv.org/abs/2209.11628v1)|[link](https://github.com/pbelcak/neregrain)|
-|**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
-|**2022-09-22**|**Learning Interpretable Latent Dialogue Actions With Less Supervision**|Vojtěch Hudeček et.al.|[2209.11128v2](http://arxiv.org/abs/2209.11128v2)|null|
-|**2022-09-22**|**MonoByte: A Pool of Monolingual Byte-level Language Models**|Hugo Abonizio et.al.|[2209.11035v2](http://arxiv.org/abs/2209.11035v2)|[link](https://github.com/lersouza/lang-agnostic)|
-|**2022-09-21**|**WeLM: A Well-Read Pre-trained Language Model for Chinese**|Hui Su et.al.|[2209.10372v3](http://arxiv.org/abs/2209.10372v3)|null|
-|**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
-|**2022-09-20**|**The language and social behavior of innovators**|A. Fronzetti Colladon et.al.|[2209.09511v1](http://arxiv.org/abs/2209.09511v1)|null|
 
 ## Question Answering
 
@@ -41,6 +27,20 @@
 |**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
 |**2022-09-20**|**Incorporating Casual Analysis into Diversified and Logical Response Generation**|Jiayi Liu et.al.|[2209.09482v1](http://arxiv.org/abs/2209.09482v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-27**|**Assessing Digital Language Support on a Global Scale**|Gary F. Simons et.al.|[2209.13515v1](http://arxiv.org/abs/2209.13515v1)|[link](https://github.com/sil-ai/dls-results)|
+|**2022-09-23**|**A Neural Model for Regular Grammar Induction**|Peter Belcák et.al.|[2209.11628v1](http://arxiv.org/abs/2209.11628v1)|[link](https://github.com/pbelcak/neregrain)|
+|**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
+|**2022-09-22**|**Learning Interpretable Latent Dialogue Actions With Less Supervision**|Vojtěch Hudeček et.al.|[2209.11128v2](http://arxiv.org/abs/2209.11128v2)|null|
+|**2022-09-22**|**MonoByte: A Pool of Monolingual Byte-level Language Models**|Hugo Abonizio et.al.|[2209.11035v2](http://arxiv.org/abs/2209.11035v2)|[link](https://github.com/lersouza/lang-agnostic)|
+|**2022-09-21**|**WeLM: A Well-Read Pre-trained Language Model for Chinese**|Hui Su et.al.|[2209.10372v3](http://arxiv.org/abs/2209.10372v3)|null|
+|**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
+|**2022-09-20**|**The language and social behavior of innovators**|A. Fronzetti Colladon et.al.|[2209.09511v1](http://arxiv.org/abs/2209.09511v1)|null|
 
 ## Reasoning
 
