@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-28 10:10:06
+ Automated deployment @ 2022-09-28 20:44:25
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-27**|**Assessing Digital Language Support on a Global Scale**|Gary F. Simons et.al.|[2209.13515v1](http://arxiv.org/abs/2209.13515v1)|[link](https://github.com/sil-ai/dls-results)|
 |**2022-09-23**|**A Neural Model for Regular Grammar Induction**|Peter Belcák et.al.|[2209.11628v1](http://arxiv.org/abs/2209.11628v1)|[link](https://github.com/pbelcak/neregrain)|
 |**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
 |**2022-09-22**|**Learning Interpretable Latent Dialogue Actions With Less Supervision**|Vojtěch Hudeček et.al.|[2209.11128v2](http://arxiv.org/abs/2209.11128v2)|null|
@@ -21,6 +22,11 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-27**|**Sentiment is all you need to win US Presidential elections**|Sovesh Mohapatra et.al.|[2209.13487v1](http://arxiv.org/abs/2209.13487v1)|null|
+|**2022-09-27**|**PROD: Progressive Distillation for Dense Retrieval**|Zhenghao Lin et.al.|[2209.13335v1](http://arxiv.org/abs/2209.13335v1)|null|
+|**2022-09-26**|**Dialog Acts for Task-Driven Embodied Agents**|Spandana Gella et.al.|[2209.12953v1](http://arxiv.org/abs/2209.12953v1)|null|
+|**2022-09-26**|**On the Impact of Speech Recognition Errors in Passage Retrieval for Spoken Question Answering**|Georgios Sidiropoulos et.al.|[2209.12944v1](http://arxiv.org/abs/2209.12944v1)|null|
+|**2022-09-26**|**The Ability of Self-Supervised Speech Models for Audio Representations**|Tung-Yu Wu et.al.|[2209.12900v1](http://arxiv.org/abs/2209.12900v1)|null|
 |**2022-09-26**|**Effects of language mismatch in automatic forensic voice comparison using deep learning embeddings**|Dávid Sztahó et.al.|[2209.12602v1](http://arxiv.org/abs/2209.12602v1)|null|
 |**2022-09-26**|**Meta-Learning a Cross-lingual Manifold for Semantic Parsing**|Tom Sherborne et.al.|[2209.12577v2](http://arxiv.org/abs/2209.12577v2)|null|
 |**2022-09-26**|**Smells like Teen Spirit: An Exploration of Sensorial Style in Literary Genres**|Osama Khalid et.al.|[2209.12352v1](http://arxiv.org/abs/2209.12352v1)|null|
@@ -35,12 +41,6 @@
 |**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
 |**2022-09-20**|**Incorporating Casual Analysis into Diversified and Logical Response Generation**|Jiayi Liu et.al.|[2209.09482v1](http://arxiv.org/abs/2209.09482v1)|null|
-|**2022-09-18**|**ERNIE-mmLayout: Multi-grained MultiModal Transformer for Document Understanding**|Wenjin Wang et.al.|[2209.08569v1](http://arxiv.org/abs/2209.08569v1)|null|
-|**2022-09-18**|**Overcoming Language Priors in Visual Question Answering via Distinguishing Superficially Similar Instances**|Yike Wu et.al.|[2209.08529v1](http://arxiv.org/abs/2209.08529v1)|[link](https://github.com/wyk-nku/distinguishing-vqa)|
-|**2022-09-17**|**Learning to Answer Semantic Queries over Code**|Surya Prakash Sahu et.al.|[2209.08372v1](http://arxiv.org/abs/2209.08372v1)|[link](https://github.com/thepurpleowl/codequeries-benchmark)|
-|**2022-09-17**|**Flexible and Structured Knowledge Grounded Question Answering**|Yujie Lu et.al.|[2209.08284v1](http://arxiv.org/abs/2209.08284v1)|null|
-|**2022-09-17**|**Selective Token Generation for Few-shot Natural Language Generation**|Daejin Jo et.al.|[2209.08206v1](http://arxiv.org/abs/2209.08206v1)|null|
-|**2022-09-16**|**ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots**|Yu-Chung Hsiao et.al.|[2209.08199v1](http://arxiv.org/abs/2209.08199v1)|null|
 
 ## Reasoning
 
@@ -144,7 +144,7 @@
 |**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v2](http://arxiv.org/abs/2207.08739v2)|[link](https://github.com/itemzheng/kddaug)|
 |**2022-07-18**|**Classifying COVID-19 vaccine narratives**|Yue Li et.al.|[2207.08522v1](http://arxiv.org/abs/2207.08522v1)|null|
 |**2022-07-17**|**Representation Learning of Image Schema**|Fajrian Yunus et.al.|[2207.08256v1](http://arxiv.org/abs/2207.08256v1)|null|
-|**2022-07-17**|**Can large language models reason about medical questions?**|Valentin Liévin et.al.|[2207.08143v1](http://arxiv.org/abs/2207.08143v1)|null|
+|**2022-07-17**|**Can large language models reason about medical questions?**|Valentin Liévin et.al.|[2207.08143v1](http://arxiv.org/abs/2207.08143v1)|[link](https://github.com/vlievin/medical-reasoning)|
 |**2022-07-15**|**Reasoning about Actions over Visual and Linguistic Modalities: A Survey**|Shailaja Keyur Sampat et.al.|[2207.07568v1](http://arxiv.org/abs/2207.07568v1)|null|
 |**2022-07-14**|**Emotion Recognition in Conversation using Probabilistic Soft Logic**|Eriq Augustine et.al.|[2207.07238v1](http://arxiv.org/abs/2207.07238v1)|null|
 |**2022-07-14**|**Language models show human-like content effects on reasoning**|Ishita Dasgupta et.al.|[2207.07051v1](http://arxiv.org/abs/2207.07051v1)|null|
