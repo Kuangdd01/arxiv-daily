@@ -1,13 +1,33 @@
 # arxiv-daily
- Automated deployment @ 2022-09-29 10:21:03
+ Automated deployment @ 2022-09-29 20:46:24
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-28**|**Causal Proxy Models for Concept-Based Model Explanations**|Zhengxuan Wu et.al.|[2209.14279v1](http://arxiv.org/abs/2209.14279v1)|[link](https://github.com/frankaging/causal-proxy-model)|
+|**2022-09-28**|**Towards Explaining Autonomy with Verbalised Decision Tree States**|Konstantinos Gavriilidis et.al.|[2209.13985v1](http://arxiv.org/abs/2209.13985v1)|null|
+|**2022-09-28**|**UCEpic: Unifying Aspect Planning and Lexical Constraints for Explainable Recommendation**|Jiacheng Li et.al.|[2209.13885v1](http://arxiv.org/abs/2209.13885v1)|null|
+|**2022-09-27**|**Assessing Digital Language Support on a Global Scale**|Gary F. Simons et.al.|[2209.13515v1](http://arxiv.org/abs/2209.13515v1)|[link](https://github.com/sil-ai/dls-results)|
+|**2022-09-23**|**A Neural Model for Regular Grammar Induction**|Peter Belcák et.al.|[2209.11628v1](http://arxiv.org/abs/2209.11628v1)|[link](https://github.com/pbelcak/neregrain)|
+|**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
+|**2022-09-22**|**Learning Interpretable Latent Dialogue Actions With Less Supervision**|Vojtěch Hudeček et.al.|[2209.11128v2](http://arxiv.org/abs/2209.11128v2)|null|
+|**2022-09-22**|**MonoByte: A Pool of Monolingual Byte-level Language Models**|Hugo Abonizio et.al.|[2209.11035v2](http://arxiv.org/abs/2209.11035v2)|[link](https://github.com/lersouza/lang-agnostic)|
+|**2022-09-21**|**WeLM: A Well-Read Pre-trained Language Model for Chinese**|Hui Su et.al.|[2209.10372v3](http://arxiv.org/abs/2209.10372v3)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-28**|**FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation**|Sebastian Hofstätter et.al.|[2209.14290v1](http://arxiv.org/abs/2209.14290v1)|null|
+|**2022-09-28**|**TVLT: Textless Vision-Language Transformer**|Zineng Tang et.al.|[2209.14156v1](http://arxiv.org/abs/2209.14156v1)|[link](https://github.com/zinengtang/tvlt)|
+|**2022-09-28**|**ArNLI: Arabic Natural Language Inference for Entailment and Contradiction Detection**|Khloud Al Jallad et.al.|[2209.13953v1](http://arxiv.org/abs/2209.13953v1)|[link](https://github.com/khloud-al/arnli)|
+|**2022-09-28**|**Hierarchical MixUp Multi-label Classification with Imbalanced Interdisciplinary Research Proposals**|Meng Xiao et.al.|[2209.13912v1](http://arxiv.org/abs/2209.13912v1)|null|
+|**2022-09-28**|**Data-driven Parsing Evaluation for Child-Parent Interactions**|Zoey Liu et.al.|[2209.13778v1](http://arxiv.org/abs/2209.13778v1)|null|
 |**2022-09-27**|**Sentiment is all you need to win US Presidential elections**|Sovesh Mohapatra et.al.|[2209.13487v1](http://arxiv.org/abs/2209.13487v1)|null|
 |**2022-09-27**|**PROD: Progressive Distillation for Dense Retrieval**|Zhenghao Lin et.al.|[2209.13335v1](http://arxiv.org/abs/2209.13335v1)|null|
 |**2022-09-26**|**Dialog Acts for Task-Driven Embodied Agents**|Spandana Gella et.al.|[2209.12953v1](http://arxiv.org/abs/2209.12953v1)|null|
@@ -28,25 +48,13 @@
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
 |**2022-09-20**|**Incorporating Casual Analysis into Diversified and Logical Response Generation**|Jiayi Liu et.al.|[2209.09482v1](http://arxiv.org/abs/2209.09482v1)|null|
 
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-27**|**Assessing Digital Language Support on a Global Scale**|Gary F. Simons et.al.|[2209.13515v1](http://arxiv.org/abs/2209.13515v1)|[link](https://github.com/sil-ai/dls-results)|
-|**2022-09-23**|**A Neural Model for Regular Grammar Induction**|Peter Belcák et.al.|[2209.11628v1](http://arxiv.org/abs/2209.11628v1)|[link](https://github.com/pbelcak/neregrain)|
-|**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
-|**2022-09-22**|**Learning Interpretable Latent Dialogue Actions With Less Supervision**|Vojtěch Hudeček et.al.|[2209.11128v2](http://arxiv.org/abs/2209.11128v2)|null|
-|**2022-09-22**|**MonoByte: A Pool of Monolingual Byte-level Language Models**|Hugo Abonizio et.al.|[2209.11035v2](http://arxiv.org/abs/2209.11035v2)|[link](https://github.com/lersouza/lang-agnostic)|
-|**2022-09-21**|**WeLM: A Well-Read Pre-trained Language Model for Chinese**|Hui Su et.al.|[2209.10372v3](http://arxiv.org/abs/2209.10372v3)|null|
-|**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
-|**2022-09-20**|**The language and social behavior of innovators**|A. Fronzetti Colladon et.al.|[2209.09511v1](http://arxiv.org/abs/2209.09511v1)|null|
-
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-28**|**FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation**|Sebastian Hofstätter et.al.|[2209.14290v1](http://arxiv.org/abs/2209.14290v1)|null|
+|**2022-09-28**|**Towards Explaining Autonomy with Verbalised Decision Tree States**|Konstantinos Gavriilidis et.al.|[2209.13985v1](http://arxiv.org/abs/2209.13985v1)|null|
 |**2022-09-26**|**Overcoming Referential Ambiguity in Language-Guided Goal-Conditioned Reinforcement Learning**|Hugo Caselles-Dupré et.al.|[2209.12758v1](http://arxiv.org/abs/2209.12758v1)|null|
 |**2022-09-23**|**ET5: A Novel End-to-end Framework for Conversational Machine Reading Comprehension**|Xiao Zhang et.al.|[2209.11484v1](http://arxiv.org/abs/2209.11484v1)|[link](https://github.com/yottaxx/et5)|
 |**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
@@ -161,6 +169,3 @@
 |**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|[link](https://github.com/hyounghk/cosim)|
 |**2022-07-08**|**A Medical Information Extraction Workbench to Process German Clinical Text**|Roland Roller et.al.|[2207.03885v2](http://arxiv.org/abs/2207.03885v2)|null|
 |**2022-07-08**|**An Efficiency Study for SPLADE Models**|Carlos Lassance et.al.|[2207.03834v1](http://arxiv.org/abs/2207.03834v1)|[link](https://github.com/naver/splade)|
-|**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|[link](https://github.com/jzbjyb/omnitab)|
-|**2022-07-07**|**Can Language Models perform Abductive Commonsense Reasoning?**|Seungone Kim et.al.|[2207.05155v1](http://arxiv.org/abs/2207.05155v1)|[link](https://github.com/seungonekim/abductive-commonsense-reasoning)|
-|**2022-07-06**|**Knowing Earlier what Right Means to You: A Comprehensive VQA Dataset for Grounding Relative Directions via Multi-Task Learning**|Kyra Ahrens et.al.|[2207.02624v1](http://arxiv.org/abs/2207.02624v1)|[link](https://github.com/knowledgetechnologyuhh/grid-3d)|
