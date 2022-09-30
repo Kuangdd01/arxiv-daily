@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-30 10:36:36
+ Automated deployment @ 2022-09-30 20:48:22
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -9,7 +9,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-09-29**|**Creative Painting with Latent Diffusion Models**|Xianchao Wu et.al.|[2209.14697v1](http://arxiv.org/abs/2209.14697v1)|null|
-|**2022-09-29**|**A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection**|Zhiwei Yang et.al.|[2209.14642v1](http://arxiv.org/abs/2209.14642v1)|null|
+|**2022-09-29**|**A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection**|Zhiwei Yang et.al.|[2209.14642v1](http://arxiv.org/abs/2209.14642v1)|[link](https://github.com/nicozwy/cofced)|
 |**2022-09-28**|**Causal Proxy Models for Concept-Based Model Explanations**|Zhengxuan Wu et.al.|[2209.14279v1](http://arxiv.org/abs/2209.14279v1)|[link](https://github.com/frankaging/causal-proxy-model)|
 |**2022-09-28**|**Towards Explaining Autonomy with Verbalised Decision Tree States**|Konstantinos Gavriilidis et.al.|[2209.13985v1](http://arxiv.org/abs/2209.13985v1)|null|
 |**2022-09-28**|**UCEpic: Unifying Aspect Planning and Lexical Constraints for Explainable Recommendation**|Jiacheng Li et.al.|[2209.13885v1](http://arxiv.org/abs/2209.13885v1)|null|
@@ -27,7 +27,7 @@
 |**2022-09-29**|**Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning**|Pan Lu et.al.|[2209.14610v1](http://arxiv.org/abs/2209.14610v1)|null|
 |**2022-09-29**|**Bidirectional Language Models Are Also Few-shot Learners**|Ajay Patel et.al.|[2209.14500v1](http://arxiv.org/abs/2209.14500v1)|null|
 |**2022-09-28**|**Improving alignment of dialogue agents via targeted human judgements**|Amelia Glaese et.al.|[2209.14375v1](http://arxiv.org/abs/2209.14375v1)|null|
-|**2022-09-28**|**Who is GPT-3? An Exploration of Personality, Values and Demographics**|Marilù Miotto et.al.|[2209.14338v1](http://arxiv.org/abs/2209.14338v1)|null|
+|**2022-09-28**|**Who is GPT-3? An Exploration of Personality, Values and Demographics**|Marilù Miotto et.al.|[2209.14338v1](http://arxiv.org/abs/2209.14338v1)|[link](https://github.com/ben-aaron188/who_is_gpt3)|
 |**2022-09-28**|**FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation**|Sebastian Hofstätter et.al.|[2209.14290v1](http://arxiv.org/abs/2209.14290v1)|null|
 |**2022-09-28**|**TVLT: Textless Vision-Language Transformer**|Zineng Tang et.al.|[2209.14156v1](http://arxiv.org/abs/2209.14156v1)|[link](https://github.com/zinengtang/tvlt)|
 |**2022-09-28**|**ArNLI: Arabic Natural Language Inference for Entailment and Contradiction Detection**|Khloud Al Jallad et.al.|[2209.13953v1](http://arxiv.org/abs/2209.13953v1)|[link](https://github.com/khloud-al/arnli)|
