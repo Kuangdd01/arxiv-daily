@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-03 09:54:41
+ Automated deployment @ 2022-10-03 20:47:33
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-30**|**What Makes Pre-trained Language Models Better Zero/Few-shot Learners?**|Jinghui Lu et.al.|[2209.15206v1](http://arxiv.org/abs/2209.15206v1)|null|
+|**2022-09-30**|**Learning by Distilling Context**|Charlie Snell et.al.|[2209.15189v1](http://arxiv.org/abs/2209.15189v1)|null|
 |**2022-09-29**|**Creative Painting with Latent Diffusion Models**|Xianchao Wu et.al.|[2209.14697v2](http://arxiv.org/abs/2209.14697v2)|null|
 |**2022-09-29**|**A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection**|Zhiwei Yang et.al.|[2209.14642v1](http://arxiv.org/abs/2209.14642v1)|[link](https://github.com/nicozwy/cofced)|
 |**2022-09-28**|**Causal Proxy Models for Concept-Based Model Explanations**|Zhengxuan Wu et.al.|[2209.14279v1](http://arxiv.org/abs/2209.14279v1)|[link](https://github.com/frankaging/causal-proxy-model)|
@@ -16,14 +18,16 @@
 |**2022-09-27**|**Assessing Digital Language Support on a Global Scale**|Gary F. Simons et.al.|[2209.13515v1](http://arxiv.org/abs/2209.13515v1)|[link](https://github.com/sil-ai/dls-results)|
 |**2022-09-23**|**A Neural Model for Regular Grammar Induction**|Peter Belcák et.al.|[2209.11628v1](http://arxiv.org/abs/2209.11628v1)|[link](https://github.com/pbelcak/neregrain)|
 |**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
-|**2022-09-22**|**Learning Interpretable Latent Dialogue Actions With Less Supervision**|Vojtěch Hudeček et.al.|[2209.11128v2](http://arxiv.org/abs/2209.11128v2)|null|
-|**2022-09-22**|**MonoByte: A Pool of Monolingual Byte-level Language Models**|Hugo Abonizio et.al.|[2209.11035v2](http://arxiv.org/abs/2209.11035v2)|[link](https://github.com/lersouza/lang-agnostic)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-30**|**Medical Question Understanding and Answering with Knowledge Grounding and Semantic Self-Supervision**|Khalil Mrini et.al.|[2209.15301v1](http://arxiv.org/abs/2209.15301v1)|[link](https://github.com/khalilmrini/medical-question-answering)|
+|**2022-09-30**|**Learning by Distilling Context**|Charlie Snell et.al.|[2209.15189v1](http://arxiv.org/abs/2209.15189v1)|null|
+|**2022-09-30**|**Linearly Mapping from Image to Text Space**|Jack Merullo et.al.|[2209.15162v1](http://arxiv.org/abs/2209.15162v1)|null|
+|**2022-09-29**|**Unpacking Large Language Models with Conceptual Consistency**|Pritish Sahu et.al.|[2209.15093v1](http://arxiv.org/abs/2209.15093v1)|null|
 |**2022-09-29**|**Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning**|Pan Lu et.al.|[2209.14610v1](http://arxiv.org/abs/2209.14610v1)|null|
 |**2022-09-29**|**Bidirectional Language Models Are Also Few-shot Learners**|Ajay Patel et.al.|[2209.14500v1](http://arxiv.org/abs/2209.14500v1)|null|
 |**2022-09-28**|**Improving alignment of dialogue agents via targeted human judgements**|Amelia Glaese et.al.|[2209.14375v1](http://arxiv.org/abs/2209.14375v1)|null|
@@ -48,14 +52,15 @@
 |**2022-09-23**|**ET5: A Novel End-to-end Framework for Conversational Machine Reading Comprehension**|Xiao Zhang et.al.|[2209.11484v1](http://arxiv.org/abs/2209.11484v1)|[link](https://github.com/yottaxx/et5)|
 |**2022-09-23**|**Conversational QA Dataset Generation with Answer Revision**|Seonjeong Hwang et.al.|[2209.11396v1](http://arxiv.org/abs/2209.11396v1)|null|
 |**2022-09-22**|**Selecting Better Samples from Pre-trained LLMs: A Case Study on Question Generation**|Xingdi Yuan et.al.|[2209.11000v1](http://arxiv.org/abs/2209.11000v1)|null|
-|**2022-09-21**|**Generate rather than Retrieve: Large Language Models are Strong Context Generators**|Wenhao Yu et.al.|[2209.10063v2](http://arxiv.org/abs/2209.10063v2)|null|
-|**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-30**|**Learning by Distilling Context**|Charlie Snell et.al.|[2209.15189v1](http://arxiv.org/abs/2209.15189v1)|null|
+|**2022-09-29**|**ConceptNet infused DialoGPT for Underlying Commonsense Understanding and Reasoning in Dialogue Response Generation**|Ye Liu et.al.|[2209.15109v1](http://arxiv.org/abs/2209.15109v1)|null|
+|**2022-09-29**|**Unpacking Large Language Models with Conceptual Consistency**|Pritish Sahu et.al.|[2209.15093v1](http://arxiv.org/abs/2209.15093v1)|null|
 |**2022-09-29**|**Compositional Semantic Parsing with Large Language Models**|Andrew Drozdov et.al.|[2209.15003v2](http://arxiv.org/abs/2209.15003v2)|null|
 |**2022-09-29**|**DR.BENCH: Diagnostic Reasoning Benchmark for Clinical Natural Language Processing**|Yanjun Gao et.al.|[2209.14901v1](http://arxiv.org/abs/2209.14901v1)|null|
 |**2022-09-29**|**Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning**|Pan Lu et.al.|[2209.14610v1](http://arxiv.org/abs/2209.14610v1)|null|
@@ -170,5 +175,3 @@
 |**2022-07-12**|**Inner Monologue: Embodied Reasoning through Planning with Language Models**|Wenlong Huang et.al.|[2207.05608v1](http://arxiv.org/abs/2207.05608v1)|null|
 |**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
 |**2022-07-11**|**CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts**|Muskan Garg et.al.|[2207.04674v1](http://arxiv.org/abs/2207.04674v1)|[link](https://github.com/drmuskangarg/cams)|
-|**2022-07-08**|**Probing Classifiers are Unreliable for Concept Removal and Detection**|Abhinav Kumar et.al.|[2207.04153v1](http://arxiv.org/abs/2207.04153v1)|null|
-|**2022-07-08**|**Improving Entity Disambiguation by Reasoning over a Knowledge Base**|Tom Ayoola et.al.|[2207.04106v1](http://arxiv.org/abs/2207.04106v1)|null|
