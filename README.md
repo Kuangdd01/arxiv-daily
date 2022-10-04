@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-04 10:04:19
+ Automated deployment @ 2022-10-04 20:50:09
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-02**|**The boundaries of meaning: a case study in neural machine translation**|Yuri Balashov et.al.|[2210.00613v1](http://arxiv.org/abs/2210.00613v1)|null|
 |**2022-09-30**|**What Makes Pre-trained Language Models Better Zero/Few-shot Learners?**|Jinghui Lu et.al.|[2209.15206v1](http://arxiv.org/abs/2209.15206v1)|null|
 |**2022-09-30**|**Learning by Distilling Context**|Charlie Snell et.al.|[2209.15189v1](http://arxiv.org/abs/2209.15189v1)|null|
 |**2022-09-29**|**Creative Painting with Latent Diffusion Models**|Xianchao Wu et.al.|[2209.14697v2](http://arxiv.org/abs/2209.14697v2)|null|
@@ -16,14 +17,18 @@
 |**2022-09-28**|**Towards Explaining Autonomy with Verbalised Decision Tree States**|Konstantinos Gavriilidis et.al.|[2209.13985v1](http://arxiv.org/abs/2209.13985v1)|null|
 |**2022-09-28**|**UCEpic: Unifying Aspect Planning and Lexical Constraints for Explainable Recommendation**|Jiacheng Li et.al.|[2209.13885v1](http://arxiv.org/abs/2209.13885v1)|null|
 |**2022-09-27**|**Assessing Digital Language Support on a Global Scale**|Gary F. Simons et.al.|[2209.13515v1](http://arxiv.org/abs/2209.13515v1)|[link](https://github.com/sil-ai/dls-results)|
-|**2022-09-23**|**A Neural Model for Regular Grammar Induction**|Peter Belcák et.al.|[2209.11628v2](http://arxiv.org/abs/2209.11628v2)|[link](https://github.com/pbelcak/neregrain)|
-|**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-03**|**How Relevant is Selective Memory Population in Lifelong Language Learning?**|Vladimir Araujo et.al.|[2210.00940v1](http://arxiv.org/abs/2210.00940v1)|null|
+|**2022-10-03**|**Complexity-Based Prompting for Multi-Step Reasoning**|Yao Fu et.al.|[2210.00720v1](http://arxiv.org/abs/2210.00720v1)|null|
+|**2022-10-02**|**The boundaries of meaning: a case study in neural machine translation**|Yuri Balashov et.al.|[2210.00613v1](http://arxiv.org/abs/2210.00613v1)|null|
+|**2022-10-01**|**PromptKG: A Prompt Learning Framework for Knowledge Graph Representation Learning and Application**|Xin Xie et.al.|[2210.00305v1](http://arxiv.org/abs/2210.00305v1)|[link](https://github.com/zjunlp/promptkg)|
+|**2022-09-30**|**DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases**|Donghan Yu et.al.|[2210.00063v1](http://arxiv.org/abs/2210.00063v1)|null|
+|**2022-09-30**|**Calibrating Sequence likelihood Improves Conditional Language Generation**|Yao Zhao et.al.|[2210.00045v1](http://arxiv.org/abs/2210.00045v1)|null|
 |**2022-09-30**|**Medical Question Understanding and Answering with Knowledge Grounding and Semantic Self-Supervision**|Khalil Mrini et.al.|[2209.15301v1](http://arxiv.org/abs/2209.15301v1)|[link](https://github.com/khalilmrini/medical-question-answering)|
 |**2022-09-30**|**Learning by Distilling Context**|Charlie Snell et.al.|[2209.15189v1](http://arxiv.org/abs/2209.15189v1)|null|
 |**2022-09-30**|**Linearly Mapping from Image to Text Space**|Jack Merullo et.al.|[2209.15162v1](http://arxiv.org/abs/2209.15162v1)|null|
@@ -48,16 +53,15 @@
 |**2022-09-24**|**A Deep Investigation of RNN and Self-attention for the Cyrillic-Traditional Mongolian Bidirectional Conversion**|Muhan Na et.al.|[2209.11963v1](http://arxiv.org/abs/2209.11963v1)|null|
 |**2022-09-23**|**Multiple-Choice Question Generation: Towards an Automated Assessment Framework**|Vatsal Raina et.al.|[2209.11830v1](http://arxiv.org/abs/2209.11830v1)|null|
 |**2022-09-23**|**Promptagator: Few-shot Dense Retrieval From 8 Examples**|Zhuyun Dai et.al.|[2209.11755v1](http://arxiv.org/abs/2209.11755v1)|null|
-|**2022-09-23**|**Robust Domain Adaptation for Machine Reading Comprehension**|Liang Jiang et.al.|[2209.11615v1](http://arxiv.org/abs/2209.11615v1)|null|
-|**2022-09-23**|**ET5: A Novel End-to-end Framework for Conversational Machine Reading Comprehension**|Xiao Zhang et.al.|[2209.11484v1](http://arxiv.org/abs/2209.11484v1)|[link](https://github.com/yottaxx/et5)|
-|**2022-09-23**|**Conversational QA Dataset Generation with Answer Revision**|Seonjeong Hwang et.al.|[2209.11396v1](http://arxiv.org/abs/2209.11396v1)|null|
-|**2022-09-22**|**Selecting Better Samples from Pre-trained LLMs: A Case Study on Question Generation**|Xingdi Yuan et.al.|[2209.11000v1](http://arxiv.org/abs/2209.11000v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-03**|**Complexity-Based Prompting for Multi-Step Reasoning**|Yao Fu et.al.|[2210.00720v1](http://arxiv.org/abs/2210.00720v1)|null|
+|**2022-10-02**|**Does Wikidata Support Analogical Reasoning?**|Filip Ilievski et.al.|[2210.00620v1](http://arxiv.org/abs/2210.00620v1)|null|
+|**2022-10-01**|**Multimodal Analogical Reasoning over Knowledge Graphs**|Ningyu Zhang et.al.|[2210.00312v1](http://arxiv.org/abs/2210.00312v1)|null|
 |**2022-09-30**|**Learning by Distilling Context**|Charlie Snell et.al.|[2209.15189v1](http://arxiv.org/abs/2209.15189v1)|null|
 |**2022-09-29**|**ConceptNet infused DialoGPT for Underlying Commonsense Understanding and Reasoning in Dialogue Response Generation**|Ye Liu et.al.|[2209.15109v1](http://arxiv.org/abs/2209.15109v1)|null|
 |**2022-09-29**|**Unpacking Large Language Models with Conceptual Consistency**|Pritish Sahu et.al.|[2209.15093v1](http://arxiv.org/abs/2209.15093v1)|null|
@@ -169,9 +173,3 @@
 |**2022-07-14**|**Language models show human-like content effects on reasoning**|Ishita Dasgupta et.al.|[2207.07051v1](http://arxiv.org/abs/2207.07051v1)|null|
 |**2022-07-14**|**Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language**|Rita Sevastjanova et.al.|[2207.06897v1](http://arxiv.org/abs/2207.06897v1)|null|
 |**2022-07-14**|**Recurrent Memory Transformer**|Aydar Bulatov et.al.|[2207.06881v1](http://arxiv.org/abs/2207.06881v1)|[link](https://github.com/booydar/transformer-xl)|
-|**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
-|**2022-07-12**|**A Novel DeBERTa-based Model for Financial Question Answering Task**|Yanbo J. Wang et.al.|[2207.05875v1](http://arxiv.org/abs/2207.05875v1)|null|
-|**2022-07-12**|**OSLAT: Open Set Label Attention Transformer for Medical Entity Span Extraction**|Raymond Li et.al.|[2207.05817v1](http://arxiv.org/abs/2207.05817v1)|[link](https://github.com/curai/curai-research)|
-|**2022-07-12**|**Inner Monologue: Embodied Reasoning through Planning with Language Models**|Wenlong Huang et.al.|[2207.05608v1](http://arxiv.org/abs/2207.05608v1)|null|
-|**2022-07-11**|**Exploring Length Generalization in Large Language Models**|Cem Anil et.al.|[2207.04901v1](http://arxiv.org/abs/2207.04901v1)|null|
-|**2022-07-11**|**CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts**|Muskan Garg et.al.|[2207.04674v1](http://arxiv.org/abs/2207.04674v1)|[link](https://github.com/drmuskangarg/cams)|
