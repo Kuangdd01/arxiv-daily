@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-05 10:03:35
+ Automated deployment @ 2022-10-05 20:49:21
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -23,6 +23,17 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-04**|**Modular Approach to Machine Reading Comprehension: Mixture of Task-Aware Experts**|Anirudha Rayasam et.al.|[2210.01750v1](http://arxiv.org/abs/2210.01750v1)|null|
+|**2022-10-04**|**Mining Duplicate Questions of Stack Overflow**|Mihir Kale et.al.|[2210.01637v1](http://arxiv.org/abs/2210.01637v1)|null|
+|**2022-10-04**|**Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering**|Priyanka Sen et.al.|[2210.01613v1](http://arxiv.org/abs/2210.01613v1)|[link](https://github.com/amazon-research/mintaka)|
+|**2022-10-04**|**When to Make Exceptions: Exploring Language Models as Accounts of Human Moral Judgment**|Zhijing Jin et.al.|[2210.01478v1](http://arxiv.org/abs/2210.01478v1)|[link](https://github.com/feradauto/moralcot)|
+|**2022-10-04**|**A Study on the Efficiency and Generalization of Light Hybrid Retrievers**|Man Luo et.al.|[2210.01371v1](http://arxiv.org/abs/2210.01371v1)|null|
+|**2022-10-04**|**Learning to Collocate Visual-Linguistic Neural Modules for Image Captioning**|Xu Yang et.al.|[2210.01338v1](http://arxiv.org/abs/2210.01338v1)|[link](https://github.com/gcyzsl/cvlmn)|
+|**2022-10-04**|**Recitation-Augmented Language Models**|Zhiqing Sun et.al.|[2210.01296v1](http://arxiv.org/abs/2210.01296v1)|null|
+|**2022-10-03**|**Understanding Prior Bias and Choice Paralysis in Transformer-based Language Representation Models through Four Experimental Probes**|Ke Shen et.al.|[2210.01258v1](http://arxiv.org/abs/2210.01258v1)|null|
+|**2022-10-03**|**Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization**|Rajkumar Ramamurthy et.al.|[2210.01241v1](http://arxiv.org/abs/2210.01241v1)|[link](https://github.com/allenai/rl4lms)|
+|**2022-10-03**|**Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**|Abulhair Saparov et.al.|[2210.01240v1](http://arxiv.org/abs/2210.01240v1)|null|
+|**2022-10-03**|**Extending Compositional Attention Networks for Social Reasoning in Videos**|Christina Sartzetaki et.al.|[2210.01191v1](http://arxiv.org/abs/2210.01191v1)|[link](https://github.com/sergeantchris/macx-socialiq)|
 |**2022-10-03**|**How Relevant is Selective Memory Population in Lifelong Language Learning?**|Vladimir Araujo et.al.|[2210.00940v1](http://arxiv.org/abs/2210.00940v1)|null|
 |**2022-10-03**|**Complexity-Based Prompting for Multi-Step Reasoning**|Yao Fu et.al.|[2210.00720v1](http://arxiv.org/abs/2210.00720v1)|null|
 |**2022-10-02**|**The boundaries of meaning: a case study in neural machine translation**|Yuri Balashov et.al.|[2210.00613v1](http://arxiv.org/abs/2210.00613v1)|null|
@@ -49,16 +60,20 @@
 |**2022-09-26**|**The Ability of Self-Supervised Speech Models for Audio Representations**|Tung-Yu Wu et.al.|[2209.12900v2](http://arxiv.org/abs/2209.12900v2)|[link](https://github.com/tony10101105/hear-2021-neurips-challenge---ntu-gura)|
 |**2022-09-26**|**Effects of language mismatch in automatic forensic voice comparison using deep learning embeddings**|Dávid Sztahó et.al.|[2209.12602v1](http://arxiv.org/abs/2209.12602v1)|null|
 |**2022-09-26**|**Meta-Learning a Cross-lingual Manifold for Semantic Parsing**|Tom Sherborne et.al.|[2209.12577v2](http://arxiv.org/abs/2209.12577v2)|null|
-|**2022-09-26**|**Smells like Teen Spirit: An Exploration of Sensorial Style in Literary Genres**|Osama Khalid et.al.|[2209.12352v1](http://arxiv.org/abs/2209.12352v1)|null|
-|**2022-09-24**|**A Deep Investigation of RNN and Self-attention for the Cyrillic-Traditional Mongolian Bidirectional Conversion**|Muhan Na et.al.|[2209.11963v1](http://arxiv.org/abs/2209.11963v1)|null|
-|**2022-09-23**|**Multiple-Choice Question Generation: Towards an Automated Assessment Framework**|Vatsal Raina et.al.|[2209.11830v1](http://arxiv.org/abs/2209.11830v1)|null|
-|**2022-09-23**|**Promptagator: Few-shot Dense Retrieval From 8 Examples**|Zhuyun Dai et.al.|[2209.11755v1](http://arxiv.org/abs/2209.11755v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-04**|**Neural-Symbolic Recursive Machine for Systematic Generalization**|Qing Li et.al.|[2210.01603v1](http://arxiv.org/abs/2210.01603v1)|null|
+|**2022-10-04**|**When to Make Exceptions: Exploring Language Models as Accounts of Human Moral Judgment**|Zhijing Jin et.al.|[2210.01478v1](http://arxiv.org/abs/2210.01478v1)|[link](https://github.com/feradauto/moralcot)|
+|**2022-10-04**|**Learning to Collocate Visual-Linguistic Neural Modules for Image Captioning**|Xu Yang et.al.|[2210.01338v1](http://arxiv.org/abs/2210.01338v1)|[link](https://github.com/gcyzsl/cvlmn)|
+|**2022-10-04**|**ThinkSum: Probabilistic reasoning over sets using large language models**|Batu Ozturkler et.al.|[2210.01293v1](http://arxiv.org/abs/2210.01293v1)|null|
+|**2022-10-03**|**Understanding Substructures in Commonsense Relations in ConceptNet**|Ke Shen et.al.|[2210.01263v1](http://arxiv.org/abs/2210.01263v1)|null|
+|**2022-10-03**|**Understanding Prior Bias and Choice Paralysis in Transformer-based Language Representation Models through Four Experimental Probes**|Ke Shen et.al.|[2210.01258v1](http://arxiv.org/abs/2210.01258v1)|null|
+|**2022-10-03**|**Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**|Abulhair Saparov et.al.|[2210.01240v1](http://arxiv.org/abs/2210.01240v1)|null|
+|**2022-10-03**|**Extending Compositional Attention Networks for Social Reasoning in Videos**|Christina Sartzetaki et.al.|[2210.01191v1](http://arxiv.org/abs/2210.01191v1)|[link](https://github.com/sergeantchris/macx-socialiq)|
 |**2022-10-03**|**Complexity-Based Prompting for Multi-Step Reasoning**|Yao Fu et.al.|[2210.00720v1](http://arxiv.org/abs/2210.00720v1)|null|
 |**2022-10-02**|**Does Wikidata Support Analogical Reasoning?**|Filip Ilievski et.al.|[2210.00620v1](http://arxiv.org/abs/2210.00620v1)|null|
 |**2022-10-01**|**Multimodal Analogical Reasoning over Knowledge Graphs**|Ningyu Zhang et.al.|[2210.00312v1](http://arxiv.org/abs/2210.00312v1)|null|
@@ -167,9 +182,3 @@
 |**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v2](http://arxiv.org/abs/2207.08739v2)|[link](https://github.com/itemzheng/kddaug)|
 |**2022-07-18**|**Classifying COVID-19 vaccine narratives**|Yue Li et.al.|[2207.08522v1](http://arxiv.org/abs/2207.08522v1)|null|
 |**2022-07-17**|**Representation Learning of Image Schema**|Fajrian Yunus et.al.|[2207.08256v1](http://arxiv.org/abs/2207.08256v1)|null|
-|**2022-07-17**|**Can large language models reason about medical questions?**|Valentin Liévin et.al.|[2207.08143v1](http://arxiv.org/abs/2207.08143v1)|null|
-|**2022-07-15**|**Reasoning about Actions over Visual and Linguistic Modalities: A Survey**|Shailaja Keyur Sampat et.al.|[2207.07568v1](http://arxiv.org/abs/2207.07568v1)|null|
-|**2022-07-14**|**Emotion Recognition in Conversation using Probabilistic Soft Logic**|Eriq Augustine et.al.|[2207.07238v1](http://arxiv.org/abs/2207.07238v1)|null|
-|**2022-07-14**|**Language models show human-like content effects on reasoning**|Ishita Dasgupta et.al.|[2207.07051v1](http://arxiv.org/abs/2207.07051v1)|null|
-|**2022-07-14**|**Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language**|Rita Sevastjanova et.al.|[2207.06897v1](http://arxiv.org/abs/2207.06897v1)|null|
-|**2022-07-14**|**Recurrent Memory Transformer**|Aydar Bulatov et.al.|[2207.06881v1](http://arxiv.org/abs/2207.06881v1)|[link](https://github.com/booydar/transformer-xl)|
