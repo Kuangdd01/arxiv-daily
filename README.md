@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-06 09:57:07
+ Automated deployment @ 2022-10-06 20:48:41
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-04**|**Affection: Learning Affective Explanations for Real-World Visual Data**|Panos Achlioptas et.al.|[2210.01946v1](http://arxiv.org/abs/2210.01946v1)|null|
+|**2022-10-04**|**When and why vision-language models behave like bag-of-words models, and what to do about it?**|Mert Yuksekgonul et.al.|[2210.01936v1](http://arxiv.org/abs/2210.01936v1)|null|
+|**2022-10-04**|**Explaining Patterns in Data with Language Models via Interpretable Autoprompting**|Chandan Singh et.al.|[2210.01848v1](http://arxiv.org/abs/2210.01848v1)|[link](https://github.com/csinva/interpretable-autoprompting)|
 |**2022-10-02**|**The boundaries of meaning: a case study in neural machine translation**|Yuri Balashov et.al.|[2210.00613v1](http://arxiv.org/abs/2210.00613v1)|null|
 |**2022-09-30**|**What Makes Pre-trained Language Models Better Zero/Few-shot Learners?**|Jinghui Lu et.al.|[2209.15206v1](http://arxiv.org/abs/2209.15206v1)|null|
 |**2022-09-30**|**Learning by Distilling Context**|Charlie Snell et.al.|[2209.15189v1](http://arxiv.org/abs/2209.15189v1)|null|
@@ -16,13 +19,18 @@
 |**2022-09-28**|**Causal Proxy Models for Concept-Based Model Explanations**|Zhengxuan Wu et.al.|[2209.14279v1](http://arxiv.org/abs/2209.14279v1)|[link](https://github.com/frankaging/causal-proxy-model)|
 |**2022-09-28**|**Towards Explaining Autonomy with Verbalised Decision Tree States**|Konstantinos Gavriilidis et.al.|[2209.13985v1](http://arxiv.org/abs/2209.13985v1)|null|
 |**2022-09-28**|**UCEpic: Unifying Aspect Planning and Lexical Constraints for Explainable Recommendation**|Jiacheng Li et.al.|[2209.13885v1](http://arxiv.org/abs/2209.13885v1)|null|
-|**2022-09-27**|**Assessing Digital Language Support on a Global Scale**|Gary F. Simons et.al.|[2209.13515v1](http://arxiv.org/abs/2209.13515v1)|[link](https://github.com/sil-ai/dls-results)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-05**|**Ask Me Anything: A simple strategy for prompting language models**|Simran Arora et.al.|[2210.02441v1](http://arxiv.org/abs/2210.02441v1)|[link](https://github.com/hazyresearch/ama_prompting)|
+|**2022-10-05**|**Emotion Twenty Questions Dialog System for Lexical Emotional Intelligence**|Abe Kazemzadeh et.al.|[2210.02400v1](http://arxiv.org/abs/2210.02400v1)|null|
+|**2022-10-05**|**COMPS: Conceptual Minimal Pair Sentences for testing Property Knowledge and Inheritance in Pre-trained Language Models**|Kanishka Misra et.al.|[2210.01963v1](http://arxiv.org/abs/2210.01963v1)|[link](https://github.com/kanishkamisra/comps)|
+|**2022-10-04**|**Detect, Retrieve, Comprehend: A Flexible Framework for Zero-Shot Document-Level Question Answering**|Tavish McDonald et.al.|[2210.01959v1](http://arxiv.org/abs/2210.01959v1)|null|
+|**2022-10-04**|**Affection: Learning Affective Explanations for Real-World Visual Data**|Panos Achlioptas et.al.|[2210.01946v1](http://arxiv.org/abs/2210.01946v1)|null|
+|**2022-10-04**|**Towards Improving Faithfulness in Abstractive Summarization**|Xiuying Chen et.al.|[2210.01877v1](http://arxiv.org/abs/2210.01877v1)|null|
 |**2022-10-04**|**Modular Approach to Machine Reading Comprehension: Mixture of Task-Aware Experts**|Anirudha Rayasam et.al.|[2210.01750v1](http://arxiv.org/abs/2210.01750v1)|null|
 |**2022-10-04**|**Mining Duplicate Questions of Stack Overflow**|Mihir Kale et.al.|[2210.01637v1](http://arxiv.org/abs/2210.01637v1)|null|
 |**2022-10-04**|**Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering**|Priyanka Sen et.al.|[2210.01613v1](http://arxiv.org/abs/2210.01613v1)|[link](https://github.com/amazon-research/mintaka)|
@@ -54,18 +62,15 @@
 |**2022-09-28**|**Hierarchical MixUp Multi-label Classification with Imbalanced Interdisciplinary Research Proposals**|Meng Xiao et.al.|[2209.13912v1](http://arxiv.org/abs/2209.13912v1)|null|
 |**2022-09-28**|**Data-driven Parsing Evaluation for Child-Parent Interactions**|Zoey Liu et.al.|[2209.13778v1](http://arxiv.org/abs/2209.13778v1)|null|
 |**2022-09-27**|**Sentiment is all you need to win US Presidential elections**|Sovesh Mohapatra et.al.|[2209.13487v1](http://arxiv.org/abs/2209.13487v1)|null|
-|**2022-09-27**|**PROD: Progressive Distillation for Dense Retrieval**|Zhenghao Lin et.al.|[2209.13335v1](http://arxiv.org/abs/2209.13335v1)|null|
-|**2022-09-26**|**Dialog Acts for Task-Driven Embodied Agents**|Spandana Gella et.al.|[2209.12953v1](http://arxiv.org/abs/2209.12953v1)|null|
-|**2022-09-26**|**On the Impact of Speech Recognition Errors in Passage Retrieval for Spoken Question Answering**|Georgios Sidiropoulos et.al.|[2209.12944v1](http://arxiv.org/abs/2209.12944v1)|null|
-|**2022-09-26**|**The Ability of Self-Supervised Speech Models for Audio Representations**|Tung-Yu Wu et.al.|[2209.12900v2](http://arxiv.org/abs/2209.12900v2)|[link](https://github.com/tony10101105/hear-2021-neurips-challenge---ntu-gura)|
-|**2022-09-26**|**Effects of language mismatch in automatic forensic voice comparison using deep learning embeddings**|Dávid Sztahó et.al.|[2209.12602v1](http://arxiv.org/abs/2209.12602v1)|null|
-|**2022-09-26**|**Meta-Learning a Cross-lingual Manifold for Semantic Parsing**|Tom Sherborne et.al.|[2209.12577v2](http://arxiv.org/abs/2209.12577v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-05**|**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**|Tushar Khot et.al.|[2210.02406v1](http://arxiv.org/abs/2210.02406v1)|null|
+|**2022-10-05**|**COMPS: Conceptual Minimal Pair Sentences for testing Property Knowledge and Inheritance in Pre-trained Language Models**|Kanishka Misra et.al.|[2210.01963v1](http://arxiv.org/abs/2210.01963v1)|[link](https://github.com/kanishkamisra/comps)|
+|**2022-10-04**|**Affection: Learning Affective Explanations for Real-World Visual Data**|Panos Achlioptas et.al.|[2210.01946v1](http://arxiv.org/abs/2210.01946v1)|null|
 |**2022-10-04**|**Neural-Symbolic Recursive Machine for Systematic Generalization**|Qing Li et.al.|[2210.01603v1](http://arxiv.org/abs/2210.01603v1)|null|
 |**2022-10-04**|**When to Make Exceptions: Exploring Language Models as Accounts of Human Moral Judgment**|Zhijing Jin et.al.|[2210.01478v1](http://arxiv.org/abs/2210.01478v1)|[link](https://github.com/feradauto/moralcot)|
 |**2022-10-04**|**Learning to Collocate Visual-Linguistic Neural Modules for Image Captioning**|Xu Yang et.al.|[2210.01338v1](http://arxiv.org/abs/2210.01338v1)|[link](https://github.com/gcyzsl/cvlmn)|
@@ -179,6 +184,3 @@
 |**2022-07-23**|**Enhancing Document-level Relation Extraction by Entity Knowledge Injection**|Xinyi Wang et.al.|[2207.11433v1](http://arxiv.org/abs/2207.11433v1)|[link](https://github.com/nju-websoft/kire)|
 |**2022-07-23**|**Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations**|Qian Yang et.al.|[2207.11401v1](http://arxiv.org/abs/2207.11401v1)|null|
 |**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v2](http://arxiv.org/abs/2207.10285v2)|[link](https://github.com/mswzeus/gvrt)|
-|**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v2](http://arxiv.org/abs/2207.08739v2)|[link](https://github.com/itemzheng/kddaug)|
-|**2022-07-18**|**Classifying COVID-19 vaccine narratives**|Yue Li et.al.|[2207.08522v1](http://arxiv.org/abs/2207.08522v1)|null|
-|**2022-07-17**|**Representation Learning of Image Schema**|Fajrian Yunus et.al.|[2207.08256v1](http://arxiv.org/abs/2207.08256v1)|null|
