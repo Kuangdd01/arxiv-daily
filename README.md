@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-07 10:09:19
+ Automated deployment @ 2022-10-07 20:49:50
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,11 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-06**|**Explainable Verbal Deception Detection using Transformers**|Loukas Ilias et.al.|[2210.03080v1](http://arxiv.org/abs/2210.03080v1)|null|
+|**2022-10-06**|**Multiview Contextual Commonsense Inference: A New Dataset and Task**|Siqi Shen et.al.|[2210.02890v1](http://arxiv.org/abs/2210.02890v1)|null|
+|**2022-10-06**|**Distilling Task-specific Logical Rules from Large Pre-trained Models**|Tao Chen et.al.|[2210.02768v1](http://arxiv.org/abs/2210.02768v1)|null|
+|**2022-10-06**|**Explainable Abuse Detection as Intent Classification and Slot Filling**|Agostina Calabrese et.al.|[2210.02659v1](http://arxiv.org/abs/2210.02659v1)|[link](https://github.com/ago3/plead)|
+|**2022-10-05**|**Honest Students from Untrusted Teachers: Learning an Interpretable Question-Answering Pipeline from a Pretrained Language Model**|Jacob Eisenstein et.al.|[2210.02498v1](http://arxiv.org/abs/2210.02498v1)|null|
 |**2022-10-04**|**Affection: Learning Affective Explanations for Real-World Visual Data**|Panos Achlioptas et.al.|[2210.01946v1](http://arxiv.org/abs/2210.01946v1)|null|
 |**2022-10-04**|**When and why vision-language models behave like bags-of-words, and what to do about it?**|Mert Yuksekgonul et.al.|[2210.01936v2](http://arxiv.org/abs/2210.01936v2)|null|
 |**2022-10-04**|**Explaining Patterns in Data with Language Models via Interpretable Autoprompting**|Chandan Singh et.al.|[2210.01848v1](http://arxiv.org/abs/2210.01848v1)|[link](https://github.com/csinva/interpretable-autoprompting)|
@@ -16,15 +21,26 @@
 |**2022-09-30**|**Learning by Distilling Context**|Charlie Snell et.al.|[2209.15189v1](http://arxiv.org/abs/2209.15189v1)|null|
 |**2022-09-29**|**Creative Painting with Latent Diffusion Models**|Xianchao Wu et.al.|[2209.14697v2](http://arxiv.org/abs/2209.14697v2)|null|
 |**2022-09-29**|**A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection**|Zhiwei Yang et.al.|[2209.14642v1](http://arxiv.org/abs/2209.14642v1)|[link](https://github.com/nicozwy/cofced)|
-|**2022-09-28**|**Causal Proxy Models for Concept-Based Model Explanations**|Zhengxuan Wu et.al.|[2209.14279v1](http://arxiv.org/abs/2209.14279v1)|[link](https://github.com/frankaging/causal-proxy-model)|
-|**2022-09-28**|**Towards Explaining Autonomy with Verbalised Decision Tree States**|Konstantinos Gavriilidis et.al.|[2209.13985v1](http://arxiv.org/abs/2209.13985v1)|null|
-|**2022-09-28**|**UCEpic: Unifying Aspect Planning and Lexical Constraints for Explainable Recommendation**|Jiacheng Li et.al.|[2209.13885v1](http://arxiv.org/abs/2209.13885v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-06**|**Rainier: Reinforced Knowledge Introspector for Commonsense Question Answering**|Jiacheng Liu et.al.|[2210.03078v1](http://arxiv.org/abs/2210.03078v1)|null|
+|**2022-10-06**|**Retrieval of Soft Prompt Enhances Zero-Shot Task Generalization**|Seonghyeon Ye et.al.|[2210.03029v1](http://arxiv.org/abs/2210.03029v1)|[link](https://github.com/seonghyeonye/rospr)|
+|**2022-10-06**|**To Softmax, or not to Softmax: that is the question when applying Active Learning for Transformer Models**|Julius Gonsior et.al.|[2210.03005v1](http://arxiv.org/abs/2210.03005v1)|[link](https://github.com/jgonsior/btw-softmax-clipping)|
+|**2022-10-06**|**Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering**|Mingxuan Ju et.al.|[2210.02933v1](http://arxiv.org/abs/2210.02933v1)|[link](https://github.com/jumxglhf/grape)|
+|**2022-10-06**|**MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text**|Wenhu Chen et.al.|[2210.02928v1](http://arxiv.org/abs/2210.02928v1)|null|
+|**2022-10-06**|**Multiview Contextual Commonsense Inference: A New Dataset and Task**|Siqi Shen et.al.|[2210.02890v1](http://arxiv.org/abs/2210.02890v1)|null|
+|**2022-10-06**|**Binding Language Models in Symbolic Languages**|Zhoujun Cheng et.al.|[2210.02875v1](http://arxiv.org/abs/2210.02875v1)|null|
+|**2022-10-06**|**How Far Are We from Real Synonym Substitution Attacks?**|Cheng-Han Chiang et.al.|[2210.02844v1](http://arxiv.org/abs/2210.02844v1)|null|
+|**2022-10-06**|**Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization**|Yiyang Li et.al.|[2210.02804v1](http://arxiv.org/abs/2210.02804v1)|null|
+|**2022-10-06**|**Teaching Neural Module Networks to Do Arithmetic**|Jiayi Chen et.al.|[2210.02703v1](http://arxiv.org/abs/2210.02703v1)|null|
+|**2022-10-06**|**Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering**|Shamane Siriwardhana et.al.|[2210.02627v1](http://arxiv.org/abs/2210.02627v1)|[link](https://github.com/huggingface/transformers)|
+|**2022-10-06**|**U3E: Unsupervised and Erasure-based Evidence Extraction for Machine Reading Comprehension**|Suzhe He et.al.|[2210.02621v1](http://arxiv.org/abs/2210.02621v1)|null|
+|**2022-10-05**|**Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors**|Mohammad Reza Taesiri et.al.|[2210.02506v1](http://arxiv.org/abs/2210.02506v1)|null|
+|**2022-10-05**|**Honest Students from Untrusted Teachers: Learning an Interpretable Question-Answering Pipeline from a Pretrained Language Model**|Jacob Eisenstein et.al.|[2210.02498v1](http://arxiv.org/abs/2210.02498v1)|null|
 |**2022-10-05**|**Ask Me Anything: A simple strategy for prompting language models**|Simran Arora et.al.|[2210.02441v2](http://arxiv.org/abs/2210.02441v2)|[link](https://github.com/hazyresearch/ama_prompting)|
 |**2022-10-05**|**Emotion Twenty Questions Dialog System for Lexical Emotional Intelligence**|Abe Kazemzadeh et.al.|[2210.02400v1](http://arxiv.org/abs/2210.02400v1)|null|
 |**2022-10-05**|**COMPS: Conceptual Minimal Pair Sentences for testing Property Knowledge and Inheritance in Pre-trained Language Models**|Kanishka Misra et.al.|[2210.01963v2](http://arxiv.org/abs/2210.01963v2)|[link](https://github.com/kanishkamisra/comps)|
@@ -54,20 +70,21 @@
 |**2022-09-29**|**Unpacking Large Language Models with Conceptual Consistency**|Pritish Sahu et.al.|[2209.15093v1](http://arxiv.org/abs/2209.15093v1)|null|
 |**2022-09-29**|**Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning**|Pan Lu et.al.|[2209.14610v1](http://arxiv.org/abs/2209.14610v1)|null|
 |**2022-09-29**|**Bidirectional Language Models Are Also Few-shot Learners**|Ajay Patel et.al.|[2209.14500v1](http://arxiv.org/abs/2209.14500v1)|null|
-|**2022-09-28**|**Improving alignment of dialogue agents via targeted human judgements**|Amelia Glaese et.al.|[2209.14375v1](http://arxiv.org/abs/2209.14375v1)|null|
-|**2022-09-28**|**Who is GPT-3? An Exploration of Personality, Values and Demographics**|Marilù Miotto et.al.|[2209.14338v1](http://arxiv.org/abs/2209.14338v1)|[link](https://github.com/ben-aaron188/who_is_gpt3)|
-|**2022-09-28**|**FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation**|Sebastian Hofstätter et.al.|[2209.14290v1](http://arxiv.org/abs/2209.14290v1)|null|
-|**2022-09-28**|**TVLT: Textless Vision-Language Transformer**|Zineng Tang et.al.|[2209.14156v1](http://arxiv.org/abs/2209.14156v1)|[link](https://github.com/zinengtang/tvlt)|
-|**2022-09-28**|**ArNLI: Arabic Natural Language Inference for Entailment and Contradiction Detection**|Khloud Al Jallad et.al.|[2209.13953v1](http://arxiv.org/abs/2209.13953v1)|[link](https://github.com/khloud-al/arnli)|
-|**2022-09-28**|**Hierarchical MixUp Multi-label Classification with Imbalanced Interdisciplinary Research Proposals**|Meng Xiao et.al.|[2209.13912v1](http://arxiv.org/abs/2209.13912v1)|null|
-|**2022-09-28**|**Data-driven Parsing Evaluation for Child-Parent Interactions**|Zoey Liu et.al.|[2209.13778v1](http://arxiv.org/abs/2209.13778v1)|null|
-|**2022-09-27**|**Sentiment is all you need to win US Presidential elections**|Sovesh Mohapatra et.al.|[2209.13487v1](http://arxiv.org/abs/2209.13487v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-06**|**Rainier: Reinforced Knowledge Introspector for Commonsense Question Answering**|Jiacheng Liu et.al.|[2210.03078v1](http://arxiv.org/abs/2210.03078v1)|null|
+|**2022-10-06**|**Language Models are Multilingual Chain-of-Thought Reasoners**|Freda Shi et.al.|[2210.03057v1](http://arxiv.org/abs/2210.03057v1)|[link](https://github.com/google-research/url-nlp)|
+|**2022-10-06**|**Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks**|Masahiro Kaneko et.al.|[2210.02938v1](http://arxiv.org/abs/2210.02938v1)|null|
+|**2022-10-06**|**MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text**|Wenhu Chen et.al.|[2210.02928v1](http://arxiv.org/abs/2210.02928v1)|null|
+|**2022-10-06**|**Join-Chain Network: A Logical Reasoning View of the Multi-head Attention in Transformer**|Jianyi Zhang et.al.|[2210.02729v1](http://arxiv.org/abs/2210.02729v1)|null|
+|**2022-10-06**|**Teaching Neural Module Networks to Do Arithmetic**|Jiayi Chen et.al.|[2210.02703v1](http://arxiv.org/abs/2210.02703v1)|null|
+|**2022-10-06**|**Learning to Reason With Relational Abstractions**|Andrew J. Nam et.al.|[2210.02615v1](http://arxiv.org/abs/2210.02615v1)|null|
+|**2022-10-05**|**Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors**|Mohammad Reza Taesiri et.al.|[2210.02506v1](http://arxiv.org/abs/2210.02506v1)|null|
+|**2022-10-05**|**Honest Students from Untrusted Teachers: Learning an Interpretable Question-Answering Pipeline from a Pretrained Language Model**|Jacob Eisenstein et.al.|[2210.02498v1](http://arxiv.org/abs/2210.02498v1)|null|
 |**2022-10-05**|**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**|Tushar Khot et.al.|[2210.02406v1](http://arxiv.org/abs/2210.02406v1)|null|
 |**2022-10-05**|**COMPS: Conceptual Minimal Pair Sentences for testing Property Knowledge and Inheritance in Pre-trained Language Models**|Kanishka Misra et.al.|[2210.01963v2](http://arxiv.org/abs/2210.01963v2)|[link](https://github.com/kanishkamisra/comps)|
 |**2022-10-04**|**Affection: Learning Affective Explanations for Real-World Visual Data**|Panos Achlioptas et.al.|[2210.01946v1](http://arxiv.org/abs/2210.01946v1)|null|
@@ -181,6 +198,3 @@
 |**2022-07-25**|**WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models**|Yonatan Bitton et.al.|[2207.12576v1](http://arxiv.org/abs/2207.12576v1)|[link](https://github.com/winogavil/winogavil-experiments)|
 |**2022-07-24**|**Counterfactual Reasoning for Out-of-distribution Multimodal Sentiment Analysis**|Teng Sun et.al.|[2207.11652v1](http://arxiv.org/abs/2207.11652v1)|[link](https://github.com/teng-sun/clue_model)|
 |**2022-07-23**|**Better Reasoning Behind Classification Predictions with BERT for Fake News Detection**|Daesoo Lee et.al.|[2207.11562v1](http://arxiv.org/abs/2207.11562v1)|null|
-|**2022-07-23**|**Enhancing Document-level Relation Extraction by Entity Knowledge Injection**|Xinyi Wang et.al.|[2207.11433v1](http://arxiv.org/abs/2207.11433v1)|[link](https://github.com/nju-websoft/kire)|
-|**2022-07-23**|**Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations**|Qian Yang et.al.|[2207.11401v1](http://arxiv.org/abs/2207.11401v1)|null|
-|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v2](http://arxiv.org/abs/2207.10285v2)|[link](https://github.com/mswzeus/gvrt)|
