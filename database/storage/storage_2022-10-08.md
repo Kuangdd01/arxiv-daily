@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-08 09:52:10
+ Automated deployment @ 2022-10-08 20:42:21
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -33,7 +33,7 @@
 |**2022-10-06**|**Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering**|Mingxuan Ju et.al.|[2210.02933v1](http://arxiv.org/abs/2210.02933v1)|[link](https://github.com/jumxglhf/grape)|
 |**2022-10-06**|**MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text**|Wenhu Chen et.al.|[2210.02928v1](http://arxiv.org/abs/2210.02928v1)|null|
 |**2022-10-06**|**Multiview Contextual Commonsense Inference: A New Dataset and Task**|Siqi Shen et.al.|[2210.02890v1](http://arxiv.org/abs/2210.02890v1)|null|
-|**2022-10-06**|**Binding Language Models in Symbolic Languages**|Zhoujun Cheng et.al.|[2210.02875v1](http://arxiv.org/abs/2210.02875v1)|null|
+|**2022-10-06**|**Binding Language Models in Symbolic Languages**|Zhoujun Cheng et.al.|[2210.02875v1](http://arxiv.org/abs/2210.02875v1)|[link](https://github.com/hkunlp/binder)|
 |**2022-10-06**|**How Far Are We from Real Synonym Substitution Attacks?**|Cheng-Han Chiang et.al.|[2210.02844v1](http://arxiv.org/abs/2210.02844v1)|null|
 |**2022-10-06**|**Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization**|Yiyang Li et.al.|[2210.02804v1](http://arxiv.org/abs/2210.02804v1)|null|
 |**2022-10-06**|**Teaching Neural Module Networks to Do Arithmetic**|Jiayi Chen et.al.|[2210.02703v1](http://arxiv.org/abs/2210.02703v1)|null|
@@ -56,7 +56,7 @@
 |**2022-10-04**|**Recitation-Augmented Language Models**|Zhiqing Sun et.al.|[2210.01296v1](http://arxiv.org/abs/2210.01296v1)|null|
 |**2022-10-03**|**Understanding Prior Bias and Choice Paralysis in Transformer-based Language Representation Models through Four Experimental Probes**|Ke Shen et.al.|[2210.01258v1](http://arxiv.org/abs/2210.01258v1)|null|
 |**2022-10-03**|**Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization**|Rajkumar Ramamurthy et.al.|[2210.01241v1](http://arxiv.org/abs/2210.01241v1)|[link](https://github.com/allenai/rl4lms)|
-|**2022-10-03**|**Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**|Abulhair Saparov et.al.|[2210.01240v1](http://arxiv.org/abs/2210.01240v1)|null|
+|**2022-10-03**|**Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**|Abulhair Saparov et.al.|[2210.01240v1](http://arxiv.org/abs/2210.01240v1)|[link](https://github.com/asaparov/prontoqa)|
 |**2022-10-03**|**Extending Compositional Attention Networks for Social Reasoning in Videos**|Christina Sartzetaki et.al.|[2210.01191v1](http://arxiv.org/abs/2210.01191v1)|[link](https://github.com/sergeantchris/macx-socialiq)|
 |**2022-10-03**|**How Relevant is Selective Memory Population in Lifelong Language Learning?**|Vladimir Araujo et.al.|[2210.00940v1](http://arxiv.org/abs/2210.00940v1)|null|
 |**2022-10-03**|**Complexity-Based Prompting for Multi-Step Reasoning**|Yao Fu et.al.|[2210.00720v1](http://arxiv.org/abs/2210.00720v1)|null|
@@ -85,7 +85,7 @@
 |**2022-10-06**|**Learning to Reason With Relational Abstractions**|Andrew J. Nam et.al.|[2210.02615v1](http://arxiv.org/abs/2210.02615v1)|null|
 |**2022-10-05**|**Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors**|Mohammad Reza Taesiri et.al.|[2210.02506v1](http://arxiv.org/abs/2210.02506v1)|[link](https://github.com/asgaardlab/LLMxBugs)|
 |**2022-10-05**|**Honest Students from Untrusted Teachers: Learning an Interpretable Question-Answering Pipeline from a Pretrained Language Model**|Jacob Eisenstein et.al.|[2210.02498v1](http://arxiv.org/abs/2210.02498v1)|null|
-|**2022-10-05**|**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**|Tushar Khot et.al.|[2210.02406v1](http://arxiv.org/abs/2210.02406v1)|null|
+|**2022-10-05**|**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**|Tushar Khot et.al.|[2210.02406v1](http://arxiv.org/abs/2210.02406v1)|[link](https://github.com/allenai/decomp)|
 |**2022-10-05**|**COMPS: Conceptual Minimal Pair Sentences for testing Property Knowledge and Inheritance in Pre-trained Language Models**|Kanishka Misra et.al.|[2210.01963v2](http://arxiv.org/abs/2210.01963v2)|[link](https://github.com/kanishkamisra/comps)|
 |**2022-10-04**|**Affection: Learning Affective Explanations for Real-World Visual Data**|Panos Achlioptas et.al.|[2210.01946v1](http://arxiv.org/abs/2210.01946v1)|null|
 |**2022-10-04**|**Neural-Symbolic Recursive Machine for Systematic Generalization**|Qing Li et.al.|[2210.01603v1](http://arxiv.org/abs/2210.01603v1)|null|
@@ -94,7 +94,7 @@
 |**2022-10-04**|**ThinkSum: Probabilistic reasoning over sets using large language models**|Batu Ozturkler et.al.|[2210.01293v1](http://arxiv.org/abs/2210.01293v1)|null|
 |**2022-10-03**|**Understanding Substructures in Commonsense Relations in ConceptNet**|Ke Shen et.al.|[2210.01263v1](http://arxiv.org/abs/2210.01263v1)|null|
 |**2022-10-03**|**Understanding Prior Bias and Choice Paralysis in Transformer-based Language Representation Models through Four Experimental Probes**|Ke Shen et.al.|[2210.01258v1](http://arxiv.org/abs/2210.01258v1)|null|
-|**2022-10-03**|**Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**|Abulhair Saparov et.al.|[2210.01240v1](http://arxiv.org/abs/2210.01240v1)|null|
+|**2022-10-03**|**Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**|Abulhair Saparov et.al.|[2210.01240v1](http://arxiv.org/abs/2210.01240v1)|[link](https://github.com/asaparov/prontoqa)|
 |**2022-10-03**|**Extending Compositional Attention Networks for Social Reasoning in Videos**|Christina Sartzetaki et.al.|[2210.01191v1](http://arxiv.org/abs/2210.01191v1)|[link](https://github.com/sergeantchris/macx-socialiq)|
 |**2022-10-03**|**Complexity-Based Prompting for Multi-Step Reasoning**|Yao Fu et.al.|[2210.00720v1](http://arxiv.org/abs/2210.00720v1)|null|
 |**2022-10-02**|**Does Wikidata Support Analogical Reasoning?**|Filip Ilievski et.al.|[2210.00620v1](http://arxiv.org/abs/2210.00620v1)|null|
