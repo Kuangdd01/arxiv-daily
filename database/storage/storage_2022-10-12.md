@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-12 10:24:49
+ Automated deployment @ 2022-10-12 20:46:38
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-11**|**A Kernel-Based View of Language Model Fine-Tuning**|Sadhika Malladi et.al.|[2210.05643v1](http://arxiv.org/abs/2210.05643v1)|[link](https://github.com/princeton-nlp/lm-kernel-ft)|
+|**2022-10-11**|**T5 for Hate Speech, Augmented Data and Ensemble**|Tosin Adewumi et.al.|[2210.05480v1](http://arxiv.org/abs/2210.05480v1)|null|
+|**2022-10-10**|**REV: Information-Theoretic Evaluation of Free-Text Rationales**|Hanjie Chen et.al.|[2210.04982v1](http://arxiv.org/abs/2210.04982v1)|null|
 |**2022-10-10**|**What the DAAM: Interpreting Stable Diffusion Using Cross Attention**|Raphael Tang et.al.|[2210.04885v2](http://arxiv.org/abs/2210.04885v2)|[link](https://github.com/castorini/daam)|
 |**2022-10-10**|**CrowdChecked: Detecting Previously Fact-Checked Claims in Social Media**|Momchil Hardalov et.al.|[2210.04447v1](http://arxiv.org/abs/2210.04447v1)|[link](https://github.com/mhardalov/crowdchecked-claims)|
 |**2022-10-09**|**CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models**|Steven Y. Feng et.al.|[2210.04191v1](http://arxiv.org/abs/2210.04191v1)|null|
@@ -21,13 +24,27 @@
 |**2022-10-04**|**Affection: Learning Affective Explanations for Real-World Visual Data**|Panos Achlioptas et.al.|[2210.01946v1](http://arxiv.org/abs/2210.01946v1)|null|
 |**2022-10-04**|**When and why vision-language models behave like bags-of-words, and what to do about it?**|Mert Yuksekgonul et.al.|[2210.01936v2](http://arxiv.org/abs/2210.01936v2)|null|
 |**2022-10-04**|**Explaining Patterns in Data with Language Models via Interpretable Autoprompting**|Chandan Singh et.al.|[2210.01848v1](http://arxiv.org/abs/2210.01848v1)|[link](https://github.com/csinva/imodelsX)|
-|**2022-10-02**|**The boundaries of meaning: a case study in neural machine translation**|Yuri Balashov et.al.|[2210.00613v1](http://arxiv.org/abs/2210.00613v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-11**|**ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities**|Terry Yue Zhuo et.al.|[2210.05556v1](http://arxiv.org/abs/2210.05556v1)|null|
+|**2022-10-11**|**Model Cascading: Towards Jointly Improving Efficiency and Accuracy of NLP Systems**|Neeraj Varshney et.al.|[2210.05528v1](http://arxiv.org/abs/2210.05528v1)|null|
+|**2022-10-11**|**Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network**|Yuxiang Nie et.al.|[2210.05499v1](http://arxiv.org/abs/2210.05499v1)|[link](https://github.com/jerrrynie/cgsn)|
+|**2022-10-11**|**Learning to Locate Visual Answer in Video Corpus Using Question**|Bin Li et.al.|[2210.05423v1](http://arxiv.org/abs/2210.05423v1)|null|
+|**2022-10-11**|**Mind's Eye: Grounded Language Model Reasoning through Simulation**|Ruibo Liu et.al.|[2210.05359v1](http://arxiv.org/abs/2210.05359v1)|null|
+|**2022-10-11**|**MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model**|Yatai Ji et.al.|[2210.05335v1](http://arxiv.org/abs/2210.05335v1)|[link](https://github.com/iigroup/map)|
+|**2022-10-11**|**Once is Enough: A Light-Weight Cross-Attention for Fast Sentence Pair Modeling**|Yuanhang Yang et.al.|[2210.05261v1](http://arxiv.org/abs/2210.05261v1)|null|
+|**2022-10-11**|**Rethinking the Event Coding Pipeline with Prompt Entailment**|Clément Lefebvre et.al.|[2210.05257v1](http://arxiv.org/abs/2210.05257v1)|[link](https://github.com/clement-lef/pr-ent)|
+|**2022-10-11**|**How Well Do Multi-hop Reading Comprehension Models Understand Date Information?**|Xanh Ho et.al.|[2210.05208v1](http://arxiv.org/abs/2210.05208v1)|[link](https://github.com/alab-nii/hieradate)|
+|**2022-10-11**|**Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA**|Junjie Huang et.al.|[2210.05197v1](http://arxiv.org/abs/2210.05197v1)|[link](https://github.com/jun-jie-huang/otter)|
+|**2022-10-11**|**Can Language Models Be Specific? How?**|Jie Huang et.al.|[2210.05159v1](http://arxiv.org/abs/2210.05159v1)|null|
+|**2022-10-11**|**Task-Aware Specialization for Efficient and Robust Dense Retrieval for Open-Domain Question Answering**|Hao Cheng et.al.|[2210.05156v1](http://arxiv.org/abs/2210.05156v1)|null|
+|**2022-10-11**|**Understanding the Failure of Batch Normalization for Transformers in NLP**|Jiaxi Wang et.al.|[2210.05153v1](http://arxiv.org/abs/2210.05153v1)|[link](https://github.com/wjxts/regularizedbn)|
+|**2022-10-11**|**CSS: Combining Self-training and Self-supervised Learning for Few-shot Dialogue State Tracking**|Haoning Zhang et.al.|[2210.05146v1](http://arxiv.org/abs/2210.05146v1)|null|
+|**2022-10-11**|**Reflection of Thought: Inversely Eliciting Numerical Reasoning in Language Models via Solving Linear Systems**|Fan Zhou et.al.|[2210.05075v1](http://arxiv.org/abs/2210.05075v1)|null|
 |**2022-10-10**|**Knowledge Distillation Transfer Sets and their Impact on Downstream NLU Tasks**|Charith Peris et.al.|[2210.04834v2](http://arxiv.org/abs/2210.04834v2)|null|
 |**2022-10-10**|**Semantic Framework based Query Generation for Temporal Question Answering over Knowledge Graphs**|Weantao Ding et.al.|[2210.04490v1](http://arxiv.org/abs/2210.04490v1)|null|
 |**2022-10-10**|**Investigating the Failure Modes of the AUC metric and Exploring Alternatives for Evaluating Systems in Safety Critical Applications**|Swaroop Mishra et.al.|[2210.04466v1](http://arxiv.org/abs/2210.04466v1)|null|
@@ -61,6 +78,7 @@
 |**2022-10-06**|**MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text**|Wenhu Chen et.al.|[2210.02928v1](http://arxiv.org/abs/2210.02928v1)|null|
 |**2022-10-06**|**Multiview Contextual Commonsense Inference: A New Dataset and Task**|Siqi Shen et.al.|[2210.02890v1](http://arxiv.org/abs/2210.02890v1)|[link](https://github.com/declare-lab/CICERO)|
 |**2022-10-06**|**Binding Language Models in Symbolic Languages**|Zhoujun Cheng et.al.|[2210.02875v1](http://arxiv.org/abs/2210.02875v1)|[link](https://github.com/hkunlp/binder)|
+|**2022-10-06**|**Domain-Specific Word Embeddings with Structure Prediction**|Stephanie Brandl et.al.|[2210.04962v1](http://arxiv.org/abs/2210.04962v1)|null|
 |**2022-10-06**|**How Far Are We from Real Synonym Substitution Attacks?**|Cheng-Han Chiang et.al.|[2210.02844v1](http://arxiv.org/abs/2210.02844v1)|null|
 |**2022-10-06**|**Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization**|Yiyang Li et.al.|[2210.02804v1](http://arxiv.org/abs/2210.02804v1)|null|
 |**2022-10-06**|**Teaching Neural Module Networks to Do Arithmetic**|Jiayi Chen et.al.|[2210.02703v1](http://arxiv.org/abs/2210.02703v1)|null|
@@ -71,21 +89,20 @@
 |**2022-10-05**|**Honest Students from Untrusted Teachers: Learning an Interpretable Question-Answering Pipeline from a Pretrained Language Model**|Jacob Eisenstein et.al.|[2210.02498v1](http://arxiv.org/abs/2210.02498v1)|null|
 |**2022-10-05**|**Ask Me Anything: A simple strategy for prompting language models**|Simran Arora et.al.|[2210.02441v2](http://arxiv.org/abs/2210.02441v2)|[link](https://github.com/hazyresearch/ama_prompting)|
 |**2022-10-05**|**Emotion Twenty Questions Dialog System for Lexical Emotional Intelligence**|Abe Kazemzadeh et.al.|[2210.02400v1](http://arxiv.org/abs/2210.02400v1)|[link](https://github.com/abecode/emo20q-web)|
-|**2022-10-05**|**COMPS: Conceptual Minimal Pair Sentences for testing Property Knowledge and Inheritance in Pre-trained Language Models**|Kanishka Misra et.al.|[2210.01963v2](http://arxiv.org/abs/2210.01963v2)|[link](https://github.com/kanishkamisra/comps)|
-|**2022-10-04**|**Detect, Retrieve, Comprehend: A Flexible Framework for Zero-Shot Document-Level Question Answering**|Tavish McDonald et.al.|[2210.01959v1](http://arxiv.org/abs/2210.01959v1)|null|
-|**2022-10-04**|**Affection: Learning Affective Explanations for Real-World Visual Data**|Panos Achlioptas et.al.|[2210.01946v1](http://arxiv.org/abs/2210.01946v1)|null|
-|**2022-10-04**|**Towards Improving Faithfulness in Abstractive Summarization**|Xiuying Chen et.al.|[2210.01877v1](http://arxiv.org/abs/2210.01877v1)|null|
-|**2022-10-04**|**Modular Approach to Machine Reading Comprehension: Mixture of Task-Aware Experts**|Anirudha Rayasam et.al.|[2210.01750v1](http://arxiv.org/abs/2210.01750v1)|null|
-|**2022-10-04**|**Mining Duplicate Questions of Stack Overflow**|Mihir Kale et.al.|[2210.01637v1](http://arxiv.org/abs/2210.01637v1)|null|
-|**2022-10-04**|**Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering**|Priyanka Sen et.al.|[2210.01613v1](http://arxiv.org/abs/2210.01613v1)|[link](https://github.com/amazon-research/mintaka)|
-|**2022-10-04**|**When to Make Exceptions: Exploring Language Models as Accounts of Human Moral Judgment**|Zhijing Jin et.al.|[2210.01478v1](http://arxiv.org/abs/2210.01478v1)|[link](https://github.com/feradauto/moralcot)|
-|**2022-10-04**|**A Study on the Efficiency and Generalization of Light Hybrid Retrievers**|Man Luo et.al.|[2210.01371v1](http://arxiv.org/abs/2210.01371v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-11**|**A Kernel-Based View of Language Model Fine-Tuning**|Sadhika Malladi et.al.|[2210.05643v1](http://arxiv.org/abs/2210.05643v1)|[link](https://github.com/princeton-nlp/lm-kernel-ft)|
+|**2022-10-11**|**ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities**|Terry Yue Zhuo et.al.|[2210.05556v1](http://arxiv.org/abs/2210.05556v1)|null|
+|**2022-10-11**|**Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network**|Yuxiang Nie et.al.|[2210.05499v1](http://arxiv.org/abs/2210.05499v1)|[link](https://github.com/jerrrynie/cgsn)|
+|**2022-10-11**|**Mind's Eye: Grounded Language Model Reasoning through Simulation**|Ruibo Liu et.al.|[2210.05359v1](http://arxiv.org/abs/2210.05359v1)|null|
+|**2022-10-11**|**MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model**|Yatai Ji et.al.|[2210.05335v1](http://arxiv.org/abs/2210.05335v1)|[link](https://github.com/iigroup/map)|
+|**2022-10-11**|**How Well Do Multi-hop Reading Comprehension Models Understand Date Information?**|Xanh Ho et.al.|[2210.05208v1](http://arxiv.org/abs/2210.05208v1)|[link](https://github.com/alab-nii/hieradate)|
+|**2022-10-11**|**Reflection of Thought: Inversely Eliciting Numerical Reasoning in Language Models via Solving Linear Systems**|Fan Zhou et.al.|[2210.05075v1](http://arxiv.org/abs/2210.05075v1)|null|
+|**2022-10-10**|**REV: Information-Theoretic Evaluation of Free-Text Rationales**|Hanjie Chen et.al.|[2210.04982v1](http://arxiv.org/abs/2210.04982v1)|null|
 |**2022-10-10**|**Learning Robust Representations for Continual Relation Extraction via Adversarial Class Augmentation**|Peiyi Wang et.al.|[2210.04497v1](http://arxiv.org/abs/2210.04497v1)|[link](https://github.com/wangpeiyi9979/aca)|
 |**2022-10-09**|**Understanding and Improving Zero-shot Multi-hop Reasoning in Generative Question Answering**|Zhengbao Jiang et.al.|[2210.04234v1](http://arxiv.org/abs/2210.04234v1)|null|
 |**2022-10-09**|**CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models**|Steven Y. Feng et.al.|[2210.04191v1](http://arxiv.org/abs/2210.04191v1)|null|
@@ -209,5 +226,3 @@
 |**2022-08-07**|**Human Perception as a Phenomenon of Quantization**|Diederik Aerts et.al.|[2208.03726v2](http://arxiv.org/abs/2208.03726v2)|null|
 |**2022-08-05**|**Learning New Skills after Deployment: Improving open-domain internet-driven dialogue with human feedback**|Jing Xu et.al.|[2208.03270v2](http://arxiv.org/abs/2208.03270v2)|null|
 |**2022-08-05**|**Knowledge Authoring with Factual English**|Yuheng Wang et.al.|[2208.03094v1](http://arxiv.org/abs/2208.03094v1)|[link](https://github.com/yuhengwang1/kalm-fl)|
-|**2022-08-05**|**ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**|Bingning Wang et.al.|[2208.03030v1](http://arxiv.org/abs/2208.03030v1)|[link](https://github.com/benywon/ChiQA)|
-|**2022-08-04**|**"Yeah, it does have a...Windows `98 Vibe'': Usability Study of Security Features in Programmable Logic Controllers**|Karen Li et.al.|[2208.02500v1](http://arxiv.org/abs/2208.02500v1)|null|
