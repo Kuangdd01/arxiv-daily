@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-13 10:10:19
+ Automated deployment @ 2022-10-13 20:50:35
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,11 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-12**|**On Text Style Transfer via Style Masked Language Models**|Sharan Narasimhan et.al.|[2210.06394v1](http://arxiv.org/abs/2210.06394v1)|null|
+|**2022-10-12**|**Towards Generalized and Explainable Long-Range Context Representation for Dialogue Systems**|Suvodip Dey et.al.|[2210.06282v1](http://arxiv.org/abs/2210.06282v1)|null|
+|**2022-10-12**|**Quasi-symbolic explanatory NLI via disentanglement: A geometrical examination**|Yingji Zhang et.al.|[2210.06230v1](http://arxiv.org/abs/2210.06230v1)|null|
+|**2022-10-12**|**Non-Autoregressive Machine Translation with Translation Memories**|Jitao Xu et.al.|[2210.06020v1](http://arxiv.org/abs/2210.06020v1)|null|
+|**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|null|
 |**2022-10-11**|**A Kernel-Based View of Language Model Fine-Tuning**|Sadhika Malladi et.al.|[2210.05643v1](http://arxiv.org/abs/2210.05643v1)|[link](https://github.com/princeton-nlp/lm-kernel-ft)|
 |**2022-10-11**|**T5 for Hate Speech, Augmented Data and Ensemble**|Tosin Adewumi et.al.|[2210.05480v1](http://arxiv.org/abs/2210.05480v1)|null|
 |**2022-10-10**|**REV: Information-Theoretic Evaluation of Free-Text Rationales**|Hanjie Chen et.al.|[2210.04982v1](http://arxiv.org/abs/2210.04982v1)|null|
@@ -21,15 +26,27 @@
 |**2022-10-06**|**Distilling Task-specific Logical Rules from Large Pre-trained Models**|Tao Chen et.al.|[2210.02768v1](http://arxiv.org/abs/2210.02768v1)|null|
 |**2022-10-06**|**Explainable Abuse Detection as Intent Classification and Slot Filling**|Agostina Calabrese et.al.|[2210.02659v1](http://arxiv.org/abs/2210.02659v1)|[link](https://github.com/ago3/plead)|
 |**2022-10-05**|**Honest Students from Untrusted Teachers: Learning an Interpretable Question-Answering Pipeline from a Pretrained Language Model**|Jacob Eisenstein et.al.|[2210.02498v1](http://arxiv.org/abs/2210.02498v1)|null|
-|**2022-10-04**|**Affection: Learning Affective Explanations for Real-World Visual Data**|Panos Achlioptas et.al.|[2210.01946v1](http://arxiv.org/abs/2210.01946v1)|null|
-|**2022-10-04**|**When and why vision-language models behave like bags-of-words, and what to do about it?**|Mert Yuksekgonul et.al.|[2210.01936v2](http://arxiv.org/abs/2210.01936v2)|null|
-|**2022-10-04**|**Explaining Patterns in Data with Language Models via Interpretable Autoprompting**|Chandan Singh et.al.|[2210.01848v1](http://arxiv.org/abs/2210.01848v1)|[link](https://github.com/csinva/imodelsX)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-12**|**Relational Graph Convolutional Neural Networks for Multihop Reasoning: A Comparative Study**|Ieva Staliūnaitė et.al.|[2210.06418v1](http://arxiv.org/abs/2210.06418v1)|null|
+|**2022-10-12**|**Probing Commonsense Knowledge in Pre-trained Language Models with Sense-level Precision and Expanded Vocabulary**|Daniel Loureiro et.al.|[2210.06376v1](http://arxiv.org/abs/2210.06376v1)|[link](https://github.com/danlou/synbert)|
+|**2022-10-12**|**Context Generation Improves Open Domain Question Answering**|Dan Su et.al.|[2210.06349v1](http://arxiv.org/abs/2210.06349v1)|null|
+|**2022-10-12**|**RedHOT: A Corpus of Annotated Medical Questions, Experiences, and Claims on Social Media**|Somin Wadhwa et.al.|[2210.06331v1](http://arxiv.org/abs/2210.06331v1)|[link](https://github.com/sominw/redhot)|
+|**2022-10-12**|**TwiRGCN: Temporally Weighted Graph Convolution for Question Answering over Temporal Knowledge Graphs**|Aditya Sharma et.al.|[2210.06281v1](http://arxiv.org/abs/2210.06281v1)|null|
+|**2022-10-12**|**Zero-Shot On-the-Fly Event Schema Induction**|Rotem Dror et.al.|[2210.06254v1](http://arxiv.org/abs/2210.06254v1)|null|
+|**2022-10-12**|**CIKQA: Learning Commonsense Inference with a Unified Knowledge-in-the-loop QA Paradigm**|Hongming Zhang et.al.|[2210.06246v1](http://arxiv.org/abs/2210.06246v1)|null|
+|**2022-10-12**|**ERNIE-Layout: Layout Knowledge Enhanced Pre-training for Visually-rich Document Understanding**|Qiming Peng et.al.|[2210.06155v1](http://arxiv.org/abs/2210.06155v1)|[link](https://github.com/PaddlePaddle/PaddleNLP)|
+|**2022-10-12**|**EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain**|Amir Hadifar et.al.|[2210.06104v1](http://arxiv.org/abs/2210.06104v1)|null|
+|**2022-10-12**|**Step out of KG: Knowledge Graph Completion via Knowledgeable Retrieval and Reading Comprehension**|Xin Lv et.al.|[2210.05921v1](http://arxiv.org/abs/2210.05921v1)|null|
+|**2022-10-12**|**Discourse Analysis via Questions and Answers: Parsing Dependency Structures of Questions Under Discussion**|Wei-Jen Ko et.al.|[2210.05905v1](http://arxiv.org/abs/2210.05905v1)|null|
+|**2022-10-11**|**Underspecification in Scene Description-to-Depiction Tasks**|Ben Hutchinson et.al.|[2210.05815v1](http://arxiv.org/abs/2210.05815v1)|null|
+|**2022-10-11**|**Vote'n'Rank: Revision of Benchmarking with Social Choice Theory**|Mark Rofin et.al.|[2210.05769v1](http://arxiv.org/abs/2210.05769v1)|null|
+|**2022-10-11**|**Decoupled Context Processing for Context Augmented Language Modeling**|Zonglin Li et.al.|[2210.05758v1](http://arxiv.org/abs/2210.05758v1)|null|
+|**2022-10-11**|**Automatic Speech Recognition of Low-Resource Languages Based on Chukchi**|Anastasia Safonova et.al.|[2210.05726v1](http://arxiv.org/abs/2210.05726v1)|null|
 |**2022-10-11**|**ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities**|Terry Yue Zhuo et.al.|[2210.05556v1](http://arxiv.org/abs/2210.05556v1)|null|
 |**2022-10-11**|**Model Cascading: Towards Jointly Improving Efficiency and Accuracy of NLP Systems**|Neeraj Varshney et.al.|[2210.05528v1](http://arxiv.org/abs/2210.05528v1)|null|
 |**2022-10-11**|**Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network**|Yuxiang Nie et.al.|[2210.05499v1](http://arxiv.org/abs/2210.05499v1)|[link](https://github.com/jerrrynie/cgsn)|
@@ -71,30 +88,21 @@
 |**2022-10-07**|**Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding**|Kenton Lee et.al.|[2210.03347v1](http://arxiv.org/abs/2210.03347v1)|null|
 |**2022-10-07**|**Calibrating Factual Knowledge in Pretrained Language Models**|Qingxiu Dong et.al.|[2210.03329v1](http://arxiv.org/abs/2210.03329v1)|[link](https://github.com/dqxiu/calinet)|
 |**2022-10-07**|**A Unified Encoder-Decoder Framework with Entity Memory**|Zhihan Zhang et.al.|[2210.03273v1](http://arxiv.org/abs/2210.03273v1)|null|
-|**2022-10-06**|**Rainier: Reinforced Knowledge Introspector for Commonsense Question Answering**|Jiacheng Liu et.al.|[2210.03078v1](http://arxiv.org/abs/2210.03078v1)|null|
-|**2022-10-06**|**Retrieval of Soft Prompt Enhances Zero-Shot Task Generalization**|Seonghyeon Ye et.al.|[2210.03029v2](http://arxiv.org/abs/2210.03029v2)|[link](https://github.com/seonghyeonye/rospr)|
-|**2022-10-06**|**To Softmax, or not to Softmax: that is the question when applying Active Learning for Transformer Models**|Julius Gonsior et.al.|[2210.03005v1](http://arxiv.org/abs/2210.03005v1)|[link](https://github.com/jgonsior/btw-softmax-clipping)|
-|**2022-10-06**|**Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering**|Mingxuan Ju et.al.|[2210.02933v2](http://arxiv.org/abs/2210.02933v2)|[link](https://github.com/jumxglhf/grape)|
-|**2022-10-06**|**MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text**|Wenhu Chen et.al.|[2210.02928v1](http://arxiv.org/abs/2210.02928v1)|null|
-|**2022-10-06**|**Multiview Contextual Commonsense Inference: A New Dataset and Task**|Siqi Shen et.al.|[2210.02890v1](http://arxiv.org/abs/2210.02890v1)|[link](https://github.com/declare-lab/CICERO)|
-|**2022-10-06**|**Binding Language Models in Symbolic Languages**|Zhoujun Cheng et.al.|[2210.02875v1](http://arxiv.org/abs/2210.02875v1)|[link](https://github.com/hkunlp/binder)|
-|**2022-10-06**|**Domain-Specific Word Embeddings with Structure Prediction**|Stephanie Brandl et.al.|[2210.04962v1](http://arxiv.org/abs/2210.04962v1)|null|
-|**2022-10-06**|**How Far Are We from Real Synonym Substitution Attacks?**|Cheng-Han Chiang et.al.|[2210.02844v1](http://arxiv.org/abs/2210.02844v1)|null|
-|**2022-10-06**|**Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization**|Yiyang Li et.al.|[2210.02804v1](http://arxiv.org/abs/2210.02804v1)|null|
-|**2022-10-06**|**Teaching Neural Module Networks to Do Arithmetic**|Jiayi Chen et.al.|[2210.02703v1](http://arxiv.org/abs/2210.02703v1)|null|
-|**2022-10-06**|**Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering**|Shamane Siriwardhana et.al.|[2210.02627v1](http://arxiv.org/abs/2210.02627v1)|[link](https://github.com/huggingface/transformers)|
-|**2022-10-06**|**ReAct: Synergizing Reasoning and Acting in Language Models**|Shunyu Yao et.al.|[2210.03629v1](http://arxiv.org/abs/2210.03629v1)|null|
-|**2022-10-06**|**U3E: Unsupervised and Erasure-based Evidence Extraction for Machine Reading Comprehension**|Suzhe He et.al.|[2210.02621v2](http://arxiv.org/abs/2210.02621v2)|null|
-|**2022-10-05**|**Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors**|Mohammad Reza Taesiri et.al.|[2210.02506v1](http://arxiv.org/abs/2210.02506v1)|[link](https://github.com/asgaardlab/LLMxBugs)|
-|**2022-10-05**|**Honest Students from Untrusted Teachers: Learning an Interpretable Question-Answering Pipeline from a Pretrained Language Model**|Jacob Eisenstein et.al.|[2210.02498v1](http://arxiv.org/abs/2210.02498v1)|null|
-|**2022-10-05**|**Ask Me Anything: A simple strategy for prompting language models**|Simran Arora et.al.|[2210.02441v2](http://arxiv.org/abs/2210.02441v2)|[link](https://github.com/hazyresearch/ama_prompting)|
-|**2022-10-05**|**Emotion Twenty Questions Dialog System for Lexical Emotional Intelligence**|Abe Kazemzadeh et.al.|[2210.02400v1](http://arxiv.org/abs/2210.02400v1)|[link](https://github.com/abecode/emo20q-web)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-12**|**Can Pretrained Language Models (Yet) Reason Deductively?**|Zhangdie Yuan et.al.|[2210.06442v1](http://arxiv.org/abs/2210.06442v1)|null|
+|**2022-10-12**|**Relational Graph Convolutional Neural Networks for Multihop Reasoning: A Comparative Study**|Ieva Staliūnaitė et.al.|[2210.06418v1](http://arxiv.org/abs/2210.06418v1)|null|
+|**2022-10-12**|**Probing Commonsense Knowledge in Pre-trained Language Models with Sense-level Precision and Expanded Vocabulary**|Daniel Loureiro et.al.|[2210.06376v1](http://arxiv.org/abs/2210.06376v1)|[link](https://github.com/danlou/synbert)|
+|**2022-10-12**|**TwiRGCN: Temporally Weighted Graph Convolution for Question Answering over Temporal Knowledge Graphs**|Aditya Sharma et.al.|[2210.06281v1](http://arxiv.org/abs/2210.06281v1)|null|
+|**2022-10-12**|**Task Compass: Scaling Multi-task Pre-training with Task Prefix**|Zhuosheng Zhang et.al.|[2210.06277v1](http://arxiv.org/abs/2210.06277v1)|[link](https://github.com/cooelf/compassmtl)|
+|**2022-10-12**|**CIKQA: Learning Commonsense Inference with a Unified Knowledge-in-the-loop QA Paradigm**|Hongming Zhang et.al.|[2210.06246v1](http://arxiv.org/abs/2210.06246v1)|null|
+|**2022-10-12**|**Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning**|Hui-Chi Kuo et.al.|[2210.05901v1](http://arxiv.org/abs/2210.05901v1)|null|
+|**2022-10-12**|**Perplexity from PLM Is Unreliable for Evaluating Text Quality**|Yequan Wang et.al.|[2210.05892v1](http://arxiv.org/abs/2210.05892v1)|null|
+|**2022-10-11**|**Cross-Lingual Speaker Identification Using Distant Supervision**|Ben Zhou et.al.|[2210.05780v1](http://arxiv.org/abs/2210.05780v1)|[link](https://github.com/slash0bz/speaker-identification)|
 |**2022-10-11**|**A Kernel-Based View of Language Model Fine-Tuning**|Sadhika Malladi et.al.|[2210.05643v1](http://arxiv.org/abs/2210.05643v1)|[link](https://github.com/princeton-nlp/lm-kernel-ft)|
 |**2022-10-11**|**ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities**|Terry Yue Zhuo et.al.|[2210.05556v1](http://arxiv.org/abs/2210.05556v1)|null|
 |**2022-10-11**|**Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network**|Yuxiang Nie et.al.|[2210.05499v1](http://arxiv.org/abs/2210.05499v1)|[link](https://github.com/jerrrynie/cgsn)|
@@ -220,9 +228,3 @@
 |**2022-08-11**|**Disentangled Modeling of Domain and Relevance for Adaptable Dense Retrieval**|Jingtao Zhan et.al.|[2208.05753v1](http://arxiv.org/abs/2208.05753v1)|[link](https://github.com/jingtaozhan/disentangled-retriever)|
 |**2022-08-11**|**A Model of Anaphoric Ambiguities using Sheaf Theoretic Quantum-like Contextuality and BERT**|Kin Ian Lo et.al.|[2208.05720v1](http://arxiv.org/abs/2208.05720v1)|null|
 |**2022-08-10**|**A Quantum Natural Language Processing Approach to Pronoun Resolution**|Hadi Wazni et.al.|[2208.05393v1](http://arxiv.org/abs/2208.05393v1)|null|
-|**2022-08-10**|**CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning**|Adam Dahlgren Lindström et.al.|[2208.05358v1](http://arxiv.org/abs/2208.05358v1)|[link](https://github.com/dali-does/clevr-math)|
-|**2022-08-09**|**Limitations of Language Models in Arithmetic and Symbolic Induction**|Jing Qian et.al.|[2208.05051v1](http://arxiv.org/abs/2208.05051v1)|null|
-|**2022-08-08**|**Deep Learning Driven Natural Languages Text to SQL Query Conversion: A Survey**|Ayush Kumar et.al.|[2208.04415v1](http://arxiv.org/abs/2208.04415v1)|null|
-|**2022-08-07**|**Human Perception as a Phenomenon of Quantization**|Diederik Aerts et.al.|[2208.03726v2](http://arxiv.org/abs/2208.03726v2)|null|
-|**2022-08-05**|**Learning New Skills after Deployment: Improving open-domain internet-driven dialogue with human feedback**|Jing Xu et.al.|[2208.03270v2](http://arxiv.org/abs/2208.03270v2)|null|
-|**2022-08-05**|**Knowledge Authoring with Factual English**|Yuheng Wang et.al.|[2208.03094v1](http://arxiv.org/abs/2208.03094v1)|[link](https://github.com/yuhengwang1/kalm-fl)|
