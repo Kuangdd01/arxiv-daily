@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-14 10:27:14
+ Automated deployment @ 2022-10-14 20:47:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -9,7 +9,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-13**|**Constructing Natural Language Explanations via Saliency Map Verbalization**|Nils Feldhus et.al.|[2210.07222v1](http://arxiv.org/abs/2210.07222v1)|null|
-|**2022-10-13**|**Towards a Unified Multi-Dimensional Evaluator for Text Generation**|Ming Zhong et.al.|[2210.07197v1](http://arxiv.org/abs/2210.07197v1)|null|
+|**2022-10-13**|**Towards a Unified Multi-Dimensional Evaluator for Text Generation**|Ming Zhong et.al.|[2210.07197v1](http://arxiv.org/abs/2210.07197v1)|[link](https://github.com/maszhongming/unieval)|
 |**2022-10-13**|**How (Not) To Evaluate Explanation Quality**|Hendrik Schuff et.al.|[2210.07126v1](http://arxiv.org/abs/2210.07126v1)|null|
 |**2022-10-13**|**On the Explainability of Natural Language Processing Deep Models**|Julia El Zini et.al.|[2210.06929v1](http://arxiv.org/abs/2210.06929v1)|null|
 |**2022-10-13**|**On the Evaluation of the Plausibility and Faithfulness of Sentiment Analysis Explanations**|Julia El Zini et.al.|[2210.06916v1](http://arxiv.org/abs/2210.06916v1)|null|
@@ -36,7 +36,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-13**|**Searching for Better Database Queries in the Outputs of Semantic Parsers**|Anton Osokin et.al.|[2210.07201v1](http://arxiv.org/abs/2210.07201v1)|null|
-|**2022-10-13**|**Towards a Unified Multi-Dimensional Evaluator for Text Generation**|Ming Zhong et.al.|[2210.07197v1](http://arxiv.org/abs/2210.07197v1)|null|
+|**2022-10-13**|**Towards a Unified Multi-Dimensional Evaluator for Text Generation**|Ming Zhong et.al.|[2210.07197v1](http://arxiv.org/abs/2210.07197v1)|[link](https://github.com/maszhongming/unieval)|
 |**2022-10-13**|**MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting**|Oscar Mañas et.al.|[2210.07179v1](http://arxiv.org/abs/2210.07179v1)|null|
 |**2022-10-13**|**Counterfactual Multihop QA: A Cause-Effect Approach for Reducing Disconnected Reasoning**|Wangzhen Guo et.al.|[2210.07138v1](http://arxiv.org/abs/2210.07138v1)|null|
 |**2022-10-13**|**How (Not) To Evaluate Explanation Quality**|Hendrik Schuff et.al.|[2210.07126v1](http://arxiv.org/abs/2210.07126v1)|null|
@@ -104,15 +104,15 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-13**|**Language Model Decoding as Likelihood-Utility Alignment**|Martin Josifoski et.al.|[2210.07228v1](http://arxiv.org/abs/2210.07228v1)|null|
 |**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|null|
-|**2022-10-13**|**ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution**|Ankita Gupta et.al.|[2210.07188v1](http://arxiv.org/abs/2210.07188v1)|null|
+|**2022-10-13**|**ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution**|Ankita Gupta et.al.|[2210.07188v1](http://arxiv.org/abs/2210.07188v1)|[link](https://github.com/gnkitaa/ezcoref)|
 |**2022-10-13**|**Counterfactual Multihop QA: A Cause-Effect Approach for Reducing Disconnected Reasoning**|Wangzhen Guo et.al.|[2210.07138v1](http://arxiv.org/abs/2210.07138v1)|null|
-|**2022-10-13**|**Language Models of Code are Few-Shot Commonsense Learners**|Aman Madaan et.al.|[2210.07128v1](http://arxiv.org/abs/2210.07128v1)|null|
+|**2022-10-13**|**Language Models of Code are Few-Shot Commonsense Learners**|Aman Madaan et.al.|[2210.07128v1](http://arxiv.org/abs/2210.07128v1)|[link](https://github.com/madaan/cocogen)|
 |**2022-10-13**|**Towards End-to-End Open Conversational Machine Reading**|Sizhe Zhou et.al.|[2210.07113v1](http://arxiv.org/abs/2210.07113v1)|null|
 |**2022-10-13**|**On the Evaluation of the Plausibility and Faithfulness of Sentiment Analysis Explanations**|Julia El Zini et.al.|[2210.06916v1](http://arxiv.org/abs/2210.06916v1)|null|
 |**2022-10-13**|**Shortcomings of Question Answering Based Factuality Frameworks for Error Localization**|Ryo Kamoi et.al.|[2210.06748v1](http://arxiv.org/abs/2210.06748v1)|null|
 |**2022-10-13**|**Explanations from Large Language Models Make Small Reasoners Better**|Shiyang Li et.al.|[2210.06726v1](http://arxiv.org/abs/2210.06726v1)|null|
 |**2022-10-13**|**Assessing Out-of-Domain Language Model Performance from Few Examples**|Prasann Singhal et.al.|[2210.06725v1](http://arxiv.org/abs/2210.06725v1)|null|
-|**2022-10-13**|**Few-shot Relational Reasoning via Connection Subgraph Pretraining**|Qian Huang et.al.|[2210.06722v1](http://arxiv.org/abs/2210.06722v1)|null|
+|**2022-10-13**|**Few-shot Relational Reasoning via Connection Subgraph Pretraining**|Qian Huang et.al.|[2210.06722v1](http://arxiv.org/abs/2210.06722v1)|[link](https://github.com/snap-stanford/csr)|
 |**2022-10-13**|**Large Language Models are few(1)-shot Table Reasoners**|Wenhu Chen et.al.|[2210.06710v1](http://arxiv.org/abs/2210.06710v1)|null|
 |**2022-10-12**|**OpenCQA: Open-ended Question Answering with Charts**|Shankar Kantharaj et.al.|[2210.06628v1](http://arxiv.org/abs/2210.06628v1)|null|
 |**2022-10-12**|**Can Pretrained Language Models (Yet) Reason Deductively?**|Zhangdie Yuan et.al.|[2210.06442v1](http://arxiv.org/abs/2210.06442v1)|null|
