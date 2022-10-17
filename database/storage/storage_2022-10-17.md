@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-17 10:29:54
+ Automated deployment @ 2022-10-17 20:52:28
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,11 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-14**|**Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey**|Sachin Kumar et.al.|[2210.07700v1](http://arxiv.org/abs/2210.07700v1)|null|
+|**2022-10-14**|**Enabling Classifiers to Make Judgements Explicitly Aligned with Human Values**|Yejin Bang et.al.|[2210.07652v1](http://arxiv.org/abs/2210.07652v1)|null|
+|**2022-10-14**|**StyLEx: Explaining Styles with Lexicon-Based Human Perception**|Shirley Anugrah Hayati et.al.|[2210.07469v1](http://arxiv.org/abs/2210.07469v1)|null|
+|**2022-10-14**|**Adaptable Claim Rewriting with Offline Reinforcement Learning for Effective Misinformation Discovery**|Ashkan Kazemi et.al.|[2210.07467v1](http://arxiv.org/abs/2210.07467v1)|null|
+|**2022-10-14**|**InterFair: Debiasing with Natural Language Feedback for Fair Interpretable Predictions**|Bodhisattwa Prasad Majumder et.al.|[2210.07440v1](http://arxiv.org/abs/2210.07440v1)|null|
 |**2022-10-13**|**Constructing Natural Language Explanations via Saliency Map Verbalization**|Nils Feldhus et.al.|[2210.07222v1](http://arxiv.org/abs/2210.07222v1)|null|
 |**2022-10-13**|**Towards a Unified Multi-Dimensional Evaluator for Text Generation**|Ming Zhong et.al.|[2210.07197v1](http://arxiv.org/abs/2210.07197v1)|[link](https://github.com/maszhongming/unieval)|
 |**2022-10-13**|**How (Not) To Evaluate Explanation Quality**|Hendrik Schuff et.al.|[2210.07126v1](http://arxiv.org/abs/2210.07126v1)|null|
@@ -27,14 +32,21 @@
 |**2022-10-09**|**CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models**|Steven Y. Feng et.al.|[2210.04191v1](http://arxiv.org/abs/2210.04191v1)|null|
 |**2022-10-09**|**Analogy Generation by Prompting Large Language Models: A Case Study of InstructGPT**|Bhavya Bhavya et.al.|[2210.04186v2](http://arxiv.org/abs/2210.04186v2)|[link](https://github.com/bhaavya/instructgpt-analogies)|
 |**2022-10-07**|**xDBTagger: Explainable Natural Language Interface to Databases Using Keyword Mappings and Schema Graph**|Arif Usta et.al.|[2210.03768v1](http://arxiv.org/abs/2210.03768v1)|null|
-|**2022-10-06**|**Explainable Verbal Deception Detection using Transformers**|Loukas Ilias et.al.|[2210.03080v1](http://arxiv.org/abs/2210.03080v1)|null|
-|**2022-10-06**|**Multiview Contextual Commonsense Inference: A New Dataset and Task**|Siqi Shen et.al.|[2210.02890v1](http://arxiv.org/abs/2210.02890v1)|[link](https://github.com/declare-lab/CICERO)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-14**|**MiQA: A Benchmark for Inference on Metaphorical Questions**|Iulia-Maria Comsa et.al.|[2210.07993v1](http://arxiv.org/abs/2210.07993v1)|null|
+|**2022-10-14**|**Hardness of Samples Need to be Quantified for a Reliable Evaluation System: Exploring Potential Opportunities with a New Task**|Swaroop Mishra et.al.|[2210.07631v1](http://arxiv.org/abs/2210.07631v1)|null|
+|**2022-10-14**|**ConEntail: An Entailment-based Framework for Universal Zero and Few Shot Classification with Supervised Contrastive Pretraining**|Haoran Zhang et.al.|[2210.07587v1](http://arxiv.org/abs/2210.07587v1)|null|
+|**2022-10-14**|**MICO: A Multi-alternative Contrastive Learning Framework for Commonsense Knowledge Representation**|Ying Su et.al.|[2210.07570v1](http://arxiv.org/abs/2210.07570v1)|[link](https://github.com/hkust-knowcomp/mico)|
+|**2022-10-14**|**Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation**|Abhay Shukla et.al.|[2210.07544v1](http://arxiv.org/abs/2210.07544v1)|[link](https://github.com/law-ai/summarization)|
+|**2022-10-14**|**Can Language Representation Models Think in Bets?**|Zhisheng Tang et.al.|[2210.07519v1](http://arxiv.org/abs/2210.07519v1)|null|
+|**2022-10-14**|**SQA3D: Situated Question Answering in 3D Scenes**|Xiaojian Ma et.al.|[2210.07474v1](http://arxiv.org/abs/2210.07474v1)|null|
+|**2022-10-14**|**"John is 50 years old, can his son be 65?" Evaluating NLP Models' Understanding of Feasibility**|Himanshu Gupta et.al.|[2210.07471v1](http://arxiv.org/abs/2210.07471v1)|null|
+|**2022-10-13**|**SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models**|Haozhe An et.al.|[2210.07269v1](http://arxiv.org/abs/2210.07269v1)|null|
 |**2022-10-13**|**Searching for Better Database Queries in the Outputs of Semantic Parsers**|Anton Osokin et.al.|[2210.07201v1](http://arxiv.org/abs/2210.07201v1)|null|
 |**2022-10-13**|**Towards a Unified Multi-Dimensional Evaluator for Text Generation**|Ming Zhong et.al.|[2210.07197v1](http://arxiv.org/abs/2210.07197v1)|[link](https://github.com/maszhongming/unieval)|
 |**2022-10-13**|**MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting**|Oscar Mañas et.al.|[2210.07179v1](http://arxiv.org/abs/2210.07179v1)|null|
@@ -86,22 +98,21 @@
 |**2022-10-10**|**Semantic Framework based Query Generation for Temporal Question Answering over Knowledge Graphs**|Weantao Ding et.al.|[2210.04490v1](http://arxiv.org/abs/2210.04490v1)|null|
 |**2022-10-10**|**Investigating the Failure Modes of the AUC metric and Exploring Alternatives for Evaluating Systems in Safety Critical Applications**|Swaroop Mishra et.al.|[2210.04466v1](http://arxiv.org/abs/2210.04466v1)|null|
 |**2022-10-10**|**Don't Copy the Teacher: Data and Model Challenges in Embodied Dialogue**|So Yeon Min et.al.|[2210.04443v2](http://arxiv.org/abs/2210.04443v2)|[link](https://github.com/soyeonm/teach_film)|
-|**2022-10-09**|**Contrastive Representation Learning for Conversational Question Answering over Knowledge Graphs**|Endri Kacupaj et.al.|[2210.04373v1](http://arxiv.org/abs/2210.04373v1)|[link](https://github.com/endrikacupaj/praline)|
-|**2022-10-09**|**QAScore -- An Unsupervised Unreferenced Metric for the Question Generation Evaluation**|Tianbo Ji et.al.|[2210.04320v1](http://arxiv.org/abs/2210.04320v1)|null|
-|**2022-10-09**|**Understanding and Improving Zero-shot Multi-hop Reasoning in Generative Question Answering**|Zhengbao Jiang et.al.|[2210.04234v1](http://arxiv.org/abs/2210.04234v1)|null|
-|**2022-10-09**|**Analogy Generation by Prompting Large Language Models: A Case Study of InstructGPT**|Bhavya Bhavya et.al.|[2210.04186v2](http://arxiv.org/abs/2210.04186v2)|[link](https://github.com/bhaavya/instructgpt-analogies)|
-|**2022-10-09**|**MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**|Zijia Zhao et.al.|[2210.04183v1](http://arxiv.org/abs/2210.04183v1)|null|
-|**2022-10-08**|**KALM: Knowledge-Aware Integration of Local, Document, and Global Contexts for Long Document Understanding**|Shangbin Feng et.al.|[2210.04105v1](http://arxiv.org/abs/2210.04105v1)|null|
-|**2022-10-08**|**Generative Language Models for Paragraph-Level Question Generation**|Asahi Ushio et.al.|[2210.03992v1](http://arxiv.org/abs/2210.03992v1)|[link](https://github.com/asahi417/lm-question-generation)|
-|**2022-10-08**|**KG-MTT-BERT: Knowledge Graph Enhanced BERT for Multi-Type Medical Text Classification**|Yong He et.al.|[2210.03970v1](http://arxiv.org/abs/2210.03970v1)|null|
-|**2022-10-08**|**Learning Fine-Grained Visual Understanding for Video Question Answering via Decoupling Spatial-Temporal Modeling**|Hsin-Ying Lee et.al.|[2210.03941v1](http://arxiv.org/abs/2210.03941v1)|[link](https://github.com/shinying/dest)|
-|**2022-10-08**|**EgoTaskQA: Understanding Human Tasks in Egocentric Videos**|Baoxiong Jia et.al.|[2210.03929v1](http://arxiv.org/abs/2210.03929v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-14**|**MiQA: A Benchmark for Inference on Metaphorical Questions**|Iulia-Maria Comsa et.al.|[2210.07993v1](http://arxiv.org/abs/2210.07993v1)|null|
+|**2022-10-14**|**PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population**|Tianqing Fang et.al.|[2210.07988v1](http://arxiv.org/abs/2210.07988v1)|[link](https://github.com/hkust-knowcomp/pseudoreasoner)|
+|**2022-10-14**|**Dense-ATOMIC: Construction of Densely-connected and Multi-hop Commonsense Knowledge Graph upon ATOMIC**|Xiangqing Shen et.al.|[2210.07621v1](http://arxiv.org/abs/2210.07621v1)|null|
+|**2022-10-14**|**MICO: A Multi-alternative Contrastive Learning Framework for Commonsense Knowledge Representation**|Ying Su et.al.|[2210.07570v1](http://arxiv.org/abs/2210.07570v1)|[link](https://github.com/hkust-knowcomp/mico)|
+|**2022-10-14**|**SQA3D: Situated Question Answering in 3D Scenes**|Xiaojian Ma et.al.|[2210.07474v1](http://arxiv.org/abs/2210.07474v1)|null|
+|**2022-10-14**|**"John is 50 years old, can his son be 65?" Evaluating NLP Models' Understanding of Feasibility**|Himanshu Gupta et.al.|[2210.07471v1](http://arxiv.org/abs/2210.07471v1)|null|
+|**2022-10-13**|**Behavior Cloned Transformers are Neurosymbolic Reasoners**|Ruoyao Wang et.al.|[2210.07382v1](http://arxiv.org/abs/2210.07382v1)|null|
+|**2022-10-13**|**Joint Reasoning on Hybrid-knowledge sources for Task-Oriented Dialog**|Mayank Mishra et.al.|[2210.07295v1](http://arxiv.org/abs/2210.07295v1)|null|
+|**2022-10-13**|**SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models**|Haozhe An et.al.|[2210.07269v1](http://arxiv.org/abs/2210.07269v1)|null|
 |**2022-10-13**|**Language Model Decoding as Likelihood-Utility Alignment**|Martin Josifoski et.al.|[2210.07228v1](http://arxiv.org/abs/2210.07228v1)|null|
 |**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|[link](https://github.com/mila-iqia/casande-rl)|
 |**2022-10-13**|**ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution**|Ankita Gupta et.al.|[2210.07188v1](http://arxiv.org/abs/2210.07188v1)|[link](https://github.com/gnkitaa/ezcoref)|
@@ -138,7 +149,7 @@
 |**2022-10-09**|**MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**|Zijia Zhao et.al.|[2210.04183v1](http://arxiv.org/abs/2210.04183v1)|null|
 |**2022-10-08**|**Are All Steps Equally Important? Benchmarking Essentiality Detection of Events**|Hongming Zhang et.al.|[2210.04074v2](http://arxiv.org/abs/2210.04074v2)|null|
 |**2022-10-08**|**SDA: Simple Discrete Augmentation for Contrastive Sentence Representation Learning**|Zhenyu Mao et.al.|[2210.03963v1](http://arxiv.org/abs/2210.03963v1)|null|
-|**2022-10-08**|**EgoTaskQA: Understanding Human Tasks in Egocentric Videos**|Baoxiong Jia et.al.|[2210.03929v1](http://arxiv.org/abs/2210.03929v1)|null|
+|**2022-10-08**|**EgoTaskQA: Understanding Human Tasks in Egocentric Videos**|Baoxiong Jia et.al.|[2210.03929v1](http://arxiv.org/abs/2210.03929v1)|[link](https://github.com/Buzz-Beater/EgoTaskQA)|
 |**2022-10-07**|**ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering**|Zhiyu Chen et.al.|[2210.03849v1](http://arxiv.org/abs/2210.03849v1)|[link](https://github.com/czyssrs/convfinqa)|
 |**2022-10-07**|**Breaking BERT: Evaluating and Optimizing Sparsified Attention**|Siddhartha Brahma et.al.|[2210.03841v1](http://arxiv.org/abs/2210.03841v1)|null|
 |**2022-10-07**|**Artificial Intelligence and Natural Language Processing and Understanding in Space: Four ESA Case Studies**|José Manuel Gómez-Pérez et.al.|[2210.03640v1](http://arxiv.org/abs/2210.03640v1)|null|
@@ -233,10 +244,3 @@
 |**2022-08-25**|**On Reality and the Limits of Language Data**|Nigel H. Collier et.al.|[2208.11981v1](http://arxiv.org/abs/2208.11981v1)|null|
 |**2022-08-25**|**Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey**|Mengnan Du et.al.|[2208.11857v1](http://arxiv.org/abs/2208.11857v1)|null|
 |**2022-08-24**|**Modeling Paragraph-Level Vision-Language Semantic Alignment for Multi-Modal Summarization**|Xinnian Liang et.al.|[2208.11303v1](http://arxiv.org/abs/2208.11303v1)|null|
-|**2022-08-23**|**Evaluate Confidence Instead of Perplexity for Zero-shot Commonsense Reasoning**|Letian Peng et.al.|[2208.11007v1](http://arxiv.org/abs/2208.11007v1)|null|
-|**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v2](http://arxiv.org/abs/2208.10442v2)|[link](https://github.com/microsoft/unilm/tree/master/beit)|
-|**2022-08-22**|**Inductive Knowledge Graph Reasoning for Multi-batch Emerging Entities**|Yuanning Cui et.al.|[2208.10378v3](http://arxiv.org/abs/2208.10378v3)|[link](https://github.com/nju-websoft/mbe)|
-|**2022-08-22**|**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**|Siyuan Wang et.al.|[2208.10297v1](http://arxiv.org/abs/2208.10297v1)|[link](https://github.com/wangsygit/stepwiseqa)|
-|**2022-08-21**|**I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning**|Yang Liu et.al.|[2208.09828v3](http://arxiv.org/abs/2208.09828v3)|[link](https://github.com/nju-websoft/cole)|
-|**2022-08-19**|**Causal Intervention Improves Implicit Sentiment Analysis**|Siyin Wang et.al.|[2208.09329v1](http://arxiv.org/abs/2208.09329v1)|null|
-|**2022-08-19**|**UKP-SQuARE v2 Explainability and Adversarial Attacks for Trustworthy QA**|Rachneet Sachdeva et.al.|[2208.09316v2](http://arxiv.org/abs/2208.09316v2)|[link](https://github.com/ukp-square/square-core)|
