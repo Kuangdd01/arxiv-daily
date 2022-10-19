@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-19 10:11:53
+ Automated deployment @ 2022-10-19 20:52:03
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-17**|**CrossRE: A Cross-Domain Dataset for Relation Extraction**|Elisa Bassignana et.al.|[2210.09345v1](http://arxiv.org/abs/2210.09345v1)|[link](https://github.com/mainlp/crossre)|
 |**2022-10-17**|**On the Impact of Temporal Concept Drift on Model Explanations**|Zhixue Zhao et.al.|[2210.09197v1](http://arxiv.org/abs/2210.09197v1)|[link](https://github.com/casszhao/temporal-drift-on-explanation)|
 |**2022-10-17**|**Beyond Model Interpretability: On the Faithfulness and Adversarial Robustness of Contrastive Textual Explanations**|Julia El Zini et.al.|[2210.08902v1](http://arxiv.org/abs/2210.08902v1)|null|
 |**2022-10-17**|**ReasonChainQA: Text-based Complex Question Answering with Explainable Evidence Chains**|Minjun Zhu et.al.|[2210.08763v1](http://arxiv.org/abs/2210.08763v1)|null|
@@ -30,15 +31,15 @@
 |**2022-10-12**|**Quasi-symbolic explanatory NLI via disentanglement: A geometrical examination**|Yingji Zhang et.al.|[2210.06230v1](http://arxiv.org/abs/2210.06230v1)|null|
 |**2022-10-12**|**Non-Autoregressive Machine Translation with Translation Memories**|Jitao Xu et.al.|[2210.06020v1](http://arxiv.org/abs/2210.06020v1)|null|
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|null|
-|**2022-10-11**|**A Kernel-Based View of Language Model Fine-Tuning**|Sadhika Malladi et.al.|[2210.05643v1](http://arxiv.org/abs/2210.05643v1)|[link](https://github.com/princeton-nlp/lm-kernel-ft)|
-|**2022-10-11**|**T5 for Hate Speech, Augmented Data and Ensemble**|Tosin Adewumi et.al.|[2210.05480v1](http://arxiv.org/abs/2210.05480v1)|null|
-|**2022-10-10**|**REV: Information-Theoretic Evaluation of Free-Text Rationales**|Hanjie Chen et.al.|[2210.04982v2](http://arxiv.org/abs/2210.04982v2)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-18**|**The Tail Wagging the Dog: Dataset Construction Biases of Social Bias Benchmarks**|Nikil Roashan Selvam et.al.|[2210.10040v1](http://arxiv.org/abs/2210.10040v1)|null|
+|**2022-10-18**|**Systematicity in GPT-3's Interpretation of Novel English Noun Compounds**|Siyan Li et.al.|[2210.09492v1](http://arxiv.org/abs/2210.09492v1)|null|
+|**2022-10-17**|**Deep Bidirectional Language-Knowledge Graph Pretraining**|Michihiro Yasunaga et.al.|[2210.09338v1](http://arxiv.org/abs/2210.09338v1)|[link](https://github.com/michiyasunaga/dragon)|
 |**2022-10-17**|**Vision-Language Pre-training: Basics, Recent Advances, and Future Trends**|Zhe Gan et.al.|[2210.09263v1](http://arxiv.org/abs/2210.09263v1)|null|
 |**2022-10-17**|**PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance**|Yang Deng et.al.|[2210.08817v1](http://arxiv.org/abs/2210.08817v1)|null|
 |**2022-10-17**|**ReasonChainQA: Text-based Complex Question Answering with Explainable Evidence Chains**|Minjun Zhu et.al.|[2210.08763v1](http://arxiv.org/abs/2210.08763v1)|null|
@@ -86,19 +87,16 @@
 |**2022-10-12**|**EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain**|Amir Hadifar et.al.|[2210.06104v1](http://arxiv.org/abs/2210.06104v1)|null|
 |**2022-10-12**|**Step out of KG: Knowledge Graph Completion via Knowledgeable Retrieval and Reading Comprehension**|Xin Lv et.al.|[2210.05921v1](http://arxiv.org/abs/2210.05921v1)|null|
 |**2022-10-12**|**Discourse Analysis via Questions and Answers: Parsing Dependency Structures of Questions Under Discussion**|Wei-Jen Ko et.al.|[2210.05905v1](http://arxiv.org/abs/2210.05905v1)|[link](https://github.com/lingchensanwen/dcqa-qud-parsing)|
-|**2022-10-11**|**Underspecification in Scene Description-to-Depiction Tasks**|Ben Hutchinson et.al.|[2210.05815v1](http://arxiv.org/abs/2210.05815v1)|null|
-|**2022-10-11**|**Vote'n'Rank: Revision of Benchmarking with Social Choice Theory**|Mark Rofin et.al.|[2210.05769v2](http://arxiv.org/abs/2210.05769v2)|null|
-|**2022-10-11**|**Decoupled Context Processing for Context Augmented Language Modeling**|Zonglin Li et.al.|[2210.05758v1](http://arxiv.org/abs/2210.05758v1)|null|
-|**2022-10-11**|**Automatic Speech Recognition of Low-Resource Languages Based on Chukchi**|Anastasia Safonova et.al.|[2210.05726v1](http://arxiv.org/abs/2210.05726v1)|null|
-|**2022-10-11**|**ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities**|Terry Yue Zhuo et.al.|[2210.05556v1](http://arxiv.org/abs/2210.05556v1)|null|
-|**2022-10-11**|**Model Cascading: Towards Jointly Improving Efficiency and Accuracy of NLP Systems**|Neeraj Varshney et.al.|[2210.05528v1](http://arxiv.org/abs/2210.05528v1)|null|
-|**2022-10-11**|**Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network**|Yuxiang Nie et.al.|[2210.05499v1](http://arxiv.org/abs/2210.05499v1)|[link](https://github.com/jerrrynie/cgsn)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-18**|**SafeText: A Benchmark for Exploring Physical Safety in Language Models**|Sharon Levy et.al.|[2210.10045v1](http://arxiv.org/abs/2210.10045v1)|null|
+|**2022-10-18**|**Team Flow at DRC2022: Pipeline System for Travel Destination Recommendation Task in Spoken Dialogue**|Ryu Hirai et.al.|[2210.09518v1](http://arxiv.org/abs/2210.09518v1)|null|
+|**2022-10-18**|**Systematicity in GPT-3's Interpretation of Novel English Noun Compounds**|Siyan Li et.al.|[2210.09492v1](http://arxiv.org/abs/2210.09492v1)|null|
+|**2022-10-17**|**Deep Bidirectional Language-Knowledge Graph Pretraining**|Michihiro Yasunaga et.al.|[2210.09338v1](http://arxiv.org/abs/2210.09338v1)|[link](https://github.com/michiyasunaga/dragon)|
 |**2022-10-17**|**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**|Mirac Suzgun et.al.|[2210.09261v1](http://arxiv.org/abs/2210.09261v1)|[link](https://github.com/suzgunmirac/big-bench-hard)|
 |**2022-10-17**|**PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance**|Yang Deng et.al.|[2210.08817v1](http://arxiv.org/abs/2210.08817v1)|null|
 |**2022-10-17**|**ReasonChainQA: Text-based Complex Question Answering with Explainable Evidence Chains**|Minjun Zhu et.al.|[2210.08763v1](http://arxiv.org/abs/2210.08763v1)|null|
@@ -204,7 +202,7 @@
 |**2022-09-21**|**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**|Swarnadeep Saha et.al.|[2209.10492v1](http://arxiv.org/abs/2209.10492v1)|[link](https://github.com/swarnahub/summarizationprograms)|
 |**2022-09-21**|**Seeking Diverse Reasoning Logic: Controlled Equation Expression Generation for Solving Math Word Problems**|Yibin Shen et.al.|[2209.10310v1](http://arxiv.org/abs/2209.10310v1)|null|
 |**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
-|**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v2](http://arxiv.org/abs/2209.09513v2)|null|
+|**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v2](http://arxiv.org/abs/2209.09513v2)|[link](https://github.com/lupantech/ScienceQA)|
 |**2022-09-20**|**Incorporating Causal Analysis into Diversified and Logical Response Generation**|Jiayi Liu et.al.|[2209.09482v2](http://arxiv.org/abs/2209.09482v2)|null|
 |**2022-09-17**|**Learning to Answer Semantic Queries over Code**|Surya Prakash Sahu et.al.|[2209.08372v1](http://arxiv.org/abs/2209.08372v1)|[link](https://github.com/thepurpleowl/codequeries-benchmark)|
 |**2022-09-17**|**Flexible and Structured Knowledge Grounded Question Answering**|Yujie Lu et.al.|[2209.08284v2](http://arxiv.org/abs/2209.08284v2)|null|
@@ -241,5 +239,3 @@
 |**2022-09-01**|**An Ion Exchange Mechanism Inspired Story Ending Generator for Different Characters**|Xinyu Jiang et.al.|[2209.00200v1](http://arxiv.org/abs/2209.00200v1)|null|
 |**2022-08-31**|**Intelligent Traffic Monitoring with Hybrid AI**|Ehsan Qasemi et.al.|[2209.00448v1](http://arxiv.org/abs/2209.00448v1)|null|
 |**2022-08-31**|**Hierarchical Local-Global Transformer for Temporal Sentence Grounding**|Xiang Fang et.al.|[2208.14882v1](http://arxiv.org/abs/2208.14882v1)|null|
-|**2022-08-31**|**Generating Intermediate Steps for NLI with Next-Step Supervision**|Deepanway Ghosal et.al.|[2208.14641v1](http://arxiv.org/abs/2208.14641v1)|null|
-|**2022-08-30**|**Faithful Reasoning Using Large Language Models**|Antonia Creswell et.al.|[2208.14271v1](http://arxiv.org/abs/2208.14271v1)|null|
