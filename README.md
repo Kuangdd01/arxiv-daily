@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-20 10:13:10
+ Automated deployment @ 2022-10-20 20:50:51
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,12 +8,12 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-10-19**|**Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information**|Isar Nejadgholi et.al.|[2210.10689v1](http://arxiv.org/abs/2210.10689v1)|null|
-|**2022-10-19**|**Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**|Yangyi Chen et.al.|[2210.10683v1](http://arxiv.org/abs/2210.10683v1)|null|
+|**2022-10-19**|**Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information**|Isar Nejadgholi et.al.|[2210.10689v1](http://arxiv.org/abs/2210.10689v1)|[link](https://github.com/isarnejad/procedural-fairness-sentiment)|
+|**2022-10-19**|**Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**|Yangyi Chen et.al.|[2210.10683v1](http://arxiv.org/abs/2210.10683v1)|[link](https://github.com/thunlp/advbench)|
 |**2022-10-19**|**Explainable Slot Type Attentions to Improve Joint Intent Detection and Slot Filling**|Kalpa Gunaratna et.al.|[2210.10227v1](http://arxiv.org/abs/2210.10227v1)|null|
 |**2022-10-17**|**CrossRE: A Cross-Domain Dataset for Relation Extraction**|Elisa Bassignana et.al.|[2210.09345v1](http://arxiv.org/abs/2210.09345v1)|[link](https://github.com/mainlp/crossre)|
 |**2022-10-17**|**On the Impact of Temporal Concept Drift on Model Explanations**|Zhixue Zhao et.al.|[2210.09197v1](http://arxiv.org/abs/2210.09197v1)|[link](https://github.com/casszhao/temporal-drift-on-explanation)|
-|**2022-10-17**|**Beyond Model Interpretability: On the Faithfulness and Adversarial Robustness of Contrastive Textual Explanations**|Julia El Zini et.al.|[2210.08902v1](http://arxiv.org/abs/2210.08902v1)|null|
+|**2022-10-17**|**Beyond Model Interpretability: On the Faithfulness and Adversarial Robustness of Contrastive Textual Explanations**|Julia El Zini et.al.|[2210.08902v1](http://arxiv.org/abs/2210.08902v1)|[link](https://gitlab.com/awadailab/faithful-contrastive-explanations)|
 |**2022-10-17**|**ReasonChainQA: Text-based Complex Question Answering with Explainable Evidence Chains**|Minjun Zhu et.al.|[2210.08763v1](http://arxiv.org/abs/2210.08763v1)|null|
 |**2022-10-16**|**NormSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly**|Yi R. Fung et.al.|[2210.08604v1](http://arxiv.org/abs/2210.08604v1)|null|
 |**2022-10-16**|**This Patient Looks Like That Patient: Prototypical Networks for Interpretable Diagnosis Prediction from Clinical Text**|Betty van Aken et.al.|[2210.08500v1](http://arxiv.org/abs/2210.08500v1)|[link](https://github.com/bvanaken/protopatient)|
@@ -89,7 +89,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-19**|**MuGER$^2$: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**|Yingyao Wang et.al.|[2210.10350v1](http://arxiv.org/abs/2210.10350v1)|null|
-|**2022-10-18**|**ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler**|Jiaxin Zhang et.al.|[2210.10105v1](http://arxiv.org/abs/2210.10105v1)|null|
+|**2022-10-18**|**ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler**|Jiaxin Zhang et.al.|[2210.10105v1](http://arxiv.org/abs/2210.10105v1)|[link](https://github.com/neurasearch/neurips-2022-submission-3358)|
 |**2022-10-18**|**SafeText: A Benchmark for Exploring Physical Safety in Language Models**|Sharon Levy et.al.|[2210.10045v1](http://arxiv.org/abs/2210.10045v1)|null|
 |**2022-10-18**|**Team Flow at DRC2022: Pipeline System for Travel Destination Recommendation Task in Spoken Dialogue**|Ryu Hirai et.al.|[2210.09518v1](http://arxiv.org/abs/2210.09518v1)|null|
 |**2022-10-18**|**Systematicity in GPT-3's Interpretation of Novel English Noun Compounds**|Siyan Li et.al.|[2210.09492v1](http://arxiv.org/abs/2210.09492v1)|null|
