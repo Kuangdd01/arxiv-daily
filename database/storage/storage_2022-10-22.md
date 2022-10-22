@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-22 10:04:38
+ Automated deployment @ 2022-10-22 20:42:03
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -36,7 +36,7 @@
 |**2022-10-19**|**QA Domain Adaptation using Hidden Space Augmentation and Self-Supervised Contrastive Adaptation**|Zhenrui Yue et.al.|[2210.10861v1](http://arxiv.org/abs/2210.10861v1)|[link](https://github.com/yueeeeeeee/self-supervised-qa)|
 |**2022-10-19**|**Two-Turn Debate Doesn't Help Humans Answer Hard Reading Comprehension Questions**|Alicia Parrish et.al.|[2210.10860v1](http://arxiv.org/abs/2210.10860v1)|null|
 |**2022-10-19**|**A Continuum of Generation Tasks for Investigating Length Bias and Degenerate Repetition**|Darcey Riley et.al.|[2210.10817v1](http://arxiv.org/abs/2210.10817v1)|null|
-|**2022-10-19**|**Incorporating Relevance Feedback for Information-Seeking Retrieval using Few-Shot Document Re-Ranking**|Tim Baumgärtner et.al.|[2210.10695v1](http://arxiv.org/abs/2210.10695v1)|null|
+|**2022-10-19**|**Incorporating Relevance Feedback for Information-Seeking Retrieval using Few-Shot Document Re-Ranking**|Tim Baumgärtner et.al.|[2210.10695v1](http://arxiv.org/abs/2210.10695v1)|[link](https://github.com/ukplab/incorporating-relevance)|
 |**2022-10-19**|**Image Semantic Relation Generation**|Mingzhe Du et.al.|[2210.11253v1](http://arxiv.org/abs/2210.11253v1)|null|
 |**2022-10-19**|**Language Models Understand Us, Poorly**|Jared Moore et.al.|[2210.10684v1](http://arxiv.org/abs/2210.10684v1)|null|
 |**2022-10-19**|**Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective**|Adaku Uchendu et.al.|[2210.10488v2](http://arxiv.org/abs/2210.10488v2)|null|
