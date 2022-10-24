@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-24 10:29:38
+ Automated deployment @ 2022-10-24 20:51:28
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -9,7 +9,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-21**|**WikiWhy: Answering and Explaining Cause-and-Effect Questions**|Matthew Ho et.al.|[2210.12152v1](http://arxiv.org/abs/2210.12152v1)|null|
-|**2022-10-21**|**Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?**|Mitja Nikolaus et.al.|[2210.12079v1](http://arxiv.org/abs/2210.12079v1)|null|
+|**2022-10-21**|**Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?**|Mitja Nikolaus et.al.|[2210.12079v1](http://arxiv.org/abs/2210.12079v1)|[link](https://github.com/mitjanikolaus/multimodal-predicate-noun-dependencies)|
 |**2022-10-21**|**Experiencer-Specific Emotion and Appraisal Prediction**|Maximilian Wegge et.al.|[2210.12078v1](http://arxiv.org/abs/2210.12078v1)|null|
 |**2022-10-20**|**Using Large Language Models to Enhance Programming Error Messages**|Juho Leinonen et.al.|[2210.11630v1](http://arxiv.org/abs/2210.11630v1)|null|
 |**2022-10-19**|**A Continuum of Generation Tasks for Investigating Length Bias and Degenerate Repetition**|Darcey Riley et.al.|[2210.10817v1](http://arxiv.org/abs/2210.10817v1)|null|
@@ -30,14 +30,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-21**|**WikiWhy: Answering and Explaining Cause-and-Effect Questions**|Matthew Ho et.al.|[2210.12152v1](http://arxiv.org/abs/2210.12152v1)|null|
-|**2022-10-21**|**A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models**|Alessandro Stolfo et.al.|[2210.12023v1](http://arxiv.org/abs/2210.12023v1)|null|
-|**2022-10-21**|**Optimizing text representations to capture (dis)similarity between political parties**|Tanise Ceron et.al.|[2210.11989v1](http://arxiv.org/abs/2210.11989v1)|null|
+|**2022-10-21**|**A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models**|Alessandro Stolfo et.al.|[2210.12023v1](http://arxiv.org/abs/2210.12023v1)|[link](https://github.com/alestolfo/causal-math)|
+|**2022-10-21**|**Optimizing text representations to capture (dis)similarity between political parties**|Tanise Ceron et.al.|[2210.11989v1](http://arxiv.org/abs/2210.11989v1)|[link](https://github.com/tceron/capture_similarity_between_political_parties)|
 |**2022-10-21**|**LiteVL: Efficient Video-Language Learning with Enhanced Spatial-Temporal Modeling**|Dongsheng Chen et.al.|[2210.11929v1](http://arxiv.org/abs/2210.11929v1)|null|
-|**2022-10-21**|**Exploration of the Usage of Color Terms by Color-blind Participants in Online Discussion Platforms**|Ella Rabinovich et.al.|[2210.11905v1](http://arxiv.org/abs/2210.11905v1)|null|
+|**2022-10-21**|**Exploration of the Usage of Color Terms by Color-blind Participants in Online Discussion Platforms**|Ella Rabinovich et.al.|[2210.11905v1](http://arxiv.org/abs/2210.11905v1)|[link](https://github.com/ibm/colorblind-language)|
 |**2022-10-21**|**LittleBird: Efficient Faster & Longer Transformer for Question Answering**|Minchul Lee et.al.|[2210.11870v1](http://arxiv.org/abs/2210.11870v1)|null|
-|**2022-10-21**|**Analyzing and Evaluating Faithfulness in Dialogue Summarization**|Bin Wang et.al.|[2210.11777v1](http://arxiv.org/abs/2210.11777v1)|null|
+|**2022-10-21**|**Analyzing and Evaluating Faithfulness in Dialogue Summarization**|Bin Wang et.al.|[2210.11777v1](http://arxiv.org/abs/2210.11777v1)|[link](https://github.com/binwang28/faceval)|
 |**2022-10-21**|**InforMask: Unsupervised Informative Masking for Language Model Pretraining**|Nafis Sadeq et.al.|[2210.11771v1](http://arxiv.org/abs/2210.11771v1)|null|
-|**2022-10-21**|**Efficiently Tuned Parameters are Task Embeddings**|Wangchunshu Zhou et.al.|[2210.11705v1](http://arxiv.org/abs/2210.11705v1)|null|
+|**2022-10-21**|**Efficiently Tuned Parameters are Task Embeddings**|Wangchunshu Zhou et.al.|[2210.11705v1](http://arxiv.org/abs/2210.11705v1)|[link](https://github.com/jetrunner/tupate)|
 |**2022-10-20**|**Large Language Models Can Self-Improve**|Jiaxin Huang et.al.|[2210.11610v1](http://arxiv.org/abs/2210.11610v1)|null|
 |**2022-10-20**|**Tag-Set-Sequence Learning for Generating Question-Answer Pairs**|Cheng Zhang et.al.|[2210.11608v1](http://arxiv.org/abs/2210.11608v1)|null|
 |**2022-10-20**|**Dense Paraphrasing for Textual Enrichment**|Jingxuan Tu et.al.|[2210.11563v1](http://arxiv.org/abs/2210.11563v1)|null|
@@ -81,11 +81,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-21**|**WikiWhy: Answering and Explaining Cause-and-Effect Questions**|Matthew Ho et.al.|[2210.12152v1](http://arxiv.org/abs/2210.12152v1)|null|
-|**2022-10-21**|**Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?**|Mitja Nikolaus et.al.|[2210.12079v1](http://arxiv.org/abs/2210.12079v1)|null|
+|**2022-10-21**|**Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?**|Mitja Nikolaus et.al.|[2210.12079v1](http://arxiv.org/abs/2210.12079v1)|[link](https://github.com/mitjanikolaus/multimodal-predicate-noun-dependencies)|
 |**2022-10-21**|**Neuro-Symbolic Causal Reasoning Meets Signaling Game for Emergent Semantic Communications**|Christo Kurisummoottil Thomas et.al.|[2210.12040v1](http://arxiv.org/abs/2210.12040v1)|null|
-|**2022-10-21**|**A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models**|Alessandro Stolfo et.al.|[2210.12023v1](http://arxiv.org/abs/2210.12023v1)|null|
+|**2022-10-21**|**A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models**|Alessandro Stolfo et.al.|[2210.12023v1](http://arxiv.org/abs/2210.12023v1)|[link](https://github.com/alestolfo/causal-math)|
 |**2022-10-21**|**Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning**|Xingwei He et.al.|[2210.11708v1](http://arxiv.org/abs/2210.11708v1)|null|
-|**2022-10-21**|**Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem**|Wenqi Zhang et.al.|[2210.11694v1](http://arxiv.org/abs/2210.11694v1)|null|
+|**2022-10-21**|**Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem**|Wenqi Zhang et.al.|[2210.11694v1](http://arxiv.org/abs/2210.11694v1)|[link](https://github.com/zwq2018/multi-view-consistency-for-mwp)|
 |**2022-10-20**|**Large Language Models Can Self-Improve**|Jiaxin Huang et.al.|[2210.11610v1](http://arxiv.org/abs/2210.11610v1)|null|
 |**2022-10-20**|**Dense Paraphrasing for Textual Enrichment**|Jingxuan Tu et.al.|[2210.11563v1](http://arxiv.org/abs/2210.11563v1)|null|
 |**2022-10-20**|**Transcending Scaling Laws with 0.1% Extra Compute**|Yi Tay et.al.|[2210.11399v1](http://arxiv.org/abs/2210.11399v1)|null|
@@ -133,7 +133,7 @@
 |**2022-10-13**|**Assessing Out-of-Domain Language Model Performance from Few Examples**|Prasann Singhal et.al.|[2210.06725v1](http://arxiv.org/abs/2210.06725v1)|null|
 |**2022-10-13**|**Few-shot Relational Reasoning via Connection Subgraph Pretraining**|Qian Huang et.al.|[2210.06722v1](http://arxiv.org/abs/2210.06722v1)|[link](https://github.com/snap-stanford/csr)|
 |**2022-10-13**|**Large Language Models are few(1)-shot Table Reasoners**|Wenhu Chen et.al.|[2210.06710v1](http://arxiv.org/abs/2210.06710v1)|null|
-|**2022-10-12**|**OpenCQA: Open-ended Question Answering with Charts**|Shankar Kantharaj et.al.|[2210.06628v1](http://arxiv.org/abs/2210.06628v1)|null|
+|**2022-10-12**|**OpenCQA: Open-ended Question Answering with Charts**|Shankar Kantharaj et.al.|[2210.06628v1](http://arxiv.org/abs/2210.06628v1)|[link](https://github.com/vis-nlp/opencqa)|
 |**2022-10-12**|**Can Pretrained Language Models (Yet) Reason Deductively?**|Zhangdie Yuan et.al.|[2210.06442v1](http://arxiv.org/abs/2210.06442v1)|null|
 |**2022-10-12**|**Relational Graph Convolutional Neural Networks for Multihop Reasoning: A Comparative Study**|Ieva Staliūnaitė et.al.|[2210.06418v2](http://arxiv.org/abs/2210.06418v2)|null|
 |**2022-10-12**|**Probing Commonsense Knowledge in Pre-trained Language Models with Sense-level Precision and Expanded Vocabulary**|Daniel Loureiro et.al.|[2210.06376v1](http://arxiv.org/abs/2210.06376v1)|[link](https://github.com/danlou/synbert)|
