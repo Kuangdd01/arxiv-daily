@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-26 09:59:21
+ Automated deployment @ 2022-10-26 20:49:15
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-25**|**Are All Spurious Features in Natural Language Alike? An Analysis through a Causal Lens**|Nitish Joshi et.al.|[2210.14011v1](http://arxiv.org/abs/2210.14011v1)|null|
+|**2022-10-24**|**VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge**|Sahithya Ravi et.al.|[2210.13626v1](http://arxiv.org/abs/2210.13626v1)|[link](https://github.com/aditya10/vlc-bert)|
+|**2022-10-24**|**Does Self-Rationalization Improve Robustness to Spurious Correlations?**|Alexis Ross et.al.|[2210.13575v1](http://arxiv.org/abs/2210.13575v1)|null|
+|**2022-10-24**|**ExPUNations: Augmenting Puns with Keywords and Explanations**|Jiao Sun et.al.|[2210.13513v1](http://arxiv.org/abs/2210.13513v1)|null|
 |**2022-10-24**|**Explaining Translationese: why are Neural Classifiers Better and what do they Learn?**|Kwabena Amponsah-Kaakyire et.al.|[2210.13391v1](http://arxiv.org/abs/2210.13391v1)|null|
 |**2022-10-24**|**Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task**|Kenneth Li et.al.|[2210.13382v2](http://arxiv.org/abs/2210.13382v2)|[link](https://github.com/likenneth/othello_world)|
 |**2022-10-24**|**Generating Hierarchical Explanations on Text Classification Without Connecting Rules**|Yiming Ju et.al.|[2210.13270v1](http://arxiv.org/abs/2210.13270v1)|null|
@@ -17,7 +21,7 @@
 |**2022-10-22**|**MetaLogic: Logical Reasoning Explanations with Fine-Grained Structure**|Yinya Huang et.al.|[2210.12487v1](http://arxiv.org/abs/2210.12487v1)|[link](https://github.com/tencent-ailab/metalogic)|
 |**2022-10-22**|**DANLI: Deliberative Agent for Following Natural Language Instructions**|Yichi Zhang et.al.|[2210.12485v1](http://arxiv.org/abs/2210.12485v1)|[link](https://github.com/sled-group/danli)|
 |**2022-10-22**|**Towards Efficient Dialogue Pre-training with Transferable and Interpretable Latent Structure**|Xueliang Zhao et.al.|[2210.12461v1](http://arxiv.org/abs/2210.12461v1)|null|
-|**2022-10-22**|**ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback**|Jiacheng Ye et.al.|[2210.12329v1](http://arxiv.org/abs/2210.12329v1)|null|
+|**2022-10-22**|**ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback**|Jiacheng Ye et.al.|[2210.12329v1](http://arxiv.org/abs/2210.12329v1)|[link](https://github.com/hkunlp/progen)|
 |**2022-10-21**|**Syntactic Surprisal From Neural Models Predicts, But Underestimates, Human Processing Difficulty From Syntactic Ambiguities**|Suhas Arehalli et.al.|[2210.12187v1](http://arxiv.org/abs/2210.12187v1)|null|
 |**2022-10-21**|**WikiWhy: Answering and Explaining Cause-and-Effect Questions**|Matthew Ho et.al.|[2210.12152v1](http://arxiv.org/abs/2210.12152v1)|null|
 |**2022-10-21**|**Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?**|Mitja Nikolaus et.al.|[2210.12079v1](http://arxiv.org/abs/2210.12079v1)|[link](https://github.com/mitjanikolaus/multimodal-predicate-noun-dependencies)|
@@ -33,17 +37,31 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-10-24**|**EUR-Lex-Sum: A Multi- and Cross-lingual Dataset for Long-form Summarization in the Legal Domain**|Dennis Aumiller et.al.|[2210.13448v1](http://arxiv.org/abs/2210.13448v1)|null|
+|**2022-10-25**|**Contrastive Search Is What You Need For Neural Text Generation**|Yixuan Su et.al.|[2210.14140v1](http://arxiv.org/abs/2210.14140v1)|[link](https://github.com/yxuansu/contrastive_search_is_what_you_need)|
+|**2022-10-25**|**IELM: An Open Information Extraction Benchmark for Pre-Trained Language Models**|Chenguang Wang et.al.|[2210.14128v1](http://arxiv.org/abs/2210.14128v1)|null|
+|**2022-10-25**|**Exploring Mode Connectivity for Pre-trained Language Models**|Yujia Qin et.al.|[2210.14102v1](http://arxiv.org/abs/2210.14102v1)|[link](https://github.com/thunlp/mode-connectivity-plm)|
+|**2022-10-25**|**Learning to Reuse Distractors to support Multiple Choice Question Generation in Education**|Semere Kiros Bitew et.al.|[2210.13964v1](http://arxiv.org/abs/2210.13964v1)|[link](https://github.com/semerekiros/dist-retrieval)|
+|**2022-10-25**|**IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension**|Rifki Afina Putri et.al.|[2210.13778v1](http://arxiv.org/abs/2210.13778v1)|null|
+|**2022-10-25**|**Better Few-Shot Relation Extraction with Label Prompt Dropout**|Peiyuan Zhang et.al.|[2210.13733v1](http://arxiv.org/abs/2210.13733v1)|[link](https://github.com/jzhang38/lpd)|
+|**2022-10-25**|**Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence**|Hung-Ting Chen et.al.|[2210.13701v1](http://arxiv.org/abs/2210.13701v1)|null|
+|**2022-10-25**|**XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing**|Peng Shi et.al.|[2210.13693v1](http://arxiv.org/abs/2210.13693v1)|null|
+|**2022-10-25**|**Bridging the Training-Inference Gap for Dense Phrase Retrieval**|Gyuwan Kim et.al.|[2210.13678v1](http://arxiv.org/abs/2210.13678v1)|null|
+|**2022-10-24**|**ReaRev: Adaptive Reasoning for Question Answering over Knowledge Graphs**|Costas Mavromatis et.al.|[2210.13650v1](http://arxiv.org/abs/2210.13650v1)|[link](https://github.com/cmavro/rearev_kgqa)|
+|**2022-10-24**|**VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge**|Sahithya Ravi et.al.|[2210.13626v1](http://arxiv.org/abs/2210.13626v1)|[link](https://github.com/aditya10/vlc-bert)|
+|**2022-10-24**|**Speeding Up Question Answering Task of Language Models via Inverted Index**|Xiang Ji et.al.|[2210.13578v1](http://arxiv.org/abs/2210.13578v1)|null|
+|**2022-10-24**|**Does Self-Rationalization Improve Robustness to Spurious Correlations?**|Alexis Ross et.al.|[2210.13575v1](http://arxiv.org/abs/2210.13575v1)|null|
+|**2022-10-24**|**EUR-Lex-Sum: A Multi- and Cross-lingual Dataset for Long-form Summarization in the Legal Domain**|Dennis Aumiller et.al.|[2210.13448v1](http://arxiv.org/abs/2210.13448v1)|[link](https://github.com/achouhan93/eur-lex-sum)|
 |**2022-10-24**|**Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task**|Kenneth Li et.al.|[2210.13382v2](http://arxiv.org/abs/2210.13382v2)|[link](https://github.com/likenneth/othello_world)|
 |**2022-10-24**|**Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs**|Maarten Sap et.al.|[2210.13312v1](http://arxiv.org/abs/2210.13312v1)|null|
 |**2022-10-24**|**Universal and Independent: Multilingual Probing Framework for Exhaustive Model Interpretation and Evaluation**|Oleg Serikov et.al.|[2210.13236v1](http://arxiv.org/abs/2210.13236v1)|[link](https://github.com/airi-institute/probing_framework)|
+|**2022-10-24**|**Does Joint Training Really Help Cascaded Speech Translation?**|Viet Anh Khoa Tran et.al.|[2210.13700v1](http://arxiv.org/abs/2210.13700v1)|[link](https://github.com/tran-khoa/joint-training-cascaded-st)|
 |**2022-10-24**|**Structural generalization is hard for sequence-to-sequence models**|Yuekun Yao et.al.|[2210.13050v1](http://arxiv.org/abs/2210.13050v1)|[link](https://github.com/coli-saar/syntax-cogs)|
 |**2022-10-24**|**Are Current Decoding Strategies Capable of Facing the Challenges of Visual Dialogue?**|Amit Kumar Chaudhary et.al.|[2210.12997v1](http://arxiv.org/abs/2210.12997v1)|null|
 |**2022-10-24**|**Multi-Type Conversational Question-Answer Generation with Closed-ended and Unanswerable Questions**|Seonjeong Hwang et.al.|[2210.12979v1](http://arxiv.org/abs/2210.12979v1)|null|
 |**2022-10-24**|**TIARA: Multi-grained Retrieval for Robust Question Answering over Large Knowledge Bases**|Yiheng Shu et.al.|[2210.12925v1](http://arxiv.org/abs/2210.12925v1)|[link](https://github.com/microsoft/KC)|
 |**2022-10-24**|**Event-Centric Question Answering via Contrastive Learning and Invertible Event Transformation**|Junru Lu et.al.|[2210.12902v1](http://arxiv.org/abs/2210.12902v1)|[link](https://github.com/lujunru/tranclr)|
 |**2022-10-23**|**Knowledge Transfer from Answer Ranking to Answer Generation**|Matteo Gabburo et.al.|[2210.12865v1](http://arxiv.org/abs/2210.12865v1)|null|
-|**2022-10-23**|**On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?**|Yuping Wu et.al.|[2210.12770v1](http://arxiv.org/abs/2210.12770v1)|null|
+|**2022-10-23**|**On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?**|Yuping Wu et.al.|[2210.12770v1](http://arxiv.org/abs/2210.12770v1)|[link](https://github.com/poethan/transformercrf)|
 |**2022-10-23**|**Additive Interventions Yield Robust Multi-Domain Machine Translation Models**|Elijah Rippeth et.al.|[2210.12727v1](http://arxiv.org/abs/2210.12727v1)|null|
 |**2022-10-23**|**Towards Generalizable and Robust Text-to-SQL Parsing**|Chang Gao et.al.|[2210.12674v1](http://arxiv.org/abs/2210.12674v1)|[link](https://github.com/alibabaresearch/damo-convai)|
 |**2022-10-23**|**Cross-document Event Coreference Search: Task, Dataset and Modeling**|Alon Eirew et.al.|[2210.12654v1](http://arxiv.org/abs/2210.12654v1)|[link](https://github.com/aloneirew/coresearch)|
@@ -84,19 +102,17 @@
 |**2022-10-19**|**Image Semantic Relation Generation**|Mingzhe Du et.al.|[2210.11253v1](http://arxiv.org/abs/2210.11253v1)|null|
 |**2022-10-19**|**Language Models Understand Us, Poorly**|Jared Moore et.al.|[2210.10684v1](http://arxiv.org/abs/2210.10684v1)|null|
 |**2022-10-19**|**Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective**|Adaku Uchendu et.al.|[2210.10488v3](http://arxiv.org/abs/2210.10488v3)|null|
-|**2022-10-19**|**MuGER$^2$: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**|Yingyao Wang et.al.|[2210.10350v1](http://arxiv.org/abs/2210.10350v1)|null|
-|**2022-10-19**|**Revision Transformers: Getting RiT of No-Nos**|Felix Friedrich et.al.|[2210.10332v2](http://arxiv.org/abs/2210.10332v2)|null|
-|**2022-10-18**|**Entity-Focused Dense Passage Retrieval for Outside-Knowledge Visual Question Answering**|Jialin Wu et.al.|[2210.10176v2](http://arxiv.org/abs/2210.10176v2)|null|
-|**2022-10-18**|**The Tail Wagging the Dog: Dataset Construction Biases of Social Bias Benchmarks**|Nikil Roashan Selvam et.al.|[2210.10040v1](http://arxiv.org/abs/2210.10040v1)|null|
-|**2022-10-18**|**Systematicity in GPT-3's Interpretation of Novel English Noun Compounds**|Siyan Li et.al.|[2210.09492v1](http://arxiv.org/abs/2210.09492v1)|null|
-|**2022-10-17**|**Deep Bidirectional Language-Knowledge Graph Pretraining**|Michihiro Yasunaga et.al.|[2210.09338v2](http://arxiv.org/abs/2210.09338v2)|[link](https://github.com/michiyasunaga/dragon)|
-|**2022-10-17**|**Vision-Language Pre-training: Basics, Recent Advances, and Future Trends**|Zhe Gan et.al.|[2210.09263v1](http://arxiv.org/abs/2210.09263v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-24**|**ReaRev: Adaptive Reasoning for Question Answering over Knowledge Graphs**|Costas Mavromatis et.al.|[2210.13650v1](http://arxiv.org/abs/2210.13650v1)|[link](https://github.com/cmavro/rearev_kgqa)|
+|**2022-10-24**|**Toward an Intelligent Tutoring System for Argument Mining in Legal Texts**|Hannes Westermann et.al.|[2210.13635v1](http://arxiv.org/abs/2210.13635v1)|null|
+|**2022-10-24**|**Predicting Long-Term Citations from Short-Term Linguistic Influence**|Sandeep Soni et.al.|[2210.13628v1](http://arxiv.org/abs/2210.13628v1)|null|
+|**2022-10-24**|**VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge**|Sahithya Ravi et.al.|[2210.13626v1](http://arxiv.org/abs/2210.13626v1)|[link](https://github.com/aditya10/vlc-bert)|
+|**2022-10-24**|**Does Self-Rationalization Improve Robustness to Spurious Correlations?**|Alexis Ross et.al.|[2210.13575v1](http://arxiv.org/abs/2210.13575v1)|null|
 |**2022-10-24**|**FCM: Forgetful Causal Masking Makes Causal Language Models Better Zero-Shot Learners**|Hao Liu et.al.|[2210.13432v1](http://arxiv.org/abs/2210.13432v1)|null|
 |**2022-10-24**|**Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs**|Maarten Sap et.al.|[2210.13312v1](http://arxiv.org/abs/2210.13312v1)|null|
 |**2022-10-24**|**Universal and Independent: Multilingual Probing Framework for Exhaustive Model Interpretation and Evaluation**|Oleg Serikov et.al.|[2210.13236v1](http://arxiv.org/abs/2210.13236v1)|[link](https://github.com/airi-institute/probing_framework)|
@@ -107,7 +123,7 @@
 |**2022-10-23**|**TAPE: Assessing Few-shot Russian Language Understanding**|Ekaterina Taktasheva et.al.|[2210.12813v1](http://arxiv.org/abs/2210.12813v1)|null|
 |**2022-10-23**|**Realistic Data Augmentation Framework for Enhancing Tabular Reasoning**|Dibyakanti Kumar et.al.|[2210.12795v1](http://arxiv.org/abs/2210.12795v1)|null|
 |**2022-10-23**|**When Can Transformers Ground and Compose: Insights from Compositional Generalization Benchmarks**|Ankur Sikarwar et.al.|[2210.12786v1](http://arxiv.org/abs/2210.12786v1)|[link](https://github.com/ankursikarwar/grounded-compositional-generalization)|
-|**2022-10-23**|**Retrieve, Reason, and Refine: Generating Accurate and Faithful Patient Instructions**|Fenglin Liu et.al.|[2210.12777v1](http://arxiv.org/abs/2210.12777v1)|null|
+|**2022-10-23**|**Retrieve, Reason, and Refine: Generating Accurate and Faithful Patient Instructions**|Fenglin Liu et.al.|[2210.12777v1](http://arxiv.org/abs/2210.12777v1)|[link](https://github.com/ai-in-hospitals/patient-instructions)|
 |**2022-10-23**|**Do Language Models Understand Measurements?**|Sungjin Park et.al.|[2210.12694v1](http://arxiv.org/abs/2210.12694v1)|null|
 |**2022-10-23**|**Focus Is All You Need For Chinese Grammatical Error Correction**|Jingheng Ye et.al.|[2210.12692v1](http://arxiv.org/abs/2210.12692v1)|null|
 |**2022-10-23**|**Extending Phrase Grounding with Pronouns in Visual Dialogues**|Panzhong Lu et.al.|[2210.12658v1](http://arxiv.org/abs/2210.12658v1)|[link](https://github.com/izhx/phrase-grounding-with-pronoun)|
@@ -160,6 +176,7 @@
 |**2022-10-15**|**UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**|Yongwei Zhou et.al.|[2210.08249v1](http://arxiv.org/abs/2210.08249v1)|[link](https://github.com/jd-ai-research-nlp/unirpg)|
 |**2022-10-14**|**MiQA: A Benchmark for Inference on Metaphorical Questions**|Iulia-Maria Comsa et.al.|[2210.07993v1](http://arxiv.org/abs/2210.07993v1)|null|
 |**2022-10-14**|**PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population**|Tianqing Fang et.al.|[2210.07988v1](http://arxiv.org/abs/2210.07988v1)|[link](https://github.com/hkust-knowcomp/pseudoreasoner)|
+|**2022-10-14**|**Hybrid Reinforced Medical Report Generation with M-Linear Attention and Repetition Penalty**|Wenting Xu et.al.|[2210.13729v1](http://arxiv.org/abs/2210.13729v1)|null|
 |**2022-10-14**|**Dense-ATOMIC: Construction of Densely-connected and Multi-hop Commonsense Knowledge Graph upon ATOMIC**|Xiangqing Shen et.al.|[2210.07621v1](http://arxiv.org/abs/2210.07621v1)|null|
 |**2022-10-14**|**MICO: A Multi-alternative Contrastive Learning Framework for Commonsense Knowledge Representation**|Ying Su et.al.|[2210.07570v1](http://arxiv.org/abs/2210.07570v1)|[link](https://github.com/hkust-knowcomp/mico)|
 |**2022-10-14**|**SQA3D: Situated Question Answering in 3D Scenes**|Xiaojian Ma et.al.|[2210.07474v2](http://arxiv.org/abs/2210.07474v2)|null|
@@ -242,8 +259,3 @@
 |**2022-09-28**|**FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation**|Sebastian Hofstätter et.al.|[2209.14290v1](http://arxiv.org/abs/2209.14290v1)|null|
 |**2022-09-28**|**Towards Explaining Autonomy with Verbalised Decision Tree States**|Konstantinos Gavriilidis et.al.|[2209.13985v1](http://arxiv.org/abs/2209.13985v1)|null|
 |**2022-09-26**|**Overcoming Referential Ambiguity in Language-Guided Goal-Conditioned Reinforcement Learning**|Hugo Caselles-Dupré et.al.|[2209.12758v1](http://arxiv.org/abs/2209.12758v1)|null|
-|**2022-09-23**|**ET5: A Novel End-to-end Framework for Conversational Machine Reading Comprehension**|Xiao Zhang et.al.|[2209.11484v1](http://arxiv.org/abs/2209.11484v1)|[link](https://github.com/yottaxx/et5)|
-|**2022-09-22**|**Towards Faithful Model Explanation in NLP: A Survey**|Qing Lyu et.al.|[2209.11326v1](http://arxiv.org/abs/2209.11326v1)|null|
-|**2022-09-22**|**Improving Attention-Based Interpretability of Text Classification Transformers**|Nikolaos Mylonas et.al.|[2209.10876v1](http://arxiv.org/abs/2209.10876v1)|null|
-|**2022-09-22**|**INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**|Yi Xu et.al.|[2209.10754v1](http://arxiv.org/abs/2209.10754v1)|null|
-|**2022-09-21**|**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**|Swarnadeep Saha et.al.|[2209.10492v1](http://arxiv.org/abs/2209.10492v1)|[link](https://github.com/swarnahub/summarizationprograms)|
