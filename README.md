@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-27 09:56:40
+ Automated deployment @ 2022-10-27 20:47:19
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-26**|**Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models**|Mozes van de Kar et.al.|[2210.14803v1](http://arxiv.org/abs/2210.14803v1)|null|
+|**2022-10-26**|**Investigating the Role of Centering Theory in the Context of Neural Coreference Resolution Systems**|Yuchen Eleanor Jiang et.al.|[2210.14678v1](http://arxiv.org/abs/2210.14678v1)|null|
+|**2022-10-26**|**RedPen: Region- and Reason-Annotated Dataset of Unnatural Speech**|Kyumin Park et.al.|[2210.14406v1](http://arxiv.org/abs/2210.14406v1)|null|
+|**2022-10-25**|**Similarity between Units of Natural Language: The Transition from Coarse to Fine Estimation**|Wenchuan Mu et.al.|[2210.14275v1](http://arxiv.org/abs/2210.14275v1)|null|
 |**2022-10-25**|**Are All Spurious Features in Natural Language Alike? An Analysis through a Causal Lens**|Nitish Joshi et.al.|[2210.14011v1](http://arxiv.org/abs/2210.14011v1)|null|
 |**2022-10-24**|**VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge**|Sahithya Ravi et.al.|[2210.13626v1](http://arxiv.org/abs/2210.13626v1)|[link](https://github.com/aditya10/vlc-bert)|
 |**2022-10-24**|**Does Self-Rationalization Improve Robustness to Spurious Correlations?**|Alexis Ross et.al.|[2210.13575v1](http://arxiv.org/abs/2210.13575v1)|null|
@@ -30,13 +34,18 @@
 |**2022-10-19**|**A Continuum of Generation Tasks for Investigating Length Bias and Degenerate Repetition**|Darcey Riley et.al.|[2210.10817v1](http://arxiv.org/abs/2210.10817v1)|null|
 |**2022-10-19**|**Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information**|Isar Nejadgholi et.al.|[2210.10689v1](http://arxiv.org/abs/2210.10689v1)|[link](https://github.com/isarnejad/procedural-fairness-sentiment)|
 |**2022-10-19**|**Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**|Yangyi Chen et.al.|[2210.10683v1](http://arxiv.org/abs/2210.10683v1)|[link](https://github.com/thunlp/advbench)|
-|**2022-10-19**|**Explainable Slot Type Attentions to Improve Joint Intent Detection and Slot Filling**|Kalpa Gunaratna et.al.|[2210.10227v1](http://arxiv.org/abs/2210.10227v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-26**|**BioNLI: Generating a Biomedical NLI Dataset Using Lexico-semantic Constraints for Adversarial Examples**|Mohaddeseh Bastan et.al.|[2210.14814v1](http://arxiv.org/abs/2210.14814v1)|[link](https://github.com/StonyBrookNLP/BioNLI)|
+|**2022-10-26**|**Look to the Right: Mitigating Relative Position Bias in Extractive Question Answering**|Kazutoshi Shinoda et.al.|[2210.14541v1](http://arxiv.org/abs/2210.14541v1)|null|
+|**2022-10-26**|**CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course**|Changyoon Lee et.al.|[2210.14494v1](http://arxiv.org/abs/2210.14494v1)|[link](https://github.com/cyoon47/cs1qa)|
+|**2022-10-26**|**Question-Interlocutor Scope Realized Graph Modeling over Key Utterances for Dialogue Reading Comprehension**|Jiangnan Li et.al.|[2210.14456v1](http://arxiv.org/abs/2210.14456v1)|null|
+|**2022-10-26**|**Geographic Citation Gaps in NLP Research**|Mukund Rungta et.al.|[2210.14424v1](http://arxiv.org/abs/2210.14424v1)|[link](https://github.com/iamjanvijay/acl-cite-net)|
+|**2022-10-25**|**RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering**|Victor Zhong et.al.|[2210.14353v1](http://arxiv.org/abs/2210.14353v1)|null|
 |**2022-10-25**|**Contrastive Search Is What You Need For Neural Text Generation**|Yixuan Su et.al.|[2210.14140v1](http://arxiv.org/abs/2210.14140v1)|[link](https://github.com/yxuansu/contrastive_search_is_what_you_need)|
 |**2022-10-25**|**IELM: An Open Information Extraction Benchmark for Pre-Trained Language Models**|Chenguang Wang et.al.|[2210.14128v1](http://arxiv.org/abs/2210.14128v1)|null|
 |**2022-10-25**|**Exploring Mode Connectivity for Pre-trained Language Models**|Yujia Qin et.al.|[2210.14102v1](http://arxiv.org/abs/2210.14102v1)|[link](https://github.com/thunlp/mode-connectivity-plm)|
@@ -95,19 +104,17 @@
 |**2022-10-20**|**Transcending Scaling Laws with 0.1% Extra Compute**|Yi Tay et.al.|[2210.11399v1](http://arxiv.org/abs/2210.11399v1)|null|
 |**2022-10-20**|**Pre-training Language Models with Deterministic Factual Knowledge**|Shaobo Li et.al.|[2210.11165v1](http://arxiv.org/abs/2210.11165v1)|null|
 |**2022-10-20**|**Doc2Bot: Accessing Heterogeneous Documents via Conversational Bots**|Haomin Fu et.al.|[2210.11060v2](http://arxiv.org/abs/2210.11060v2)|null|
-|**2022-10-19**|**QA Domain Adaptation using Hidden Space Augmentation and Self-Supervised Contrastive Adaptation**|Zhenrui Yue et.al.|[2210.10861v1](http://arxiv.org/abs/2210.10861v1)|[link](https://github.com/yueeeeeeee/self-supervised-qa)|
-|**2022-10-19**|**Two-Turn Debate Doesn't Help Humans Answer Hard Reading Comprehension Questions**|Alicia Parrish et.al.|[2210.10860v1](http://arxiv.org/abs/2210.10860v1)|null|
-|**2022-10-19**|**A Continuum of Generation Tasks for Investigating Length Bias and Degenerate Repetition**|Darcey Riley et.al.|[2210.10817v1](http://arxiv.org/abs/2210.10817v1)|null|
-|**2022-10-19**|**Incorporating Relevance Feedback for Information-Seeking Retrieval using Few-Shot Document Re-Ranking**|Tim Baumgärtner et.al.|[2210.10695v1](http://arxiv.org/abs/2210.10695v1)|[link](https://github.com/ukplab/incorporating-relevance)|
-|**2022-10-19**|**Image Semantic Relation Generation**|Mingzhe Du et.al.|[2210.11253v1](http://arxiv.org/abs/2210.11253v1)|null|
-|**2022-10-19**|**Language Models Understand Us, Poorly**|Jared Moore et.al.|[2210.10684v1](http://arxiv.org/abs/2210.10684v1)|null|
-|**2022-10-19**|**Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective**|Adaku Uchendu et.al.|[2210.10488v3](http://arxiv.org/abs/2210.10488v3)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-26**|**RedPen: Region- and Reason-Annotated Dataset of Unnatural Speech**|Kyumin Park et.al.|[2210.14406v1](http://arxiv.org/abs/2210.14406v1)|null|
+|**2022-10-26**|**IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text**|Seungwhan Moon et.al.|[2210.14395v1](http://arxiv.org/abs/2210.14395v1)|null|
+|**2022-10-25**|**RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering**|Victor Zhong et.al.|[2210.14353v1](http://arxiv.org/abs/2210.14353v1)|null|
+|**2022-10-25**|**Learning Better Intent Representations for Financial Open Intent Classification**|Xianzhi Li et.al.|[2210.14304v1](http://arxiv.org/abs/2210.14304v1)|null|
+|**2022-10-25**|**Similarity between Units of Natural Language: The Transition from Coarse to Fine Estimation**|Wenchuan Mu et.al.|[2210.14275v1](http://arxiv.org/abs/2210.14275v1)|null|
 |**2022-10-24**|**ReaRev: Adaptive Reasoning for Question Answering over Knowledge Graphs**|Costas Mavromatis et.al.|[2210.13650v1](http://arxiv.org/abs/2210.13650v1)|[link](https://github.com/cmavro/rearev_kgqa)|
 |**2022-10-24**|**Toward an Intelligent Tutoring System for Argument Mining in Legal Texts**|Hannes Westermann et.al.|[2210.13635v1](http://arxiv.org/abs/2210.13635v1)|null|
 |**2022-10-24**|**Predicting Long-Term Citations from Short-Term Linguistic Influence**|Sandeep Soni et.al.|[2210.13628v1](http://arxiv.org/abs/2210.13628v1)|null|
@@ -258,4 +265,3 @@
 |**2022-09-29**|**Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning**|Pan Lu et.al.|[2209.14610v1](http://arxiv.org/abs/2209.14610v1)|null|
 |**2022-09-28**|**FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation**|Sebastian Hofstätter et.al.|[2209.14290v1](http://arxiv.org/abs/2209.14290v1)|null|
 |**2022-09-28**|**Towards Explaining Autonomy with Verbalised Decision Tree States**|Konstantinos Gavriilidis et.al.|[2209.13985v1](http://arxiv.org/abs/2209.13985v1)|null|
-|**2022-09-26**|**Overcoming Referential Ambiguity in Language-Guided Goal-Conditioned Reinforcement Learning**|Hugo Caselles-Dupré et.al.|[2209.12758v1](http://arxiv.org/abs/2209.12758v1)|null|
