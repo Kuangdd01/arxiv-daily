@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-03 20:42:06
+ Automated deployment @ 2022-11-03 21:31:32
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -78,7 +78,7 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v1](http://arxiv.org/abs/2211.01335v1)|null|
+|**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v1](http://arxiv.org/abs/2211.01335v1)|[link](https://github.com/ofa-sys/chinese-clip)|
 |**2022-11-02**|**Passage-Mask: A Learnable Regularization Strategy for Retriever-Reader Models**|Shujian Zhang et.al.|[2211.00915v1](http://arxiv.org/abs/2211.00915v1)|null|
 |**2022-11-01**|**Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality**|Anuj Diwan et.al.|[2211.00768v1](http://arxiv.org/abs/2211.00768v1)|[link](https://github.com/ajd12342/why-winoground-hard)|
 |**2022-11-01**|**Preserving In-Context Learning ability in Large Language Model Fine-tuning**|Yihan Wang et.al.|[2211.00635v1](http://arxiv.org/abs/2211.00635v1)|null|
