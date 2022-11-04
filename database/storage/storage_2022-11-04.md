@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-04 09:58:35
+ Automated deployment @ 2022-11-04 20:42:37
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -21,17 +21,14 @@
 |**2022-10-28**|**Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE**|Yuling Gu et.al.|[2210.16407v1](http://arxiv.org/abs/2210.16407v1)|[link](https://github.com/allenai/dream)|
 |**2022-10-28**|**Neural Network based Formation of Cognitive Maps of Semantic Spaces and the Emergence of Abstract Concepts**|Paul Stoewer et.al.|[2210.16062v1](http://arxiv.org/abs/2210.16062v1)|null|
 |**2022-10-28**|**Can Current Explainability Help Provide References in Clinical Notes to Support Humans Annotate Medical Codes?**|Byung-Hak Kim et.al.|[2210.15882v1](http://arxiv.org/abs/2210.15882v1)|null|
-|**2022-10-26**|**arXivEdits: Understanding the Human Revision Process in Scientific Writing**|Chao Jiang et.al.|[2210.15067v2](http://arxiv.org/abs/2210.15067v2)|null|
-|**2022-10-26**|**Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models**|Mozes van de Kar et.al.|[2210.14803v1](http://arxiv.org/abs/2210.14803v1)|null|
-|**2022-10-26**|**Investigating the Role of Centering Theory in the Context of Neural Coreference Resolution Systems**|Yuchen Eleanor Jiang et.al.|[2210.14678v1](http://arxiv.org/abs/2210.14678v1)|null|
-|**2022-10-26**|**RedPen: Region- and Reason-Annotated Dataset of Unnatural Speech**|Kyumin Park et.al.|[2210.14406v1](http://arxiv.org/abs/2210.14406v1)|null|
-|**2022-10-25**|**Similarity between Units of Natural Language: The Transition from Coarse to Fine Estimation**|Wenchuan Mu et.al.|[2210.14275v1](http://arxiv.org/abs/2210.14275v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-03**|**Eliciting Knowledge from Large Pre-Trained Models for Unsupervised Knowledge-Grounded Conversation**|Yanyang Li et.al.|[2211.01587v1](http://arxiv.org/abs/2211.01587v1)|null|
+|**2022-11-02**|**RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question**|Alireza Mohammadshahi et.al.|[2211.01482v1](http://arxiv.org/abs/2211.01482v1)|null|
 |**2022-11-02**|**Boosting word frequencies in authorship attribution**|Maciej Eder et.al.|[2211.01289v1](http://arxiv.org/abs/2211.01289v1)|null|
 |**2022-11-02**|**Multi-Vector Retrieval as Sparse Alignment**|Yujie Qian et.al.|[2211.01267v1](http://arxiv.org/abs/2211.01267v1)|null|
 |**2022-11-02**|**Passage-Mask: A Learnable Regularization Strategy for Retriever-Reader Models**|Shujian Zhang et.al.|[2211.00915v2](http://arxiv.org/abs/2211.00915v2)|null|
@@ -63,22 +60,15 @@
 |**2022-10-27**|**TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack**|Yu Cao et.al.|[2210.15221v1](http://arxiv.org/abs/2210.15221v1)|[link](https://github.com/caoyu-noob/tasa)|
 |**2022-10-26**|**DyREx: Dynamic Query Representation for Extractive Question Answering**|Urchade Zaratiana et.al.|[2210.15048v1](http://arxiv.org/abs/2210.15048v1)|[link](https://github.com/urchade/dyrex)|
 |**2022-10-26**|**Generalization Differences between End-to-End and Neuro-Symbolic Vision-Language Reasoning Systems**|Wang Zhu et.al.|[2210.15037v1](http://arxiv.org/abs/2210.15037v1)|null|
-|**2022-10-26**|**Large language models are not zero-shot communicators**|Laura Ruis et.al.|[2210.14986v1](http://arxiv.org/abs/2210.14986v1)|[link](https://github.com/lauraruis/do-pigs-fly)|
-|**2022-10-26**|**What's Different between Visual Question Answering for Machine "Understanding" Versus for Accessibility?**|Yang Trista Cao et.al.|[2210.14966v1](http://arxiv.org/abs/2210.14966v1)|[link](https://github.com/kyleseelman/vqa_accessibility)|
-|**2022-10-26**|**Efficient Use of Large Pre-Trained Models for Low Resource ASR**|Peter Vieting et.al.|[2210.15445v1](http://arxiv.org/abs/2210.15445v1)|null|
-|**2022-10-26**|**BioNLI: Generating a Biomedical NLI Dataset Using Lexico-semantic Constraints for Adversarial Examples**|Mohaddeseh Bastan et.al.|[2210.14814v1](http://arxiv.org/abs/2210.14814v1)|[link](https://github.com/StonyBrookNLP/BioNLI)|
-|**2022-10-26**|**Look to the Right: Mitigating Relative Position Bias in Extractive Question Answering**|Kazutoshi Shinoda et.al.|[2210.14541v1](http://arxiv.org/abs/2210.14541v1)|null|
-|**2022-10-26**|**CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course**|Changyoon Lee et.al.|[2210.14494v1](http://arxiv.org/abs/2210.14494v1)|[link](https://github.com/cyoon47/cs1qa)|
-|**2022-10-26**|**Question-Interlocutor Scope Realized Graph Modeling over Key Utterances for Dialogue Reading Comprehension**|Jiangnan Li et.al.|[2210.14456v1](http://arxiv.org/abs/2210.14456v1)|null|
-|**2022-10-26**|**Geographic Citation Gaps in NLP Research**|Mukund Rungta et.al.|[2210.14424v1](http://arxiv.org/abs/2210.14424v1)|[link](https://github.com/iamjanvijay/acl-cite-net)|
-|**2022-10-25**|**RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering**|Victor Zhong et.al.|[2210.14353v1](http://arxiv.org/abs/2210.14353v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v2](http://arxiv.org/abs/2211.01335v2)|[link](https://github.com/ofa-sys/chinese-clip)|
+|**2022-11-03**|**lilGym: Natural Language Visual Reasoning with Reinforcement Learning**|Anne Wu et.al.|[2211.01994v1](http://arxiv.org/abs/2211.01994v1)|null|
+|**2022-11-03**|**From Spelling to Grammar: A New Framework for Chinese Grammatical Error Correction**|Xiuyu Wu et.al.|[2211.01625v1](http://arxiv.org/abs/2211.01625v1)|null|
+|**2022-11-03**|**PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales**|Peifeng Wang et.al.|[2211.01562v1](http://arxiv.org/abs/2211.01562v1)|null|
 |**2022-11-02**|**Passage-Mask: A Learnable Regularization Strategy for Retriever-Reader Models**|Shujian Zhang et.al.|[2211.00915v2](http://arxiv.org/abs/2211.00915v2)|null|
 |**2022-11-01**|**Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality**|Anuj Diwan et.al.|[2211.00768v1](http://arxiv.org/abs/2211.00768v1)|[link](https://github.com/ajd12342/why-winoground-hard)|
 |**2022-11-01**|**Preserving In-Context Learning ability in Large Language Model Fine-tuning**|Yihan Wang et.al.|[2211.00635v1](http://arxiv.org/abs/2211.00635v1)|null|
@@ -237,7 +227,3 @@
 |**2022-10-06**|**Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks**|Masahiro Kaneko et.al.|[2210.02938v1](http://arxiv.org/abs/2210.02938v1)|null|
 |**2022-10-06**|**MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text**|Wenhu Chen et.al.|[2210.02928v2](http://arxiv.org/abs/2210.02928v2)|null|
 |**2022-10-06**|**Join-Chain Network: A Logical Reasoning View of the Multi-head Attention in Transformer**|Jianyi Zhang et.al.|[2210.02729v3](http://arxiv.org/abs/2210.02729v3)|null|
-|**2022-10-06**|**Teaching Neural Module Networks to Do Arithmetic**|Jiayi Chen et.al.|[2210.02703v1](http://arxiv.org/abs/2210.02703v1)|null|
-|**2022-10-06**|**ReAct: Synergizing Reasoning and Acting in Language Models**|Shunyu Yao et.al.|[2210.03629v1](http://arxiv.org/abs/2210.03629v1)|null|
-|**2022-10-06**|**Learning to Reason With Relational Abstractions**|Andrew J. Nam et.al.|[2210.02615v1](http://arxiv.org/abs/2210.02615v1)|null|
-|**2022-10-05**|**Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors**|Mohammad Reza Taesiri et.al.|[2210.02506v1](http://arxiv.org/abs/2210.02506v1)|[link](https://github.com/asgaardlab/LLMxBugs)|
