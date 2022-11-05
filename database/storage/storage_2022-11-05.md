@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-05 09:50:44
+ Automated deployment @ 2022-11-05 20:34:39
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -148,7 +148,7 @@
 |**2022-10-20**|**Transcending Scaling Laws with 0.1% Extra Compute**|Yi Tay et.al.|[2210.11399v1](http://arxiv.org/abs/2210.11399v1)|null|
 |**2022-10-20**|**Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**|Wanjun Zhong et.al.|[2210.11265v1](http://arxiv.org/abs/2210.11265v1)|null|
 |**2022-10-20**|**Wait-info Policy: Balancing Source and Target at Information Level for Simultaneous Machine Translation**|Shaolei Zhang et.al.|[2210.11220v1](http://arxiv.org/abs/2210.11220v1)|[link](https://github.com/ictnlp/wait-info)|
-|**2022-10-19**|**MuGER$^2$: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**|Yingyao Wang et.al.|[2210.10350v1](http://arxiv.org/abs/2210.10350v1)|null|
+|**2022-10-19**|**MuGER$^2$: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**|Yingyao Wang et.al.|[2210.10350v1](http://arxiv.org/abs/2210.10350v1)|[link](https://github.com/wenhuchen/HybridQA)|
 |**2022-10-18**|**JECC: Commonsense Reasoning Tasks Derived from Interactive Fictions**|Mo Yu et.al.|[2210.15456v1](http://arxiv.org/abs/2210.15456v1)|[link](https://github.com/gorov/zucc)|
 |**2022-10-18**|**ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler**|Jiaxin Zhang et.al.|[2210.10105v2](http://arxiv.org/abs/2210.10105v2)|[link](https://github.com/neurasearch/neurips-2022-submission-3358)|
 |**2022-10-18**|**SafeText: A Benchmark for Exploring Physical Safety in Language Models**|Sharon Levy et.al.|[2210.10045v1](http://arxiv.org/abs/2210.10045v1)|null|
