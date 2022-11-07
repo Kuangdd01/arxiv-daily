@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-07 09:48:12
+ Automated deployment @ 2022-11-07 20:43:48
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -19,14 +19,14 @@
 |**2022-10-30**|**XMD: An End-to-End Framework for Interactive Explanation-Based Debugging of NLP Models**|Dong-Ho Lee et.al.|[2210.16978v1](http://arxiv.org/abs/2210.16978v1)|null|
 |**2022-10-30**|**Medical Codes Prediction from Clinical Notes: From Human Coders to Machines**|Byung-Hak Kim et.al.|[2210.16850v1](http://arxiv.org/abs/2210.16850v1)|null|
 |**2022-10-28**|**Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE**|Yuling Gu et.al.|[2210.16407v1](http://arxiv.org/abs/2210.16407v1)|[link](https://github.com/allenai/dream)|
-|**2022-10-28**|**Neural Network based Formation of Cognitive Maps of Semantic Spaces and the Emergence of Abstract Concepts**|Paul Stoewer et.al.|[2210.16062v1](http://arxiv.org/abs/2210.16062v1)|null|
-|**2022-10-28**|**Can Current Explainability Help Provide References in Clinical Notes to Support Humans Annotate Medical Codes?**|Byung-Hak Kim et.al.|[2210.15882v1](http://arxiv.org/abs/2210.15882v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-04**|**The 'Problem' of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation**|Barbara Plank et.al.|[2211.02570v1](http://arxiv.org/abs/2211.02570v1)|null|
+|**2022-11-04**|**Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022**|Hieu Nguyen Van et.al.|[2211.02200v1](http://arxiv.org/abs/2211.02200v1)|null|
 |**2022-11-03**|**Eliciting Knowledge from Large Pre-Trained Models for Unsupervised Knowledge-Grounded Conversation**|Yanyang Li et.al.|[2211.01587v1](http://arxiv.org/abs/2211.01587v1)|null|
 |**2022-11-02**|**RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question**|Alireza Mohammadshahi et.al.|[2211.01482v1](http://arxiv.org/abs/2211.01482v1)|null|
 |**2022-11-02**|**Boosting word frequencies in authorship attribution**|Maciej Eder et.al.|[2211.01289v1](http://arxiv.org/abs/2211.01289v1)|null|
@@ -57,15 +57,13 @@
 |**2022-10-28**|**Can Current Explainability Help Provide References in Clinical Notes to Support Humans Annotate Medical Codes?**|Byung-Hak Kim et.al.|[2210.15882v1](http://arxiv.org/abs/2210.15882v1)|null|
 |**2022-10-27**|**Reinforced Question Rewriting for Conversational Question Answering**|Zhiyu Chen et.al.|[2210.15777v2](http://arxiv.org/abs/2210.15777v2)|null|
 |**2022-10-27**|**MorphTE: Injecting Morphology in Tensorized Embeddings**|Guobing Gan et.al.|[2210.15379v1](http://arxiv.org/abs/2210.15379v1)|[link](https://github.com/bigganbing/Fairseq_MorphTE)|
-|**2022-10-27**|**TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack**|Yu Cao et.al.|[2210.15221v1](http://arxiv.org/abs/2210.15221v1)|[link](https://github.com/caoyu-noob/tasa)|
-|**2022-10-26**|**DyREx: Dynamic Query Representation for Extractive Question Answering**|Urchade Zaratiana et.al.|[2210.15048v1](http://arxiv.org/abs/2210.15048v1)|[link](https://github.com/urchade/dyrex)|
-|**2022-10-26**|**Generalization Differences between End-to-End and Neuro-Symbolic Vision-Language Reasoning Systems**|Wang Zhu et.al.|[2210.15037v1](http://arxiv.org/abs/2210.15037v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-03**|**Overcoming Barriers to Skill Injection in Language Modeling: Case Study in Arithmetic**|Mandar Sharma et.al.|[2211.02098v1](http://arxiv.org/abs/2211.02098v1)|[link](https://github.com/mandar-sharma/overcomingbarriers)|
 |**2022-11-03**|**lilGym: Natural Language Visual Reasoning with Reinforcement Learning**|Anne Wu et.al.|[2211.01994v1](http://arxiv.org/abs/2211.01994v1)|null|
 |**2022-11-03**|**From Spelling to Grammar: A New Framework for Chinese Grammatical Error Correction**|Xiuyu Wu et.al.|[2211.01625v1](http://arxiv.org/abs/2211.01625v1)|null|
 |**2022-11-03**|**PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales**|Peifeng Wang et.al.|[2211.01562v1](http://arxiv.org/abs/2211.01562v1)|null|
@@ -225,5 +223,3 @@
 |**2022-10-06**|**Rainier: Reinforced Knowledge Introspector for Commonsense Question Answering**|Jiacheng Liu et.al.|[2210.03078v2](http://arxiv.org/abs/2210.03078v2)|[link](https://github.com/liujch1998/rainier)|
 |**2022-10-06**|**Language Models are Multilingual Chain-of-Thought Reasoners**|Freda Shi et.al.|[2210.03057v1](http://arxiv.org/abs/2210.03057v1)|[link](https://github.com/google-research/url-nlp)|
 |**2022-10-06**|**Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks**|Masahiro Kaneko et.al.|[2210.02938v1](http://arxiv.org/abs/2210.02938v1)|null|
-|**2022-10-06**|**MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text**|Wenhu Chen et.al.|[2210.02928v2](http://arxiv.org/abs/2210.02928v2)|null|
-|**2022-10-06**|**Join-Chain Network: A Logical Reasoning View of the Multi-head Attention in Transformer**|Jianyi Zhang et.al.|[2210.02729v3](http://arxiv.org/abs/2210.02729v3)|null|
