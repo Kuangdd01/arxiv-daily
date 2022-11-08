@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-08 09:48:17
+ Automated deployment @ 2022-11-08 20:44:58
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,23 +8,31 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-07**|**Zero-Shot Classification by Logical Reasoning on Natural Language Explanations**|Chi Han et.al.|[2211.03252v1](http://arxiv.org/abs/2211.03252v1)|[link](https://github.com/glaciohound/clore)|
+|**2022-11-06**|**Calibration Meets Explanation: A Simple and Effective Approach for Model Confidence Estimates**|Dongfang Li et.al.|[2211.03041v1](http://arxiv.org/abs/2211.03041v1)|[link](https://github.com/crazyofapple/cme-emnlp2022)|
+|**2022-11-05**|**Aligning Recommendation and Conversation via Dual Imitation**|Jinfeng Zhou et.al.|[2211.02848v1](http://arxiv.org/abs/2211.02848v1)|null|
 |**2022-11-01**|**Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small**|Kevin Wang et.al.|[2211.00593v1](http://arxiv.org/abs/2211.00593v1)|[link](https://github.com/redwoodresearch/easy-transformer)|
 |**2022-11-01**|**An Algebraic Framework for Stock & Flow Diagrams and Dynamical Systems Using Category Theory**|Xiaoyan Li et.al.|[2211.01290v1](http://arxiv.org/abs/2211.01290v1)|[link](https://github.com/xiaoyan-li/applicationstockflowmfph)|
 |**2022-11-01**|**Anytime Generation of Counterfactual Explanations for Text Classification**|Daniel Gilo et.al.|[2211.00369v1](http://arxiv.org/abs/2211.00369v1)|null|
 |**2022-11-01**|**Why Is It Hate Speech? Masked Rationale Prediction for Explainable Hate Speech Detection**|Jiyun Kim et.al.|[2211.00243v1](http://arxiv.org/abs/2211.00243v1)|null|
 |**2022-10-31**|**Lila: A Unified Benchmark for Mathematical Reasoning**|Swaroop Mishra et.al.|[2210.17517v1](http://arxiv.org/abs/2210.17517v1)|[link](https://github.com/allenai/lila)|
 |**2022-10-31**|**Effective Cross-Task Transfer Learning for Explainable Natural Language Inference with T5**|Irina Bigoulaeva et.al.|[2210.17301v1](http://arxiv.org/abs/2210.17301v1)|[link](https://github.com/rachneet/cross-task-figurative-explanations)|
-|**2022-10-31**|**RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees**|Tengxiao Liu et.al.|[2210.17095v1](http://arxiv.org/abs/2210.17095v1)|null|
-|**2022-10-30**|**Validity Assessment of Legal Will Statements as Natural Language Inference**|Alice Saebom Kwak et.al.|[2210.16989v1](http://arxiv.org/abs/2210.16989v1)|[link](https://github.com/ml4ai/nli4wills-corpus)|
-|**2022-10-30**|**XMD: An End-to-End Framework for Interactive Explanation-Based Debugging of NLP Models**|Dong-Ho Lee et.al.|[2210.16978v1](http://arxiv.org/abs/2210.16978v1)|null|
-|**2022-10-30**|**Medical Codes Prediction from Clinical Notes: From Human Coders to Machines**|Byung-Hak Kim et.al.|[2210.16850v1](http://arxiv.org/abs/2210.16850v1)|null|
-|**2022-10-28**|**Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE**|Yuling Gu et.al.|[2210.16407v1](http://arxiv.org/abs/2210.16407v1)|[link](https://github.com/allenai/dream)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|[link](https://github.com/maitreyapatel/cripp-vqa)|
+|**2022-11-07**|**How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers**|Michael Hassid et.al.|[2211.03495v1](http://arxiv.org/abs/2211.03495v1)|null|
+|**2022-11-07**|**NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering**|Tengxun Zhang et.al.|[2211.03462v1](http://arxiv.org/abs/2211.03462v1)|null|
+|**2022-11-07**|**Complex Reading Comprehension Through Question Decomposition**|Xiao-Yu Guo et.al.|[2211.03277v1](http://arxiv.org/abs/2211.03277v1)|null|
+|**2022-11-06**|**Deliberation Networks and How to Train Them**|Qingyun Dou et.al.|[2211.03217v1](http://arxiv.org/abs/2211.03217v1)|null|
+|**2022-11-06**|**Bridging Speech and Textual Pre-trained Models with Unsupervised ASR**|Jiatong Shi et.al.|[2211.03025v1](http://arxiv.org/abs/2211.03025v1)|null|
+|**2022-11-05**|**The Legal Argument Reasoning Task in Civil Procedure**|Leonard Bongard et.al.|[2211.02950v1](http://arxiv.org/abs/2211.02950v1)|null|
+|**2022-11-05**|**PASTA: Table-Operations Aware Fact Verification via Sentence-Table Cloze Pre-training**|Zihui Gu et.al.|[2211.02816v1](http://arxiv.org/abs/2211.02816v1)|[link](https://github.com/ruc-datalab/PASTA)|
+|**2022-11-04**|**KGLM: Integrating Knowledge Graph Structure in Language Models for Link Prediction**|Jason Youn et.al.|[2211.02744v1](http://arxiv.org/abs/2211.02744v1)|null|
+|**2022-11-04**|**Measuring Progress on Scalable Oversight for Large Language Models**|Samuel R. Bowman et.al.|[2211.03540v1](http://arxiv.org/abs/2211.03540v1)|null|
 |**2022-11-04**|**The 'Problem' of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation**|Barbara Plank et.al.|[2211.02570v1](http://arxiv.org/abs/2211.02570v1)|[link](https://github.com/mainlp/awesome-human-label-variation)|
 |**2022-11-04**|**Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022**|Hieu Nguyen Van et.al.|[2211.02200v1](http://arxiv.org/abs/2211.02200v1)|null|
 |**2022-11-03**|**Eliciting Knowledge from Large Pre-Trained Models for Unsupervised Knowledge-Grounded Conversation**|Yanyang Li et.al.|[2211.01587v1](http://arxiv.org/abs/2211.01587v1)|null|
@@ -50,19 +58,24 @@
 |**2022-10-30**|**Medical Codes Prediction from Clinical Notes: From Human Coders to Machines**|Byung-Hak Kim et.al.|[2210.16850v1](http://arxiv.org/abs/2210.16850v1)|null|
 |**2022-10-30**|**An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks**|Yuxiang Wu et.al.|[2210.16773v1](http://arxiv.org/abs/2210.16773v1)|null|
 |**2022-10-30**|**token2vec: A Joint Self-Supervised Pre-training Framework Using Unpaired Speech and Text**|Xianghu Yue et.al.|[2210.16755v1](http://arxiv.org/abs/2210.16755v1)|null|
-|**2022-10-29**|**Two is Better than Many? Binary Classification as an Effective Approach to Multi-Choice Question Answering**|Deepanway Ghosal et.al.|[2210.16495v1](http://arxiv.org/abs/2210.16495v1)|[link](https://github.com/declare-lab/team)|
-|**2022-10-28**|**Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models**|Xiaoman Pan et.al.|[2210.16433v1](http://arxiv.org/abs/2210.16433v1)|null|
-|**2022-10-28**|**AGReE: A system for generating Automated Grammar Reading Exercises**|Sophia Chan et.al.|[2210.16302v2](http://arxiv.org/abs/2210.16302v2)|null|
-|**2022-10-28**|**Are Neural Topic Models Broken?**|Alexander Hoyle et.al.|[2210.16162v1](http://arxiv.org/abs/2210.16162v1)|[link](https://github.com/ahoho/topics)|
-|**2022-10-28**|**Can Current Explainability Help Provide References in Clinical Notes to Support Humans Annotate Medical Codes?**|Byung-Hak Kim et.al.|[2210.15882v1](http://arxiv.org/abs/2210.15882v1)|null|
-|**2022-10-27**|**Reinforced Question Rewriting for Conversational Question Answering**|Zhiyu Chen et.al.|[2210.15777v2](http://arxiv.org/abs/2210.15777v2)|null|
-|**2022-10-27**|**MorphTE: Injecting Morphology in Tensorized Embeddings**|Guobing Gan et.al.|[2210.15379v1](http://arxiv.org/abs/2210.15379v1)|[link](https://github.com/bigganbing/Fairseq_MorphTE)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|[link](https://github.com/maitreyapatel/cripp-vqa)|
+|**2022-11-07**|**Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces**|Jiahang Cao et.al.|[2211.03536v1](http://arxiv.org/abs/2211.03536v1)|null|
+|**2022-11-07**|**Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions**|Thong Nguyen et.al.|[2211.03524v1](http://arxiv.org/abs/2211.03524v1)|null|
+|**2022-11-07**|**Generative Transformers for Design Concept Generation**|Qihao Zhu et.al.|[2211.03468v1](http://arxiv.org/abs/2211.03468v1)|null|
+|**2022-11-07**|**NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering**|Tengxun Zhang et.al.|[2211.03462v1](http://arxiv.org/abs/2211.03462v1)|null|
+|**2022-11-07**|**Human-Machine Collaboration Approaches to Build a Dialogue Dataset for Hate Speech Countering**|Helena Bonaldi et.al.|[2211.03433v1](http://arxiv.org/abs/2211.03433v1)|null|
+|**2022-11-07**|**Probing neural language models for understanding of words of estimative probability**|Damien Sileo et.al.|[2211.03358v1](http://arxiv.org/abs/2211.03358v1)|null|
+|**2022-11-07**|**Complex Reading Comprehension Through Question Decomposition**|Xiao-Yu Guo et.al.|[2211.03277v1](http://arxiv.org/abs/2211.03277v1)|null|
+|**2022-11-07**|**Zero-Shot Classification by Logical Reasoning on Natural Language Explanations**|Chi Han et.al.|[2211.03252v1](http://arxiv.org/abs/2211.03252v1)|[link](https://github.com/glaciohound/clore)|
+|**2022-11-06**|**Bridging Speech and Textual Pre-trained Models with Unsupervised ASR**|Jiatong Shi et.al.|[2211.03025v1](http://arxiv.org/abs/2211.03025v1)|null|
+|**2022-11-05**|**The Legal Argument Reasoning Task in Civil Procedure**|Leonard Bongard et.al.|[2211.02950v1](http://arxiv.org/abs/2211.02950v1)|null|
+|**2022-11-04**|**The Path to Autonomous Learners**|Hanna Abi Akl et.al.|[2211.02403v1](http://arxiv.org/abs/2211.02403v1)|[link](https://github.com/hannaabiakl/autonomouslearner)|
 |**2022-11-03**|**Overcoming Barriers to Skill Injection in Language Modeling: Case Study in Arithmetic**|Mandar Sharma et.al.|[2211.02098v1](http://arxiv.org/abs/2211.02098v1)|[link](https://github.com/mandar-sharma/overcomingbarriers)|
 |**2022-11-03**|**lilGym: Natural Language Visual Reasoning with Reinforcement Learning**|Anne Wu et.al.|[2211.01994v1](http://arxiv.org/abs/2211.01994v1)|null|
 |**2022-11-03**|**From Spelling to Grammar: A New Framework for Chinese Grammatical Error Correction**|Xiuyu Wu et.al.|[2211.01625v1](http://arxiv.org/abs/2211.01625v1)|null|
@@ -214,12 +227,3 @@
 |**2022-10-09**|**MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**|Zijia Zhao et.al.|[2210.04183v1](http://arxiv.org/abs/2210.04183v1)|null|
 |**2022-10-08**|**Are All Steps Equally Important? Benchmarking Essentiality Detection of Events**|Hongming Zhang et.al.|[2210.04074v2](http://arxiv.org/abs/2210.04074v2)|null|
 |**2022-10-08**|**SDA: Simple Discrete Augmentation for Contrastive Sentence Representation Learning**|Zhenyu Mao et.al.|[2210.03963v1](http://arxiv.org/abs/2210.03963v1)|null|
-|**2022-10-08**|**EgoTaskQA: Understanding Human Tasks in Egocentric Videos**|Baoxiong Jia et.al.|[2210.03929v1](http://arxiv.org/abs/2210.03929v1)|[link](https://github.com/Buzz-Beater/EgoTaskQA)|
-|**2022-10-07**|**ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering**|Zhiyu Chen et.al.|[2210.03849v1](http://arxiv.org/abs/2210.03849v1)|[link](https://github.com/czyssrs/convfinqa)|
-|**2022-10-07**|**Breaking BERT: Evaluating and Optimizing Sparsified Attention**|Siddhartha Brahma et.al.|[2210.03841v1](http://arxiv.org/abs/2210.03841v1)|null|
-|**2022-10-07**|**Artificial Intelligence and Natural Language Processing and Understanding in Space: A Methodological Framework and Four ESA Case Studies**|José Manuel Gómez-Pérez et.al.|[2210.03640v2](http://arxiv.org/abs/2210.03640v2)|null|
-|**2022-10-07**|**Automatic Chain of Thought Prompting in Large Language Models**|Zhuosheng Zhang et.al.|[2210.03493v1](http://arxiv.org/abs/2210.03493v1)|[link](https://github.com/amazon-research/auto-cot)|
-|**2022-10-07**|**Measuring and Narrowing the Compositionality Gap in Language Models**|Ofir Press et.al.|[2210.03350v1](http://arxiv.org/abs/2210.03350v1)|[link](https://github.com/ofirpress/self-ask)|
-|**2022-10-06**|**Rainier: Reinforced Knowledge Introspector for Commonsense Question Answering**|Jiacheng Liu et.al.|[2210.03078v2](http://arxiv.org/abs/2210.03078v2)|[link](https://github.com/liujch1998/rainier)|
-|**2022-10-06**|**Language Models are Multilingual Chain-of-Thought Reasoners**|Freda Shi et.al.|[2210.03057v1](http://arxiv.org/abs/2210.03057v1)|[link](https://github.com/google-research/url-nlp)|
-|**2022-10-06**|**Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks**|Masahiro Kaneko et.al.|[2210.02938v1](http://arxiv.org/abs/2210.02938v1)|null|
