@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-09 09:58:55
+ Automated deployment @ 2022-11-09 20:45:30
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,21 +8,25 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-08**|**What Knowledge Is Needed? Towards Explainable Memory for kNN-MT Domain Adaptation**|Wenhao Zhu et.al.|[2211.04052v1](http://arxiv.org/abs/2211.04052v1)|null|
+|**2022-11-07**|**CELLS: A Parallel Corpus for Biomedical Lay Language Generation**|Yue Guo et.al.|[2211.03818v1](http://arxiv.org/abs/2211.03818v1)|[link](https://github.com/linguisticanomalies/pls_retrieval)|
 |**2022-11-07**|**Zero-Shot Classification by Logical Reasoning on Natural Language Explanations**|Chi Han et.al.|[2211.03252v1](http://arxiv.org/abs/2211.03252v1)|[link](https://github.com/glaciohound/clore)|
 |**2022-11-06**|**Calibration Meets Explanation: A Simple and Effective Approach for Model Confidence Estimates**|Dongfang Li et.al.|[2211.03041v1](http://arxiv.org/abs/2211.03041v1)|[link](https://github.com/crazyofapple/cme-emnlp2022)|
 |**2022-11-05**|**Aligning Recommendation and Conversation via Dual Imitation**|Jinfeng Zhou et.al.|[2211.02848v1](http://arxiv.org/abs/2211.02848v1)|null|
+|**2022-11-03**|**DetAIL : A Tool to Automatically Detect and Analyze Drift In Language**|Nishtha Madaan et.al.|[2211.04250v1](http://arxiv.org/abs/2211.04250v1)|null|
 |**2022-11-01**|**Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small**|Kevin Wang et.al.|[2211.00593v1](http://arxiv.org/abs/2211.00593v1)|[link](https://github.com/redwoodresearch/easy-transformer)|
 |**2022-11-01**|**An Algebraic Framework for Stock & Flow Diagrams and Dynamical Systems Using Category Theory**|Xiaoyan Li et.al.|[2211.01290v1](http://arxiv.org/abs/2211.01290v1)|[link](https://github.com/xiaoyan-li/applicationstockflowmfph)|
 |**2022-11-01**|**Anytime Generation of Counterfactual Explanations for Text Classification**|Daniel Gilo et.al.|[2211.00369v1](http://arxiv.org/abs/2211.00369v1)|null|
-|**2022-11-01**|**Why Is It Hate Speech? Masked Rationale Prediction for Explainable Hate Speech Detection**|Jiyun Kim et.al.|[2211.00243v1](http://arxiv.org/abs/2211.00243v1)|null|
-|**2022-10-31**|**Lila: A Unified Benchmark for Mathematical Reasoning**|Swaroop Mishra et.al.|[2210.17517v1](http://arxiv.org/abs/2210.17517v1)|[link](https://github.com/allenai/lila)|
-|**2022-10-31**|**Effective Cross-Task Transfer Learning for Explainable Natural Language Inference with T5**|Irina Bigoulaeva et.al.|[2210.17301v1](http://arxiv.org/abs/2210.17301v1)|[link](https://github.com/rachneet/cross-task-figurative-explanations)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-08**|**SocioProbe: What, When, and Where Language Models Learn about Sociodemographics**|Anne Lauscher et.al.|[2211.04281v1](http://arxiv.org/abs/2211.04281v1)|null|
+|**2022-11-08**|**Query-Specific Knowledge Graphs for Complex Finance Topics**|Iain Mackie et.al.|[2211.04142v1](http://arxiv.org/abs/2211.04142v1)|null|
+|**2022-11-08**|**Active Learning with Tabular Language Models**|Martin Ringsquandl et.al.|[2211.04128v1](http://arxiv.org/abs/2211.04128v1)|null|
+|**2022-11-08**|**COV19IR : COVID-19 Domain Literature Information Retrieval**|Arusarka Bose et.al.|[2211.04013v1](http://arxiv.org/abs/2211.04013v1)|null|
 |**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|[link](https://github.com/maitreyapatel/cripp-vqa)|
 |**2022-11-07**|**How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers**|Michael Hassid et.al.|[2211.03495v1](http://arxiv.org/abs/2211.03495v1)|[link](https://github.com/schwartz-lab-nlp/papa)|
 |**2022-11-07**|**NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering**|Tengxun Zhang et.al.|[2211.03462v1](http://arxiv.org/abs/2211.03462v1)|null|
@@ -35,7 +39,7 @@
 |**2022-11-04**|**Measuring Progress on Scalable Oversight for Large Language Models**|Samuel R. Bowman et.al.|[2211.03540v1](http://arxiv.org/abs/2211.03540v1)|null|
 |**2022-11-04**|**The 'Problem' of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation**|Barbara Plank et.al.|[2211.02570v1](http://arxiv.org/abs/2211.02570v1)|[link](https://github.com/mainlp/awesome-human-label-variation)|
 |**2022-11-04**|**Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022**|Hieu Nguyen Van et.al.|[2211.02200v1](http://arxiv.org/abs/2211.02200v1)|null|
-|**2022-11-03**|**Eliciting Knowledge from Large Pre-Trained Models for Unsupervised Knowledge-Grounded Conversation**|Yanyang Li et.al.|[2211.01587v2](http://arxiv.org/abs/2211.01587v2)|null|
+|**2022-11-03**|**Eliciting Knowledge from Large Pre-Trained Models for Unsupervised Knowledge-Grounded Conversation**|Yanyang Li et.al.|[2211.01587v2](http://arxiv.org/abs/2211.01587v2)|[link](https://github.com/lyy1994/plm_as_kb)|
 |**2022-11-02**|**RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question**|Alireza Mohammadshahi et.al.|[2211.01482v1](http://arxiv.org/abs/2211.01482v1)|null|
 |**2022-11-02**|**Boosting word frequencies in authorship attribution**|Maciej Eder et.al.|[2211.01289v1](http://arxiv.org/abs/2211.01289v1)|null|
 |**2022-11-02**|**Multi-Vector Retrieval as Sparse Alignment**|Yujie Qian et.al.|[2211.01267v1](http://arxiv.org/abs/2211.01267v1)|null|
@@ -53,17 +57,13 @@
 |**2022-10-31**|**Improving Cause-of-Death Classification from Verbal Autopsy Reports**|Thokozile Manaka et.al.|[2210.17161v1](http://arxiv.org/abs/2210.17161v1)|null|
 |**2022-10-31**|**QuaLA-MiniLM: a Quantized Length Adaptive MiniLM**|Shira Guskin et.al.|[2210.17114v1](http://arxiv.org/abs/2210.17114v1)|null|
 |**2022-10-31**|**RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees**|Tengxiao Liu et.al.|[2210.17095v1](http://arxiv.org/abs/2210.17095v1)|null|
-|**2022-10-30**|**Transfer Learning with Synthetic Corpora for Spatial Role Labeling and Reasoning**|Roshanak Mirzaee et.al.|[2210.16952v2](http://arxiv.org/abs/2210.16952v2)|[link](https://github.com/hlr/spatial-qa-tasks)|
-|**2022-10-30**|**Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts**|Ben Zhou et.al.|[2210.16865v1](http://arxiv.org/abs/2210.16865v1)|null|
-|**2022-10-30**|**Medical Codes Prediction from Clinical Notes: From Human Coders to Machines**|Byung-Hak Kim et.al.|[2210.16850v1](http://arxiv.org/abs/2210.16850v1)|null|
-|**2022-10-30**|**An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks**|Yuxiang Wu et.al.|[2210.16773v1](http://arxiv.org/abs/2210.16773v1)|null|
-|**2022-10-30**|**token2vec: A Joint Self-Supervised Pre-training Framework Using Unpaired Speech and Text**|Xianghu Yue et.al.|[2210.16755v1](http://arxiv.org/abs/2210.16755v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-07**|**Looking at the Overlooked: An Analysis on the Word-Overlap Bias in Natural Language Inference**|Sara Rajaee et.al.|[2211.03862v1](http://arxiv.org/abs/2211.03862v1)|null|
 |**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|[link](https://github.com/maitreyapatel/cripp-vqa)|
 |**2022-11-07**|**Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces**|Jiahang Cao et.al.|[2211.03536v1](http://arxiv.org/abs/2211.03536v1)|null|
 |**2022-11-07**|**Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions**|Thong Nguyen et.al.|[2211.03524v1](http://arxiv.org/abs/2211.03524v1)|null|
@@ -226,4 +226,3 @@
 |**2022-10-09**|**CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models**|Steven Y. Feng et.al.|[2210.04191v1](http://arxiv.org/abs/2210.04191v1)|null|
 |**2022-10-09**|**MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**|Zijia Zhao et.al.|[2210.04183v1](http://arxiv.org/abs/2210.04183v1)|null|
 |**2022-10-08**|**Are All Steps Equally Important? Benchmarking Essentiality Detection of Events**|Hongming Zhang et.al.|[2210.04074v2](http://arxiv.org/abs/2210.04074v2)|null|
-|**2022-10-08**|**SDA: Simple Discrete Augmentation for Contrastive Sentence Representation Learning**|Zhenyu Mao et.al.|[2210.03963v1](http://arxiv.org/abs/2210.03963v1)|null|
