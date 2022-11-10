@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-10 09:52:13
+ Automated deployment @ 2022-11-10 20:44:07
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,21 +8,23 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-09**|**Accountable and Explainable Methods for Complex Reasoning over Text**|Pepa Atanasova et.al.|[2211.04946v1](http://arxiv.org/abs/2211.04946v1)|null|
+|**2022-11-08**|**Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing**|Wenyue Hua et.al.|[2211.04476v1](http://arxiv.org/abs/2211.04476v1)|null|
 |**2022-11-08**|**What Knowledge Is Needed? Towards Explainable Memory for kNN-MT Domain Adaptation**|Wenhao Zhu et.al.|[2211.04052v1](http://arxiv.org/abs/2211.04052v1)|null|
 |**2022-11-07**|**CELLS: A Parallel Corpus for Biomedical Lay Language Generation**|Yue Guo et.al.|[2211.03818v1](http://arxiv.org/abs/2211.03818v1)|[link](https://github.com/linguisticanomalies/pls_retrieval)|
 |**2022-11-07**|**Zero-Shot Classification by Logical Reasoning on Natural Language Explanations**|Chi Han et.al.|[2211.03252v1](http://arxiv.org/abs/2211.03252v1)|[link](https://github.com/glaciohound/clore)|
 |**2022-11-06**|**Calibration Meets Explanation: A Simple and Effective Approach for Model Confidence Estimates**|Dongfang Li et.al.|[2211.03041v1](http://arxiv.org/abs/2211.03041v1)|[link](https://github.com/crazyofapple/cme-emnlp2022)|
 |**2022-11-05**|**Aligning Recommendation and Conversation via Dual Imitation**|Jinfeng Zhou et.al.|[2211.02848v1](http://arxiv.org/abs/2211.02848v1)|null|
 |**2022-11-03**|**DetAIL : A Tool to Automatically Detect and Analyze Drift In Language**|Nishtha Madaan et.al.|[2211.04250v1](http://arxiv.org/abs/2211.04250v1)|null|
-|**2022-11-01**|**Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small**|Kevin Wang et.al.|[2211.00593v1](http://arxiv.org/abs/2211.00593v1)|[link](https://github.com/redwoodresearch/easy-transformer)|
-|**2022-11-01**|**An Algebraic Framework for Stock & Flow Diagrams and Dynamical Systems Using Category Theory**|Xiaoyan Li et.al.|[2211.01290v1](http://arxiv.org/abs/2211.01290v1)|[link](https://github.com/xiaoyan-li/applicationstockflowmfph)|
-|**2022-11-01**|**Anytime Generation of Counterfactual Explanations for Text Classification**|Daniel Gilo et.al.|[2211.00369v1](http://arxiv.org/abs/2211.00369v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-09**|**Discord Questions: A Computational Approach To Diversity Analysis in News Coverage**|Philippe Laban et.al.|[2211.05007v1](http://arxiv.org/abs/2211.05007v1)|[link](https://github.com/salesforce/discord_questions)|
+|**2022-11-09**|**Mask More and Mask Later: Efficient Pre-training of Masked Language Models by Disentangling the [MASK] Token**|Baohao Liao et.al.|[2211.04898v1](http://arxiv.org/abs/2211.04898v1)|[link](https://github.com/baohaoliao/3ml)|
+|**2022-11-08**|**Toward a Neural Semantic Parsing System for EHR Question Answering**|Sarvesh Soni et.al.|[2211.04569v1](http://arxiv.org/abs/2211.04569v1)|null|
 |**2022-11-08**|**SocioProbe: What, When, and Where Language Models Learn about Sociodemographics**|Anne Lauscher et.al.|[2211.04281v1](http://arxiv.org/abs/2211.04281v1)|null|
 |**2022-11-08**|**Query-Specific Knowledge Graphs for Complex Finance Topics**|Iain Mackie et.al.|[2211.04142v1](http://arxiv.org/abs/2211.04142v1)|null|
 |**2022-11-08**|**Active Learning with Tabular Language Models**|Martin Ringsquandl et.al.|[2211.04128v1](http://arxiv.org/abs/2211.04128v1)|null|
@@ -46,23 +48,16 @@
 |**2022-11-02**|**Passage-Mask: A Learnable Regularization Strategy for Retriever-Reader Models**|Shujian Zhang et.al.|[2211.00915v2](http://arxiv.org/abs/2211.00915v2)|null|
 |**2022-11-01**|**Natural Language Deduction with Incomplete Information**|Zayne Sprague et.al.|[2211.00614v1](http://arxiv.org/abs/2211.00614v1)|[link](https://github.com/zayne-sprague/natural_language_deduction_with_incomplete_information)|
 |**2022-11-01**|**T5lephone: Bridging Speech and Text Self-supervised Models for Spoken Language Understanding via Phoneme level T5**|Chan-Jan Hsu et.al.|[2211.00586v1](http://arxiv.org/abs/2211.00586v1)|[link](https://github.com/splend1d/t5lephone)|
-|**2022-11-01**|**CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation**|Abhilasha Ravichander et.al.|[2211.00295v1](http://arxiv.org/abs/2211.00295v1)|[link](https://github.com/abhilasharavichander/condaqa)|
-|**2022-10-31**|**Do LSTMs See Gender? Probing the Ability of LSTMs to Learn Abstract Syntactic Rules**|Priyanka Sukumaran et.al.|[2211.00153v1](http://arxiv.org/abs/2211.00153v1)|[link](https://github.com/prisukumaran23/lstm_fr)|
-|**2022-10-31**|**A Close Look into the Calibration of Pre-trained Language Models**|Yangyi Chen et.al.|[2211.00151v1](http://arxiv.org/abs/2211.00151v1)|[link](https://github.com/lifan-yuan/plmcalibration)|
-|**2022-10-31**|**Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy**|Daphne Ippolito et.al.|[2210.17546v1](http://arxiv.org/abs/2210.17546v1)|null|
-|**2022-10-31**|**Query Refinement Prompts for Closed-Book Long-Form Question Answering**|Reinald Kim Amplayo et.al.|[2210.17525v1](http://arxiv.org/abs/2210.17525v1)|null|
-|**2022-10-31**|**Lila: A Unified Benchmark for Mathematical Reasoning**|Swaroop Mishra et.al.|[2210.17517v1](http://arxiv.org/abs/2210.17517v1)|[link](https://github.com/allenai/lila)|
-|**2022-10-31**|**Leveraging Pre-trained Models for Failure Analysis Triplets Generation**|Kenneth Ezukwoke et.al.|[2210.17497v1](http://arxiv.org/abs/2210.17497v1)|null|
-|**2022-10-31**|**Questioning the Validity of Summarization Datasets and Improving Their Factual Consistency**|Yanzhu Guo et.al.|[2210.17378v1](http://arxiv.org/abs/2210.17378v1)|null|
-|**2022-10-31**|**Improving Cause-of-Death Classification from Verbal Autopsy Reports**|Thokozile Manaka et.al.|[2210.17161v1](http://arxiv.org/abs/2210.17161v1)|null|
-|**2022-10-31**|**QuaLA-MiniLM: a Quantized Length Adaptive MiniLM**|Shira Guskin et.al.|[2210.17114v1](http://arxiv.org/abs/2210.17114v1)|null|
-|**2022-10-31**|**RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees**|Tengxiao Liu et.al.|[2210.17095v1](http://arxiv.org/abs/2210.17095v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-09**|**Discord Questions: A Computational Approach To Diversity Analysis in News Coverage**|Philippe Laban et.al.|[2211.05007v1](http://arxiv.org/abs/2211.05007v1)|[link](https://github.com/salesforce/discord_questions)|
+|**2022-11-09**|**Accountable and Explainable Methods for Complex Reasoning over Text**|Pepa Atanasova et.al.|[2211.04946v1](http://arxiv.org/abs/2211.04946v1)|null|
+|**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|null|
+|**2022-11-08**|**Going for GOAL: A Resource for Grounded Football Commentaries**|Alessandro Suglia et.al.|[2211.04534v1](http://arxiv.org/abs/2211.04534v1)|[link](https://gitlab.com/grounded-sport-convai/goal-baselines)|
 |**2022-11-07**|**Looking at the Overlooked: An Analysis on the Word-Overlap Bias in Natural Language Inference**|Sara Rajaee et.al.|[2211.03862v1](http://arxiv.org/abs/2211.03862v1)|null|
 |**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|[link](https://github.com/maitreyapatel/cripp-vqa)|
 |**2022-11-07**|**Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces**|Jiahang Cao et.al.|[2211.03536v1](http://arxiv.org/abs/2211.03536v1)|null|
@@ -221,8 +216,3 @@
 |**2022-10-11**|**How Well Do Multi-hop Reading Comprehension Models Understand Date Information?**|Xanh Ho et.al.|[2210.05208v1](http://arxiv.org/abs/2210.05208v1)|[link](https://github.com/alab-nii/hieradate)|
 |**2022-10-11**|**Reflection of Thought: Inversely Eliciting Numerical Reasoning in Language Models via Solving Linear Systems**|Fan Zhou et.al.|[2210.05075v1](http://arxiv.org/abs/2210.05075v1)|null|
 |**2022-10-10**|**REV: Information-Theoretic Evaluation of Free-Text Rationales**|Hanjie Chen et.al.|[2210.04982v2](http://arxiv.org/abs/2210.04982v2)|null|
-|**2022-10-10**|**Learning Robust Representations for Continual Relation Extraction via Adversarial Class Augmentation**|Peiyi Wang et.al.|[2210.04497v1](http://arxiv.org/abs/2210.04497v1)|[link](https://github.com/wangpeiyi9979/aca)|
-|**2022-10-09**|**Understanding and Improving Zero-shot Multi-hop Reasoning in Generative Question Answering**|Zhengbao Jiang et.al.|[2210.04234v1](http://arxiv.org/abs/2210.04234v1)|null|
-|**2022-10-09**|**CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models**|Steven Y. Feng et.al.|[2210.04191v1](http://arxiv.org/abs/2210.04191v1)|null|
-|**2022-10-09**|**MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**|Zijia Zhao et.al.|[2210.04183v1](http://arxiv.org/abs/2210.04183v1)|null|
-|**2022-10-08**|**Are All Steps Equally Important? Benchmarking Essentiality Detection of Events**|Hongming Zhang et.al.|[2210.04074v2](http://arxiv.org/abs/2210.04074v2)|null|
