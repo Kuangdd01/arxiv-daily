@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-11 09:51:21
+ Automated deployment @ 2022-11-11 20:42:56
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-10**|**Towards Human-Centred Explainability Benchmarks For Text Classification**|Viktor Schlegel et.al.|[2211.05452v1](http://arxiv.org/abs/2211.05452v1)|null|
+|**2022-11-10**|**ADEPT: A DEbiasing PrompT Framework**|Ke Yang et.al.|[2211.05414v1](http://arxiv.org/abs/2211.05414v1)|null|
+|**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
 |**2022-11-09**|**Accountable and Explainable Methods for Complex Reasoning over Text**|Pepa Atanasova et.al.|[2211.04946v1](http://arxiv.org/abs/2211.04946v1)|null|
 |**2022-11-08**|**Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing**|Wenyue Hua et.al.|[2211.04476v1](http://arxiv.org/abs/2211.04476v1)|null|
 |**2022-11-08**|**What Knowledge Is Needed? Towards Explainable Memory for kNN-MT Domain Adaptation**|Wenhao Zhu et.al.|[2211.04052v1](http://arxiv.org/abs/2211.04052v1)|null|
@@ -22,6 +25,11 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-10**|**BERT in Plutarch's Shadows**|Ivan P. Yamshchikov et.al.|[2211.05673v1](http://arxiv.org/abs/2211.05673v1)|null|
+|**2022-11-10**|**DisentQA: Disentangling Parametric and Contextual Knowledge with Counterfactual Question Answering**|Ella Neeman et.al.|[2211.05655v1](http://arxiv.org/abs/2211.05655v1)|[link](https://github.com/ellaneeman/disent_qa)|
+|**2022-11-10**|**FormLM: Recommending Creation Ideas for Online Forms by Modelling Semantic and Structural Information**|Yijia Shao et.al.|[2211.05284v1](http://arxiv.org/abs/2211.05284v1)|null|
+|**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
+|**2022-11-09**|**Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database**|Ye Liu et.al.|[2211.05165v1](http://arxiv.org/abs/2211.05165v1)|null|
 |**2022-11-09**|**Discord Questions: A Computational Approach To Diversity Analysis in News Coverage**|Philippe Laban et.al.|[2211.05007v1](http://arxiv.org/abs/2211.05007v1)|[link](https://github.com/salesforce/discord_questions)|
 |**2022-11-09**|**Mask More and Mask Later: Efficient Pre-training of Masked Language Models by Disentangling the [MASK] Token**|Baohao Liao et.al.|[2211.04898v1](http://arxiv.org/abs/2211.04898v1)|[link](https://github.com/baohaoliao/3ml)|
 |**2022-11-08**|**Toward a Neural Semantic Parsing System for EHR Question Answering**|Sarvesh Soni et.al.|[2211.04569v1](http://arxiv.org/abs/2211.04569v1)|null|
@@ -45,15 +53,17 @@
 |**2022-11-02**|**RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question**|Alireza Mohammadshahi et.al.|[2211.01482v2](http://arxiv.org/abs/2211.01482v2)|null|
 |**2022-11-02**|**Boosting word frequencies in authorship attribution**|Maciej Eder et.al.|[2211.01289v1](http://arxiv.org/abs/2211.01289v1)|null|
 |**2022-11-02**|**Multi-Vector Retrieval as Sparse Alignment**|Yujie Qian et.al.|[2211.01267v1](http://arxiv.org/abs/2211.01267v1)|null|
-|**2022-11-02**|**Passage-Mask: A Learnable Regularization Strategy for Retriever-Reader Models**|Shujian Zhang et.al.|[2211.00915v2](http://arxiv.org/abs/2211.00915v2)|null|
-|**2022-11-01**|**Natural Language Deduction with Incomplete Information**|Zayne Sprague et.al.|[2211.00614v1](http://arxiv.org/abs/2211.00614v1)|[link](https://github.com/zayne-sprague/natural_language_deduction_with_incomplete_information)|
-|**2022-11-01**|**T5lephone: Bridging Speech and Text Self-supervised Models for Spoken Language Understanding via Phoneme level T5**|Chan-Jan Hsu et.al.|[2211.00586v1](http://arxiv.org/abs/2211.00586v1)|[link](https://github.com/splend1d/t5lephone)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-10**|**Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities**|Andros Tjandra et.al.|[2211.05756v1](http://arxiv.org/abs/2211.05756v1)|null|
+|**2022-11-10**|**Understanding Text Classification Data and Models Using Aggregated Input Salience**|Sebastian Ebert et.al.|[2211.05485v1](http://arxiv.org/abs/2211.05485v1)|null|
+|**2022-11-10**|**Can Transformers Reason in Fragments of Natural Language?**|Viktor Schlegel et.al.|[2211.05417v1](http://arxiv.org/abs/2211.05417v1)|[link](https://github.com/schlevik/nlr)|
+|**2022-11-10**|**EvEntS ReaLM: Event Reasoning of Entity States via Language Models**|Evangelia Spiliopoulou et.al.|[2211.05392v1](http://arxiv.org/abs/2211.05392v1)|null|
+|**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
 |**2022-11-09**|**Discord Questions: A Computational Approach To Diversity Analysis in News Coverage**|Philippe Laban et.al.|[2211.05007v1](http://arxiv.org/abs/2211.05007v1)|[link](https://github.com/salesforce/discord_questions)|
 |**2022-11-09**|**Accountable and Explainable Methods for Complex Reasoning over Text**|Pepa Atanasova et.al.|[2211.04946v1](http://arxiv.org/abs/2211.04946v1)|null|
 |**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|null|
@@ -213,6 +223,3 @@
 |**2022-10-11**|**Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network**|Yuxiang Nie et.al.|[2210.05499v2](http://arxiv.org/abs/2210.05499v2)|[link](https://github.com/jerrrynie/cgsn)|
 |**2022-10-11**|**Mind's Eye: Grounded Language Model Reasoning through Simulation**|Ruibo Liu et.al.|[2210.05359v1](http://arxiv.org/abs/2210.05359v1)|null|
 |**2022-10-11**|**MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model**|Yatai Ji et.al.|[2210.05335v1](http://arxiv.org/abs/2210.05335v1)|[link](https://github.com/iigroup/map)|
-|**2022-10-11**|**How Well Do Multi-hop Reading Comprehension Models Understand Date Information?**|Xanh Ho et.al.|[2210.05208v1](http://arxiv.org/abs/2210.05208v1)|[link](https://github.com/alab-nii/hieradate)|
-|**2022-10-11**|**Reflection of Thought: Inversely Eliciting Numerical Reasoning in Language Models via Solving Linear Systems**|Fan Zhou et.al.|[2210.05075v1](http://arxiv.org/abs/2210.05075v1)|null|
-|**2022-10-10**|**REV: Information-Theoretic Evaluation of Free-Text Rationales**|Hanjie Chen et.al.|[2210.04982v2](http://arxiv.org/abs/2210.04982v2)|null|
