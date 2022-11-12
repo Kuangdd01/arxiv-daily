@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-12 09:47:47
+ Automated deployment @ 2022-11-12 20:35:12
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -66,7 +66,7 @@
 |**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
 |**2022-11-09**|**Discord Questions: A Computational Approach To Diversity Analysis in News Coverage**|Philippe Laban et.al.|[2211.05007v1](http://arxiv.org/abs/2211.05007v1)|[link](https://github.com/salesforce/discord_questions)|
 |**2022-11-09**|**Accountable and Explainable Methods for Complex Reasoning over Text**|Pepa Atanasova et.al.|[2211.04946v1](http://arxiv.org/abs/2211.04946v1)|null|
-|**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|null|
+|**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|[link](https://github.com/zhudanhao/deepe)|
 |**2022-11-08**|**Going for GOAL: A Resource for Grounded Football Commentaries**|Alessandro Suglia et.al.|[2211.04534v1](http://arxiv.org/abs/2211.04534v1)|[link](https://gitlab.com/grounded-sport-convai/goal-baselines)|
 |**2022-11-07**|**Looking at the Overlooked: An Analysis on the Word-Overlap Bias in Natural Language Inference**|Sara Rajaee et.al.|[2211.03862v1](http://arxiv.org/abs/2211.03862v1)|null|
 |**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|[link](https://github.com/maitreyapatel/cripp-vqa)|
