@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-14 09:46:49
+ Automated deployment @ 2022-11-14 20:46:49
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-11**|**Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation**|Motoi Omachi et.al.|[2211.05967v1](http://arxiv.org/abs/2211.05967v1)|null|
 |**2022-11-10**|**Towards Human-Centred Explainability Benchmarks For Text Classification**|Viktor Schlegel et.al.|[2211.05452v1](http://arxiv.org/abs/2211.05452v1)|null|
 |**2022-11-10**|**ADEPT: A DEbiasing PrompT Framework**|Ke Yang et.al.|[2211.05414v1](http://arxiv.org/abs/2211.05414v1)|null|
 |**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
@@ -18,13 +19,19 @@
 |**2022-11-07**|**Zero-Shot Classification by Logical Reasoning on Natural Language Explanations**|Chi Han et.al.|[2211.03252v1](http://arxiv.org/abs/2211.03252v1)|[link](https://github.com/glaciohound/clore)|
 |**2022-11-06**|**Calibration Meets Explanation: A Simple and Effective Approach for Model Confidence Estimates**|Dongfang Li et.al.|[2211.03041v1](http://arxiv.org/abs/2211.03041v1)|[link](https://github.com/crazyofapple/cme-emnlp2022)|
 |**2022-11-05**|**Aligning Recommendation and Conversation via Dual Imitation**|Jinfeng Zhou et.al.|[2211.02848v1](http://arxiv.org/abs/2211.02848v1)|null|
-|**2022-11-03**|**DetAIL : A Tool to Automatically Detect and Analyze Drift In Language**|Nishtha Madaan et.al.|[2211.04250v1](http://arxiv.org/abs/2211.04250v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-11**|**The Architectural Bottleneck Principle**|Tiago Pimentel et.al.|[2211.06420v1](http://arxiv.org/abs/2211.06420v1)|null|
+|**2022-11-11**|**Analysis of Male and Female Speakers' Word Choices in Public Speeches**|Md Zobaer Hossain et.al.|[2211.06366v1](http://arxiv.org/abs/2211.06366v1)|null|
+|**2022-11-11**|**DocuT5: Seq2seq SQL Generation with Table Documentation**|Elena Soare et.al.|[2211.06193v1](http://arxiv.org/abs/2211.06193v1)|null|
+|**2022-11-11**|**MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection**|Amir Pouran Ben Veyseh et.al.|[2211.05958v1](http://arxiv.org/abs/2211.05958v1)|null|
+|**2022-11-10**|**Understanding ME? Multimodal Evaluation for Fine-grained Visual Commonsense**|Zhecan Wang et.al.|[2211.05895v1](http://arxiv.org/abs/2211.05895v1)|null|
+|**2022-11-10**|**A Study on the Integration of Pre-trained SSL, ASR, LM and SLU Models for Spoken Language Understanding**|Yifan Peng et.al.|[2211.05869v1](http://arxiv.org/abs/2211.05869v1)|null|
+|**2022-11-10**|**Measuring Reliability of Large Language Models through Semantic Consistency**|Harsh Raj et.al.|[2211.05853v1](http://arxiv.org/abs/2211.05853v1)|null|
 |**2022-11-10**|**BERT in Plutarch's Shadows**|Ivan P. Yamshchikov et.al.|[2211.05673v1](http://arxiv.org/abs/2211.05673v1)|null|
 |**2022-11-10**|**DisentQA: Disentangling Parametric and Contextual Knowledge with Counterfactual Question Answering**|Ella Neeman et.al.|[2211.05655v1](http://arxiv.org/abs/2211.05655v1)|[link](https://github.com/ellaneeman/disent_qa)|
 |**2022-11-10**|**FormLM: Recommending Creation Ideas for Online Forms by Modelling Semantic and Structural Information**|Yijia Shao et.al.|[2211.05284v1](http://arxiv.org/abs/2211.05284v1)|null|
@@ -38,6 +45,7 @@
 |**2022-11-08**|**Active Learning with Tabular Language Models**|Martin Ringsquandl et.al.|[2211.04128v1](http://arxiv.org/abs/2211.04128v1)|null|
 |**2022-11-08**|**COV19IR : COVID-19 Domain Literature Information Retrieval**|Arusarka Bose et.al.|[2211.04013v1](http://arxiv.org/abs/2211.04013v1)|[link](https://github.com/arusarkabose/covid-19)|
 |**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|[link](https://github.com/maitreyapatel/cripp-vqa)|
+|**2022-11-07**|**Investigating Fairness Disparities in Peer Review: A Language Model Enhanced Approach**|Jiayao Zhang et.al.|[2211.06398v1](http://arxiv.org/abs/2211.06398v1)|[link](https://github.com/CogComp/iclr_database)|
 |**2022-11-07**|**How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers**|Michael Hassid et.al.|[2211.03495v1](http://arxiv.org/abs/2211.03495v1)|[link](https://github.com/schwartz-lab-nlp/papa)|
 |**2022-11-07**|**NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering**|Tengxun Zhang et.al.|[2211.03462v1](http://arxiv.org/abs/2211.03462v1)|null|
 |**2022-11-07**|**Complex Reading Comprehension Through Question Decomposition**|Xiao-Yu Guo et.al.|[2211.03277v1](http://arxiv.org/abs/2211.03277v1)|null|
@@ -49,16 +57,15 @@
 |**2022-11-04**|**Measuring Progress on Scalable Oversight for Large Language Models**|Samuel R. Bowman et.al.|[2211.03540v1](http://arxiv.org/abs/2211.03540v1)|null|
 |**2022-11-04**|**The 'Problem' of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation**|Barbara Plank et.al.|[2211.02570v1](http://arxiv.org/abs/2211.02570v1)|[link](https://github.com/mainlp/awesome-human-label-variation)|
 |**2022-11-04**|**Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022**|Hieu Nguyen Van et.al.|[2211.02200v1](http://arxiv.org/abs/2211.02200v1)|null|
-|**2022-11-03**|**Eliciting Knowledge from Large Pre-Trained Models for Unsupervised Knowledge-Grounded Conversation**|Yanyang Li et.al.|[2211.01587v2](http://arxiv.org/abs/2211.01587v2)|[link](https://github.com/lyy1994/plm_as_kb)|
-|**2022-11-02**|**RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question**|Alireza Mohammadshahi et.al.|[2211.01482v2](http://arxiv.org/abs/2211.01482v2)|null|
-|**2022-11-02**|**Boosting word frequencies in authorship attribution**|Maciej Eder et.al.|[2211.01289v1](http://arxiv.org/abs/2211.01289v1)|null|
-|**2022-11-02**|**Multi-Vector Retrieval as Sparse Alignment**|Yujie Qian et.al.|[2211.01267v1](http://arxiv.org/abs/2211.01267v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-11**|**DocuT5: Seq2seq SQL Generation with Table Documentation**|Elena Soare et.al.|[2211.06193v1](http://arxiv.org/abs/2211.06193v1)|null|
+|**2022-11-11**|**A Survey of Knowledge-Enhanced Pre-trained Language Models**|Linmei Hu et.al.|[2211.05994v1](http://arxiv.org/abs/2211.05994v1)|null|
+|**2022-11-11**|**Misinformation Detection using Persuasive Writing Strategies**|Joseph Romain et.al.|[2211.05985v1](http://arxiv.org/abs/2211.05985v1)|null|
 |**2022-11-10**|**Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities**|Andros Tjandra et.al.|[2211.05756v1](http://arxiv.org/abs/2211.05756v1)|null|
 |**2022-11-10**|**Understanding Text Classification Data and Models Using Aggregated Input Salience**|Sebastian Ebert et.al.|[2211.05485v2](http://arxiv.org/abs/2211.05485v2)|null|
 |**2022-11-10**|**Can Transformers Reason in Fragments of Natural Language?**|Viktor Schlegel et.al.|[2211.05417v1](http://arxiv.org/abs/2211.05417v1)|[link](https://github.com/schlevik/nlr)|
@@ -219,7 +226,3 @@
 |**2022-10-12**|**Perplexity from PLM Is Unreliable for Evaluating Text Quality**|Yequan Wang et.al.|[2210.05892v1](http://arxiv.org/abs/2210.05892v1)|null|
 |**2022-10-11**|**Cross-Lingual Speaker Identification Using Distant Supervision**|Ben Zhou et.al.|[2210.05780v1](http://arxiv.org/abs/2210.05780v1)|[link](https://github.com/slash0bz/speaker-identification)|
 |**2022-10-11**|**A Kernel-Based View of Language Model Fine-Tuning**|Sadhika Malladi et.al.|[2210.05643v1](http://arxiv.org/abs/2210.05643v1)|[link](https://github.com/princeton-nlp/lm-kernel-ft)|
-|**2022-10-11**|**ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities**|Terry Yue Zhuo et.al.|[2210.05556v1](http://arxiv.org/abs/2210.05556v1)|null|
-|**2022-10-11**|**Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network**|Yuxiang Nie et.al.|[2210.05499v2](http://arxiv.org/abs/2210.05499v2)|[link](https://github.com/jerrrynie/cgsn)|
-|**2022-10-11**|**Mind's Eye: Grounded Language Model Reasoning through Simulation**|Ruibo Liu et.al.|[2210.05359v1](http://arxiv.org/abs/2210.05359v1)|null|
-|**2022-10-11**|**MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model**|Yatai Ji et.al.|[2210.05335v1](http://arxiv.org/abs/2210.05335v1)|[link](https://github.com/iigroup/map)|
