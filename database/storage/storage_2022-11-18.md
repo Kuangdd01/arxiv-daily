@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-18 09:47:50
+ Automated deployment @ 2022-11-18 20:36:06
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-17**|**Feedback is Needed for Retakes: An Explainable Poor Image Notification Framework for the Visually Impaired**|Kazuya Ohata et.al.|[2211.09427v1](http://arxiv.org/abs/2211.09427v1)|null|
 |**2022-11-16**|**Lesion Guided Explainable Few Weak-shot Medical Report Generation**|Jinghan Sun et.al.|[2211.08732v2](http://arxiv.org/abs/2211.08732v2)|[link](https://github.com/jinghansunn/few-weak-shot-rg)|
 |**2022-11-15**|**Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods**|Josip Jukić et.al.|[2211.08369v1](http://arxiv.org/abs/2211.08369v1)|null|
 |**2022-11-15**|**FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense**|Changlong Yu et.al.|[2211.08316v1](http://arxiv.org/abs/2211.08316v1)|null|
@@ -19,19 +20,23 @@
 |**2022-11-10**|**Towards Human-Centred Explainability Benchmarks For Text Classification**|Viktor Schlegel et.al.|[2211.05452v1](http://arxiv.org/abs/2211.05452v1)|null|
 |**2022-11-10**|**ADEPT: A DEbiasing PrompT Framework**|Ke Yang et.al.|[2211.05414v1](http://arxiv.org/abs/2211.05414v1)|null|
 |**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
-|**2022-11-09**|**Accountable and Explainable Methods for Complex Reasoning over Text**|Pepa Atanasova et.al.|[2211.04946v1](http://arxiv.org/abs/2211.04946v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-17**|**Feature-augmented Machine Reading Comprehension with Auxiliary Tasks**|Yifeng Xie et.al.|[2211.09438v1](http://arxiv.org/abs/2211.09438v1)|null|
+|**2022-11-17**|**Open-Domain Conversational Question Answering with Historical Answers**|Hung-Chieh Fang et.al.|[2211.09401v1](http://arxiv.org/abs/2211.09401v1)|null|
+|**2022-11-17**|**Data-Efficient Autoregressive Document Retrieval for Fact Verification**|James Thorne et.al.|[2211.09388v1](http://arxiv.org/abs/2211.09388v1)|null|
+|**2022-11-16**|**Unified Question Answering in Slovene**|Katja Logar et.al.|[2211.09159v1](http://arxiv.org/abs/2211.09159v1)|[link](https://github.com/klogar/qaslovene)|
 |**2022-11-16**|**Holistic Evaluation of Language Models**|Percy Liang et.al.|[2211.09110v1](http://arxiv.org/abs/2211.09110v1)|null|
 |**2022-11-16**|**Consecutive Question Generation via Dynamic Multitask Learning**|Yunji Li et.al.|[2211.08850v1](http://arxiv.org/abs/2211.08850v1)|null|
 |**2022-11-16**|**RetroMAE v2: Duplex Masked Auto-Encoder For Pre-Training Retrieval-Oriented Language Models**|Shitao Xiao et.al.|[2211.08769v1](http://arxiv.org/abs/2211.08769v1)|null|
 |**2022-11-15**|**MapQA: A Dataset for Question Answering on Choropleth Maps**|Shuaichen Chang et.al.|[2211.08545v1](http://arxiv.org/abs/2211.08545v1)|null|
 |**2022-11-15**|**Searching for Carriers of the Diffuse Interstellar Bands Across Disciplines, using Natural Language Processing**|Corentin van den Broek d'Obrenan et.al.|[2211.08513v2](http://arxiv.org/abs/2211.08513v2)|null|
 |**2022-11-15**|**Reasoning Circuits: Few-shot Multihop Question Generation with Structured Rationales**|Saurabh Kulshreshtha et.al.|[2211.08466v1](http://arxiv.org/abs/2211.08466v1)|null|
+|**2022-11-15**|**PromptCap: Prompt-Guided Task-Aware Image Captioning**|Yushi Hu et.al.|[2211.09699v1](http://arxiv.org/abs/2211.09699v1)|null|
 |**2022-11-15**|**Large Language Models Struggle to Learn Long-Tail Knowledge**|Nikhil Kandpal et.al.|[2211.08411v1](http://arxiv.org/abs/2211.08411v1)|null|
 |**2022-11-15**|**Introducing Semantics into Speech Encoders**|Derek Xu et.al.|[2211.08402v1](http://arxiv.org/abs/2211.08402v1)|null|
 |**2022-11-15**|**Generative Long-form Question Answering: Relevance, Faithfulness and Succinctness**|Dan Su et.al.|[2211.08386v1](http://arxiv.org/abs/2211.08386v1)|null|
@@ -64,17 +69,13 @@
 |**2022-11-10**|**Measuring Reliability of Large Language Models through Semantic Consistency**|Harsh Raj et.al.|[2211.05853v1](http://arxiv.org/abs/2211.05853v1)|null|
 |**2022-11-10**|**BERT in Plutarch's Shadows**|Ivan P. Yamshchikov et.al.|[2211.05673v1](http://arxiv.org/abs/2211.05673v1)|null|
 |**2022-11-10**|**DisentQA: Disentangling Parametric and Contextual Knowledge with Counterfactual Question Answering**|Ella Neeman et.al.|[2211.05655v1](http://arxiv.org/abs/2211.05655v1)|[link](https://github.com/ellaneeman/disent_qa)|
-|**2022-11-10**|**FormLM: Recommending Creation Ideas for Online Forms by Modelling Semantic and Structural Information**|Yijia Shao et.al.|[2211.05284v1](http://arxiv.org/abs/2211.05284v1)|null|
-|**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
-|**2022-11-09**|**Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database**|Ye Liu et.al.|[2211.05165v1](http://arxiv.org/abs/2211.05165v1)|null|
-|**2022-11-09**|**Discord Questions: A Computational Approach To Diversity Analysis in News Coverage**|Philippe Laban et.al.|[2211.05007v1](http://arxiv.org/abs/2211.05007v1)|[link](https://github.com/salesforce/discord_questions)|
-|**2022-11-09**|**Mask More and Mask Later: Efficient Pre-training of Masked Language Models by Disentangling the [MASK] Token**|Baohao Liao et.al.|[2211.04898v2](http://arxiv.org/abs/2211.04898v2)|[link](https://github.com/baohaoliao/3ml)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-17**|**Feedback is Needed for Retakes: An Explainable Poor Image Notification Framework for the Visually Impaired**|Kazuya Ohata et.al.|[2211.09427v1](http://arxiv.org/abs/2211.09427v1)|null|
 |**2022-11-16**|**Holistic Evaluation of Language Models**|Percy Liang et.al.|[2211.09110v1](http://arxiv.org/abs/2211.09110v1)|null|
 |**2022-11-16**|**Galactica: A Large Language Model for Science**|Ross Taylor et.al.|[2211.09085v1](http://arxiv.org/abs/2211.09085v1)|[link](https://github.com/paperswithcode/galai)|
 |**2022-11-15**|**MapQA: A Dataset for Question Answering on Choropleth Maps**|Shuaichen Chang et.al.|[2211.08545v1](http://arxiv.org/abs/2211.08545v1)|null|
@@ -110,6 +111,7 @@
 |**2022-11-07**|**Zero-Shot Classification by Logical Reasoning on Natural Language Explanations**|Chi Han et.al.|[2211.03252v1](http://arxiv.org/abs/2211.03252v1)|[link](https://github.com/glaciohound/clore)|
 |**2022-11-06**|**Bridging Speech and Textual Pre-trained Models with Unsupervised ASR**|Jiatong Shi et.al.|[2211.03025v1](http://arxiv.org/abs/2211.03025v1)|null|
 |**2022-11-05**|**The Legal Argument Reasoning Task in Civil Procedure**|Leonard Bongard et.al.|[2211.02950v1](http://arxiv.org/abs/2211.02950v1)|null|
+|**2022-11-04**|**Extending Logic Explained Networks to Text Classification**|Rishabh Jain et.al.|[2211.09732v1](http://arxiv.org/abs/2211.09732v1)|null|
 |**2022-11-04**|**The Path to Autonomous Learners**|Hanna Abi Akl et.al.|[2211.02403v1](http://arxiv.org/abs/2211.02403v1)|[link](https://github.com/hannaabiakl/autonomouslearner)|
 |**2022-11-03**|**Overcoming Barriers to Skill Injection in Language Modeling: Case Study in Arithmetic**|Mandar Sharma et.al.|[2211.02098v1](http://arxiv.org/abs/2211.02098v1)|[link](https://github.com/mandar-sharma/overcomingbarriers)|
 |**2022-11-03**|**lilGym: Natural Language Visual Reasoning with Reinforcement Learning**|Anne Wu et.al.|[2211.01994v1](http://arxiv.org/abs/2211.01994v1)|null|
@@ -229,8 +231,3 @@
 |**2022-10-13**|**SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models**|Haozhe An et.al.|[2210.07269v1](http://arxiv.org/abs/2210.07269v1)|null|
 |**2022-10-13**|**Language Model Decoding as Likelihood-Utility Alignment**|Martin Josifoski et.al.|[2210.07228v1](http://arxiv.org/abs/2210.07228v1)|null|
 |**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|[link](https://github.com/mila-iqia/casande-rl)|
-|**2022-10-13**|**ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution**|Ankita Gupta et.al.|[2210.07188v1](http://arxiv.org/abs/2210.07188v1)|[link](https://github.com/gnkitaa/ezcoref)|
-|**2022-10-13**|**Counterfactual Multihop QA: A Cause-Effect Approach for Reducing Disconnected Reasoning**|Wangzhen Guo et.al.|[2210.07138v1](http://arxiv.org/abs/2210.07138v1)|null|
-|**2022-10-13**|**Language Models of Code are Few-Shot Commonsense Learners**|Aman Madaan et.al.|[2210.07128v2](http://arxiv.org/abs/2210.07128v2)|[link](https://github.com/madaan/cocogen)|
-|**2022-10-13**|**Towards End-to-End Open Conversational Machine Reading**|Sizhe Zhou et.al.|[2210.07113v1](http://arxiv.org/abs/2210.07113v1)|null|
-|**2022-10-13**|**On the Evaluation of the Plausibility and Faithfulness of Sentiment Analysis Explanations**|Julia El Zini et.al.|[2210.06916v1](http://arxiv.org/abs/2210.06916v1)|null|
