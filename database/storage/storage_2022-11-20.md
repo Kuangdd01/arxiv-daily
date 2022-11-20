@@ -1,25 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2022-11-20 09:49:02
+ Automated deployment @ 2022-11-20 20:33:51
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-17**|**Feedback is Needed for Retakes: An Explainable Poor Image Notification Framework for the Visually Impaired**|Kazuya Ohata et.al.|[2211.09427v1](http://arxiv.org/abs/2211.09427v1)|null|
-|**2022-11-16**|**Lesion Guided Explainable Few Weak-shot Medical Report Generation**|Jinghan Sun et.al.|[2211.08732v2](http://arxiv.org/abs/2211.08732v2)|[link](https://github.com/jinghansunn/few-weak-shot-rg)|
-|**2022-11-15**|**Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods**|Josip Jukić et.al.|[2211.08369v1](http://arxiv.org/abs/2211.08369v1)|null|
-|**2022-11-15**|**FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense**|Changlong Yu et.al.|[2211.08316v1](http://arxiv.org/abs/2211.08316v1)|null|
-|**2022-11-15**|**Relationship of the language distance to English ability of a country**|Cao Xinxin et.al.|[2211.07855v1](http://arxiv.org/abs/2211.07855v1)|null|
-|**2022-11-14**|**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**|Swarnadeep Saha et.al.|[2211.07517v1](http://arxiv.org/abs/2211.07517v1)|[link](https://github.com/swarnahub/explanationhardness)|
-|**2022-11-14**|**Does Debiasing Inevitably Degrade the Model Performance**|Yiran Liu et.al.|[2211.07350v1](http://arxiv.org/abs/2211.07350v1)|null|
-|**2022-11-12**|**ConceptX: A Framework for Latent Concept Analysis**|Firoj Alam et.al.|[2211.06642v1](http://arxiv.org/abs/2211.06642v1)|null|
-|**2022-11-11**|**Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation**|Motoi Omachi et.al.|[2211.05967v1](http://arxiv.org/abs/2211.05967v1)|null|
-|**2022-11-10**|**Towards Human-Centred Explainability Benchmarks For Text Classification**|Viktor Schlegel et.al.|[2211.05452v1](http://arxiv.org/abs/2211.05452v1)|null|
-|**2022-11-10**|**ADEPT: A DEbiasing PrompT Framework**|Ke Yang et.al.|[2211.05414v1](http://arxiv.org/abs/2211.05414v1)|null|
-|**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
 
 ## Question Answering
 
@@ -69,6 +51,24 @@
 |**2022-11-10**|**Measuring Reliability of Large Language Models through Semantic Consistency**|Harsh Raj et.al.|[2211.05853v1](http://arxiv.org/abs/2211.05853v1)|null|
 |**2022-11-10**|**BERT in Plutarch's Shadows**|Ivan P. Yamshchikov et.al.|[2211.05673v1](http://arxiv.org/abs/2211.05673v1)|null|
 |**2022-11-10**|**DisentQA: Disentangling Parametric and Contextual Knowledge with Counterfactual Question Answering**|Ella Neeman et.al.|[2211.05655v1](http://arxiv.org/abs/2211.05655v1)|[link](https://github.com/ellaneeman/disent_qa)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-17**|**Feedback is Needed for Retakes: An Explainable Poor Image Notification Framework for the Visually Impaired**|Kazuya Ohata et.al.|[2211.09427v1](http://arxiv.org/abs/2211.09427v1)|null|
+|**2022-11-16**|**Lesion Guided Explainable Few Weak-shot Medical Report Generation**|Jinghan Sun et.al.|[2211.08732v2](http://arxiv.org/abs/2211.08732v2)|[link](https://github.com/jinghansunn/few-weak-shot-rg)|
+|**2022-11-15**|**Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods**|Josip Jukić et.al.|[2211.08369v1](http://arxiv.org/abs/2211.08369v1)|null|
+|**2022-11-15**|**FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense**|Changlong Yu et.al.|[2211.08316v1](http://arxiv.org/abs/2211.08316v1)|null|
+|**2022-11-15**|**Relationship of the language distance to English ability of a country**|Cao Xinxin et.al.|[2211.07855v1](http://arxiv.org/abs/2211.07855v1)|null|
+|**2022-11-14**|**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**|Swarnadeep Saha et.al.|[2211.07517v1](http://arxiv.org/abs/2211.07517v1)|[link](https://github.com/swarnahub/explanationhardness)|
+|**2022-11-14**|**Does Debiasing Inevitably Degrade the Model Performance**|Yiran Liu et.al.|[2211.07350v1](http://arxiv.org/abs/2211.07350v1)|null|
+|**2022-11-12**|**ConceptX: A Framework for Latent Concept Analysis**|Firoj Alam et.al.|[2211.06642v1](http://arxiv.org/abs/2211.06642v1)|null|
+|**2022-11-11**|**Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation**|Motoi Omachi et.al.|[2211.05967v1](http://arxiv.org/abs/2211.05967v1)|null|
+|**2022-11-10**|**Towards Human-Centred Explainability Benchmarks For Text Classification**|Viktor Schlegel et.al.|[2211.05452v1](http://arxiv.org/abs/2211.05452v1)|null|
+|**2022-11-10**|**ADEPT: A DEbiasing PrompT Framework**|Ke Yang et.al.|[2211.05414v1](http://arxiv.org/abs/2211.05414v1)|null|
+|**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
 
 ## Reasoning
 
