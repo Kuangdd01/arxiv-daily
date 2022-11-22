@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-22 09:46:05
+ Automated deployment @ 2022-11-22 20:38:59
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-21**|**Unsupervised Explanation Generation via Correct Instantiations**|Sijie Cheng et.al.|[2211.11160v1](http://arxiv.org/abs/2211.11160v1)|null|
+|**2022-11-20**|**Explaining (Sarcastic) Utterances to Enhance Affect Understanding in Multimodal Dialogues**|Shivani Kumar et.al.|[2211.11049v1](http://arxiv.org/abs/2211.11049v1)|null|
 |**2022-11-18**|**Towards Explaining Subjective Ground of Individuals on Social Media**|Younghun Lee et.al.|[2211.09953v1](http://arxiv.org/abs/2211.09953v1)|[link](https://github.com/younggns/subjective-ground)|
 |**2022-11-17**|**Explainability Via Causal Self-Talk**|Nicholas A. Roy et.al.|[2211.09937v1](http://arxiv.org/abs/2211.09937v1)|null|
 |**2022-11-17**|**Feedback is Needed for Retakes: An Explainable Poor Image Notification Framework for the Visually Impaired**|Kazuya Ohata et.al.|[2211.09427v1](http://arxiv.org/abs/2211.09427v1)|null|
@@ -18,13 +20,18 @@
 |**2022-11-14**|**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**|Swarnadeep Saha et.al.|[2211.07517v1](http://arxiv.org/abs/2211.07517v1)|[link](https://github.com/swarnahub/explanationhardness)|
 |**2022-11-14**|**Does Debiasing Inevitably Degrade the Model Performance**|Yiran Liu et.al.|[2211.07350v1](http://arxiv.org/abs/2211.07350v1)|null|
 |**2022-11-12**|**ConceptX: A Framework for Latent Concept Analysis**|Firoj Alam et.al.|[2211.06642v1](http://arxiv.org/abs/2211.06642v1)|null|
-|**2022-11-11**|**Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation**|Motoi Omachi et.al.|[2211.05967v1](http://arxiv.org/abs/2211.05967v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-21**|**Legal and Political Stance Detection of SCOTUS Language**|Noah Bergam et.al.|[2211.11724v1](http://arxiv.org/abs/2211.11724v1)|null|
+|**2022-11-21**|**SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-training**|Yuanze Lin et.al.|[2211.11446v1](http://arxiv.org/abs/2211.11446v1)|null|
+|**2022-11-21**|**LSTM based models stability in the context of Sentiment Analysis for social media**|Bousselham El Haddaoui et.al.|[2211.11246v1](http://arxiv.org/abs/2211.11246v1)|null|
+|**2022-11-19**|**ReInform: Selecting paths with reinforcement learning for contextualized link prediction**|Marina Speranskaya et.al.|[2211.10688v1](http://arxiv.org/abs/2211.10688v1)|null|
+|**2022-11-18**|**Visual Programming: Compositional visual reasoning without training**|Tanmay Gupta et.al.|[2211.11559v1](http://arxiv.org/abs/2211.11559v1)|null|
+|**2022-11-18**|**DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation**|Yuhang Lai et.al.|[2211.11501v1](http://arxiv.org/abs/2211.11501v1)|null|
 |**2022-11-18**|**A Copy Mechanism for Handling Knowledge Base Elements in SPARQL Neural Machine Translation**|Rose Hirigoyen et.al.|[2211.10271v1](http://arxiv.org/abs/2211.10271v1)|null|
 |**2022-11-18**|**FiE: Building a Global Probability Space by Leveraging Early Fusion in Encoder for Open-Domain Question Answering**|Akhil Kedia et.al.|[2211.10147v1](http://arxiv.org/abs/2211.10147v1)|[link](https://github.com/facebookresearch/FiD)|
 |**2022-11-17**|**Summarizing Community-based Question-Answer Pairs**|Ting-Yao Hsu et.al.|[2211.09892v1](http://arxiv.org/abs/2211.09892v1)|null|
@@ -54,26 +61,20 @@
 |**2022-11-15**|**Evaluating How Fine-tuning on Bimodal Data Effects Code Generation**|Gabriel Orlanski et.al.|[2211.07842v1](http://arxiv.org/abs/2211.07842v1)|[link](https://github.com/gabeorlanski/bimodal-code-generation)|
 |**2022-11-15**|**Prompting Language Models for Linguistic Structure**|Terra Blevins et.al.|[2211.07830v1](http://arxiv.org/abs/2211.07830v1)|null|
 |**2022-11-14**|**Semantic Similarity Models for Depression Severity Estimation**|Anxo Pérez et.al.|[2211.07624v1](http://arxiv.org/abs/2211.07624v1)|null|
-|**2022-11-14**|**UGIF: UI Grounded Instruction Following**|Sagar Gubbi Venkatesh et.al.|[2211.07615v1](http://arxiv.org/abs/2211.07615v1)|null|
-|**2022-11-14**|**Learning to Answer Multilingual and Code-Mixed Questions**|Deepak Gupta et.al.|[2211.07522v1](http://arxiv.org/abs/2211.07522v1)|null|
-|**2022-11-14**|**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**|Swarnadeep Saha et.al.|[2211.07517v1](http://arxiv.org/abs/2211.07517v1)|[link](https://github.com/swarnahub/explanationhardness)|
-|**2022-11-14**|**Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA**|Elias Stengel-Eskin et.al.|[2211.07516v1](http://arxiv.org/abs/2211.07516v1)|[link](https://github.com/esteng/ambiguous_vqa)|
-|**2022-11-14**|**Towards Robust Numerical Question Answering: Diagnosing Numerical Capabilities of NLP Systems**|Jialiang Xu et.al.|[2211.07455v1](http://arxiv.org/abs/2211.07455v1)|null|
-|**2022-11-14**|**Multi-VQG: Generating Engaging Questions for Multiple Images**|Min-Hsuan Yeh et.al.|[2211.07441v2](http://arxiv.org/abs/2211.07441v2)|null|
-|**2022-11-14**|**Retrieval-Augmented Generative Question Answering for Event Argument Extraction**|Xinya Du et.al.|[2211.07067v1](http://arxiv.org/abs/2211.07067v1)|[link](https://github.com/xinyadu/rgqa)|
-|**2022-11-14**|**ALBERT with Knowledge Graph Encoder Utilizing Semantic Similarity for Commonsense Question Answering**|Byeongmin Choi et.al.|[2211.07065v1](http://arxiv.org/abs/2211.07065v1)|null|
-|**2022-11-13**|**"World Knowledge" in Multiple Choice Reading Comprehension**|Adian Liusie et.al.|[2211.07040v1](http://arxiv.org/abs/2211.07040v1)|null|
-|**2022-11-11**|**The Architectural Bottleneck Principle**|Tiago Pimentel et.al.|[2211.06420v1](http://arxiv.org/abs/2211.06420v1)|null|
-|**2022-11-11**|**Analysis of Male and Female Speakers' Word Choices in Public Speeches**|Md Zobaer Hossain et.al.|[2211.06366v1](http://arxiv.org/abs/2211.06366v1)|null|
-|**2022-11-11**|**The Far Side of Failure: Investigating the Impact of Speech Recognition Errors on Subsequent Dementia Classification**|Changye Li et.al.|[2211.07430v1](http://arxiv.org/abs/2211.07430v1)|[link](https://github.com/linguisticanomalies/paradox-asr)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-21**|**Unsupervised Explanation Generation via Correct Instantiations**|Sijie Cheng et.al.|[2211.11160v1](http://arxiv.org/abs/2211.11160v1)|null|
+|**2022-11-21**|**Unifying Vision-Language Representation Space with Single-tower Transformer**|Jiho Jang et.al.|[2211.11153v1](http://arxiv.org/abs/2211.11153v1)|null|
+|**2022-11-20**|**VER: Learning Natural Language Representations for Verbalizing Entities and Relations**|Jie Huang et.al.|[2211.11093v1](http://arxiv.org/abs/2211.11093v1)|[link](https://github.com/jeffhj/VER)|
+|**2022-11-19**|**Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**|Lin Xiao et.al.|[2211.10685v1](http://arxiv.org/abs/2211.10685v1)|null|
 |**2022-11-18**|**PAL: Program-aided Language Models**|Luyu Gao et.al.|[2211.10435v1](http://arxiv.org/abs/2211.10435v1)|null|
+|**2022-11-18**|**Visual Programming: Compositional visual reasoning without training**|Tanmay Gupta et.al.|[2211.11559v1](http://arxiv.org/abs/2211.11559v1)|null|
 |**2022-11-18**|**Overview of the HASOC Subtrack at FIRE 2022: Offensive Language Identification in Marathi**|Tharindu Ranasinghe et.al.|[2211.10163v1](http://arxiv.org/abs/2211.10163v1)|null|
+|**2022-11-18**|**Detect Only What You Specify : Object Detection with Linguistic Target**|Moyuru Yamada et.al.|[2211.11572v1](http://arxiv.org/abs/2211.11572v1)|null|
 |**2022-11-17**|**Feedback is Needed for Retakes: An Explainable Poor Image Notification Framework for the Visually Impaired**|Kazuya Ohata et.al.|[2211.09427v1](http://arxiv.org/abs/2211.09427v1)|null|
 |**2022-11-16**|**Holistic Evaluation of Language Models**|Percy Liang et.al.|[2211.09110v1](http://arxiv.org/abs/2211.09110v1)|[link](https://github.com/stanford-crfm/helm)|
 |**2022-11-16**|**Galactica: A Large Language Model for Science**|Ross Taylor et.al.|[2211.09085v1](http://arxiv.org/abs/2211.09085v1)|[link](https://github.com/paperswithcode/galai)|
@@ -219,11 +220,3 @@
 |**2022-10-15**|**UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**|Yongwei Zhou et.al.|[2210.08249v1](http://arxiv.org/abs/2210.08249v1)|[link](https://github.com/jd-ai-research-nlp/unirpg)|
 |**2022-10-14**|**MiQA: A Benchmark for Inference on Metaphorical Questions**|Iulia-Maria Comsa et.al.|[2210.07993v1](http://arxiv.org/abs/2210.07993v1)|null|
 |**2022-10-14**|**PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population**|Tianqing Fang et.al.|[2210.07988v1](http://arxiv.org/abs/2210.07988v1)|[link](https://github.com/hkust-knowcomp/pseudoreasoner)|
-|**2022-10-14**|**Hybrid Reinforced Medical Report Generation with M-Linear Attention and Repetition Penalty**|Wenting Xu et.al.|[2210.13729v1](http://arxiv.org/abs/2210.13729v1)|null|
-|**2022-10-14**|**Dense-ATOMIC: Construction of Densely-connected and Multi-hop Commonsense Knowledge Graph upon ATOMIC**|Xiangqing Shen et.al.|[2210.07621v1](http://arxiv.org/abs/2210.07621v1)|null|
-|**2022-10-14**|**MICO: A Multi-alternative Contrastive Learning Framework for Commonsense Knowledge Representation**|Ying Su et.al.|[2210.07570v1](http://arxiv.org/abs/2210.07570v1)|[link](https://github.com/hkust-knowcomp/mico)|
-|**2022-10-14**|**SQA3D: Situated Question Answering in 3D Scenes**|Xiaojian Ma et.al.|[2210.07474v2](http://arxiv.org/abs/2210.07474v2)|null|
-|**2022-10-14**|**"John is 50 years old, can his son be 65?" Evaluating NLP Models' Understanding of Feasibility**|Himanshu Gupta et.al.|[2210.07471v1](http://arxiv.org/abs/2210.07471v1)|null|
-|**2022-10-14**|**COFFEE: Counterfactual Fairness for Personalized Text Generation in Explainable Recommendation**|Nan Wang et.al.|[2210.15500v1](http://arxiv.org/abs/2210.15500v1)|null|
-|**2022-10-13**|**Behavior Cloned Transformers are Neurosymbolic Reasoners**|Ruoyao Wang et.al.|[2210.07382v1](http://arxiv.org/abs/2210.07382v1)|null|
-|**2022-10-13**|**Joint Reasoning on Hybrid-knowledge sources for Task-Oriented Dialog**|Mayank Mishra et.al.|[2210.07295v1](http://arxiv.org/abs/2210.07295v1)|null|
