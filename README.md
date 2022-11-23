@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-23 09:35:48
+ Automated deployment @ 2022-11-23 20:35:41
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-22**|**Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions**|Satwik Bhattamishra et.al.|[2211.12316v1](http://arxiv.org/abs/2211.12316v1)|null|
 |**2022-11-21**|**Unsupervised Explanation Generation via Correct Instantiations**|Sijie Cheng et.al.|[2211.11160v1](http://arxiv.org/abs/2211.11160v1)|null|
 |**2022-11-20**|**Explaining (Sarcastic) Utterances to Enhance Affect Understanding in Multimodal Dialogues**|Shivani Kumar et.al.|[2211.11049v2](http://arxiv.org/abs/2211.11049v2)|null|
 |**2022-11-18**|**Towards Explaining Subjective Ground of Individuals on Social Media**|Younghun Lee et.al.|[2211.09953v1](http://arxiv.org/abs/2211.09953v1)|[link](https://github.com/younggns/subjective-ground)|
@@ -19,13 +20,16 @@
 |**2022-11-15**|**Relationship of the language distance to English ability of a country**|Cao Xinxin et.al.|[2211.07855v1](http://arxiv.org/abs/2211.07855v1)|null|
 |**2022-11-14**|**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**|Swarnadeep Saha et.al.|[2211.07517v1](http://arxiv.org/abs/2211.07517v1)|[link](https://github.com/swarnahub/explanationhardness)|
 |**2022-11-14**|**Does Debiasing Inevitably Degrade the Model Performance**|Yiran Liu et.al.|[2211.07350v1](http://arxiv.org/abs/2211.07350v1)|null|
-|**2022-11-12**|**ConceptX: A Framework for Latent Concept Analysis**|Firoj Alam et.al.|[2211.06642v1](http://arxiv.org/abs/2211.06642v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-22**|**Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions**|Satwik Bhattamishra et.al.|[2211.12316v1](http://arxiv.org/abs/2211.12316v1)|null|
+|**2022-11-22**|**Best-$k$ Search Algorithm for Neural Text Generation**|Jiacheng Xu et.al.|[2211.11924v1](http://arxiv.org/abs/2211.11924v1)|null|
+|**2022-11-21**|**Evaluating the Knowledge Dependency of Questions**|Hyeongdon Moon et.al.|[2211.11902v1](http://arxiv.org/abs/2211.11902v1)|[link](https://github.com/riiid/question-score)|
+|**2022-11-21**|**Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference**|Eric Mitchell et.al.|[2211.11875v1](http://arxiv.org/abs/2211.11875v1)|null|
 |**2022-11-21**|**Legal and Political Stance Detection of SCOTUS Language**|Noah Bergam et.al.|[2211.11724v1](http://arxiv.org/abs/2211.11724v1)|null|
 |**2022-11-21**|**SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-training**|Yuanze Lin et.al.|[2211.11446v2](http://arxiv.org/abs/2211.11446v2)|null|
 |**2022-11-21**|**LSTM based models stability in the context of Sentiment Analysis for social media**|Bousselham El Haddaoui et.al.|[2211.11246v1](http://arxiv.org/abs/2211.11246v1)|null|
@@ -55,18 +59,13 @@
 |**2022-11-15**|**QAmeleon: Multilingual QA with Only 5 Examples**|Priyanka Agrawal et.al.|[2211.08264v1](http://arxiv.org/abs/2211.08264v1)|null|
 |**2022-11-15**|**A Comparative Study of Question Answering over Knowledge Bases**|Khiem Vinh Tran et.al.|[2211.08170v1](http://arxiv.org/abs/2211.08170v1)|[link](https://github.com/tamlhp/kbqa)|
 |**2022-11-15**|**Visually Grounded VQA by Lattice-based Retrieval**|Daniel Reich et.al.|[2211.08086v1](http://arxiv.org/abs/2211.08086v1)|[link](https://github.com/dreichCSL/GQA_generalization_splits)|
-|**2022-11-15**|**An Overview on Controllable Text Generation via Variational Auto-Encoders**|Haoqin Tu et.al.|[2211.07954v1](http://arxiv.org/abs/2211.07954v1)|null|
-|**2022-11-15**|**Teaching Algorithmic Reasoning via In-context Learning**|Hattie Zhou et.al.|[2211.09066v1](http://arxiv.org/abs/2211.09066v1)|null|
-|**2022-11-15**|**A Survey for Efficient Open Domain Question Answering**|Qin Zhang et.al.|[2211.07886v1](http://arxiv.org/abs/2211.07886v1)|null|
-|**2022-11-15**|**Evaluating How Fine-tuning on Bimodal Data Effects Code Generation**|Gabriel Orlanski et.al.|[2211.07842v1](http://arxiv.org/abs/2211.07842v1)|[link](https://github.com/gabeorlanski/bimodal-code-generation)|
-|**2022-11-15**|**Prompting Language Models for Linguistic Structure**|Terra Blevins et.al.|[2211.07830v1](http://arxiv.org/abs/2211.07830v1)|null|
-|**2022-11-14**|**Semantic Similarity Models for Depression Severity Estimation**|Anxo Pérez et.al.|[2211.07624v1](http://arxiv.org/abs/2211.07624v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-22**|**Visually Grounded Commonsense Knowledge Acquisition**|Yuan Yao et.al.|[2211.12054v1](http://arxiv.org/abs/2211.12054v1)|[link](https://github.com/thunlp/clever)|
 |**2022-11-21**|**Unsupervised Explanation Generation via Correct Instantiations**|Sijie Cheng et.al.|[2211.11160v1](http://arxiv.org/abs/2211.11160v1)|null|
 |**2022-11-21**|**Unifying Vision-Language Representation Space with Single-tower Transformer**|Jiho Jang et.al.|[2211.11153v1](http://arxiv.org/abs/2211.11153v1)|null|
 |**2022-11-20**|**VER: Learning Natural Language Representations for Verbalizing Entities and Relations**|Jie Huang et.al.|[2211.11093v1](http://arxiv.org/abs/2211.11093v1)|[link](https://github.com/jeffhj/VER)|
@@ -162,7 +161,7 @@
 |**2022-10-24**|**Universal and Independent: Multilingual Probing Framework for Exhaustive Model Interpretation and Evaluation**|Oleg Serikov et.al.|[2210.13236v1](http://arxiv.org/abs/2210.13236v1)|[link](https://github.com/airi-institute/probing_framework)|
 |**2022-10-24**|**Structural generalization is hard for sequence-to-sequence models**|Yuekun Yao et.al.|[2210.13050v1](http://arxiv.org/abs/2210.13050v1)|[link](https://github.com/coli-saar/syntax-cogs)|
 |**2022-10-24**|**Event-Centric Question Answering via Contrastive Learning and Invertible Event Transformation**|Junru Lu et.al.|[2210.12902v1](http://arxiv.org/abs/2210.12902v1)|[link](https://github.com/lujunru/tranclr)|
-|**2022-10-23**|**Retrieval Augmentation for Commonsense Reasoning: A Unified Approach**|Wenhao Yu et.al.|[2210.12887v1](http://arxiv.org/abs/2210.12887v1)|null|
+|**2022-10-23**|**Retrieval Augmentation for Commonsense Reasoning: A Unified Approach**|Wenhao Yu et.al.|[2210.12887v1](http://arxiv.org/abs/2210.12887v1)|[link](https://github.com/wyu97/raco)|
 |**2022-10-23**|**Towards Pragmatic Production Strategies for Natural Language Generation Tasks**|Mario Giulianelli et.al.|[2210.12828v1](http://arxiv.org/abs/2210.12828v1)|null|
 |**2022-10-23**|**TAPE: Assessing Few-shot Russian Language Understanding**|Ekaterina Taktasheva et.al.|[2210.12813v1](http://arxiv.org/abs/2210.12813v1)|null|
 |**2022-10-23**|**Realistic Data Augmentation Framework for Enhancing Tabular Reasoning**|Dibyakanti Kumar et.al.|[2210.12795v1](http://arxiv.org/abs/2210.12795v1)|null|
@@ -218,5 +217,3 @@
 |**2022-10-16**|**Explainable Causal Analysis of Mental Health on Social Media Data**|Chandni Saxena et.al.|[2210.08430v2](http://arxiv.org/abs/2210.08430v2)|[link](https://github.com/drmuskangarg/cams)|
 |**2022-10-15**|**Improving Radiology Summarization with Radiograph and Anatomy Prompts**|Jinpeng Hu et.al.|[2210.08303v1](http://arxiv.org/abs/2210.08303v1)|null|
 |**2022-10-15**|**UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**|Yongwei Zhou et.al.|[2210.08249v1](http://arxiv.org/abs/2210.08249v1)|[link](https://github.com/jd-ai-research-nlp/unirpg)|
-|**2022-10-14**|**MiQA: A Benchmark for Inference on Metaphorical Questions**|Iulia-Maria Comsa et.al.|[2210.07993v1](http://arxiv.org/abs/2210.07993v1)|null|
-|**2022-10-14**|**PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population**|Tianqing Fang et.al.|[2210.07988v1](http://arxiv.org/abs/2210.07988v1)|[link](https://github.com/hkust-knowcomp/pseudoreasoner)|
