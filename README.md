@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-28 09:25:41
+ Automated deployment @ 2022-11-28 20:35:12
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,22 +8,29 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-25**|**A Deep Learning Anomaly Detection Method in Textual Data**|Amir Jafari et.al.|[2211.13900v1](http://arxiv.org/abs/2211.13900v1)|null|
+|**2022-11-25**|**Complementary Explanations for Effective In-Context Learning**|Xi Ye et.al.|[2211.13892v1](http://arxiv.org/abs/2211.13892v1)|null|
+|**2022-11-23**|**SEAT: Stable and Explainable Attention**|Lijie Hu et.al.|[2211.13290v1](http://arxiv.org/abs/2211.13290v1)|null|
 |**2022-11-23**|**Schrödinger's Bat: Diffusion Models Sometimes Generate Polysemous Words in Superposition**|Jennifer C. White et.al.|[2211.13095v1](http://arxiv.org/abs/2211.13095v1)|[link](https://github.com/rycolab/diffusion-polysemy)|
 |**2022-11-22**|**Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions**|Satwik Bhattamishra et.al.|[2211.12316v1](http://arxiv.org/abs/2211.12316v1)|null|
 |**2022-11-21**|**Unsupervised Explanation Generation via Correct Instantiations**|Sijie Cheng et.al.|[2211.11160v1](http://arxiv.org/abs/2211.11160v1)|null|
 |**2022-11-20**|**Explaining (Sarcastic) Utterances to Enhance Affect Understanding in Multimodal Dialogues**|Shivani Kumar et.al.|[2211.11049v2](http://arxiv.org/abs/2211.11049v2)|null|
-|**2022-11-18**|**Towards Explaining Subjective Ground of Individuals on Social Media**|Younghun Lee et.al.|[2211.09953v1](http://arxiv.org/abs/2211.09953v1)|[link](https://github.com/younggns/subjective-ground)|
-|**2022-11-17**|**Explainability Via Causal Self-Talk**|Nicholas A. Roy et.al.|[2211.09937v1](http://arxiv.org/abs/2211.09937v1)|null|
-|**2022-11-17**|**Feedback is Needed for Retakes: An Explainable Poor Image Notification Framework for the Visually Impaired**|Kazuya Ohata et.al.|[2211.09427v1](http://arxiv.org/abs/2211.09427v1)|null|
-|**2022-11-16**|**Lesion Guided Explainable Few Weak-shot Medical Report Generation**|Jinghan Sun et.al.|[2211.08732v2](http://arxiv.org/abs/2211.08732v2)|[link](https://github.com/jinghansunn/few-weak-shot-rg)|
-|**2022-11-15**|**Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods**|Josip Jukić et.al.|[2211.08369v1](http://arxiv.org/abs/2211.08369v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-25**|**Solving math word problems with process- and outcome-based feedback**|Jonathan Uesato et.al.|[2211.14275v1](http://arxiv.org/abs/2211.14275v1)|null|
+|**2022-11-25**|**GPT-3-driven pedagogical agents for training children's curious question-asking skills**|Rania Abdelghani et.al.|[2211.14228v1](http://arxiv.org/abs/2211.14228v1)|null|
+|**2022-11-25**|**TRAC: A Textual Benchmark for Reasoning about Actions and Change**|Weinan He et.al.|[2211.13930v1](http://arxiv.org/abs/2211.13930v1)|null|
+|**2022-11-24**|**Question Answering and Question Generation for Finnish**|Ilmari Kylliäinen et.al.|[2211.13794v1](http://arxiv.org/abs/2211.13794v1)|null|
+|**2022-11-24**|**Question-type Identification for Academic Questions in Online Learning Platform**|Azam Rabiee et.al.|[2211.13727v1](http://arxiv.org/abs/2211.13727v1)|null|
+|**2022-11-24**|**TSGP: Two-Stage Generative Prompting for Unsupervised Commonsense Question Answering**|Yueqing Sun et.al.|[2211.13515v1](http://arxiv.org/abs/2211.13515v1)|null|
+|**2022-11-24**|**Seeing What You Miss: Vision-Language Pre-training with Semantic Completion Learning**|Yatai Ji et.al.|[2211.13437v1](http://arxiv.org/abs/2211.13437v1)|null|
+|**2022-11-23**|**SEAT: Stable and Explainable Attention**|Lijie Hu et.al.|[2211.13290v1](http://arxiv.org/abs/2211.13290v1)|null|
 |**2022-11-23**|**SeedBERT: Recovering Annotator Rating Distributions from an Aggregated Label**|Aneesha Sampath et.al.|[2211.13196v1](http://arxiv.org/abs/2211.13196v1)|null|
+|**2022-11-23**|**Unified Multimodal Model with Unlikelihood Training for Visual Dialog**|Zihao Wang et.al.|[2211.13235v1](http://arxiv.org/abs/2211.13235v1)|[link](https://github.com/zihaow123/unimm)|
 |**2022-11-23**|**Automatic Generation of Socratic Subquestions for Teaching Math Word Problems**|Kumar Shridhar et.al.|[2211.12835v1](http://arxiv.org/abs/2211.12835v1)|[link](https://github.com/eth-nlped/scaffolding-generation)|
 |**2022-11-23**|**Can Open-Domain QA Reader Utilize External Knowledge Efficiently like Humans?**|Neeraj Varshney et.al.|[2211.12707v1](http://arxiv.org/abs/2211.12707v1)|null|
 |**2022-11-23**|**DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data**|Xiao Li et.al.|[2211.12668v1](http://arxiv.org/abs/2211.12668v1)|[link](https://github.com/nju-websoft/dyrren)|
@@ -46,18 +53,17 @@
 |**2022-11-17**|**Is the Elephant Flying? Resolving Ambiguities in Text-to-Image Generative Models**|Ninareh Mehrabi et.al.|[2211.12503v1](http://arxiv.org/abs/2211.12503v1)|null|
 |**2022-11-17**|**Feature-augmented Machine Reading Comprehension with Auxiliary Tasks**|Yifeng Xie et.al.|[2211.09438v1](http://arxiv.org/abs/2211.09438v1)|null|
 |**2022-11-17**|**Open-Domain Conversational Question Answering with Historical Answers**|Hung-Chieh Fang et.al.|[2211.09401v1](http://arxiv.org/abs/2211.09401v1)|[link](https://github.com/miulab/convadr-qa)|
-|**2022-11-17**|**Data-Efficient Autoregressive Document Retrieval for Fact Verification**|James Thorne et.al.|[2211.09388v1](http://arxiv.org/abs/2211.09388v1)|null|
-|**2022-11-16**|**Unified Question Answering in Slovene**|Katja Logar et.al.|[2211.09159v1](http://arxiv.org/abs/2211.09159v1)|[link](https://github.com/klogar/qaslovene)|
-|**2022-11-16**|**Holistic Evaluation of Language Models**|Percy Liang et.al.|[2211.09110v1](http://arxiv.org/abs/2211.09110v1)|[link](https://github.com/stanford-crfm/helm)|
-|**2022-11-16**|**Consecutive Question Generation via Dynamic Multitask Learning**|Yunji Li et.al.|[2211.08850v1](http://arxiv.org/abs/2211.08850v1)|null|
-|**2022-11-16**|**RetroMAE v2: Duplex Masked Auto-Encoder For Pre-Training Retrieval-Oriented Language Models**|Shitao Xiao et.al.|[2211.08769v1](http://arxiv.org/abs/2211.08769v1)|[link](https://github.com/staoxiao/retromae)|
-|**2022-11-15**|**MapQA: A Dataset for Question Answering on Choropleth Maps**|Shuaichen Chang et.al.|[2211.08545v1](http://arxiv.org/abs/2211.08545v1)|[link](https://github.com/osu-slatelab/mapqa)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-25**|**Solving math word problems with process- and outcome-based feedback**|Jonathan Uesato et.al.|[2211.14275v1](http://arxiv.org/abs/2211.14275v1)|null|
+|**2022-11-25**|**TRAC: A Textual Benchmark for Reasoning about Actions and Change**|Weinan He et.al.|[2211.13930v1](http://arxiv.org/abs/2211.13930v1)|null|
+|**2022-11-25**|**Complementary Explanations for Effective In-Context Learning**|Xi Ye et.al.|[2211.13892v1](http://arxiv.org/abs/2211.13892v1)|null|
+|**2022-11-25**|**TPA-Net: Generate A Dataset for Text to Physics-based Animation**|Yuxing Qiu et.al.|[2211.13887v1](http://arxiv.org/abs/2211.13887v1)|null|
+|**2022-11-24**|**TSGP: Two-Stage Generative Prompting for Unsupervised Commonsense Question Answering**|Yueqing Sun et.al.|[2211.13515v1](http://arxiv.org/abs/2211.13515v1)|null|
 |**2022-11-23**|**SeedBERT: Recovering Annotator Rating Distributions from an Aggregated Label**|Aneesha Sampath et.al.|[2211.13196v1](http://arxiv.org/abs/2211.13196v1)|null|
 |**2022-11-23**|**Automatic Generation of Socratic Subquestions for Teaching Math Word Problems**|Kumar Shridhar et.al.|[2211.12835v1](http://arxiv.org/abs/2211.12835v1)|[link](https://github.com/eth-nlped/scaffolding-generation)|
 |**2022-11-23**|**Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation**|Tsu-Jui Fu et.al.|[2211.12824v1](http://arxiv.org/abs/2211.12824v1)|null|
@@ -207,8 +213,3 @@
 |**2022-10-17**|**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**|Mirac Suzgun et.al.|[2210.09261v1](http://arxiv.org/abs/2210.09261v1)|[link](https://github.com/suzgunmirac/big-bench-hard)|
 |**2022-10-17**|**PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance**|Yang Deng et.al.|[2210.08817v1](http://arxiv.org/abs/2210.08817v1)|[link](https://github.com/dengyang17/pacific)|
 |**2022-10-17**|**ReasonChainQA: Text-based Complex Question Answering with Explainable Evidence Chains**|Minjun Zhu et.al.|[2210.08763v1](http://arxiv.org/abs/2210.08763v1)|null|
-|**2022-10-17**|**Attributed Text Generation via Post-hoc Research and Revision**|Luyu Gao et.al.|[2210.08726v1](http://arxiv.org/abs/2210.08726v1)|null|
-|**2022-10-16**|**Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs**|Ruijie Wang et.al.|[2210.08654v1](http://arxiv.org/abs/2210.08654v1)|null|
-|**2022-10-16**|**NormSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly**|Yi R. Fung et.al.|[2210.08604v1](http://arxiv.org/abs/2210.08604v1)|null|
-|**2022-10-16**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|[link](https://github.com/idea-ccnl/fengshenbang-lm)|
-|**2022-10-16**|**COFAR: Commonsense and Factual Reasoning in Image Search**|Prajwal Gatti et.al.|[2210.08554v1](http://arxiv.org/abs/2210.08554v1)|null|
