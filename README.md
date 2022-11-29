@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-29 09:28:09
+ Automated deployment @ 2022-11-29 20:35:14
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,19 +8,34 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-28**|**Sentiment analysis and opinion mining on E-commerce site**|Fatema Tuz Zohra Anny et.al.|[2211.15536v1](http://arxiv.org/abs/2211.15536v1)|null|
+|**2022-11-28**|**Distance Metric Learning Loss Functions in Few-Shot Scenarios of Supervised Language Models Fine-Tuning**|Witold Sosnowski et.al.|[2211.15195v1](http://arxiv.org/abs/2211.15195v1)|null|
+|**2022-11-26**|**A Survey of Text Representation Methods and Their Genealogy**|Philipp Siebers et.al.|[2211.14591v1](http://arxiv.org/abs/2211.14591v1)|null|
+|**2022-11-25**|**Interpretability Analysis of Deep Models for COVID-19 Detection**|Daniel Peixoto Pinto da Silva et.al.|[2211.14372v1](http://arxiv.org/abs/2211.14372v1)|null|
+|**2022-11-25**|**CodeExp: Explanatory Code Document Generation**|Haotian Cui et.al.|[2211.15395v1](http://arxiv.org/abs/2211.15395v1)|[link](https://github.com/subercui/codeexp)|
+|**2022-11-25**|**Testing the effectiveness of saliency-based explainability in NLP using randomized survey-based experiments**|Adel Rahimi et.al.|[2211.15351v1](http://arxiv.org/abs/2211.15351v1)|null|
 |**2022-11-25**|**A Deep Learning Anomaly Detection Method in Textual Data**|Amir Jafari et.al.|[2211.13900v1](http://arxiv.org/abs/2211.13900v1)|null|
 |**2022-11-25**|**Complementary Explanations for Effective In-Context Learning**|Xi Ye et.al.|[2211.13892v1](http://arxiv.org/abs/2211.13892v1)|null|
+|**2022-11-24**|**Bidirectional Representations for Low Resource Spoken Language Understanding**|Quentin Meeus et.al.|[2211.14320v1](http://arxiv.org/abs/2211.14320v1)|null|
 |**2022-11-23**|**SEAT: Stable and Explainable Attention**|Lijie Hu et.al.|[2211.13290v1](http://arxiv.org/abs/2211.13290v1)|null|
 |**2022-11-23**|**Schrödinger's Bat: Diffusion Models Sometimes Generate Polysemous Words in Superposition**|Jennifer C. White et.al.|[2211.13095v1](http://arxiv.org/abs/2211.13095v1)|[link](https://github.com/rycolab/diffusion-polysemy)|
 |**2022-11-22**|**Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions**|Satwik Bhattamishra et.al.|[2211.12316v1](http://arxiv.org/abs/2211.12316v1)|null|
-|**2022-11-21**|**Unsupervised Explanation Generation via Correct Instantiations**|Sijie Cheng et.al.|[2211.11160v1](http://arxiv.org/abs/2211.11160v1)|null|
-|**2022-11-20**|**Explaining (Sarcastic) Utterances to Enhance Affect Understanding in Multimodal Dialogues**|Shivani Kumar et.al.|[2211.11049v2](http://arxiv.org/abs/2211.11049v2)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-28**|**Frustratingly Easy Label Projection for Cross-lingual Transfer**|Yang Chen et.al.|[2211.15613v1](http://arxiv.org/abs/2211.15613v1)|null|
+|**2022-11-28**|**On the Effectiveness of Parameter-Efficient Fine-Tuning**|Zihao Fu et.al.|[2211.15583v1](http://arxiv.org/abs/2211.15583v1)|[link](https://github.com/fuzihaofzh/analyzeparameterefficientfinetune)|
+|**2022-11-28**|**Automatically generating question-answer pairs for assessing basic reading comprehension in Swedish**|Dmytro Kalpakchi et.al.|[2211.15568v1](http://arxiv.org/abs/2211.15568v1)|null|
+|**2022-11-28**|**Attack on Unfair ToS Clause Detection: A Case Study using Universal Adversarial Triggers**|Shanshan Xu et.al.|[2211.15556v1](http://arxiv.org/abs/2211.15556v1)|null|
+|**2022-11-28**|**On the Security Vulnerabilities of Text-to-SQL Models**|Xutan Peng et.al.|[2211.15363v1](http://arxiv.org/abs/2211.15363v1)|null|
+|**2022-11-28**|**A Survey on Conversational Search and Applications in Biomedicine**|Naga Sai Krishna Adatrao et.al.|[2211.15328v1](http://arxiv.org/abs/2211.15328v1)|null|
+|**2022-11-28**|**Fine-tuning language models to find agreement among humans with diverse preferences**|Michiel A. Bakker et.al.|[2211.15006v1](http://arxiv.org/abs/2211.15006v1)|null|
+|**2022-11-27**|**Improving Low-Resource Question Answering using Active Learning in Multiple Stages**|Maximilian Schmidt et.al.|[2211.14880v1](http://arxiv.org/abs/2211.14880v1)|null|
+|**2022-11-27**|**Understanding BLOOM: An empirical study on diverse NLP tasks**|Parag Pravin Dakle et.al.|[2211.14865v1](http://arxiv.org/abs/2211.14865v1)|null|
+|**2022-11-27**|**Alignment-Enriched Tuning for Patch-Level Pre-trained Document Image Models**|Lei Wang et.al.|[2211.14777v1](http://arxiv.org/abs/2211.14777v1)|[link](https://github.com/maehcm/aet)|
 |**2022-11-25**|**Solving math word problems with process- and outcome-based feedback**|Jonathan Uesato et.al.|[2211.14275v1](http://arxiv.org/abs/2211.14275v1)|null|
 |**2022-11-25**|**GPT-3-driven pedagogical agents for training children's curious question-asking skills**|Rania Abdelghani et.al.|[2211.14228v1](http://arxiv.org/abs/2211.14228v1)|null|
 |**2022-11-25**|**TRAC: A Textual Benchmark for Reasoning about Actions and Change**|Weinan He et.al.|[2211.13930v1](http://arxiv.org/abs/2211.13930v1)|null|
@@ -45,21 +60,16 @@
 |**2022-11-19**|**ReInform: Selecting paths with reinforcement learning for contextualized link prediction**|Marina Speranskaya et.al.|[2211.10688v1](http://arxiv.org/abs/2211.10688v1)|[link](https://github.com/marina-sp/reinform)|
 |**2022-11-18**|**Visual Programming: Compositional visual reasoning without training**|Tanmay Gupta et.al.|[2211.11559v1](http://arxiv.org/abs/2211.11559v1)|null|
 |**2022-11-18**|**DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation**|Yuhang Lai et.al.|[2211.11501v1](http://arxiv.org/abs/2211.11501v1)|[link](https://github.com/HKUNLP/DS-1000)|
-|**2022-11-18**|**A Copy Mechanism for Handling Knowledge Base Elements in SPARQL Neural Machine Translation**|Rose Hirigoyen et.al.|[2211.10271v1](http://arxiv.org/abs/2211.10271v1)|null|
-|**2022-11-18**|**FiE: Building a Global Probability Space by Leveraging Early Fusion in Encoder for Open-Domain Question Answering**|Akhil Kedia et.al.|[2211.10147v1](http://arxiv.org/abs/2211.10147v1)|[link](https://github.com/facebookresearch/FiD)|
-|**2022-11-17**|**Summarizing Community-based Question-Answer Pairs**|Ting-Yao Hsu et.al.|[2211.09892v1](http://arxiv.org/abs/2211.09892v1)|null|
-|**2022-11-17**|**ProtSi: Prototypical Siamese Network with Data Augmentation for Few-Shot Subjective Answer Evaluation**|Yining Lu et.al.|[2211.09855v1](http://arxiv.org/abs/2211.09855v1)|null|
-|**2022-11-17**|**I Can't Believe There's No Images! Learning Visual Tasks Using only Language Data**|Sophia Gu et.al.|[2211.09778v1](http://arxiv.org/abs/2211.09778v1)|null|
-|**2022-11-17**|**Is the Elephant Flying? Resolving Ambiguities in Text-to-Image Generative Models**|Ninareh Mehrabi et.al.|[2211.12503v1](http://arxiv.org/abs/2211.12503v1)|null|
-|**2022-11-17**|**Feature-augmented Machine Reading Comprehension with Auxiliary Tasks**|Yifeng Xie et.al.|[2211.09438v1](http://arxiv.org/abs/2211.09438v1)|null|
-|**2022-11-17**|**Open-Domain Conversational Question Answering with Historical Answers**|Hung-Chieh Fang et.al.|[2211.09401v1](http://arxiv.org/abs/2211.09401v1)|[link](https://github.com/miulab/convadr-qa)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-28**|**GPT-Neo for commonsense reasoning-a theoretical and practical lens**|Rohan Kashyap et.al.|[2211.15593v1](http://arxiv.org/abs/2211.15593v1)|null|
+|**2022-11-28**|**Scientific and Creative Analogies in Pretrained Language Models**|Tamara Czinczoll et.al.|[2211.15268v1](http://arxiv.org/abs/2211.15268v1)|null|
 |**2022-11-25**|**Solving math word problems with process- and outcome-based feedback**|Jonathan Uesato et.al.|[2211.14275v1](http://arxiv.org/abs/2211.14275v1)|null|
+|**2022-11-25**|**Semantic Table Detection with LayoutLMv3**|Ivan Silajev et.al.|[2211.15504v1](http://arxiv.org/abs/2211.15504v1)|null|
 |**2022-11-25**|**TRAC: A Textual Benchmark for Reasoning about Actions and Change**|Weinan He et.al.|[2211.13930v1](http://arxiv.org/abs/2211.13930v1)|null|
 |**2022-11-25**|**Complementary Explanations for Effective In-Context Learning**|Xi Ye et.al.|[2211.13892v1](http://arxiv.org/abs/2211.13892v1)|null|
 |**2022-11-25**|**TPA-Net: Generate A Dataset for Text to Physics-based Animation**|Yuxing Qiu et.al.|[2211.13887v1](http://arxiv.org/abs/2211.13887v1)|null|
@@ -209,7 +219,3 @@
 |**2022-10-18**|**SafeText: A Benchmark for Exploring Physical Safety in Language Models**|Sharon Levy et.al.|[2210.10045v1](http://arxiv.org/abs/2210.10045v1)|null|
 |**2022-10-18**|**Team Flow at DRC2022: Pipeline System for Travel Destination Recommendation Task in Spoken Dialogue**|Ryu Hirai et.al.|[2210.09518v1](http://arxiv.org/abs/2210.09518v1)|null|
 |**2022-10-18**|**Systematicity in GPT-3's Interpretation of Novel English Noun Compounds**|Siyan Li et.al.|[2210.09492v1](http://arxiv.org/abs/2210.09492v1)|null|
-|**2022-10-17**|**Deep Bidirectional Language-Knowledge Graph Pretraining**|Michihiro Yasunaga et.al.|[2210.09338v2](http://arxiv.org/abs/2210.09338v2)|[link](https://github.com/michiyasunaga/dragon)|
-|**2022-10-17**|**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**|Mirac Suzgun et.al.|[2210.09261v1](http://arxiv.org/abs/2210.09261v1)|[link](https://github.com/suzgunmirac/big-bench-hard)|
-|**2022-10-17**|**PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance**|Yang Deng et.al.|[2210.08817v1](http://arxiv.org/abs/2210.08817v1)|[link](https://github.com/dengyang17/pacific)|
-|**2022-10-17**|**ReasonChainQA: Text-based Complex Question Answering with Explainable Evidence Chains**|Minjun Zhu et.al.|[2210.08763v1](http://arxiv.org/abs/2210.08763v1)|null|
