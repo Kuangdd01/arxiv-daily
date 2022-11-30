@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-30 09:28:10
+ Automated deployment @ 2022-11-30 20:37:08
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
 |**2022-11-28**|**Sentiment analysis and opinion mining on E-commerce site**|Fatema Tuz Zohra Anny et.al.|[2211.15536v1](http://arxiv.org/abs/2211.15536v1)|null|
 |**2022-11-28**|**Distance Metric Learning Loss Functions in Few-Shot Scenarios of Supervised Language Models Fine-Tuning**|Witold Sosnowski et.al.|[2211.15195v1](http://arxiv.org/abs/2211.15195v1)|null|
 |**2022-11-26**|**A Survey of Text Representation Methods and Their Genealogy**|Philipp Siebers et.al.|[2211.14591v1](http://arxiv.org/abs/2211.14591v1)|null|
@@ -19,13 +20,18 @@
 |**2022-11-24**|**Bidirectional Representations for Low Resource Spoken Language Understanding**|Quentin Meeus et.al.|[2211.14320v1](http://arxiv.org/abs/2211.14320v1)|null|
 |**2022-11-23**|**SEAT: Stable and Explainable Attention**|Lijie Hu et.al.|[2211.13290v1](http://arxiv.org/abs/2211.13290v1)|null|
 |**2022-11-23**|**Schrödinger's Bat: Diffusion Models Sometimes Generate Polysemous Words in Superposition**|Jennifer C. White et.al.|[2211.13095v1](http://arxiv.org/abs/2211.13095v1)|[link](https://github.com/rycolab/diffusion-polysemy)|
-|**2022-11-22**|**Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions**|Satwik Bhattamishra et.al.|[2211.12316v1](http://arxiv.org/abs/2211.12316v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-29**|**TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages**|Anirudh Srinivasan et.al.|[2211.16496v1](http://arxiv.org/abs/2211.16496v1)|[link](https://github.com/genius1237/tydip)|
+|**2022-11-29**|**Which Shortcut Solution Do Question Answering Models Prefer to Learn?**|Kazutoshi Shinoda et.al.|[2211.16220v1](http://arxiv.org/abs/2211.16220v1)|[link](https://github.com/kazutoshishinoda/shortcutlearnability)|
+|**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
+|**2022-11-29**|**Penalizing Confident Predictions on Largely Perturbed Inputs Does Not Improve Out-of-Distribution Generalization in Question Answering**|Kazutoshi Shinoda et.al.|[2211.16093v1](http://arxiv.org/abs/2211.16093v1)|null|
+|**2022-11-29**|**Diverse Multi-Answer Retrieval with Determinantal Point Processes**|Poojitha Nandigam et.al.|[2211.16029v1](http://arxiv.org/abs/2211.16029v1)|null|
+|**2022-11-29**|**Democratizing Machine Learning for Interdisciplinary Scholars: Report on Organizing the NLP+CSS Online Tutorial Series**|Ian Stewart et.al.|[2211.15971v1](http://arxiv.org/abs/2211.15971v1)|null|
 |**2022-11-28**|**Frustratingly Easy Label Projection for Cross-lingual Transfer**|Yang Chen et.al.|[2211.15613v1](http://arxiv.org/abs/2211.15613v1)|null|
 |**2022-11-28**|**On the Effectiveness of Parameter-Efficient Fine-Tuning**|Zihao Fu et.al.|[2211.15583v1](http://arxiv.org/abs/2211.15583v1)|[link](https://github.com/fuzihaofzh/analyzeparameterefficientfinetune)|
 |**2022-11-28**|**Automatically generating question-answer pairs for assessing basic reading comprehension in Swedish**|Dmytro Kalpakchi et.al.|[2211.15568v1](http://arxiv.org/abs/2211.15568v1)|[link](https://github.com/dkalpakchi/swe_quinductor)|
@@ -51,21 +57,20 @@
 |**2022-11-23**|**DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data**|Xiao Li et.al.|[2211.12668v1](http://arxiv.org/abs/2211.12668v1)|[link](https://github.com/nju-websoft/dyrren)|
 |**2022-11-22**|**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**|Wenhu Chen et.al.|[2211.12588v3](http://arxiv.org/abs/2211.12588v3)|[link](https://github.com/wenhuchen/program-of-thoughts)|
 |**2022-11-22**|**Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions**|Satwik Bhattamishra et.al.|[2211.12316v1](http://arxiv.org/abs/2211.12316v1)|null|
+|**2022-11-22**|**Benchmarking Evaluation Metrics for Code-Switching Automatic Speech Recognition**|Injy Hamed et.al.|[2211.16319v1](http://arxiv.org/abs/2211.16319v1)|null|
 |**2022-11-22**|**Best-$k$ Search Algorithm for Neural Text Generation**|Jiacheng Xu et.al.|[2211.11924v1](http://arxiv.org/abs/2211.11924v1)|null|
 |**2022-11-21**|**Evaluating the Knowledge Dependency of Questions**|Hyeongdon Moon et.al.|[2211.11902v1](http://arxiv.org/abs/2211.11902v1)|[link](https://github.com/riiid/question-score)|
 |**2022-11-21**|**Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference**|Eric Mitchell et.al.|[2211.11875v1](http://arxiv.org/abs/2211.11875v1)|null|
 |**2022-11-21**|**Legal and Political Stance Detection of SCOTUS Language**|Noah Bergam et.al.|[2211.11724v1](http://arxiv.org/abs/2211.11724v1)|null|
-|**2022-11-21**|**SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-training**|Yuanze Lin et.al.|[2211.11446v2](http://arxiv.org/abs/2211.11446v2)|null|
-|**2022-11-21**|**LSTM based models stability in the context of Sentiment Analysis for social media**|Bousselham El Haddaoui et.al.|[2211.11246v1](http://arxiv.org/abs/2211.11246v1)|null|
-|**2022-11-19**|**ReInform: Selecting paths with reinforcement learning for contextualized link prediction**|Marina Speranskaya et.al.|[2211.10688v1](http://arxiv.org/abs/2211.10688v1)|[link](https://github.com/marina-sp/reinform)|
-|**2022-11-18**|**Visual Programming: Compositional visual reasoning without training**|Tanmay Gupta et.al.|[2211.11559v1](http://arxiv.org/abs/2211.11559v1)|null|
-|**2022-11-18**|**DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation**|Yuhang Lai et.al.|[2211.11501v1](http://arxiv.org/abs/2211.11501v1)|[link](https://github.com/HKUNLP/DS-1000)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-29**|**Abstract Visual Reasoning with Tangram Shapes**|Anya Ji et.al.|[2211.16492v1](http://arxiv.org/abs/2211.16492v1)|null|
+|**2022-11-29**|**Chaining Simultaneous Thoughts for Numerical Reasoning**|Zhihong Shao et.al.|[2211.16482v1](http://arxiv.org/abs/2211.16482v1)|null|
+|**2022-11-29**|**Dependency-aware Self-training for Entity Alignment**|Bing Liu et.al.|[2211.16101v1](http://arxiv.org/abs/2211.16101v1)|[link](https://github.com/uqbingliu/stea)|
 |**2022-11-28**|**GPT-Neo for commonsense reasoning-a theoretical and practical lens**|Rohan Kashyap et.al.|[2211.15593v1](http://arxiv.org/abs/2211.15593v1)|null|
 |**2022-11-28**|**Scientific and Creative Analogies in Pretrained Language Models**|Tamara Czinczoll et.al.|[2211.15268v1](http://arxiv.org/abs/2211.15268v1)|null|
 |**2022-11-25**|**Solving math word problems with process- and outcome-based feedback**|Jonathan Uesato et.al.|[2211.14275v1](http://arxiv.org/abs/2211.14275v1)|null|
@@ -132,7 +137,7 @@
 |**2022-11-03**|**Overcoming Barriers to Skill Injection in Language Modeling: Case Study in Arithmetic**|Mandar Sharma et.al.|[2211.02098v1](http://arxiv.org/abs/2211.02098v1)|[link](https://github.com/mandar-sharma/overcomingbarriers)|
 |**2022-11-03**|**lilGym: Natural Language Visual Reasoning with Reinforcement Learning**|Anne Wu et.al.|[2211.01994v1](http://arxiv.org/abs/2211.01994v1)|null|
 |**2022-11-03**|**From Spelling to Grammar: A New Framework for Chinese Grammatical Error Correction**|Xiuyu Wu et.al.|[2211.01625v1](http://arxiv.org/abs/2211.01625v1)|null|
-|**2022-11-03**|**PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales**|Peifeng Wang et.al.|[2211.01562v2](http://arxiv.org/abs/2211.01562v2)|null|
+|**2022-11-03**|**PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales**|Peifeng Wang et.al.|[2211.01562v2](http://arxiv.org/abs/2211.01562v2)|[link](https://github.com/wangpf3/pinto-faithful-language-reasoning)|
 |**2022-11-02**|**Passage-Mask: A Learnable Regularization Strategy for Retriever-Reader Models**|Shujian Zhang et.al.|[2211.00915v2](http://arxiv.org/abs/2211.00915v2)|null|
 |**2022-11-01**|**Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality**|Anuj Diwan et.al.|[2211.00768v3](http://arxiv.org/abs/2211.00768v3)|[link](https://github.com/ajd12342/why-winoground-hard)|
 |**2022-11-01**|**Preserving In-Context Learning ability in Large Language Model Fine-tuning**|Yihan Wang et.al.|[2211.00635v1](http://arxiv.org/abs/2211.00635v1)|null|
@@ -215,7 +220,3 @@
 |**2022-10-20**|**Wait-info Policy: Balancing Source and Target at Information Level for Simultaneous Machine Translation**|Shaolei Zhang et.al.|[2210.11220v1](http://arxiv.org/abs/2210.11220v1)|[link](https://github.com/ictnlp/wait-info)|
 |**2022-10-19**|**MuGER$^2$: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**|Yingyao Wang et.al.|[2210.10350v1](http://arxiv.org/abs/2210.10350v1)|[link](https://github.com/wenhuchen/HybridQA)|
 |**2022-10-18**|**JECC: Commonsense Reasoning Tasks Derived from Interactive Fictions**|Mo Yu et.al.|[2210.15456v1](http://arxiv.org/abs/2210.15456v1)|[link](https://github.com/gorov/zucc)|
-|**2022-10-18**|**ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler**|Jiaxin Zhang et.al.|[2210.10105v2](http://arxiv.org/abs/2210.10105v2)|[link](https://github.com/neurasearch/neurips-2022-submission-3358)|
-|**2022-10-18**|**SafeText: A Benchmark for Exploring Physical Safety in Language Models**|Sharon Levy et.al.|[2210.10045v1](http://arxiv.org/abs/2210.10045v1)|null|
-|**2022-10-18**|**Team Flow at DRC2022: Pipeline System for Travel Destination Recommendation Task in Spoken Dialogue**|Ryu Hirai et.al.|[2210.09518v1](http://arxiv.org/abs/2210.09518v1)|null|
-|**2022-10-18**|**Systematicity in GPT-3's Interpretation of Novel English Noun Compounds**|Siyan Li et.al.|[2210.09492v1](http://arxiv.org/abs/2210.09492v1)|null|
