@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-01 09:45:18
+ Automated deployment @ 2022-12-01 20:36:12
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-30**|**Logic and Commonsense-Guided Temporal Knowledge Graph Completion**|Guanglin Niu et.al.|[2211.16865v1](http://arxiv.org/abs/2211.16865v1)|null|
+|**2022-11-29**|**Better Transcription of UK Supreme Court Hearings**|Hadeel Saadany et.al.|[2211.17094v1](http://arxiv.org/abs/2211.17094v1)|null|
 |**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
 |**2022-11-28**|**Sentiment analysis and opinion mining on E-commerce site**|Fatema Tuz Zohra Anny et.al.|[2211.15536v1](http://arxiv.org/abs/2211.15536v1)|null|
 |**2022-11-28**|**Distance Metric Learning Loss Functions in Few-Shot Scenarios of Supervised Language Models Fine-Tuning**|Witold Sosnowski et.al.|[2211.15195v1](http://arxiv.org/abs/2211.15195v1)|null|
@@ -26,6 +28,13 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-30**|**CREPE: Open-Domain Question Answering with False Presuppositions**|Xinyan Velocity Yu et.al.|[2211.17257v1](http://arxiv.org/abs/2211.17257v1)|[link](https://github.com/velocitycavalry/crepe)|
+|**2022-11-30**|**A Pipeline for Generating, Annotating and Employing Synthetic Data for Real World Question Answering**|Matthew Maufe et.al.|[2211.16971v1](http://arxiv.org/abs/2211.16971v1)|null|
+|**2022-11-30**|**AIONER: All-in-one scheme-based biomedical named entity recognition using deep learning**|Ling Luo et.al.|[2211.16944v1](http://arxiv.org/abs/2211.16944v1)|null|
+|**2022-11-30**|**Transformers are Short Text Classifiers: A Study of Inductive Short Text Classifiers on Benchmarks and Real-world Datasets**|Fabian Karl et.al.|[2211.16878v1](http://arxiv.org/abs/2211.16878v1)|[link](https://github.com/FKarl/short-text-classification)|
+|**2022-11-30**|**Revisiting text decomposition methods for NLI-based factuality scoring of summaries**|John Glover et.al.|[2211.16853v1](http://arxiv.org/abs/2211.16853v1)|null|
+|**2022-11-30**|**A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods**|Shantanu Jaiswal et.al.|[2211.16822v1](http://arxiv.org/abs/2211.16822v1)|null|
+|**2022-11-30**|**Domain Mismatch Doesn't Always Prevent Cross-Lingual Transfer Learning**|Daniel Edmiston et.al.|[2211.16671v1](http://arxiv.org/abs/2211.16671v1)|null|
 |**2022-11-29**|**TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages**|Anirudh Srinivasan et.al.|[2211.16496v1](http://arxiv.org/abs/2211.16496v1)|[link](https://github.com/genius1237/tydip)|
 |**2022-11-29**|**Which Shortcut Solution Do Question Answering Models Prefer to Learn?**|Kazutoshi Shinoda et.al.|[2211.16220v1](http://arxiv.org/abs/2211.16220v1)|[link](https://github.com/kazutoshishinoda/shortcutlearnability)|
 |**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
@@ -56,18 +65,14 @@
 |**2022-11-23**|**Can Open-Domain QA Reader Utilize External Knowledge Efficiently like Humans?**|Neeraj Varshney et.al.|[2211.12707v1](http://arxiv.org/abs/2211.12707v1)|null|
 |**2022-11-23**|**DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data**|Xiao Li et.al.|[2211.12668v1](http://arxiv.org/abs/2211.12668v1)|[link](https://github.com/nju-websoft/dyrren)|
 |**2022-11-22**|**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**|Wenhu Chen et.al.|[2211.12588v3](http://arxiv.org/abs/2211.12588v3)|[link](https://github.com/wenhuchen/program-of-thoughts)|
-|**2022-11-22**|**Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions**|Satwik Bhattamishra et.al.|[2211.12316v1](http://arxiv.org/abs/2211.12316v1)|null|
-|**2022-11-22**|**Benchmarking Evaluation Metrics for Code-Switching Automatic Speech Recognition**|Injy Hamed et.al.|[2211.16319v1](http://arxiv.org/abs/2211.16319v1)|null|
-|**2022-11-22**|**Best-$k$ Search Algorithm for Neural Text Generation**|Jiacheng Xu et.al.|[2211.11924v1](http://arxiv.org/abs/2211.11924v1)|null|
-|**2022-11-21**|**Evaluating the Knowledge Dependency of Questions**|Hyeongdon Moon et.al.|[2211.11902v1](http://arxiv.org/abs/2211.11902v1)|[link](https://github.com/riiid/question-score)|
-|**2022-11-21**|**Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference**|Eric Mitchell et.al.|[2211.11875v1](http://arxiv.org/abs/2211.11875v1)|null|
-|**2022-11-21**|**Legal and Political Stance Detection of SCOTUS Language**|Noah Bergam et.al.|[2211.11724v1](http://arxiv.org/abs/2211.11724v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-30**|**Transformers are Short Text Classifiers: A Study of Inductive Short Text Classifiers on Benchmarks and Real-world Datasets**|Fabian Karl et.al.|[2211.16878v1](http://arxiv.org/abs/2211.16878v1)|[link](https://github.com/FKarl/short-text-classification)|
+|**2022-11-30**|**A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods**|Shantanu Jaiswal et.al.|[2211.16822v1](http://arxiv.org/abs/2211.16822v1)|null|
 |**2022-11-29**|**Abstract Visual Reasoning with Tangram Shapes**|Anya Ji et.al.|[2211.16492v1](http://arxiv.org/abs/2211.16492v1)|null|
 |**2022-11-29**|**Chaining Simultaneous Thoughts for Numerical Reasoning**|Zhihong Shao et.al.|[2211.16482v1](http://arxiv.org/abs/2211.16482v1)|null|
 |**2022-11-29**|**Dependency-aware Self-training for Entity Alignment**|Bing Liu et.al.|[2211.16101v1](http://arxiv.org/abs/2211.16101v1)|[link](https://github.com/uqbingliu/stea)|
@@ -218,5 +223,3 @@
 |**2022-10-20**|**Transcending Scaling Laws with 0.1% Extra Compute**|Yi Tay et.al.|[2210.11399v2](http://arxiv.org/abs/2210.11399v2)|null|
 |**2022-10-20**|**Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**|Wanjun Zhong et.al.|[2210.11265v1](http://arxiv.org/abs/2210.11265v1)|null|
 |**2022-10-20**|**Wait-info Policy: Balancing Source and Target at Information Level for Simultaneous Machine Translation**|Shaolei Zhang et.al.|[2210.11220v1](http://arxiv.org/abs/2210.11220v1)|[link](https://github.com/ictnlp/wait-info)|
-|**2022-10-19**|**MuGER$^2$: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**|Yingyao Wang et.al.|[2210.10350v1](http://arxiv.org/abs/2210.10350v1)|[link](https://github.com/wenhuchen/HybridQA)|
-|**2022-10-18**|**JECC: Commonsense Reasoning Tasks Derived from Interactive Fictions**|Mo Yu et.al.|[2210.15456v1](http://arxiv.org/abs/2210.15456v1)|[link](https://github.com/gorov/zucc)|
