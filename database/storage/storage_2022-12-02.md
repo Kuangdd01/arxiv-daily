@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-02 09:21:35
+ Automated deployment @ 2022-12-02 20:32:20
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-01**|**What do you MEME? Generating Explanations for Visual Semantic Role Labelling in Memes**|Shivam Sharma et.al.|[2212.00715v1](http://arxiv.org/abs/2212.00715v1)|[link](https://github.com/LCS2-IIITD/LUMEN-Explaining-Memes)|
+|**2022-11-30**|**Task-Specific Embeddings for Ante-Hoc Explainable Text Classification**|Kishaloy Halder et.al.|[2212.00086v1](http://arxiv.org/abs/2212.00086v1)|null|
 |**2022-11-30**|**Logic and Commonsense-Guided Temporal Knowledge Graph Completion**|Guanglin Niu et.al.|[2211.16865v1](http://arxiv.org/abs/2211.16865v1)|null|
 |**2022-11-29**|**Better Transcription of UK Supreme Court Hearings**|Hadeel Saadany et.al.|[2211.17094v1](http://arxiv.org/abs/2211.17094v1)|null|
 |**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
@@ -20,16 +22,16 @@
 |**2022-11-25**|**A Deep Learning Anomaly Detection Method in Textual Data**|Amir Jafari et.al.|[2211.13900v1](http://arxiv.org/abs/2211.13900v1)|null|
 |**2022-11-25**|**Complementary Explanations for Effective In-Context Learning**|Xi Ye et.al.|[2211.13892v1](http://arxiv.org/abs/2211.13892v1)|null|
 |**2022-11-24**|**Bidirectional Representations for Low Resource Spoken Language Understanding**|Quentin Meeus et.al.|[2211.14320v1](http://arxiv.org/abs/2211.14320v1)|null|
-|**2022-11-23**|**SEAT: Stable and Explainable Attention**|Lijie Hu et.al.|[2211.13290v1](http://arxiv.org/abs/2211.13290v1)|null|
-|**2022-11-23**|**Schrödinger's Bat: Diffusion Models Sometimes Generate Polysemous Words in Superposition**|Jennifer C. White et.al.|[2211.13095v1](http://arxiv.org/abs/2211.13095v1)|[link](https://github.com/rycolab/diffusion-polysemy)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-01**|**Learning to Select from Multiple Options**|Jiangshu Du et.al.|[2212.00301v1](http://arxiv.org/abs/2212.00301v1)|null|
+|**2022-12-01**|**Super-CLEVR: A Virtual Benchmark to Diagnose Domain Robustness in Visual Reasoning**|Zhuowan Li et.al.|[2212.00259v1](http://arxiv.org/abs/2212.00259v1)|[link](https://github.com/lizw14/super-clevr)|
 |**2022-11-30**|**CREPE: Open-Domain Question Answering with False Presuppositions**|Xinyan Velocity Yu et.al.|[2211.17257v1](http://arxiv.org/abs/2211.17257v1)|[link](https://github.com/velocitycavalry/crepe)|
-|**2022-11-30**|**A Pipeline for Generating, Annotating and Employing Synthetic Data for Real World Question Answering**|Matthew Maufe et.al.|[2211.16971v1](http://arxiv.org/abs/2211.16971v1)|null|
+|**2022-11-30**|**A Pipeline for Generating, Annotating and Employing Synthetic Data for Real World Question Answering**|Matthew Maufe et.al.|[2211.16971v1](http://arxiv.org/abs/2211.16971v1)|[link](https://github.com/filamentai/qa-annotation)|
 |**2022-11-30**|**AIONER: All-in-one scheme-based biomedical named entity recognition using deep learning**|Ling Luo et.al.|[2211.16944v1](http://arxiv.org/abs/2211.16944v1)|null|
 |**2022-11-30**|**Transformers are Short Text Classifiers: A Study of Inductive Short Text Classifiers on Benchmarks and Real-world Datasets**|Fabian Karl et.al.|[2211.16878v1](http://arxiv.org/abs/2211.16878v1)|[link](https://github.com/FKarl/short-text-classification)|
 |**2022-11-30**|**Revisiting text decomposition methods for NLI-based factuality scoring of summaries**|John Glover et.al.|[2211.16853v1](http://arxiv.org/abs/2211.16853v1)|null|
@@ -60,17 +62,18 @@
 |**2022-11-24**|**Seeing What You Miss: Vision-Language Pre-training with Semantic Completion Learning**|Yatai Ji et.al.|[2211.13437v1](http://arxiv.org/abs/2211.13437v1)|null|
 |**2022-11-23**|**SEAT: Stable and Explainable Attention**|Lijie Hu et.al.|[2211.13290v1](http://arxiv.org/abs/2211.13290v1)|null|
 |**2022-11-23**|**SeedBERT: Recovering Annotator Rating Distributions from an Aggregated Label**|Aneesha Sampath et.al.|[2211.13196v1](http://arxiv.org/abs/2211.13196v1)|null|
-|**2022-11-23**|**Unified Multimodal Model with Unlikelihood Training for Visual Dialog**|Zihao Wang et.al.|[2211.13235v1](http://arxiv.org/abs/2211.13235v1)|[link](https://github.com/zihaow123/unimm)|
-|**2022-11-23**|**Automatic Generation of Socratic Subquestions for Teaching Math Word Problems**|Kumar Shridhar et.al.|[2211.12835v1](http://arxiv.org/abs/2211.12835v1)|[link](https://github.com/eth-nlped/scaffolding-generation)|
-|**2022-11-23**|**Can Open-Domain QA Reader Utilize External Knowledge Efficiently like Humans?**|Neeraj Varshney et.al.|[2211.12707v1](http://arxiv.org/abs/2211.12707v1)|null|
-|**2022-11-23**|**DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data**|Xiao Li et.al.|[2211.12668v1](http://arxiv.org/abs/2211.12668v1)|[link](https://github.com/nju-websoft/dyrren)|
-|**2022-11-22**|**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**|Wenhu Chen et.al.|[2211.12588v3](http://arxiv.org/abs/2211.12588v3)|[link](https://github.com/wenhuchen/program-of-thoughts)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-01**|**Simplifying and Understanding State Space Models with Diagonal Linear RNNs**|Ankit Gupta et.al.|[2212.00768v1](http://arxiv.org/abs/2212.00768v1)|null|
+|**2022-12-01**|**Language models and brain alignment: beyond word-level semantics and prediction**|Gabriele Merlin et.al.|[2212.00596v1](http://arxiv.org/abs/2212.00596v1)|null|
+|**2022-12-01**|**Research on the application of contrastive learning in multi-label text classification**|Nankai Lin et.al.|[2212.00552v1](http://arxiv.org/abs/2212.00552v1)|null|
+|**2022-12-01**|**IRRGN: An Implicit Relational Reasoning Graph Network for Multi-turn Response Selection**|Jingcheng Deng et.al.|[2212.00482v1](http://arxiv.org/abs/2212.00482v1)|[link](https://github.com/djc-go-solo/irrgn)|
+|**2022-12-01**|**Super-CLEVR: A Virtual Benchmark to Diagnose Domain Robustness in Visual Reasoning**|Zhuowan Li et.al.|[2212.00259v1](http://arxiv.org/abs/2212.00259v1)|[link](https://github.com/lizw14/super-clevr)|
+|**2022-12-01**|**Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions**|Kumar Shridhar et.al.|[2212.00193v1](http://arxiv.org/abs/2212.00193v1)|null|
 |**2022-11-30**|**Transformers are Short Text Classifiers: A Study of Inductive Short Text Classifiers on Benchmarks and Real-world Datasets**|Fabian Karl et.al.|[2211.16878v1](http://arxiv.org/abs/2211.16878v1)|[link](https://github.com/FKarl/short-text-classification)|
 |**2022-11-30**|**A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods**|Shantanu Jaiswal et.al.|[2211.16822v1](http://arxiv.org/abs/2211.16822v1)|null|
 |**2022-11-29**|**Abstract Visual Reasoning with Tangram Shapes**|Anya Ji et.al.|[2211.16492v1](http://arxiv.org/abs/2211.16492v1)|null|
@@ -220,6 +223,3 @@
 |**2022-10-21**|**Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem**|Wenqi Zhang et.al.|[2210.11694v1](http://arxiv.org/abs/2210.11694v1)|[link](https://github.com/zwq2018/multi-view-consistency-for-mwp)|
 |**2022-10-20**|**Large Language Models Can Self-Improve**|Jiaxin Huang et.al.|[2210.11610v2](http://arxiv.org/abs/2210.11610v2)|null|
 |**2022-10-20**|**Dense Paraphrasing for Textual Enrichment**|Jingxuan Tu et.al.|[2210.11563v1](http://arxiv.org/abs/2210.11563v1)|null|
-|**2022-10-20**|**Transcending Scaling Laws with 0.1% Extra Compute**|Yi Tay et.al.|[2210.11399v2](http://arxiv.org/abs/2210.11399v2)|null|
-|**2022-10-20**|**Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**|Wanjun Zhong et.al.|[2210.11265v1](http://arxiv.org/abs/2210.11265v1)|null|
-|**2022-10-20**|**Wait-info Policy: Balancing Source and Target at Information Level for Simultaneous Machine Translation**|Shaolei Zhang et.al.|[2210.11220v1](http://arxiv.org/abs/2210.11220v1)|[link](https://github.com/ictnlp/wait-info)|
