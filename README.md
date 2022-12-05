@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-05 09:21:21
+ Automated deployment @ 2022-12-05 20:32:51
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
+|**2022-12-02**|**Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning**|Jiasheng Si et.al.|[2212.01060v1](http://arxiv.org/abs/2212.01060v1)|null|
+|**2022-12-01**|**SOLD: Sinhala Offensive Language Dataset**|Tharindu Ranasinghe et.al.|[2212.00851v1](http://arxiv.org/abs/2212.00851v1)|null|
 |**2022-12-01**|**What do you MEME? Generating Explanations for Visual Semantic Role Labelling in Memes**|Shivam Sharma et.al.|[2212.00715v1](http://arxiv.org/abs/2212.00715v1)|[link](https://github.com/LCS2-IIITD/LUMEN-Explaining-Memes)|
 |**2022-11-30**|**Task-Specific Embeddings for Ante-Hoc Explainable Text Classification**|Kishaloy Halder et.al.|[2212.00086v1](http://arxiv.org/abs/2212.00086v1)|null|
 |**2022-11-30**|**Logic and Commonsense-Guided Temporal Knowledge Graph Completion**|Guanglin Niu et.al.|[2211.16865v1](http://arxiv.org/abs/2211.16865v1)|null|
@@ -18,16 +21,18 @@
 |**2022-11-26**|**A Survey of Text Representation Methods and Their Genealogy**|Philipp Siebers et.al.|[2211.14591v1](http://arxiv.org/abs/2211.14591v1)|null|
 |**2022-11-25**|**Interpretability Analysis of Deep Models for COVID-19 Detection**|Daniel Peixoto Pinto da Silva et.al.|[2211.14372v1](http://arxiv.org/abs/2211.14372v1)|null|
 |**2022-11-25**|**CodeExp: Explanatory Code Document Generation**|Haotian Cui et.al.|[2211.15395v1](http://arxiv.org/abs/2211.15395v1)|[link](https://github.com/subercui/codeexp)|
-|**2022-11-25**|**Testing the effectiveness of saliency-based explainability in NLP using randomized survey-based experiments**|Adel Rahimi et.al.|[2211.15351v1](http://arxiv.org/abs/2211.15351v1)|null|
-|**2022-11-25**|**A Deep Learning Anomaly Detection Method in Textual Data**|Amir Jafari et.al.|[2211.13900v1](http://arxiv.org/abs/2211.13900v1)|null|
-|**2022-11-25**|**Complementary Explanations for Effective In-Context Learning**|Xi Ye et.al.|[2211.13892v1](http://arxiv.org/abs/2211.13892v1)|null|
-|**2022-11-24**|**Bidirectional Representations for Low Resource Spoken Language Understanding**|Quentin Meeus et.al.|[2211.14320v1](http://arxiv.org/abs/2211.14320v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|null|
+|**2022-12-02**|**UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph**|Jinhao Jiang et.al.|[2212.00959v1](http://arxiv.org/abs/2212.00959v1)|null|
+|**2022-12-01**|**a survey on GPT-3**|Mingyu Zong et.al.|[2212.00857v1](http://arxiv.org/abs/2212.00857v1)|null|
+|**2022-12-01**|**Focus! Relevant and Sufficient Context Selection for News Image Captioning**|Mingyang Zhou et.al.|[2212.00843v1](http://arxiv.org/abs/2212.00843v1)|null|
+|**2022-12-01**|**Analogical Math Word Problems Solving with Enhanced Problem-Solution Association**|Zhenwen Liang et.al.|[2212.00837v1](http://arxiv.org/abs/2212.00837v1)|[link](https://github.com/lzhenwen/analogical_mwp)|
+|**2022-12-01**|**Generalizing Math Word Problem Solvers via Solution Diversification**|Zhenwen Liang et.al.|[2212.00833v1](http://arxiv.org/abs/2212.00833v1)|null|
 |**2022-12-01**|**Learning to Select from Multiple Options**|Jiangshu Du et.al.|[2212.00301v1](http://arxiv.org/abs/2212.00301v1)|null|
 |**2022-12-01**|**Super-CLEVR: A Virtual Benchmark to Diagnose Domain Robustness in Visual Reasoning**|Zhuowan Li et.al.|[2212.00259v1](http://arxiv.org/abs/2212.00259v1)|[link](https://github.com/lizw14/super-clevr)|
 |**2022-11-30**|**CREPE: Open-Domain Question Answering with False Presuppositions**|Xinyan Velocity Yu et.al.|[2211.17257v1](http://arxiv.org/abs/2211.17257v1)|[link](https://github.com/velocitycavalry/crepe)|
@@ -56,18 +61,18 @@
 |**2022-11-25**|**Solving math word problems with process- and outcome-based feedback**|Jonathan Uesato et.al.|[2211.14275v1](http://arxiv.org/abs/2211.14275v1)|null|
 |**2022-11-25**|**GPT-3-driven pedagogical agents for training children's curious question-asking skills**|Rania Abdelghani et.al.|[2211.14228v2](http://arxiv.org/abs/2211.14228v2)|null|
 |**2022-11-25**|**TRAC: A Textual Benchmark for Reasoning about Actions and Change**|Weinan He et.al.|[2211.13930v1](http://arxiv.org/abs/2211.13930v1)|null|
-|**2022-11-24**|**Question Answering and Question Generation for Finnish**|Ilmari Kylliäinen et.al.|[2211.13794v1](http://arxiv.org/abs/2211.13794v1)|null|
-|**2022-11-24**|**Question-type Identification for Academic Questions in Online Learning Platform**|Azam Rabiee et.al.|[2211.13727v1](http://arxiv.org/abs/2211.13727v1)|null|
-|**2022-11-24**|**TSGP: Two-Stage Generative Prompting for Unsupervised Commonsense Question Answering**|Yueqing Sun et.al.|[2211.13515v1](http://arxiv.org/abs/2211.13515v1)|null|
-|**2022-11-24**|**Seeing What You Miss: Vision-Language Pre-training with Semantic Completion Learning**|Yatai Ji et.al.|[2211.13437v1](http://arxiv.org/abs/2211.13437v1)|null|
-|**2022-11-23**|**SEAT: Stable and Explainable Attention**|Lijie Hu et.al.|[2211.13290v1](http://arxiv.org/abs/2211.13290v1)|null|
-|**2022-11-23**|**SeedBERT: Recovering Annotator Rating Distributions from an Aggregated Label**|Aneesha Sampath et.al.|[2211.13196v1](http://arxiv.org/abs/2211.13196v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
+|**2022-12-02**|**Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning**|Jiasheng Si et.al.|[2212.01060v1](http://arxiv.org/abs/2212.01060v1)|null|
+|**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|null|
+|**2022-12-02**|**UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph**|Jinhao Jiang et.al.|[2212.00959v1](http://arxiv.org/abs/2212.00959v1)|null|
+|**2022-12-01**|**Analogical Math Word Problems Solving with Enhanced Problem-Solution Association**|Zhenwen Liang et.al.|[2212.00837v1](http://arxiv.org/abs/2212.00837v1)|[link](https://github.com/lzhenwen/analogical_mwp)|
+|**2022-12-01**|**Generalizing Math Word Problem Solvers via Solution Diversification**|Zhenwen Liang et.al.|[2212.00833v1](http://arxiv.org/abs/2212.00833v1)|null|
 |**2022-12-01**|**Simplifying and Understanding State Space Models with Diagonal Linear RNNs**|Ankit Gupta et.al.|[2212.00768v1](http://arxiv.org/abs/2212.00768v1)|null|
 |**2022-12-01**|**Language models and brain alignment: beyond word-level semantics and prediction**|Gabriele Merlin et.al.|[2212.00596v1](http://arxiv.org/abs/2212.00596v1)|null|
 |**2022-12-01**|**Research on the application of contrastive learning in multi-label text classification**|Nankai Lin et.al.|[2212.00552v1](http://arxiv.org/abs/2212.00552v1)|null|
@@ -217,9 +222,3 @@
 |**2022-10-21**|**Life is a Circus and We are the Clowns: Automatically Finding Analogies between Situations and Processes**|Oren Sultan et.al.|[2210.12197v1](http://arxiv.org/abs/2210.12197v1)|null|
 |**2022-10-21**|**WikiWhy: Answering and Explaining Cause-and-Effect Questions**|Matthew Ho et.al.|[2210.12152v2](http://arxiv.org/abs/2210.12152v2)|null|
 |**2022-10-21**|**Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?**|Mitja Nikolaus et.al.|[2210.12079v1](http://arxiv.org/abs/2210.12079v1)|[link](https://github.com/mitjanikolaus/multimodal-predicate-noun-dependencies)|
-|**2022-10-21**|**Neuro-Symbolic Causal Reasoning Meets Signaling Game for Emergent Semantic Communications**|Christo Kurisummoottil Thomas et.al.|[2210.12040v1](http://arxiv.org/abs/2210.12040v1)|null|
-|**2022-10-21**|**A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models**|Alessandro Stolfo et.al.|[2210.12023v2](http://arxiv.org/abs/2210.12023v2)|[link](https://github.com/alestolfo/causal-math)|
-|**2022-10-21**|**Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning**|Xingwei He et.al.|[2210.11708v1](http://arxiv.org/abs/2210.11708v1)|null|
-|**2022-10-21**|**Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem**|Wenqi Zhang et.al.|[2210.11694v1](http://arxiv.org/abs/2210.11694v1)|[link](https://github.com/zwq2018/multi-view-consistency-for-mwp)|
-|**2022-10-20**|**Large Language Models Can Self-Improve**|Jiaxin Huang et.al.|[2210.11610v2](http://arxiv.org/abs/2210.11610v2)|null|
-|**2022-10-20**|**Dense Paraphrasing for Textual Enrichment**|Jingxuan Tu et.al.|[2210.11563v1](http://arxiv.org/abs/2210.11563v1)|null|
