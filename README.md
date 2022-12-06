@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-06 09:20:25
+ Automated deployment @ 2022-12-06 20:34:02
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-04**|**Cross-lingual Similarity of Multilingual Representations Revisited**|Maksym Del et.al.|[2212.01924v1](http://arxiv.org/abs/2212.01924v1)|[link](https://github.com/TartuNLP/xsim)|
 |**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
 |**2022-12-02**|**Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning**|Jiasheng Si et.al.|[2212.01060v1](http://arxiv.org/abs/2212.01060v1)|null|
 |**2022-12-01**|**SOLD: Sinhala Offensive Language Dataset**|Tharindu Ranasinghe et.al.|[2212.00851v1](http://arxiv.org/abs/2212.00851v1)|null|
@@ -18,15 +19,23 @@
 |**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
 |**2022-11-28**|**Sentiment analysis and opinion mining on E-commerce site**|Fatema Tuz Zohra Anny et.al.|[2211.15536v1](http://arxiv.org/abs/2211.15536v1)|null|
 |**2022-11-28**|**Distance Metric Learning Loss Functions in Few-Shot Scenarios of Supervised Language Models Fine-Tuning**|Witold Sosnowski et.al.|[2211.15195v1](http://arxiv.org/abs/2211.15195v1)|null|
-|**2022-11-26**|**A Survey of Text Representation Methods and Their Genealogy**|Philipp Siebers et.al.|[2211.14591v1](http://arxiv.org/abs/2211.14591v1)|null|
-|**2022-11-25**|**Interpretability Analysis of Deep Models for COVID-19 Detection**|Daniel Peixoto Pinto da Silva et.al.|[2211.14372v1](http://arxiv.org/abs/2211.14372v1)|null|
-|**2022-11-25**|**CodeExp: Explanatory Code Document Generation**|Haotian Cui et.al.|[2211.15395v1](http://arxiv.org/abs/2211.15395v1)|[link](https://github.com/subercui/codeexp)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-05**|**Fake News and Hate Speech: Language in Common**|Berta Chulvi et.al.|[2212.02352v1](http://arxiv.org/abs/2212.02352v1)|null|
+|**2022-12-05**|**Entity Set Co-Expansion in StackOverflow**|Yu Zhang et.al.|[2212.02271v1](http://arxiv.org/abs/2212.02271v1)|null|
+|**2022-12-05**|**Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer**|Zhengbao Jiang et.al.|[2212.02027v1](http://arxiv.org/abs/2212.02027v1)|[link](https://github.com/jzbjyb/reatt)|
+|**2022-12-05**|**QBERT: Generalist Model for Processing Questions**|Zhaozhen Xu et.al.|[2212.01967v1](http://arxiv.org/abs/2212.01967v1)|null|
+|**2022-12-04**|**Applying Multilingual Models to Question Answering (QA)**|Ayrton San Joaquin et.al.|[2212.01933v1](http://arxiv.org/abs/2212.01933v1)|null|
+|**2022-12-04**|**Understanding How Model Size Affects Few-shot Instruction Prompting**|Ayrton San Joaquin et.al.|[2212.01907v1](http://arxiv.org/abs/2212.01907v1)|null|
+|**2022-12-04**|**Toward Efficient Language Model Pretraining and Downstream Adaptation via Self-Evolution: A Case Study on SuperGLUE**|Qihuang Zhong et.al.|[2212.01853v1](http://arxiv.org/abs/2212.01853v1)|null|
+|**2022-12-04**|**Languages You Know Influence Those You Learn: Impact of Language Characteristics on Multi-Lingual Text-to-Text Transfer**|Benjamin Muller et.al.|[2212.01757v1](http://arxiv.org/abs/2212.01757v1)|null|
+|**2022-12-03**|**Unsupervised Fine-Tuning Data Selection for ASR Using Self-Supervised Speech Models**|Reem Gody et.al.|[2212.01661v1](http://arxiv.org/abs/2212.01661v1)|null|
+|**2022-12-02**|**Event knowledge in large language models: the gap between the impossible and the unlikely**|Carina Kauf et.al.|[2212.01488v1](http://arxiv.org/abs/2212.01488v1)|null|
+|**2022-12-02**|**Twitter Data Analysis: Izmir Earthquake Case**|Özgür Agrali et.al.|[2212.01453v1](http://arxiv.org/abs/2212.01453v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|null|
 |**2022-12-02**|**UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph**|Jinhao Jiang et.al.|[2212.00959v1](http://arxiv.org/abs/2212.00959v1)|null|
 |**2022-12-01**|**a survey on GPT-3**|Mingyu Zong et.al.|[2212.00857v1](http://arxiv.org/abs/2212.00857v1)|null|
@@ -52,21 +61,15 @@
 |**2022-11-28**|**On the Effectiveness of Parameter-Efficient Fine-Tuning**|Zihao Fu et.al.|[2211.15583v1](http://arxiv.org/abs/2211.15583v1)|[link](https://github.com/fuzihaofzh/analyzeparameterefficientfinetune)|
 |**2022-11-28**|**Automatically generating question-answer pairs for assessing basic reading comprehension in Swedish**|Dmytro Kalpakchi et.al.|[2211.15568v1](http://arxiv.org/abs/2211.15568v1)|[link](https://github.com/dkalpakchi/swe_quinductor)|
 |**2022-11-28**|**Attack on Unfair ToS Clause Detection: A Case Study using Universal Adversarial Triggers**|Shanshan Xu et.al.|[2211.15556v1](http://arxiv.org/abs/2211.15556v1)|null|
-|**2022-11-28**|**On the Security Vulnerabilities of Text-to-SQL Models**|Xutan Peng et.al.|[2211.15363v1](http://arxiv.org/abs/2211.15363v1)|null|
-|**2022-11-28**|**A Survey on Conversational Search and Applications in Biomedicine**|Naga Sai Krishna Adatrao et.al.|[2211.15328v1](http://arxiv.org/abs/2211.15328v1)|null|
-|**2022-11-28**|**Fine-tuning language models to find agreement among humans with diverse preferences**|Michiel A. Bakker et.al.|[2211.15006v1](http://arxiv.org/abs/2211.15006v1)|null|
-|**2022-11-27**|**Improving Low-Resource Question Answering using Active Learning in Multiple Stages**|Maximilian Schmidt et.al.|[2211.14880v1](http://arxiv.org/abs/2211.14880v1)|[link](https://github.com/primeqa/primeqa)|
-|**2022-11-27**|**Understanding BLOOM: An empirical study on diverse NLP tasks**|Parag Pravin Dakle et.al.|[2211.14865v1](http://arxiv.org/abs/2211.14865v1)|null|
-|**2022-11-27**|**Alignment-Enriched Tuning for Patch-Level Pre-trained Document Image Models**|Lei Wang et.al.|[2211.14777v2](http://arxiv.org/abs/2211.14777v2)|[link](https://github.com/maehcm/aet)|
-|**2022-11-25**|**Solving math word problems with process- and outcome-based feedback**|Jonathan Uesato et.al.|[2211.14275v1](http://arxiv.org/abs/2211.14275v1)|null|
-|**2022-11-25**|**GPT-3-driven pedagogical agents for training children's curious question-asking skills**|Rania Abdelghani et.al.|[2211.14228v2](http://arxiv.org/abs/2211.14228v2)|null|
-|**2022-11-25**|**TRAC: A Textual Benchmark for Reasoning about Actions and Change**|Weinan He et.al.|[2211.13930v1](http://arxiv.org/abs/2211.13930v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-05**|**Video Games as a Corpus: Sentiment Analysis using Fallout New Vegas Dialog**|Mika Hämäläinen et.al.|[2212.02168v1](http://arxiv.org/abs/2212.02168v1)|null|
+|**2022-12-04**|**Toward Efficient Language Model Pretraining and Downstream Adaptation via Self-Evolution: A Case Study on SuperGLUE**|Qihuang Zhong et.al.|[2212.01853v1](http://arxiv.org/abs/2212.01853v1)|null|
+|**2022-12-03**|**RHO ($ρ$): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding**|Ziwei Ji et.al.|[2212.01588v1](http://arxiv.org/abs/2212.01588v1)|null|
 |**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
 |**2022-12-02**|**Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning**|Jiasheng Si et.al.|[2212.01060v1](http://arxiv.org/abs/2212.01060v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|null|
@@ -217,8 +220,3 @@
 |**2022-10-22**|**Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge**|Kaixin Ma et.al.|[2210.12338v1](http://arxiv.org/abs/2210.12338v1)|[link](https://github.com/wenhuchen/OTT-QA)|
 |**2022-10-21**|**What do Large Language Models Learn beyond Language?**|Avinash Madasu et.al.|[2210.12302v1](http://arxiv.org/abs/2210.12302v1)|[link](https://github.com/avinashsai/NILM)|
 |**2022-10-21**|**On the Calibration of Massively Multilingual Language Models**|Kabir Ahuja et.al.|[2210.12265v1](http://arxiv.org/abs/2210.12265v1)|[link](https://github.com/microsoft/mmlmcalibration)|
-|**2022-10-21**|**Enhancing Tabular Reasoning with Pattern Exploiting Training**|Abhilash Reddy Shankarampeta et.al.|[2210.12259v1](http://arxiv.org/abs/2210.12259v1)|null|
-|**2022-10-21**|**Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning**|Oyvind Tafjord et.al.|[2210.12217v1](http://arxiv.org/abs/2210.12217v1)|null|
-|**2022-10-21**|**Life is a Circus and We are the Clowns: Automatically Finding Analogies between Situations and Processes**|Oren Sultan et.al.|[2210.12197v1](http://arxiv.org/abs/2210.12197v1)|null|
-|**2022-10-21**|**WikiWhy: Answering and Explaining Cause-and-Effect Questions**|Matthew Ho et.al.|[2210.12152v2](http://arxiv.org/abs/2210.12152v2)|null|
-|**2022-10-21**|**Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?**|Mitja Nikolaus et.al.|[2210.12079v1](http://arxiv.org/abs/2210.12079v1)|[link](https://github.com/mitjanikolaus/multimodal-predicate-noun-dependencies)|
