@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-07 09:24:25
+ Automated deployment @ 2022-12-07 20:32:00
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -17,14 +17,13 @@
 |**2022-11-30**|**Logic and Commonsense-Guided Temporal Knowledge Graph Completion**|Guanglin Niu et.al.|[2211.16865v1](http://arxiv.org/abs/2211.16865v1)|null|
 |**2022-11-29**|**Better Transcription of UK Supreme Court Hearings**|Hadeel Saadany et.al.|[2211.17094v1](http://arxiv.org/abs/2211.17094v1)|null|
 |**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
-|**2022-11-28**|**Sentiment analysis and opinion mining on E-commerce site**|Fatema Tuz Zohra Anny et.al.|[2211.15536v1](http://arxiv.org/abs/2211.15536v1)|null|
-|**2022-11-28**|**Distance Metric Learning Loss Functions in Few-Shot Scenarios of Supervised Language Models Fine-Tuning**|Witold Sosnowski et.al.|[2211.15195v1](http://arxiv.org/abs/2211.15195v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-05**|**POQue: Asking Participant-specific Outcome Questions for a Deeper Understanding of Complex Events**|Sai Vallurupalli et.al.|[2212.02629v1](http://arxiv.org/abs/2212.02629v1)|null|
 |**2022-12-05**|**Fake News and Hate Speech: Language in Common**|Berta Chulvi et.al.|[2212.02352v1](http://arxiv.org/abs/2212.02352v1)|null|
 |**2022-12-05**|**Entity Set Co-Expansion in StackOverflow**|Yu Zhang et.al.|[2212.02271v1](http://arxiv.org/abs/2212.02271v1)|null|
 |**2022-12-05**|**Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer**|Zhengbao Jiang et.al.|[2212.02027v1](http://arxiv.org/abs/2212.02027v1)|[link](https://github.com/jzbjyb/reatt)|
@@ -57,16 +56,16 @@
 |**2022-11-29**|**Penalizing Confident Predictions on Largely Perturbed Inputs Does Not Improve Out-of-Distribution Generalization in Question Answering**|Kazutoshi Shinoda et.al.|[2211.16093v1](http://arxiv.org/abs/2211.16093v1)|null|
 |**2022-11-29**|**Diverse Multi-Answer Retrieval with Determinantal Point Processes**|Poojitha Nandigam et.al.|[2211.16029v1](http://arxiv.org/abs/2211.16029v1)|null|
 |**2022-11-29**|**Democratizing Machine Learning for Interdisciplinary Scholars: Report on Organizing the NLP+CSS Online Tutorial Series**|Ian Stewart et.al.|[2211.15971v1](http://arxiv.org/abs/2211.15971v1)|null|
-|**2022-11-28**|**Frustratingly Easy Label Projection for Cross-lingual Transfer**|Yang Chen et.al.|[2211.15613v2](http://arxiv.org/abs/2211.15613v2)|null|
-|**2022-11-28**|**On the Effectiveness of Parameter-Efficient Fine-Tuning**|Zihao Fu et.al.|[2211.15583v1](http://arxiv.org/abs/2211.15583v1)|[link](https://github.com/fuzihaofzh/analyzeparameterefficientfinetune)|
-|**2022-11-28**|**Automatically generating question-answer pairs for assessing basic reading comprehension in Swedish**|Dmytro Kalpakchi et.al.|[2211.15568v1](http://arxiv.org/abs/2211.15568v1)|[link](https://github.com/dkalpakchi/swe_quinductor)|
-|**2022-11-28**|**Attack on Unfair ToS Clause Detection: A Case Study using Universal Adversarial Triggers**|Shanshan Xu et.al.|[2211.15556v1](http://arxiv.org/abs/2211.15556v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-06**|**LawngNLI: A Long-Premise Benchmark for In-Domain Generalization from Short to Long Contexts and for Implication-Based Retrieval**|William Bruno et.al.|[2212.03222v1](http://arxiv.org/abs/2212.03222v1)|null|
+|**2022-12-06**|**Knowledge-Bridged Causal Interaction Network for Causal Emotion Entailment**|Weixiang Zhao et.al.|[2212.02995v1](http://arxiv.org/abs/2212.02995v1)|[link](https://github.com/circle-hit/kbcin)|
+|**2022-12-06**|**CySecBERT: A Domain-Adapted Language Model for the Cybersecurity Domain**|Markus Bayer et.al.|[2212.02974v1](http://arxiv.org/abs/2212.02974v1)|null|
+|**2022-12-06**|**LUNA: Language Understanding with Number Augmentations on Transformers via Number Plugins and Pre-training**|Hongwei Han et.al.|[2212.02691v1](http://arxiv.org/abs/2212.02691v1)|null|
 |**2022-12-05**|**Video Games as a Corpus: Sentiment Analysis using Fallout New Vegas Dialog**|Mika Hämäläinen et.al.|[2212.02168v1](http://arxiv.org/abs/2212.02168v1)|null|
 |**2022-12-04**|**Toward Efficient Language Model Pretraining and Downstream Adaptation via Self-Evolution: A Case Study on SuperGLUE**|Qihuang Zhong et.al.|[2212.01853v1](http://arxiv.org/abs/2212.01853v1)|null|
 |**2022-12-03**|**RHO ($ρ$): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding**|Ziwei Ji et.al.|[2212.01588v1](http://arxiv.org/abs/2212.01588v1)|null|
@@ -216,7 +215,3 @@
 |**2022-10-22**|**DiscoSense: Commonsense Reasoning with Discourse Connectives**|Prajjwal Bhargava et.al.|[2210.12478v1](http://arxiv.org/abs/2210.12478v1)|[link](https://github.com/prajjwal1/discosense)|
 |**2022-10-22**|**Collaborative Reasoning on Multi-Modal Semantic Graphs for Video-Grounded Dialogue Generation**|Xueliang Zhao et.al.|[2210.12460v1](http://arxiv.org/abs/2210.12460v1)|null|
 |**2022-10-22**|**Robots-Dont-Cry: Understanding Falsely Anthropomorphic Utterances in Dialog Systems**|David Gros et.al.|[2210.12429v1](http://arxiv.org/abs/2210.12429v1)|[link](https://github.com/dngros/robots-dont-cry)|
-|**2022-10-22**|**ReasTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples**|Yilun Zhao et.al.|[2210.12374v1](http://arxiv.org/abs/2210.12374v1)|[link](https://github.com/yale-lily/reastap)|
-|**2022-10-22**|**Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge**|Kaixin Ma et.al.|[2210.12338v1](http://arxiv.org/abs/2210.12338v1)|[link](https://github.com/wenhuchen/OTT-QA)|
-|**2022-10-21**|**What do Large Language Models Learn beyond Language?**|Avinash Madasu et.al.|[2210.12302v1](http://arxiv.org/abs/2210.12302v1)|[link](https://github.com/avinashsai/NILM)|
-|**2022-10-21**|**On the Calibration of Massively Multilingual Language Models**|Kabir Ahuja et.al.|[2210.12265v1](http://arxiv.org/abs/2210.12265v1)|[link](https://github.com/microsoft/mmlmcalibration)|
