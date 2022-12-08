@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-08 09:21:39
+ Automated deployment @ 2022-12-08 20:32:35
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-07**|**Robustness of Learning from Task Instructions**|Jiasheng Gu et.al.|[2212.03813v1](http://arxiv.org/abs/2212.03813v1)|null|
 |**2022-12-04**|**Cross-lingual Similarity of Multilingual Representations Revisited**|Maksym Del et.al.|[2212.01924v1](http://arxiv.org/abs/2212.01924v1)|[link](https://github.com/TartuNLP/xsim)|
 |**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
 |**2022-12-02**|**Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning**|Jiasheng Si et.al.|[2212.01060v1](http://arxiv.org/abs/2212.01060v1)|null|
@@ -23,9 +24,14 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-07**|**Discovering Latent Knowledge in Language Models Without Supervision**|Collin Burns et.al.|[2212.03827v1](http://arxiv.org/abs/2212.03827v1)|[link](https://github.com/collin-burns/discovering_latent_knowledge)|
+|**2022-12-07**|**Robustness of Learning from Task Instructions**|Jiasheng Gu et.al.|[2212.03813v1](http://arxiv.org/abs/2212.03813v1)|null|
+|**2022-12-07**|**Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning**|Kyuyong Shin et.al.|[2212.03760v1](http://arxiv.org/abs/2212.03760v1)|null|
+|**2022-12-06**|**Intent Recognition in Conversational Recommender Systems**|Sahar Moradizeyveh et.al.|[2212.03721v1](http://arxiv.org/abs/2212.03721v1)|null|
 |**2022-12-05**|**POQue: Asking Participant-specific Outcome Questions for a Deeper Understanding of Complex Events**|Sai Vallurupalli et.al.|[2212.02629v1](http://arxiv.org/abs/2212.02629v1)|null|
 |**2022-12-05**|**Fake News and Hate Speech: Language in Common**|Berta Chulvi et.al.|[2212.02352v1](http://arxiv.org/abs/2212.02352v1)|null|
 |**2022-12-05**|**Entity Set Co-Expansion in StackOverflow**|Yu Zhang et.al.|[2212.02271v1](http://arxiv.org/abs/2212.02271v1)|null|
+|**2022-12-05**|**A Transformer-Based User Satisfaction Prediction for Proactive Interaction Mechanism in DuerOS**|Wei Shen et.al.|[2212.03817v1](http://arxiv.org/abs/2212.03817v1)|null|
 |**2022-12-05**|**Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer**|Zhengbao Jiang et.al.|[2212.02027v1](http://arxiv.org/abs/2212.02027v1)|[link](https://github.com/jzbjyb/reatt)|
 |**2022-12-05**|**QBERT: Generalist Model for Processing Questions**|Zhaozhen Xu et.al.|[2212.01967v1](http://arxiv.org/abs/2212.01967v1)|null|
 |**2022-12-04**|**Applying Multilingual Models to Question Answering (QA)**|Ayrton San Joaquin et.al.|[2212.01933v1](http://arxiv.org/abs/2212.01933v1)|null|
@@ -52,16 +58,15 @@
 |**2022-11-30**|**Domain Mismatch Doesn't Always Prevent Cross-Lingual Transfer Learning**|Daniel Edmiston et.al.|[2211.16671v1](http://arxiv.org/abs/2211.16671v1)|null|
 |**2022-11-29**|**TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages**|Anirudh Srinivasan et.al.|[2211.16496v1](http://arxiv.org/abs/2211.16496v1)|[link](https://github.com/genius1237/tydip)|
 |**2022-11-29**|**Which Shortcut Solution Do Question Answering Models Prefer to Learn?**|Kazutoshi Shinoda et.al.|[2211.16220v1](http://arxiv.org/abs/2211.16220v1)|[link](https://github.com/kazutoshishinoda/shortcutlearnability)|
-|**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
-|**2022-11-29**|**Penalizing Confident Predictions on Largely Perturbed Inputs Does Not Improve Out-of-Distribution Generalization in Question Answering**|Kazutoshi Shinoda et.al.|[2211.16093v1](http://arxiv.org/abs/2211.16093v1)|null|
-|**2022-11-29**|**Diverse Multi-Answer Retrieval with Determinantal Point Processes**|Poojitha Nandigam et.al.|[2211.16029v1](http://arxiv.org/abs/2211.16029v1)|null|
-|**2022-11-29**|**Democratizing Machine Learning for Interdisciplinary Scholars: Report on Organizing the NLP+CSS Online Tutorial Series**|Ian Stewart et.al.|[2211.15971v1](http://arxiv.org/abs/2211.15971v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-07**|**Harnessing Knowledge and Reasoning for Human-Like Natural Language Generation: A Brief Review**|Jiangjie Chen et.al.|[2212.03747v1](http://arxiv.org/abs/2212.03747v1)|null|
+|**2022-12-07**|**A Generative Approach for Script Event Prediction via Contrastive Fine-tuning**|Fangqi Zhu et.al.|[2212.03496v1](http://arxiv.org/abs/2212.03496v1)|[link](https://github.com/zhufq00/mcnc)|
+|**2022-12-06**|**Counterfactual reasoning: Do language models need world knowledge for causal understanding?**|Jiaxuan Li et.al.|[2212.03278v1](http://arxiv.org/abs/2212.03278v1)|null|
 |**2022-12-06**|**LawngNLI: A Long-Premise Benchmark for In-Domain Generalization from Short to Long Contexts and for Implication-Based Retrieval**|William Bruno et.al.|[2212.03222v1](http://arxiv.org/abs/2212.03222v1)|null|
 |**2022-12-06**|**Knowledge-Bridged Causal Interaction Network for Causal Emotion Entailment**|Weixiang Zhao et.al.|[2212.02995v1](http://arxiv.org/abs/2212.02995v1)|[link](https://github.com/circle-hit/kbcin)|
 |**2022-12-06**|**CySecBERT: A Domain-Adapted Language Model for the Cybersecurity Domain**|Markus Bayer et.al.|[2212.02974v1](http://arxiv.org/abs/2212.02974v1)|null|
@@ -210,8 +215,3 @@
 |**2022-10-23**|**PoKE: Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable**|Xiaohan Xu et.al.|[2210.12640v1](http://arxiv.org/abs/2210.12640v1)|null|
 |**2022-10-23**|**Modal-specific Pseudo Query Generation for Video Corpus Moment Retrieval**|Minjoon Jung et.al.|[2210.12617v1](http://arxiv.org/abs/2210.12617v1)|null|
 |**2022-10-22**|**LMPriors: Pre-Trained Language Models as Task-Specific Priors**|Kristy Choi et.al.|[2210.12530v1](http://arxiv.org/abs/2210.12530v1)|null|
-|**2022-10-22**|**MetaLogic: Logical Reasoning Explanations with Fine-Grained Structure**|Yinya Huang et.al.|[2210.12487v1](http://arxiv.org/abs/2210.12487v1)|[link](https://github.com/tencent-ailab/metalogic)|
-|**2022-10-22**|**DANLI: Deliberative Agent for Following Natural Language Instructions**|Yichi Zhang et.al.|[2210.12485v1](http://arxiv.org/abs/2210.12485v1)|[link](https://github.com/sled-group/danli)|
-|**2022-10-22**|**DiscoSense: Commonsense Reasoning with Discourse Connectives**|Prajjwal Bhargava et.al.|[2210.12478v1](http://arxiv.org/abs/2210.12478v1)|[link](https://github.com/prajjwal1/discosense)|
-|**2022-10-22**|**Collaborative Reasoning on Multi-Modal Semantic Graphs for Video-Grounded Dialogue Generation**|Xueliang Zhao et.al.|[2210.12460v1](http://arxiv.org/abs/2210.12460v1)|null|
-|**2022-10-22**|**Robots-Dont-Cry: Understanding Falsely Anthropomorphic Utterances in Dialog Systems**|David Gros et.al.|[2210.12429v1](http://arxiv.org/abs/2210.12429v1)|[link](https://github.com/dngros/robots-dont-cry)|
