@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-09 09:23:48
+ Automated deployment @ 2022-12-09 20:31:32
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-08**|**Lie detection algorithms attract few users but vastly increase accusation rates**|Alicia von Schenk et.al.|[2212.04277v1](http://arxiv.org/abs/2212.04277v1)|null|
+|**2022-12-08**|**A Modality-level Explainable Framework for Misinformation Checking in Social Networks**|Vítor Lourenço et.al.|[2212.04272v1](http://arxiv.org/abs/2212.04272v1)|null|
+|**2022-12-08**|**Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations**|Björn Plüster et.al.|[2212.04231v1](http://arxiv.org/abs/2212.04231v1)|null|
 |**2022-12-07**|**Robustness of Learning from Task Instructions**|Jiasheng Gu et.al.|[2212.03813v1](http://arxiv.org/abs/2212.03813v1)|null|
 |**2022-12-04**|**Cross-lingual Similarity of Multilingual Representations Revisited**|Maksym Del et.al.|[2212.01924v1](http://arxiv.org/abs/2212.01924v1)|[link](https://github.com/TartuNLP/xsim)|
 |**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
@@ -16,16 +19,19 @@
 |**2022-12-01**|**What do you MEME? Generating Explanations for Visual Semantic Role Labelling in Memes**|Shivam Sharma et.al.|[2212.00715v1](http://arxiv.org/abs/2212.00715v1)|[link](https://github.com/LCS2-IIITD/LUMEN-Explaining-Memes)|
 |**2022-11-30**|**Task-Specific Embeddings for Ante-Hoc Explainable Text Classification**|Kishaloy Halder et.al.|[2212.00086v1](http://arxiv.org/abs/2212.00086v1)|null|
 |**2022-11-30**|**Logic and Commonsense-Guided Temporal Knowledge Graph Completion**|Guanglin Niu et.al.|[2211.16865v1](http://arxiv.org/abs/2211.16865v1)|null|
-|**2022-11-29**|**Better Transcription of UK Supreme Court Hearings**|Hadeel Saadany et.al.|[2211.17094v1](http://arxiv.org/abs/2211.17094v1)|null|
-|**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-08**|**Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations**|Björn Plüster et.al.|[2212.04231v1](http://arxiv.org/abs/2212.04231v1)|null|
+|**2022-12-08**|**Successive Prompting for Decomposing Complex Questions**|Dheeru Dua et.al.|[2212.04092v1](http://arxiv.org/abs/2212.04092v1)|null|
+|**2022-12-08**|**A Comprehensive Survey on Multi-hop Machine Reading Comprehension Approaches**|Azade Mohammadi et.al.|[2212.04072v1](http://arxiv.org/abs/2212.04072v1)|null|
+|**2022-12-08**|**A Comprehensive Survey on Multi-hop Machine Reading Comprehension Datasets and Metrics**|Azade Mohammadi et.al.|[2212.04070v1](http://arxiv.org/abs/2212.04070v1)|null|
 |**2022-12-07**|**Discovering Latent Knowledge in Language Models Without Supervision**|Collin Burns et.al.|[2212.03827v1](http://arxiv.org/abs/2212.03827v1)|[link](https://github.com/collin-burns/discovering_latent_knowledge)|
 |**2022-12-07**|**Robustness of Learning from Task Instructions**|Jiasheng Gu et.al.|[2212.03813v1](http://arxiv.org/abs/2212.03813v1)|null|
+|**2022-12-07**|**Pre-Training With Scientific Text Improves Educational Question Generation**|Hamze Muse et.al.|[2212.03869v1](http://arxiv.org/abs/2212.03869v1)|null|
 |**2022-12-07**|**Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning**|Kyuyong Shin et.al.|[2212.03760v1](http://arxiv.org/abs/2212.03760v1)|null|
 |**2022-12-06**|**Intent Recognition in Conversational Recommender Systems**|Sahar Moradizeyveh et.al.|[2212.03721v1](http://arxiv.org/abs/2212.03721v1)|null|
 |**2022-12-05**|**POQue: Asking Participant-specific Outcome Questions for a Deeper Understanding of Complex Events**|Sai Vallurupalli et.al.|[2212.02629v1](http://arxiv.org/abs/2212.02629v1)|null|
@@ -55,15 +61,15 @@
 |**2022-11-30**|**Transformers are Short Text Classifiers: A Study of Inductive Short Text Classifiers on Benchmarks and Real-world Datasets**|Fabian Karl et.al.|[2211.16878v2](http://arxiv.org/abs/2211.16878v2)|[link](https://github.com/FKarl/short-text-classification)|
 |**2022-11-30**|**Revisiting text decomposition methods for NLI-based factuality scoring of summaries**|John Glover et.al.|[2211.16853v1](http://arxiv.org/abs/2211.16853v1)|null|
 |**2022-11-30**|**A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods**|Shantanu Jaiswal et.al.|[2211.16822v1](http://arxiv.org/abs/2211.16822v1)|null|
-|**2022-11-30**|**Domain Mismatch Doesn't Always Prevent Cross-Lingual Transfer Learning**|Daniel Edmiston et.al.|[2211.16671v1](http://arxiv.org/abs/2211.16671v1)|null|
-|**2022-11-29**|**TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages**|Anirudh Srinivasan et.al.|[2211.16496v1](http://arxiv.org/abs/2211.16496v1)|[link](https://github.com/genius1237/tydip)|
-|**2022-11-29**|**Which Shortcut Solution Do Question Answering Models Prefer to Learn?**|Kazutoshi Shinoda et.al.|[2211.16220v1](http://arxiv.org/abs/2211.16220v1)|[link](https://github.com/kazutoshishinoda/shortcutlearnability)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-08**|**BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation**|Dong An et.al.|[2212.04385v1](http://arxiv.org/abs/2212.04385v1)|null|
+|**2022-12-08**|**Implicit causality in GPT-2: a case study**|Hien Huynh et.al.|[2212.04348v1](http://arxiv.org/abs/2212.04348v1)|null|
+|**2022-12-08**|**Successive Prompting for Decomposing Complex Questions**|Dheeru Dua et.al.|[2212.04092v1](http://arxiv.org/abs/2212.04092v1)|null|
 |**2022-12-07**|**Harnessing Knowledge and Reasoning for Human-Like Natural Language Generation: A Brief Review**|Jiangjie Chen et.al.|[2212.03747v1](http://arxiv.org/abs/2212.03747v1)|null|
 |**2022-12-07**|**A Generative Approach for Script Event Prediction via Contrastive Fine-tuning**|Fangqi Zhu et.al.|[2212.03496v2](http://arxiv.org/abs/2212.03496v2)|[link](https://github.com/zhufq00/mcnc)|
 |**2022-12-06**|**Counterfactual reasoning: Do language models need world knowledge for causal understanding?**|Jiaxuan Li et.al.|[2212.03278v1](http://arxiv.org/abs/2212.03278v1)|[link](https://github.com/goldengua/counterfactual_inference_lm)|
@@ -208,10 +214,3 @@
 |**2022-10-23**|**TAPE: Assessing Few-shot Russian Language Understanding**|Ekaterina Taktasheva et.al.|[2210.12813v1](http://arxiv.org/abs/2210.12813v1)|null|
 |**2022-10-23**|**Realistic Data Augmentation Framework for Enhancing Tabular Reasoning**|Dibyakanti Kumar et.al.|[2210.12795v1](http://arxiv.org/abs/2210.12795v1)|null|
 |**2022-10-23**|**When Can Transformers Ground and Compose: Insights from Compositional Generalization Benchmarks**|Ankur Sikarwar et.al.|[2210.12786v2](http://arxiv.org/abs/2210.12786v2)|[link](https://github.com/ankursikarwar/grounded-compositional-generalization)|
-|**2022-10-23**|**Retrieve, Reason, and Refine: Generating Accurate and Faithful Patient Instructions**|Fenglin Liu et.al.|[2210.12777v1](http://arxiv.org/abs/2210.12777v1)|[link](https://github.com/ai-in-hospitals/patient-instructions)|
-|**2022-10-23**|**Do Language Models Understand Measurements?**|Sungjin Park et.al.|[2210.12694v1](http://arxiv.org/abs/2210.12694v1)|null|
-|**2022-10-23**|**Focus Is What You Need For Chinese Grammatical Error Correction**|Jingheng Ye et.al.|[2210.12692v3](http://arxiv.org/abs/2210.12692v3)|null|
-|**2022-10-23**|**Extending Phrase Grounding with Pronouns in Visual Dialogues**|Panzhong Lu et.al.|[2210.12658v1](http://arxiv.org/abs/2210.12658v1)|[link](https://github.com/izhx/phrase-grounding-with-pronoun)|
-|**2022-10-23**|**PoKE: Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable**|Xiaohan Xu et.al.|[2210.12640v1](http://arxiv.org/abs/2210.12640v1)|null|
-|**2022-10-23**|**Modal-specific Pseudo Query Generation for Video Corpus Moment Retrieval**|Minjoon Jung et.al.|[2210.12617v1](http://arxiv.org/abs/2210.12617v1)|null|
-|**2022-10-22**|**LMPriors: Pre-Trained Language Models as Task-Specific Priors**|Kristy Choi et.al.|[2210.12530v1](http://arxiv.org/abs/2210.12530v1)|null|
