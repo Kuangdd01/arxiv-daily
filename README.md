@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-12 09:23:40
+ Automated deployment @ 2022-12-12 20:33:32
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-09**|**TRBLLmaker -- Transformer Reads Between Lyrics Lines maker**|Mor Ventura et.al.|[2212.04917v1](http://arxiv.org/abs/2212.04917v1)|null|
+|**2022-12-09**|**From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader**|Weiwen Xu et.al.|[2212.04755v1](http://arxiv.org/abs/2212.04755v1)|null|
+|**2022-12-09**|**Multidimensional Service Quality Scoring System**|Shiyang Lai et.al.|[2212.04611v1](http://arxiv.org/abs/2212.04611v1)|null|
+|**2022-12-08**|**Explain to me like I am five -- Sentence Simplification Using Transformers**|Aman Agarwal et.al.|[2212.04595v1](http://arxiv.org/abs/2212.04595v1)|[link](https://github.com/amanbasu/sentence-simplification)|
 |**2022-12-08**|**Lie detection algorithms attract few users but vastly increase accusation rates**|Alicia von Schenk et.al.|[2212.04277v1](http://arxiv.org/abs/2212.04277v1)|null|
 |**2022-12-08**|**A Modality-level Explainable Framework for Misinformation Checking in Social Networks**|Vítor Lourenço et.al.|[2212.04272v1](http://arxiv.org/abs/2212.04272v1)|null|
 |**2022-12-08**|**Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations**|Björn Plüster et.al.|[2212.04231v1](http://arxiv.org/abs/2212.04231v1)|null|
@@ -18,13 +22,14 @@
 |**2022-12-01**|**SOLD: Sinhala Offensive Language Dataset**|Tharindu Ranasinghe et.al.|[2212.00851v1](http://arxiv.org/abs/2212.00851v1)|null|
 |**2022-12-01**|**What do you MEME? Generating Explanations for Visual Semantic Role Labelling in Memes**|Shivam Sharma et.al.|[2212.00715v1](http://arxiv.org/abs/2212.00715v1)|[link](https://github.com/LCS2-IIITD/LUMEN-Explaining-Memes)|
 |**2022-11-30**|**Task-Specific Embeddings for Ante-Hoc Explainable Text Classification**|Kishaloy Halder et.al.|[2212.00086v1](http://arxiv.org/abs/2212.00086v1)|null|
-|**2022-11-30**|**Logic and Commonsense-Guided Temporal Knowledge Graph Completion**|Guanglin Niu et.al.|[2211.16865v1](http://arxiv.org/abs/2211.16865v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-09**|**From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader**|Weiwen Xu et.al.|[2212.04755v1](http://arxiv.org/abs/2212.04755v1)|null|
+|**2022-12-08**|**Assessing the Capacity of Transformer to Abstract Syntactic Representations: A Contrastive Analysis Based on Long-distance Agreement**|Bingzhi Li et.al.|[2212.04523v1](http://arxiv.org/abs/2212.04523v1)|[link](https://github.com/bingzhilee/contrastive_analysis)|
 |**2022-12-08**|**Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations**|Björn Plüster et.al.|[2212.04231v1](http://arxiv.org/abs/2212.04231v1)|null|
 |**2022-12-08**|**Successive Prompting for Decomposing Complex Questions**|Dheeru Dua et.al.|[2212.04092v1](http://arxiv.org/abs/2212.04092v1)|null|
 |**2022-12-08**|**A Comprehensive Survey on Multi-hop Machine Reading Comprehension Approaches**|Azade Mohammadi et.al.|[2212.04072v1](http://arxiv.org/abs/2212.04072v1)|null|
@@ -56,11 +61,6 @@
 |**2022-12-01**|**Learning to Select from Multiple Options**|Jiangshu Du et.al.|[2212.00301v1](http://arxiv.org/abs/2212.00301v1)|null|
 |**2022-12-01**|**Super-CLEVR: A Virtual Benchmark to Diagnose Domain Robustness in Visual Reasoning**|Zhuowan Li et.al.|[2212.00259v1](http://arxiv.org/abs/2212.00259v1)|[link](https://github.com/lizw14/super-clevr)|
 |**2022-11-30**|**CREPE: Open-Domain Question Answering with False Presuppositions**|Xinyan Velocity Yu et.al.|[2211.17257v1](http://arxiv.org/abs/2211.17257v1)|[link](https://github.com/velocitycavalry/crepe)|
-|**2022-11-30**|**A Pipeline for Generating, Annotating and Employing Synthetic Data for Real World Question Answering**|Matthew Maufe et.al.|[2211.16971v1](http://arxiv.org/abs/2211.16971v1)|[link](https://github.com/filamentai/qa-annotation)|
-|**2022-11-30**|**AIONER: All-in-one scheme-based biomedical named entity recognition using deep learning**|Ling Luo et.al.|[2211.16944v1](http://arxiv.org/abs/2211.16944v1)|null|
-|**2022-11-30**|**Transformers are Short Text Classifiers: A Study of Inductive Short Text Classifiers on Benchmarks and Real-world Datasets**|Fabian Karl et.al.|[2211.16878v2](http://arxiv.org/abs/2211.16878v2)|[link](https://github.com/FKarl/short-text-classification)|
-|**2022-11-30**|**Revisiting text decomposition methods for NLI-based factuality scoring of summaries**|John Glover et.al.|[2211.16853v1](http://arxiv.org/abs/2211.16853v1)|null|
-|**2022-11-30**|**A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods**|Shantanu Jaiswal et.al.|[2211.16822v1](http://arxiv.org/abs/2211.16822v1)|null|
 
 ## Reasoning
 
@@ -213,4 +213,3 @@
 |**2022-10-23**|**Towards Pragmatic Production Strategies for Natural Language Generation Tasks**|Mario Giulianelli et.al.|[2210.12828v1](http://arxiv.org/abs/2210.12828v1)|null|
 |**2022-10-23**|**TAPE: Assessing Few-shot Russian Language Understanding**|Ekaterina Taktasheva et.al.|[2210.12813v1](http://arxiv.org/abs/2210.12813v1)|null|
 |**2022-10-23**|**Realistic Data Augmentation Framework for Enhancing Tabular Reasoning**|Dibyakanti Kumar et.al.|[2210.12795v1](http://arxiv.org/abs/2210.12795v1)|null|
-|**2022-10-23**|**When Can Transformers Ground and Compose: Insights from Compositional Generalization Benchmarks**|Ankur Sikarwar et.al.|[2210.12786v2](http://arxiv.org/abs/2210.12786v2)|[link](https://github.com/ankursikarwar/grounded-compositional-generalization)|
