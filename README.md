@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-14 09:22:34
+ Automated deployment @ 2022-12-14 20:33:04
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
 |**2022-12-11**|**Multimodal and Explainable Internet Meme Classification**|Abhinav Kumar Thakur et.al.|[2212.05612v1](http://arxiv.org/abs/2212.05612v1)|null|
 |**2022-12-10**|**Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification**|Ruixuan Tang et.al.|[2212.05327v1](http://arxiv.org/abs/2212.05327v1)|null|
 |**2022-12-09**|**TRBLLmaker -- Transformer Reads Between Lyrics Lines maker**|Mor Ventura et.al.|[2212.04917v1](http://arxiv.org/abs/2212.04917v1)|null|
@@ -20,14 +21,16 @@
 |**2022-12-07**|**Robustness of Learning from Task Instructions**|Jiasheng Gu et.al.|[2212.03813v1](http://arxiv.org/abs/2212.03813v1)|null|
 |**2022-12-07**|**Hierarchical multimodal transformers for Multi-Page DocVQA**|Rubèn Tito et.al.|[2212.05935v1](http://arxiv.org/abs/2212.05935v1)|null|
 |**2022-12-04**|**Cross-lingual Similarity of Multilingual Representations Revisited**|Maksym Del et.al.|[2212.01924v1](http://arxiv.org/abs/2212.01924v1)|[link](https://github.com/TartuNLP/xsim)|
-|**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu et.al.|[2212.01326v2](http://arxiv.org/abs/2212.01326v2)|null|
-|**2022-12-02**|**Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning**|Jiasheng Si et.al.|[2212.01060v1](http://arxiv.org/abs/2212.01060v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-13**|**A fine-grained comparison of pragmatic language understanding in humans and language models**|Jennifer Hu et.al.|[2212.06801v1](http://arxiv.org/abs/2212.06801v1)|null|
+|**2022-12-13**|**Diverse Demonstrations Improve In-context Compositional Generalization**|Itay Levy et.al.|[2212.06800v1](http://arxiv.org/abs/2212.06800v1)|[link](https://github.com/itayle/diverse-demonstrations)|
+|**2022-12-13**|**Technical Report -- Competition Solution for Prompt Tuning using Pretrained Language Model**|Jiang-Long Song et.al.|[2212.06369v1](http://arxiv.org/abs/2212.06369v1)|null|
+|**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
 |**2022-12-12**|**Prompting Is Programming: A Query Language For Large Language Models**|Luca Beurer-Kellner et.al.|[2212.06094v1](http://arxiv.org/abs/2212.06094v1)|null|
 |**2022-12-12**|**Improving Generalization of Pre-trained Language Models via Stochastic Weight Averaging**|Peng Lu et.al.|[2212.05956v1](http://arxiv.org/abs/2212.05956v1)|null|
 |**2022-12-12**|**BigText-QA: Question Answering over a Large-Scale Hybrid Knowledge Graph**|Jingjing Xu et.al.|[2212.05798v1](http://arxiv.org/abs/2212.05798v1)|null|
@@ -38,6 +41,7 @@
 |**2022-12-10**|**Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification**|Ruixuan Tang et.al.|[2212.05327v1](http://arxiv.org/abs/2212.05327v1)|null|
 |**2022-12-10**|**A Unified Knowledge Graph Service for Developing Domain Language Models in AI Software**|Ruiqing Ding et.al.|[2212.05251v1](http://arxiv.org/abs/2212.05251v1)|[link](https://github.com/ruiqingding/knowledgeda)|
 |**2022-12-09**|**Plug-and-Play Recipe Generation with Content Planning**|Yinhong Liu et.al.|[2212.05093v1](http://arxiv.org/abs/2212.05093v1)|null|
+|**2022-12-09**|**The Turing Deception**|David Noever et.al.|[2212.06721v1](http://arxiv.org/abs/2212.06721v1)|null|
 |**2022-12-09**|**From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader**|Weiwen Xu et.al.|[2212.04755v1](http://arxiv.org/abs/2212.04755v1)|null|
 |**2022-12-08**|**Assessing the Capacity of Transformer to Abstract Syntactic Representations: A Contrastive Analysis Based on Long-distance Agreement**|Bingzhi Li et.al.|[2212.04523v1](http://arxiv.org/abs/2212.04523v1)|[link](https://github.com/bingzhilee/contrastive_analysis)|
 |**2022-12-08**|**Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations**|Björn Plüster et.al.|[2212.04231v1](http://arxiv.org/abs/2212.04231v1)|null|
@@ -58,21 +62,18 @@
 |**2022-12-05**|**QBERT: Generalist Model for Processing Questions**|Zhaozhen Xu et.al.|[2212.01967v1](http://arxiv.org/abs/2212.01967v1)|null|
 |**2022-12-04**|**Applying Multilingual Models to Question Answering (QA)**|Ayrton San Joaquin et.al.|[2212.01933v1](http://arxiv.org/abs/2212.01933v1)|null|
 |**2022-12-04**|**Understanding How Model Size Affects Few-shot Instruction Prompting**|Ayrton San Joaquin et.al.|[2212.01907v1](http://arxiv.org/abs/2212.01907v1)|null|
-|**2022-12-04**|**Toward Efficient Language Model Pretraining and Downstream Adaptation via Self-Evolution: A Case Study on SuperGLUE**|Qihuang Zhong et.al.|[2212.01853v1](http://arxiv.org/abs/2212.01853v1)|null|
-|**2022-12-04**|**Languages You Know Influence Those You Learn: Impact of Language Characteristics on Multi-Lingual Text-to-Text Transfer**|Benjamin Muller et.al.|[2212.01757v1](http://arxiv.org/abs/2212.01757v1)|null|
-|**2022-12-03**|**Unsupervised Fine-Tuning Data Selection for ASR Using Self-Supervised Speech Models**|Reem Gody et.al.|[2212.01661v1](http://arxiv.org/abs/2212.01661v1)|null|
-|**2022-12-02**|**Event knowledge in large language models: the gap between the impossible and the unlikely**|Carina Kauf et.al.|[2212.01488v2](http://arxiv.org/abs/2212.01488v2)|[link](https://github.com/carina-kauf/lm-event-knowledge)|
-|**2022-12-02**|**Twitter Data Analysis: Izmir Earthquake Case**|Özgür Agrali et.al.|[2212.01453v1](http://arxiv.org/abs/2212.01453v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-13**|**Category Theory for Quantum Natural Language Processing**|Alexis Toumi et.al.|[2212.06615v1](http://arxiv.org/abs/2212.06615v1)|[link](https://github.com/toumix/thesis)|
+|**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
 |**2022-12-12**|**Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**|Ke Liang et.al.|[2212.05767v2](http://arxiv.org/abs/2212.05767v2)|[link](https://github.com/liangke23/awesome-knowledge-graph-reasoning)|
 |**2022-12-12**|**Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue**|Sunjae Yoon et.al.|[2212.05765v1](http://arxiv.org/abs/2212.05765v1)|null|
 |**2022-12-11**|**Multimodal and Explainable Internet Meme Classification**|Abhinav Kumar Thakur et.al.|[2212.05612v1](http://arxiv.org/abs/2212.05612v1)|null|
-|**2022-12-10**|**Punctuation Restoration for Singaporean Spoken Languages: English, Malay, and Mandarin**|Abhinav Rao et.al.|[2212.05356v1](http://arxiv.org/abs/2212.05356v1)|null|
+|**2022-12-10**|**Punctuation Restoration for Singaporean Spoken Languages: English, Malay, and Mandarin**|Abhinav Rao et.al.|[2212.05356v1](http://arxiv.org/abs/2212.05356v1)|[link](https://github.com/aetherprior/multilingual-sentence-boundary-detection)|
 |**2022-12-10**|**MAPS-KB: A Million-scale Probabilistic Simile Knowledge Base**|Qianyu He et.al.|[2212.05254v1](http://arxiv.org/abs/2212.05254v1)|null|
 |**2022-12-08**|**BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation**|Dong An et.al.|[2212.04385v1](http://arxiv.org/abs/2212.04385v1)|null|
 |**2022-12-08**|**Implicit causality in GPT-2: a case study**|Hien Huynh et.al.|[2212.04348v1](http://arxiv.org/abs/2212.04348v1)|null|
@@ -213,5 +214,3 @@
 |**2022-10-24**|**Does Self-Rationalization Improve Robustness to Spurious Correlations?**|Alexis Ross et.al.|[2210.13575v1](http://arxiv.org/abs/2210.13575v1)|null|
 |**2022-10-24**|**FCM: Forgetful Causal Masking Makes Causal Language Models Better Zero-Shot Learners**|Hao Liu et.al.|[2210.13432v1](http://arxiv.org/abs/2210.13432v1)|null|
 |**2022-10-24**|**Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs**|Maarten Sap et.al.|[2210.13312v1](http://arxiv.org/abs/2210.13312v1)|null|
-|**2022-10-24**|**Universal and Independent: Multilingual Probing Framework for Exhaustive Model Interpretation and Evaluation**|Oleg Serikov et.al.|[2210.13236v1](http://arxiv.org/abs/2210.13236v1)|[link](https://github.com/airi-institute/probing_framework)|
-|**2022-10-24**|**Structural generalization is hard for sequence-to-sequence models**|Yuekun Yao et.al.|[2210.13050v1](http://arxiv.org/abs/2210.13050v1)|[link](https://github.com/coli-saar/syntax-cogs)|
