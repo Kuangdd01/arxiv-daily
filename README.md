@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-15 09:23:57
+ Automated deployment @ 2022-12-15 20:32:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-14**|**MANTa: Efficient Gradient-Based Tokenization for Robust End-to-End Language Modeling**|Nathan Godey et.al.|[2212.07284v1](http://arxiv.org/abs/2212.07284v1)|null|
+|**2022-12-14**|**Explainability of Text Processing and Retrieval Methods: A Critical Survey**|Sourav Saha et.al.|[2212.07126v1](http://arxiv.org/abs/2212.07126v1)|null|
 |**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
 |**2022-12-11**|**Multimodal and Explainable Internet Meme Classification**|Abhinav Kumar Thakur et.al.|[2212.05612v1](http://arxiv.org/abs/2212.05612v1)|null|
 |**2022-12-10**|**Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification**|Ruixuan Tang et.al.|[2212.05327v1](http://arxiv.org/abs/2212.05327v1)|null|
@@ -20,13 +22,15 @@
 |**2022-12-08**|**Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations**|Björn Plüster et.al.|[2212.04231v1](http://arxiv.org/abs/2212.04231v1)|null|
 |**2022-12-07**|**Robustness of Learning from Task Instructions**|Jiasheng Gu et.al.|[2212.03813v1](http://arxiv.org/abs/2212.03813v1)|null|
 |**2022-12-07**|**Hierarchical multimodal transformers for Multi-Page DocVQA**|Rubèn Tito et.al.|[2212.05935v1](http://arxiv.org/abs/2212.05935v1)|null|
-|**2022-12-04**|**Cross-lingual Similarity of Multilingual Representations Revisited**|Maksym Del et.al.|[2212.01924v1](http://arxiv.org/abs/2212.01924v1)|[link](https://github.com/TartuNLP/xsim)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-14**|**APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning**|Jiashuo Sun et.al.|[2212.07249v1](http://arxiv.org/abs/2212.07249v1)|null|
+|**2022-12-14**|**DialogQAE: N-to-N Question Answer Pair Extraction from Customer Service Chatlog**|Xin Zheng et.al.|[2212.07112v1](http://arxiv.org/abs/2212.07112v1)|null|
+|**2022-12-14**|**Disentangling Prosody Representations with Unsupervised Speech Reconstruction**|Leyuan Qu et.al.|[2212.06972v1](http://arxiv.org/abs/2212.06972v1)|null|
 |**2022-12-13**|**A fine-grained comparison of pragmatic language understanding in humans and language models**|Jennifer Hu et.al.|[2212.06801v1](http://arxiv.org/abs/2212.06801v1)|null|
 |**2022-12-13**|**Diverse Demonstrations Improve In-context Compositional Generalization**|Itay Levy et.al.|[2212.06800v1](http://arxiv.org/abs/2212.06800v1)|[link](https://github.com/itayle/diverse-demonstrations)|
 |**2022-12-13**|**Technical Report -- Competition Solution for Prompt Tuning using Pretrained Language Model**|Jiang-Long Song et.al.|[2212.06369v2](http://arxiv.org/abs/2212.06369v2)|null|
@@ -56,18 +60,14 @@
 |**2022-12-06**|**Intent Recognition in Conversational Recommender Systems**|Sahar Moradizeyveh et.al.|[2212.03721v1](http://arxiv.org/abs/2212.03721v1)|null|
 |**2022-12-05**|**POQue: Asking Participant-specific Outcome Questions for a Deeper Understanding of Complex Events**|Sai Vallurupalli et.al.|[2212.02629v1](http://arxiv.org/abs/2212.02629v1)|null|
 |**2022-12-05**|**Fake News and Hate Speech: Language in Common**|Berta Chulvi et.al.|[2212.02352v1](http://arxiv.org/abs/2212.02352v1)|null|
-|**2022-12-05**|**Entity Set Co-Expansion in StackOverflow**|Yu Zhang et.al.|[2212.02271v1](http://arxiv.org/abs/2212.02271v1)|null|
-|**2022-12-05**|**A Transformer-Based User Satisfaction Prediction for Proactive Interaction Mechanism in DuerOS**|Wei Shen et.al.|[2212.03817v1](http://arxiv.org/abs/2212.03817v1)|null|
-|**2022-12-05**|**Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer**|Zhengbao Jiang et.al.|[2212.02027v1](http://arxiv.org/abs/2212.02027v1)|[link](https://github.com/jzbjyb/reatt)|
-|**2022-12-05**|**QBERT: Generalist Model for Processing Questions**|Zhaozhen Xu et.al.|[2212.01967v1](http://arxiv.org/abs/2212.01967v1)|null|
-|**2022-12-04**|**Applying Multilingual Models to Question Answering (QA)**|Ayrton San Joaquin et.al.|[2212.01933v1](http://arxiv.org/abs/2212.01933v1)|null|
-|**2022-12-04**|**Understanding How Model Size Affects Few-shot Instruction Prompting**|Ayrton San Joaquin et.al.|[2212.01907v1](http://arxiv.org/abs/2212.01907v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-14**|**APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning**|Jiashuo Sun et.al.|[2212.07249v1](http://arxiv.org/abs/2212.07249v1)|null|
+|**2022-12-14**|**Find Someone Who: Visual Commonsense Understanding in Human-Centric Grounding**|Haoxuan You et.al.|[2212.06971v1](http://arxiv.org/abs/2212.06971v1)|null|
 |**2022-12-13**|**Category Theory for Quantum Natural Language Processing**|Alexis Toumi et.al.|[2212.06615v1](http://arxiv.org/abs/2212.06615v1)|[link](https://github.com/toumix/thesis)|
 |**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
 |**2022-12-12**|**Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**|Ke Liang et.al.|[2212.05767v2](http://arxiv.org/abs/2212.05767v2)|[link](https://github.com/liangke23/awesome-knowledge-graph-reasoning)|
@@ -212,5 +212,3 @@
 |**2022-10-24**|**Predicting Long-Term Citations from Short-Term Linguistic Influence**|Sandeep Soni et.al.|[2210.13628v1](http://arxiv.org/abs/2210.13628v1)|[link](https://github.com/sandeepsoni/contextual-leadership)|
 |**2022-10-24**|**VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge**|Sahithya Ravi et.al.|[2210.13626v1](http://arxiv.org/abs/2210.13626v1)|[link](https://github.com/aditya10/vlc-bert)|
 |**2022-10-24**|**Does Self-Rationalization Improve Robustness to Spurious Correlations?**|Alexis Ross et.al.|[2210.13575v1](http://arxiv.org/abs/2210.13575v1)|null|
-|**2022-10-24**|**FCM: Forgetful Causal Masking Makes Causal Language Models Better Zero-Shot Learners**|Hao Liu et.al.|[2210.13432v1](http://arxiv.org/abs/2210.13432v1)|null|
-|**2022-10-24**|**Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs**|Maarten Sap et.al.|[2210.13312v1](http://arxiv.org/abs/2210.13312v1)|null|
