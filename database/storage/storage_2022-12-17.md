@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-17 09:15:38
+ Automated deployment @ 2022-12-17 20:28:00
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -12,7 +12,7 @@
 |**2022-12-14**|**MANTa: Efficient Gradient-Based Tokenization for Robust End-to-End Language Modeling**|Nathan Godey et.al.|[2212.07284v1](http://arxiv.org/abs/2212.07284v1)|null|
 |**2022-12-14**|**Explainability of Text Processing and Retrieval Methods: A Critical Survey**|Sourav Saha et.al.|[2212.07126v1](http://arxiv.org/abs/2212.07126v1)|null|
 |**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
-|**2022-12-12**|**Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments**|Zhivar Sourati et.al.|[2212.07425v1](http://arxiv.org/abs/2212.07425v1)|null|
+|**2022-12-12**|**Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments**|Zhivar Sourati et.al.|[2212.07425v1](http://arxiv.org/abs/2212.07425v1)|[link](https://github.com/usc-isi-i2/logical-fallacy-identification)|
 |**2022-12-11**|**Multimodal and Explainable Internet Meme Classification**|Abhinav Kumar Thakur et.al.|[2212.05612v1](http://arxiv.org/abs/2212.05612v1)|null|
 |**2022-12-10**|**Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification**|Ruixuan Tang et.al.|[2212.05327v1](http://arxiv.org/abs/2212.05327v1)|null|
 |**2022-12-09**|**TRBLLmaker -- Transformer Reads Between Lyrics Lines maker**|Mor Ventura et.al.|[2212.04917v1](http://arxiv.org/abs/2212.04917v1)|null|
@@ -33,7 +33,7 @@
 |**2022-12-15**|**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**|Omar Shaikh et.al.|[2212.08061v1](http://arxiv.org/abs/2212.08061v1)|null|
 |**2022-12-15**|**Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models**|Bernd Bohnet et.al.|[2212.08037v1](http://arxiv.org/abs/2212.08037v1)|null|
 |**2022-12-15**|**Multi-VALUE: A Framework for Cross-Dialectal English NLP**|Caleb Ziems et.al.|[2212.08011v1](http://arxiv.org/abs/2212.08011v1)|null|
-|**2022-12-15**|**ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning**|Olga Golovneva et.al.|[2212.07919v1](http://arxiv.org/abs/2212.07919v1)|null|
+|**2022-12-15**|**ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning**|Olga Golovneva et.al.|[2212.07919v1](http://arxiv.org/abs/2212.07919v1)|[link](https://github.com/facebookresearch/ParlAI)|
 |**2022-12-15**|**CLAM: Selective Clarification for Ambiguous Questions with Large Language Models**|Lorenz Kuhn et.al.|[2212.07769v1](http://arxiv.org/abs/2212.07769v1)|null|
 |**2022-12-14**|**Build-a-Bot: Teaching Conversational AI Using a Transformer-Based Intent Recognition and Question Answering Architecture**|Kate Pearce et.al.|[2212.07542v1](http://arxiv.org/abs/2212.07542v1)|null|
 |**2022-12-14**|**APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning**|Jiashuo Sun et.al.|[2212.07249v1](http://arxiv.org/abs/2212.07249v1)|null|
@@ -72,13 +72,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-12-15**|**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**|Omar Shaikh et.al.|[2212.08061v1](http://arxiv.org/abs/2212.08061v1)|null|
-|**2022-12-15**|**ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning**|Olga Golovneva et.al.|[2212.07919v1](http://arxiv.org/abs/2212.07919v1)|null|
+|**2022-12-15**|**ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning**|Olga Golovneva et.al.|[2212.07919v1](http://arxiv.org/abs/2212.07919v1)|[link](https://github.com/facebookresearch/ParlAI)|
 |**2022-12-14**|**APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning**|Jiashuo Sun et.al.|[2212.07249v1](http://arxiv.org/abs/2212.07249v1)|null|
 |**2022-12-14**|**Find Someone Who: Visual Commonsense Understanding in Human-Centric Grounding**|Haoxuan You et.al.|[2212.06971v1](http://arxiv.org/abs/2212.06971v1)|null|
 |**2022-12-13**|**CREPE: Can Vision-Language Foundation Models Reason Compositionally?**|Zixian Ma et.al.|[2212.07796v1](http://arxiv.org/abs/2212.07796v1)|null|
 |**2022-12-13**|**Category Theory for Quantum Natural Language Processing**|Alexis Toumi et.al.|[2212.06615v1](http://arxiv.org/abs/2212.06615v1)|[link](https://github.com/toumix/thesis)|
 |**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
-|**2022-12-12**|**Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments**|Zhivar Sourati et.al.|[2212.07425v1](http://arxiv.org/abs/2212.07425v1)|null|
+|**2022-12-12**|**Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments**|Zhivar Sourati et.al.|[2212.07425v1](http://arxiv.org/abs/2212.07425v1)|[link](https://github.com/usc-isi-i2/logical-fallacy-identification)|
 |**2022-12-12**|**Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**|Ke Liang et.al.|[2212.05767v2](http://arxiv.org/abs/2212.05767v2)|[link](https://github.com/liangke23/awesome-knowledge-graph-reasoning)|
 |**2022-12-12**|**Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue**|Sunjae Yoon et.al.|[2212.05765v1](http://arxiv.org/abs/2212.05765v1)|null|
 |**2022-12-11**|**Multimodal and Explainable Internet Meme Classification**|Abhinav Kumar Thakur et.al.|[2212.05612v1](http://arxiv.org/abs/2212.05612v1)|null|
