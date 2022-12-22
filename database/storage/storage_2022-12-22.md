@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-22 09:18:45
+ Automated deployment @ 2022-12-22 20:30:59
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-21**|**A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**|Chengtai Cao et.al.|[2212.10888v1](http://arxiv.org/abs/2212.10888v1)|null|
+|**2022-12-21**|**PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition**|Sihao Chen et.al.|[2212.10750v1](http://arxiv.org/abs/2212.10750v1)|null|
+|**2022-12-21**|**MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Constructing Moral Discussions**|Hao Sun et.al.|[2212.10720v1](http://arxiv.org/abs/2212.10720v1)|null|
+|**2022-12-21**|**Extractive Text Summarization Using Generalized Additive Models with Interactions for Sentence Selection**|Vinícius Camargo da Silva et.al.|[2212.10707v1](http://arxiv.org/abs/2212.10707v1)|null|
 |**2022-12-20**|**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**|Damai Dai et.al.|[2212.10559v2](http://arxiv.org/abs/2212.10559v2)|[link](https://github.com/microsoft/lmops)|
 |**2022-12-20**|**DimonGen: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships**|Chenzhengyi Liu et.al.|[2212.10545v1](http://arxiv.org/abs/2212.10545v1)|[link](https://github.com/liuchenzhengyi/dimongen)|
 |**2022-12-20**|**SimpleStyle: An Adaptable Style Transfer Approach**|Elron Bandel et.al.|[2212.10498v1](http://arxiv.org/abs/2212.10498v1)|null|
@@ -35,14 +39,19 @@
 |**2022-12-15**|**Constitutional AI: Harmlessness from AI Feedback**|Yuntao Bai et.al.|[2212.08073v1](http://arxiv.org/abs/2212.08073v1)|[link](https://github.com/anthropics/constitutionalharmlessnesspaper)|
 |**2022-12-14**|**MANTa: Efficient Gradient-Based Tokenization for Robust End-to-End Language Modeling**|Nathan Godey et.al.|[2212.07284v1](http://arxiv.org/abs/2212.07284v1)|null|
 |**2022-12-14**|**Explainability of Text Processing and Retrieval Methods: A Critical Survey**|Sourav Saha et.al.|[2212.07126v1](http://arxiv.org/abs/2212.07126v1)|null|
-|**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
-|**2022-12-12**|**Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments**|Zhivar Sourati et.al.|[2212.07425v1](http://arxiv.org/abs/2212.07425v1)|[link](https://github.com/usc-isi-i2/logical-fallacy-identification)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|[link](https://github.com/byungdoh/attn_dist)|
+|**2022-12-21**|**Training language models for deeper understanding improves brain alignment**|Khai Loong Aw et.al.|[2212.10898v1](http://arxiv.org/abs/2212.10898v1)|[link](https://github.com/brain-nlp/brain_language_deeper)|
+|**2022-12-21**|**ZEROTOP: Zero-Shot Task-Oriented Semantic Parsing using Large Language Models**|Dheeraj Mekala et.al.|[2212.10815v1](http://arxiv.org/abs/2212.10815v1)|null|
+|**2022-12-21**|**Spoken Language Understanding for Conversational AI: Recent Advances and Future Direction**|Soyeon Caren Han et.al.|[2212.10728v1](http://arxiv.org/abs/2212.10728v1)|null|
+|**2022-12-21**|**Beyond Contrastive Learning: A Variational Generative Model for Multilingual Retrieval**|John Wieting et.al.|[2212.10726v1](http://arxiv.org/abs/2212.10726v1)|null|
+|**2022-12-21**|**Analyzing Semantic Faithfulness of Language Models via Input Intervention on Conversational Question Answering**|Akshay Chaturvedi et.al.|[2212.10696v1](http://arxiv.org/abs/2212.10696v1)|null|
+|**2022-12-20**|**Generation-Augmented Query Expansion For Code Retrieval**|Dong Li et.al.|[2212.10692v1](http://arxiv.org/abs/2212.10692v1)|null|
 |**2022-12-20**|**On-the-fly Denoising for Data Augmentation in Natural Language Understanding**|Tianqing Fang et.al.|[2212.10558v1](http://arxiv.org/abs/2212.10558v1)|null|
 |**2022-12-20**|**Measure More, Question More: Experimental Studies on Transformer-based Language Models and Complement Coercion**|Yuling Gu et.al.|[2212.10536v1](http://arxiv.org/abs/2212.10536v1)|null|
 |**2022-12-20**|**Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective**|Xingxuan Li et.al.|[2212.10529v1](http://arxiv.org/abs/2212.10529v1)|null|
@@ -89,6 +98,7 @@
 |**2022-12-19**|**Discovering Language Model Behaviors with Model-Written Evaluations**|Ethan Perez et.al.|[2212.09251v1](http://arxiv.org/abs/2212.09251v1)|[link](https://github.com/anthropics/evals)|
 |**2022-12-19**|**I2D2: Inductive Knowledge Distillation with NeuroLogic and Self-Imitation**|Chandra Bhagavatula et.al.|[2212.09246v1](http://arxiv.org/abs/2212.09246v1)|null|
 |**2022-12-18**|**Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model**|Parishad BehnamGhader et.al.|[2212.09146v1](http://arxiv.org/abs/2212.09146v1)|null|
+|**2022-12-18**|**Chatbots in a Botnet World**|Forrest McKee et.al.|[2212.11126v1](http://arxiv.org/abs/2212.11126v1)|null|
 |**2022-12-18**|**Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale**|Hritik Bansal et.al.|[2212.09095v1](http://arxiv.org/abs/2212.09095v1)|[link](https://github.com/amazon-science/llm-interpret)|
 |**2022-12-18**|**Task Preferences across Languages on Community Question Answering Platforms**|Sebastin Santy et.al.|[2212.09045v1](http://arxiv.org/abs/2212.09045v1)|null|
 |**2022-12-18**|**Language model acceptability judgements are not always robust to context**|Koustuv Sinha et.al.|[2212.08979v1](http://arxiv.org/abs/2212.08979v1)|null|
@@ -106,6 +116,7 @@
 |**2022-12-16**|**Decoder Tuning: Efficient Language Understanding as Decoding**|Ganqu Cui et.al.|[2212.08408v1](http://arxiv.org/abs/2212.08408v1)|null|
 |**2022-12-16**|**Utilizing distilBert transformer model for sentiment classification of COVID-19's Persian open-text responses**|Fatemeh Sadat Masoumi et.al.|[2212.08407v1](http://arxiv.org/abs/2212.08407v1)|null|
 |**2022-12-16**|**How to disagree well: Investigating the dispute tactics used on Wikipedia**|Christine de Kock et.al.|[2212.08353v1](http://arxiv.org/abs/2212.08353v1)|[link](https://github.com/christinedekock11/wikitactics)|
+|**2022-12-16**|**On Safe and Usable Chatbots for Promoting Voter Participation**|Bharath Muppasani et.al.|[2212.11219v1](http://arxiv.org/abs/2212.11219v1)|null|
 |**2022-12-16**|**SceneGATE: Scene-Graph based co-Attention networks for TExt visual question answering**|Siwen Luo et.al.|[2212.08283v1](http://arxiv.org/abs/2212.08283v1)|null|
 |**2022-12-15**|**Saved You A Click: Automatically Answering Clickbait Titles**|Oliver Johnson et.al.|[2212.08196v1](http://arxiv.org/abs/2212.08196v1)|[link](https://github.com/janetzhong/saved-you-a-click-cs224n)|
 |**2022-12-15**|**Joint processing of linguistic properties in brains and language models**|Subba Reddy Oota et.al.|[2212.08094v1](http://arxiv.org/abs/2212.08094v1)|null|
@@ -113,16 +124,17 @@
 |**2022-12-15**|**Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models**|Bernd Bohnet et.al.|[2212.08037v1](http://arxiv.org/abs/2212.08037v1)|null|
 |**2022-12-15**|**Multi-VALUE: A Framework for Cross-Dialectal English NLP**|Caleb Ziems et.al.|[2212.08011v1](http://arxiv.org/abs/2212.08011v1)|null|
 |**2022-12-15**|**ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning**|Olga Golovneva et.al.|[2212.07919v1](http://arxiv.org/abs/2212.07919v1)|[link](https://github.com/facebookresearch/ParlAI)|
-|**2022-12-15**|**CLAM: Selective Clarification for Ambiguous Questions with Large Language Models**|Lorenz Kuhn et.al.|[2212.07769v1](http://arxiv.org/abs/2212.07769v1)|null|
-|**2022-12-15**|**Best-Answer Prediction in Q&A Sites Using User Information**|Rafik Hadfi et.al.|[2212.08475v1](http://arxiv.org/abs/2212.08475v1)|null|
-|**2022-12-14**|**Build-a-Bot: Teaching Conversational AI Using a Transformer-Based Intent Recognition and Question Answering Architecture**|Kate Pearce et.al.|[2212.07542v1](http://arxiv.org/abs/2212.07542v1)|null|
-|**2022-12-14**|**APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning**|Jiashuo Sun et.al.|[2212.07249v1](http://arxiv.org/abs/2212.07249v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-21**|**Resolving Indirect Referring Expressions for Entity Selection**|Mohammad Javad Hosseini et.al.|[2212.10933v1](http://arxiv.org/abs/2212.10933v1)|null|
+|**2022-12-21**|**Language Models as Inductive Reasoners**|Zonglin Yang et.al.|[2212.10923v1](http://arxiv.org/abs/2212.10923v1)|null|
+|**2022-12-21**|**Multi-hop Evidence Retrieval for Cross-document Relation Extraction**|Keming Lu et.al.|[2212.10786v1](http://arxiv.org/abs/2212.10786v1)|null|
+|**2022-12-21**|**ImPaKT: A Dataset for Open-Schema Knowledge Base Construction**|Luke Vilnis et.al.|[2212.10770v1](http://arxiv.org/abs/2212.10770v1)|null|
+|**2022-12-21**|**CORRPUS: Detecting Story Inconsistencies via Codex-Bootstrapped Neurosymbolic Reasoning**|Yijiang River Dong et.al.|[2212.10754v1](http://arxiv.org/abs/2212.10754v1)|null|
 |**2022-12-20**|**Parsel: A Unified Natural Language Framework for Algorithmic Reasoning**|Eric Zelikman et.al.|[2212.10561v1](http://arxiv.org/abs/2212.10561v1)|null|
 |**2022-12-20**|**DimonGen: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships**|Chenzhengyi Liu et.al.|[2212.10545v1](http://arxiv.org/abs/2212.10545v1)|[link](https://github.com/liuchenzhengyi/dimongen)|
 |**2022-12-20**|**A Survey of Deep Learning for Mathematical Reasoning**|Pan Lu et.al.|[2212.10535v1](http://arxiv.org/abs/2212.10535v1)|null|
@@ -263,10 +275,3 @@
 |**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|[link](https://github.com/zhudanhao/deepe)|
 |**2022-11-08**|**Going for GOAL: A Resource for Grounded Football Commentaries**|Alessandro Suglia et.al.|[2211.04534v1](http://arxiv.org/abs/2211.04534v1)|[link](https://gitlab.com/grounded-sport-convai/goal-baselines)|
 |**2022-11-07**|**Looking at the Overlooked: An Analysis on the Word-Overlap Bias in Natural Language Inference**|Sara Rajaee et.al.|[2211.03862v1](http://arxiv.org/abs/2211.03862v1)|[link](https://github.com/sara-rajaee/reverse_bias)|
-|**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|[link](https://github.com/maitreyapatel/cripp-vqa)|
-|**2022-11-07**|**Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces**|Jiahang Cao et.al.|[2211.03536v1](http://arxiv.org/abs/2211.03536v1)|null|
-|**2022-11-07**|**Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions**|Thong Nguyen et.al.|[2211.03524v1](http://arxiv.org/abs/2211.03524v1)|null|
-|**2022-11-07**|**Generative Transformers for Design Concept Generation**|Qihao Zhu et.al.|[2211.03468v1](http://arxiv.org/abs/2211.03468v1)|null|
-|**2022-11-07**|**NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering**|Tengxun Zhang et.al.|[2211.03462v1](http://arxiv.org/abs/2211.03462v1)|null|
-|**2022-11-07**|**Human-Machine Collaboration Approaches to Build a Dialogue Dataset for Hate Speech Countering**|Helena Bonaldi et.al.|[2211.03433v1](http://arxiv.org/abs/2211.03433v1)|[link](https://github.com/marcoguerini/CONAN)|
-|**2022-11-07**|**Probing neural language models for understanding of words of estimative probability**|Damien Sileo et.al.|[2211.03358v1](http://arxiv.org/abs/2211.03358v1)|null|
