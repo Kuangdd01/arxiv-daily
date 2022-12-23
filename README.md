@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-23 09:16:54
+ Automated deployment @ 2022-12-23 20:30:12
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -14,7 +14,6 @@
 |**2022-12-21**|**Extractive Text Summarization Using Generalized Additive Models with Interactions for Sentence Selection**|Vinícius Camargo da Silva et.al.|[2212.10707v1](http://arxiv.org/abs/2212.10707v1)|null|
 |**2022-12-20**|**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**|Damai Dai et.al.|[2212.10559v2](http://arxiv.org/abs/2212.10559v2)|[link](https://github.com/microsoft/lmops)|
 |**2022-12-20**|**DimonGen: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships**|Chenzhengyi Liu et.al.|[2212.10545v1](http://arxiv.org/abs/2212.10545v1)|[link](https://github.com/liuchenzhengyi/dimongen)|
-|**2022-12-20**|**SimpleStyle: An Adaptable Style Transfer Approach**|Elron Bandel et.al.|[2212.10498v2](http://arxiv.org/abs/2212.10498v2)|null|
 |**2022-12-20**|**BMX: Boosting Machine Translation Metrics with Explainability**|Christoph Leiter et.al.|[2212.10469v1](http://arxiv.org/abs/2212.10469v1)|[link](https://github.com/gringham/bmx)|
 |**2022-12-20**|**Generic Temporal Reasoning with Differential Analysis and Explanation**|Yu Feng et.al.|[2212.10467v1](http://arxiv.org/abs/2212.10467v1)|null|
 |**2022-12-20**|**Geographic and Geopolitical Biases of Language Models**|Fahim Faisal et.al.|[2212.10408v1](http://arxiv.org/abs/2212.10408v1)|null|
@@ -37,14 +36,14 @@
 |**2022-12-15**|**Saved You A Click: Automatically Answering Clickbait Titles**|Oliver Johnson et.al.|[2212.08196v1](http://arxiv.org/abs/2212.08196v1)|[link](https://github.com/janetzhong/saved-you-a-click-cs224n)|
 |**2022-12-15**|**Retrieval-based Disentanglement with Distant Supervision**|Jiawei Zhou et.al.|[2212.07699v1](http://arxiv.org/abs/2212.07699v1)|null|
 |**2022-12-15**|**Constitutional AI: Harmlessness from AI Feedback**|Yuntao Bai et.al.|[2212.08073v1](http://arxiv.org/abs/2212.08073v1)|[link](https://github.com/anthropics/constitutionalharmlessnesspaper)|
-|**2022-12-14**|**MANTa: Efficient Gradient-Based Tokenization for Robust End-to-End Language Modeling**|Nathan Godey et.al.|[2212.07284v1](http://arxiv.org/abs/2212.07284v1)|null|
-|**2022-12-14**|**Explainability of Text Processing and Retrieval Methods: A Critical Survey**|Sourav Saha et.al.|[2212.07126v1](http://arxiv.org/abs/2212.07126v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22**|**Understanding Postpartum Parents' Experiences via Two Digital Platforms**|Xuewen Yao et.al.|[2212.11455v1](http://arxiv.org/abs/2212.11455v1)|null|
+|**2022-12-21**|**Language models are better than humans at next-token prediction**|Buck Shlegeris et.al.|[2212.11281v1](http://arxiv.org/abs/2212.11281v1)|null|
 |**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|[link](https://github.com/byungdoh/attn_dist)|
 |**2022-12-21**|**Training language models for deeper understanding improves brain alignment**|Khai Loong Aw et.al.|[2212.10898v1](http://arxiv.org/abs/2212.10898v1)|[link](https://github.com/brain-nlp/brain_language_deeper)|
 |**2022-12-21**|**ZEROTOP: Zero-Shot Task-Oriented Semantic Parsing using Large Language Models**|Dheeraj Mekala et.al.|[2212.10815v1](http://arxiv.org/abs/2212.10815v1)|null|
@@ -113,26 +112,17 @@
 |**2022-12-16**|**Natural Language Processing in Customer Service: A Systematic Review**|Malak Mashaabi et.al.|[2212.09523v1](http://arxiv.org/abs/2212.09523v1)|null|
 |**2022-12-16**|**Enhancing Multi-modal and Multi-hop Question Answering via Structured Knowledge and Unified Retrieval-Generation**|Qian Yang et.al.|[2212.08632v1](http://arxiv.org/abs/2212.08632v1)|null|
 |**2022-12-16**|**POTATO: The Portable Text Annotation Tool**|Jiaxin Pei et.al.|[2212.08620v1](http://arxiv.org/abs/2212.08620v1)|[link](https://github.com/davidjurgens/potato)|
-|**2022-12-16**|**Decoder Tuning: Efficient Language Understanding as Decoding**|Ganqu Cui et.al.|[2212.08408v1](http://arxiv.org/abs/2212.08408v1)|null|
-|**2022-12-16**|**Utilizing distilBert transformer model for sentiment classification of COVID-19's Persian open-text responses**|Fatemeh Sadat Masoumi et.al.|[2212.08407v1](http://arxiv.org/abs/2212.08407v1)|null|
-|**2022-12-16**|**How to disagree well: Investigating the dispute tactics used on Wikipedia**|Christine de Kock et.al.|[2212.08353v1](http://arxiv.org/abs/2212.08353v1)|[link](https://github.com/christinedekock11/wikitactics)|
-|**2022-12-16**|**On Safe and Usable Chatbots for Promoting Voter Participation**|Bharath Muppasani et.al.|[2212.11219v1](http://arxiv.org/abs/2212.11219v1)|null|
-|**2022-12-16**|**SceneGATE: Scene-Graph based co-Attention networks for TExt visual question answering**|Siwen Luo et.al.|[2212.08283v1](http://arxiv.org/abs/2212.08283v1)|null|
-|**2022-12-15**|**Saved You A Click: Automatically Answering Clickbait Titles**|Oliver Johnson et.al.|[2212.08196v1](http://arxiv.org/abs/2212.08196v1)|[link](https://github.com/janetzhong/saved-you-a-click-cs224n)|
-|**2022-12-15**|**Joint processing of linguistic properties in brains and language models**|Subba Reddy Oota et.al.|[2212.08094v1](http://arxiv.org/abs/2212.08094v1)|null|
-|**2022-12-15**|**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**|Omar Shaikh et.al.|[2212.08061v1](http://arxiv.org/abs/2212.08061v1)|null|
-|**2022-12-15**|**Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models**|Bernd Bohnet et.al.|[2212.08037v1](http://arxiv.org/abs/2212.08037v1)|null|
-|**2022-12-15**|**Multi-VALUE: A Framework for Cross-Dialectal English NLP**|Caleb Ziems et.al.|[2212.08011v1](http://arxiv.org/abs/2212.08011v1)|null|
-|**2022-12-15**|**ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning**|Olga Golovneva et.al.|[2212.07919v1](http://arxiv.org/abs/2212.07919v1)|[link](https://github.com/facebookresearch/ParlAI)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-21**|**What do LLMs Know about Financial Markets? A Case Study on Reddit Market Sentiment Analysis**|Xiang Deng et.al.|[2212.11311v1](http://arxiv.org/abs/2212.11311v1)|null|
 |**2022-12-21**|**Resolving Indirect Referring Expressions for Entity Selection**|Mohammad Javad Hosseini et.al.|[2212.10933v1](http://arxiv.org/abs/2212.10933v1)|null|
 |**2022-12-21**|**Language Models as Inductive Reasoners**|Zonglin Yang et.al.|[2212.10923v1](http://arxiv.org/abs/2212.10923v1)|null|
 |**2022-12-21**|**Multi-hop Evidence Retrieval for Cross-document Relation Extraction**|Keming Lu et.al.|[2212.10786v1](http://arxiv.org/abs/2212.10786v1)|null|
+|**2022-12-21**|**KL Regularized Normalization Framework for Low Resource Tasks**|Neeraj Kumar et.al.|[2212.11275v1](http://arxiv.org/abs/2212.11275v1)|null|
 |**2022-12-21**|**ImPaKT: A Dataset for Open-Schema Knowledge Base Construction**|Luke Vilnis et.al.|[2212.10770v1](http://arxiv.org/abs/2212.10770v1)|null|
 |**2022-12-21**|**CORRPUS: Detecting Story Inconsistencies via Codex-Bootstrapped Neurosymbolic Reasoning**|Yijiang River Dong et.al.|[2212.10754v1](http://arxiv.org/abs/2212.10754v1)|null|
 |**2022-12-20**|**Parsel: A Unified Natural Language Framework for Algorithmic Reasoning**|Eric Zelikman et.al.|[2212.10561v1](http://arxiv.org/abs/2212.10561v1)|null|
@@ -273,5 +263,3 @@
 |**2022-11-09**|**Discord Questions: A Computational Approach To Diversity Analysis in News Coverage**|Philippe Laban et.al.|[2211.05007v1](http://arxiv.org/abs/2211.05007v1)|[link](https://github.com/salesforce/discord_questions)|
 |**2022-11-09**|**Accountable and Explainable Methods for Complex Reasoning over Text**|Pepa Atanasova et.al.|[2211.04946v1](http://arxiv.org/abs/2211.04946v1)|null|
 |**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|[link](https://github.com/zhudanhao/deepe)|
-|**2022-11-08**|**Going for GOAL: A Resource for Grounded Football Commentaries**|Alessandro Suglia et.al.|[2211.04534v1](http://arxiv.org/abs/2211.04534v1)|[link](https://gitlab.com/grounded-sport-convai/goal-baselines)|
-|**2022-11-07**|**Looking at the Overlooked: An Analysis on the Word-Overlap Bias in Natural Language Inference**|Sara Rajaee et.al.|[2211.03862v1](http://arxiv.org/abs/2211.03862v1)|[link](https://github.com/sara-rajaee/reverse_bias)|
