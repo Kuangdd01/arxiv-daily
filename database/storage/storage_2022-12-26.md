@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-26 09:19:07
+ Automated deployment @ 2022-12-26 20:30:07
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -34,14 +34,14 @@
 |**2022-12-16**|**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**|Hanlin Zhang et.al.|[2212.08686v1](http://arxiv.org/abs/2212.08686v1)|null|
 |**2022-12-16**|**Self-Prompting Large Language Models for Open-Domain QA**|Junlong Li et.al.|[2212.08635v1](http://arxiv.org/abs/2212.08635v1)|null|
 |**2022-12-15**|**Saved You A Click: Automatically Answering Clickbait Titles**|Oliver Johnson et.al.|[2212.08196v1](http://arxiv.org/abs/2212.08196v1)|[link](https://github.com/janetzhong/saved-you-a-click-cs224n)|
-|**2022-12-15**|**Retrieval-based Disentanglement with Distant Supervision**|Jiawei Zhou et.al.|[2212.07699v1](http://arxiv.org/abs/2212.07699v1)|null|
-|**2022-12-15**|**Constitutional AI: Harmlessness from AI Feedback**|Yuntao Bai et.al.|[2212.08073v1](http://arxiv.org/abs/2212.08073v1)|[link](https://github.com/anthropics/constitutionalharmlessnesspaper)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-23**|**Learning to Generate Questions by Enhancing Text Generation with Sentence Selection**|Do Hoang Thai Duong et.al.|[2212.12192v1](http://arxiv.org/abs/2212.12192v1)|null|
+|**2022-12-22**|**When are Lemons Purple? The Concept Association Bias of CLIP**|Yutaro Yamada et.al.|[2212.12043v1](http://arxiv.org/abs/2212.12043v1)|null|
 |**2022-12-22**|**Understanding Postpartum Parents' Experiences via Two Digital Platforms**|Xuewen Yao et.al.|[2212.11455v1](http://arxiv.org/abs/2212.11455v1)|null|
 |**2022-12-21**|**Language models are better than humans at next-token prediction**|Buck Shlegeris et.al.|[2212.11281v1](http://arxiv.org/abs/2212.11281v1)|null|
 |**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|[link](https://github.com/byungdoh/attn_dist)|
@@ -102,22 +102,13 @@
 |**2022-12-18**|**Task Preferences across Languages on Community Question Answering Platforms**|Sebastin Santy et.al.|[2212.09045v1](http://arxiv.org/abs/2212.09045v1)|null|
 |**2022-12-18**|**Language model acceptability judgements are not always robust to context**|Koustuv Sinha et.al.|[2212.08979v1](http://arxiv.org/abs/2212.08979v1)|null|
 |**2022-12-17**|**Towards leveraging latent knowledge and Dialogue context for real-world conversational question answering**|Shaomu Tan et.al.|[2212.08946v1](http://arxiv.org/abs/2212.08946v1)|null|
-|**2022-12-17**|**Know What I don't Know: Handling Ambiguous and Unanswerable Questions for Text-to-SQL**|Bing Wang et.al.|[2212.08902v1](http://arxiv.org/abs/2212.08902v1)|null|
-|**2022-12-17**|**Improving Question Answering Performance through Manual Annotation: Costs, Benefits and Strategies**|Piotr Rybak et.al.|[2212.08897v1](http://arxiv.org/abs/2212.08897v1)|null|
-|**2022-12-17**|**Unsupervised Dense Retrieval Deserves Better Positive Pairs: Scalable Augmentation with Query Extraction and Generation**|Rui Meng et.al.|[2212.08841v1](http://arxiv.org/abs/2212.08841v1)|null|
-|**2022-12-17**|**Relational Sentence Embedding for Flexible Semantic Matching**|Bin Wang et.al.|[2212.08802v1](http://arxiv.org/abs/2212.08802v1)|null|
-|**2022-12-17**|**Importance of Synthesizing High-quality Data for Text-to-SQL Parsing**|Yiyun Zhao et.al.|[2212.08785v1](http://arxiv.org/abs/2212.08785v1)|null|
-|**2022-12-16**|**Neural Story Planning**|Anbang Ye et.al.|[2212.08718v1](http://arxiv.org/abs/2212.08718v1)|null|
-|**2022-12-16**|**Self-Prompting Large Language Models for Open-Domain QA**|Junlong Li et.al.|[2212.08635v1](http://arxiv.org/abs/2212.08635v1)|null|
-|**2022-12-16**|**Natural Language Processing in Customer Service: A Systematic Review**|Malak Mashaabi et.al.|[2212.09523v1](http://arxiv.org/abs/2212.09523v1)|null|
-|**2022-12-16**|**Enhancing Multi-modal and Multi-hop Question Answering via Structured Knowledge and Unified Retrieval-Generation**|Qian Yang et.al.|[2212.08632v1](http://arxiv.org/abs/2212.08632v1)|null|
-|**2022-12-16**|**POTATO: The Portable Text Annotation Tool**|Jiaxin Pei et.al.|[2212.08620v1](http://arxiv.org/abs/2212.08620v1)|[link](https://github.com/davidjurgens/potato)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22**|**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**|Srinivasan Iyer et.al.|[2212.12017v1](http://arxiv.org/abs/2212.12017v1)|null|
 |**2022-12-21**|**What do LLMs Know about Financial Markets? A Case Study on Reddit Market Sentiment Analysis**|Xiang Deng et.al.|[2212.11311v1](http://arxiv.org/abs/2212.11311v1)|null|
 |**2022-12-21**|**Resolving Indirect Referring Expressions for Entity Selection**|Mohammad Javad Hosseini et.al.|[2212.10933v1](http://arxiv.org/abs/2212.10933v1)|null|
 |**2022-12-21**|**Language Models as Inductive Reasoners**|Zonglin Yang et.al.|[2212.10923v1](http://arxiv.org/abs/2212.10923v1)|null|
@@ -251,7 +242,7 @@
 |**2022-11-15**|**Teaching Algorithmic Reasoning via In-context Learning**|Hattie Zhou et.al.|[2211.09066v1](http://arxiv.org/abs/2211.09066v1)|null|
 |**2022-11-14**|**Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA**|Elias Stengel-Eskin et.al.|[2211.07516v1](http://arxiv.org/abs/2211.07516v1)|[link](https://github.com/esteng/ambiguous_vqa)|
 |**2022-11-14**|**Calibrated Interpretation: Confidence Estimation in Semantic Parsing**|Elias Stengel-Eskin et.al.|[2211.07443v3](http://arxiv.org/abs/2211.07443v3)|[link](https://github.com/esteng/calibration_miso)|
-|**2022-11-13**|**WR-ONE2SET: Towards Well-Calibrated Keyphrase Generation**|Binbin Xie et.al.|[2211.06862v1](http://arxiv.org/abs/2211.06862v1)|null|
+|**2022-11-13**|**WR-ONE2SET: Towards Well-Calibrated Keyphrase Generation**|Binbin Xie et.al.|[2211.06862v1](http://arxiv.org/abs/2211.06862v1)|[link](https://github.com/deeplearnxmu/wr-one2set)|
 |**2022-11-11**|**DocuT5: Seq2seq SQL Generation with Table Documentation**|Elena Soare et.al.|[2211.06193v1](http://arxiv.org/abs/2211.06193v1)|null|
 |**2022-11-11**|**A Survey of Knowledge-Enhanced Pre-trained Language Models**|Linmei Hu et.al.|[2211.05994v3](http://arxiv.org/abs/2211.05994v3)|null|
 |**2022-11-11**|**Misinformation Detection using Persuasive Writing Strategies**|Joseph Romain et.al.|[2211.05985v1](http://arxiv.org/abs/2211.05985v1)|null|
@@ -262,4 +253,3 @@
 |**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
 |**2022-11-09**|**Discord Questions: A Computational Approach To Diversity Analysis in News Coverage**|Philippe Laban et.al.|[2211.05007v1](http://arxiv.org/abs/2211.05007v1)|[link](https://github.com/salesforce/discord_questions)|
 |**2022-11-09**|**Accountable and Explainable Methods for Complex Reasoning over Text**|Pepa Atanasova et.al.|[2211.04946v1](http://arxiv.org/abs/2211.04946v1)|null|
-|**2022-11-09**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|[link](https://github.com/zhudanhao/deepe)|
