@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-27 09:17:36
+ Automated deployment @ 2022-12-27 20:30:22
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-24**|**Development of a Thermodynamics of Human Cognition and Human Culture**|Diederik Aerts et.al.|[2212.12795v1](http://arxiv.org/abs/2212.12795v1)|null|
 |**2022-12-21**|**A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**|Chengtai Cao et.al.|[2212.10888v1](http://arxiv.org/abs/2212.10888v1)|[link](https://github.com/chengtaicao/awesome-mix)|
 |**2022-12-21**|**PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition**|Sihao Chen et.al.|[2212.10750v1](http://arxiv.org/abs/2212.10750v1)|null|
 |**2022-12-21**|**MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Constructing Moral Discussions**|Hao Sun et.al.|[2212.10720v1](http://arxiv.org/abs/2212.10720v1)|null|
@@ -33,13 +34,15 @@
 |**2022-12-17**|**Know What I don't Know: Handling Ambiguous and Unanswerable Questions for Text-to-SQL**|Bing Wang et.al.|[2212.08902v1](http://arxiv.org/abs/2212.08902v1)|null|
 |**2022-12-16**|**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**|Hanlin Zhang et.al.|[2212.08686v1](http://arxiv.org/abs/2212.08686v1)|null|
 |**2022-12-16**|**Self-Prompting Large Language Models for Open-Domain QA**|Junlong Li et.al.|[2212.08635v1](http://arxiv.org/abs/2212.08635v1)|null|
-|**2022-12-15**|**Saved You A Click: Automatically Answering Clickbait Titles**|Oliver Johnson et.al.|[2212.08196v1](http://arxiv.org/abs/2212.08196v1)|[link](https://github.com/janetzhong/saved-you-a-click-cs224n)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-26**|**Large Language Models Encode Clinical Knowledge**|Karan Singhal et.al.|[2212.13138v1](http://arxiv.org/abs/2212.13138v1)|null|
+|**2022-12-26**|**Improving Complex Knowledge Base Question Answering via Question-to-Action and Question-to-Question Alignment**|Yechun Tang et.al.|[2212.13036v1](http://arxiv.org/abs/2212.13036v1)|[link](https://github.com/tttttttty/alcqa)|
+|**2022-12-24**|**STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension**|Borui Wang et.al.|[2212.12652v1](http://arxiv.org/abs/2212.12652v1)|null|
 |**2022-12-23**|**Learning to Generate Questions by Enhancing Text Generation with Sentence Selection**|Do Hoang Thai Duong et.al.|[2212.12192v1](http://arxiv.org/abs/2212.12192v1)|null|
 |**2022-12-22**|**When are Lemons Purple? The Concept Association Bias of CLIP**|Yutaro Yamada et.al.|[2212.12043v1](http://arxiv.org/abs/2212.12043v1)|null|
 |**2022-12-22**|**Understanding Postpartum Parents' Experiences via Two Digital Platforms**|Xuewen Yao et.al.|[2212.11455v1](http://arxiv.org/abs/2212.11455v1)|null|
@@ -91,23 +94,14 @@
 |**2022-12-19**|**Visconde: Multi-document QA with GPT-3 and Neural Reranking**|Jayr Pereira et.al.|[2212.09656v1](http://arxiv.org/abs/2212.09656v1)|[link](https://github.com/neuralmind-ai/visconde)|
 |**2022-12-19**|**Query Enhanced Knowledge-Intensive Conversation via Unsupervised Joint Modeling**|Mingzhu Cai et.al.|[2212.09588v1](http://arxiv.org/abs/2212.09588v1)|null|
 |**2022-12-19**|**Source-Free Domain Adaptation for Question Answering with Masked Self-training**|M. Yin et.al.|[2212.09563v1](http://arxiv.org/abs/2212.09563v1)|null|
-|**2022-12-19**|**Rethinking Label Smoothing on Multi-hop Question Answering**|Zhangyue Yin et.al.|[2212.09512v1](http://arxiv.org/abs/2212.09512v1)|[link](https://github.com/yinzhangyue/c2fm)|
-|**2022-12-19**|**Bridging The Gap: Entailment Fused-T5 for Open-retrieval Conversational Machine Reading Comprehension**|Xiao Zhang et.al.|[2212.09353v1](http://arxiv.org/abs/2212.09353v1)|null|
-|**2022-12-19**|**MIGA: A Unified Multi-task Generation Framework for Conversational Text-to-SQL**|Yingwen Fu et.al.|[2212.09278v1](http://arxiv.org/abs/2212.09278v1)|null|
-|**2022-12-19**|**Discovering Language Model Behaviors with Model-Written Evaluations**|Ethan Perez et.al.|[2212.09251v1](http://arxiv.org/abs/2212.09251v1)|[link](https://github.com/anthropics/evals)|
-|**2022-12-19**|**I2D2: Inductive Knowledge Distillation with NeuroLogic and Self-Imitation**|Chandra Bhagavatula et.al.|[2212.09246v1](http://arxiv.org/abs/2212.09246v1)|null|
-|**2022-12-18**|**Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model**|Parishad BehnamGhader et.al.|[2212.09146v1](http://arxiv.org/abs/2212.09146v1)|null|
-|**2022-12-18**|**Chatbots in a Botnet World**|Forrest McKee et.al.|[2212.11126v2](http://arxiv.org/abs/2212.11126v2)|null|
-|**2022-12-18**|**Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale**|Hritik Bansal et.al.|[2212.09095v1](http://arxiv.org/abs/2212.09095v1)|[link](https://github.com/amazon-science/llm-interpret)|
-|**2022-12-18**|**Task Preferences across Languages on Community Question Answering Platforms**|Sebastin Santy et.al.|[2212.09045v1](http://arxiv.org/abs/2212.09045v1)|null|
-|**2022-12-18**|**Language model acceptability judgements are not always robust to context**|Koustuv Sinha et.al.|[2212.08979v1](http://arxiv.org/abs/2212.08979v1)|null|
-|**2022-12-17**|**Towards leveraging latent knowledge and Dialogue context for real-world conversational question answering**|Shaomu Tan et.al.|[2212.08946v1](http://arxiv.org/abs/2212.08946v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-26**|**Large Language Models Encode Clinical Knowledge**|Karan Singhal et.al.|[2212.13138v1](http://arxiv.org/abs/2212.13138v1)|null|
+|**2022-12-24**|**STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension**|Borui Wang et.al.|[2212.12652v1](http://arxiv.org/abs/2212.12652v1)|null|
 |**2022-12-22**|**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**|Srinivasan Iyer et.al.|[2212.12017v1](http://arxiv.org/abs/2212.12017v1)|null|
 |**2022-12-21**|**What do LLMs Know about Financial Markets? A Case Study on Reddit Market Sentiment Analysis**|Xiang Deng et.al.|[2212.11311v1](http://arxiv.org/abs/2212.11311v1)|null|
 |**2022-12-21**|**Resolving Indirect Referring Expressions for Entity Selection**|Mohammad Javad Hosseini et.al.|[2212.10933v1](http://arxiv.org/abs/2212.10933v1)|null|
@@ -250,6 +244,3 @@
 |**2022-11-10**|**Understanding Text Classification Data and Models Using Aggregated Input Salience**|Sebastian Ebert et.al.|[2211.05485v2](http://arxiv.org/abs/2211.05485v2)|null|
 |**2022-11-10**|**Can Transformers Reason in Fragments of Natural Language?**|Viktor Schlegel et.al.|[2211.05417v1](http://arxiv.org/abs/2211.05417v1)|[link](https://github.com/schlevik/nlr)|
 |**2022-11-10**|**EvEntS ReaLM: Event Reasoning of Entity States via Language Models**|Evangelia Spiliopoulou et.al.|[2211.05392v1](http://arxiv.org/abs/2211.05392v1)|null|
-|**2022-11-09**|**Towards Reasoning-Aware Explainable VQA**|Rakesh Vaideeswaran et.al.|[2211.05190v1](http://arxiv.org/abs/2211.05190v1)|null|
-|**2022-11-09**|**Discord Questions: A Computational Approach To Diversity Analysis in News Coverage**|Philippe Laban et.al.|[2211.05007v1](http://arxiv.org/abs/2211.05007v1)|[link](https://github.com/salesforce/discord_questions)|
-|**2022-11-09**|**Accountable and Explainable Methods for Complex Reasoning over Text**|Pepa Atanasova et.al.|[2211.04946v1](http://arxiv.org/abs/2211.04946v1)|null|
