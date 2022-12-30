@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-30 09:19:31
+ Automated deployment @ 2022-12-30 20:29:19
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -174,7 +174,7 @@
 |**2022-12-02**|**UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph**|Jinhao Jiang et.al.|[2212.00959v1](http://arxiv.org/abs/2212.00959v1)|null|
 |**2022-12-01**|**Analogical Math Word Problems Solving with Enhanced Problem-Solution Association**|Zhenwen Liang et.al.|[2212.00837v1](http://arxiv.org/abs/2212.00837v1)|[link](https://github.com/lzhenwen/analogical_mwp)|
 |**2022-12-01**|**Generalizing Math Word Problem Solvers via Solution Diversification**|Zhenwen Liang et.al.|[2212.00833v1](http://arxiv.org/abs/2212.00833v1)|null|
-|**2022-12-01**|**Simplifying and Understanding State Space Models with Diagonal Linear RNNs**|Ankit Gupta et.al.|[2212.00768v2](http://arxiv.org/abs/2212.00768v2)|null|
+|**2022-12-01**|**Simplifying and Understanding State Space Models with Diagonal Linear RNNs**|Ankit Gupta et.al.|[2212.00768v2](http://arxiv.org/abs/2212.00768v2)|[link](https://github.com/ag1988/dlr)|
 |**2022-12-01**|**Language models and brain alignment: beyond word-level semantics and prediction**|Gabriele Merlin et.al.|[2212.00596v1](http://arxiv.org/abs/2212.00596v1)|null|
 |**2022-12-01**|**Research on the application of contrastive learning in multi-label text classification**|Nankai Lin et.al.|[2212.00552v1](http://arxiv.org/abs/2212.00552v1)|null|
 |**2022-12-01**|**IRRGN: An Implicit Relational Reasoning Graph Network for Multi-turn Response Selection**|Jingcheng Deng et.al.|[2212.00482v1](http://arxiv.org/abs/2212.00482v1)|[link](https://github.com/djc-go-solo/irrgn)|
