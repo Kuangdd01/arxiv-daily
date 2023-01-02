@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-02 09:18:41
+ Automated deployment @ 2023-01-02 20:30:42
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-30**|**Black-box language model explanation by context length probing**|Ondřej Cífka et.al.|[2212.14815v1](http://arxiv.org/abs/2212.14815v1)|[link](https://github.com/cifkao/context-probing)|
+|**2022-12-30**|**How would Stance Detection Techniques Evolve after the Launch of ChatGPT?**|Bowen Zhang et.al.|[2212.14548v1](http://arxiv.org/abs/2212.14548v1)|null|
+|**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
 |**2022-12-27**|**NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis**|Xu Ye et.al.|[2212.13408v1](http://arxiv.org/abs/2212.13408v1)|null|
 |**2022-12-24**|**Development of a Thermodynamics of Human Cognition and Human Culture**|Diederik Aerts et.al.|[2212.12795v1](http://arxiv.org/abs/2212.12795v1)|null|
 |**2022-12-21**|**A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**|Chengtai Cao et.al.|[2212.10888v1](http://arxiv.org/abs/2212.10888v1)|[link](https://github.com/chengtaicao/awesome-mix)|
@@ -23,18 +26,14 @@
 |**2022-12-20**|**Receptive Field Alignment Enables Transformer Length Extrapolation**|Ta-Chung Chi et.al.|[2212.10356v1](http://arxiv.org/abs/2212.10356v1)|null|
 |**2022-12-20**|**On Improving Summarization Factual Consistency from Natural Language Feedback**|Yixin Liu et.al.|[2212.09968v1](http://arxiv.org/abs/2212.09968v1)|[link](https://github.com/microsoft/defacto)|
 |**2022-12-19**|**(Psycho-)Linguistic Features Meet Transformer Models for Improved Explainable and Controllable Text Simplification**|Yu Qiao et.al.|[2212.09848v1](http://arxiv.org/abs/2212.09848v1)|null|
-|**2022-12-19**|**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**|Hongjin Su et.al.|[2212.09741v2](http://arxiv.org/abs/2212.09741v2)|null|
-|**2022-12-19**|**KNIFE: Knowledge Distillation with Free-Text Rationales**|Aaron Chan et.al.|[2212.09721v1](http://arxiv.org/abs/2212.09721v1)|null|
-|**2022-12-19**|**Visconde: Multi-document QA with GPT-3 and Neural Reranking**|Jayr Pereira et.al.|[2212.09656v1](http://arxiv.org/abs/2212.09656v1)|[link](https://github.com/neuralmind-ai/visconde)|
-|**2022-12-19**|**Explanation Regeneration via Information Bottleneck**|Qintong Li et.al.|[2212.09603v1](http://arxiv.org/abs/2212.09603v1)|null|
-|**2022-12-19**|**Large Language Models are reasoners with Self-Verification**|Yixuan Weng et.al.|[2212.09561v1](http://arxiv.org/abs/2212.09561v1)|[link](https://github.com/WENGSYX/Self-Verification)|
-|**2022-12-19**|**Natural Language to Code Generation in Interactive Data Science Notebooks**|Pengcheng Yin et.al.|[2212.09248v1](http://arxiv.org/abs/2212.09248v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-29**|**Maximizing Use-Case Specificity through Precision Model Tuning**|Pranjali Awasthi et.al.|[2212.14206v1](http://arxiv.org/abs/2212.14206v1)|null|
+|**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
 |**2022-12-28**|**Cramming: Training a Language Model on a Single GPU in One Day**|Jonas Geiping et.al.|[2212.14034v1](http://arxiv.org/abs/2212.14034v1)|[link](https://github.com/jonasgeiping/cramming)|
 |**2022-12-28**|**Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**|Omar Khattab et.al.|[2212.14024v1](http://arxiv.org/abs/2212.14024v1)|null|
 |**2022-12-27**|**A Survey on Table-and-Text HybridQA: Concepts, Methods, Challenges and Future Directions**|Dingzirui Wang et.al.|[2212.13465v1](http://arxiv.org/abs/2212.13465v1)|null|
@@ -61,28 +60,13 @@
 |**2022-12-20**|**Little Red Riding Hood Goes Around the Globe:Crosslingual Story Planning and Generation with Large Language Models**|Evgeniia Razumovskaia et.al.|[2212.10471v1](http://arxiv.org/abs/2212.10471v1)|null|
 |**2022-12-20**|**MULTI3NLU++: A Multilingual, Multi-Intent, Multi-Domain Dataset for Natural Language Understanding in Task-Oriented Dialogue**|Nikita Moghe et.al.|[2212.10455v1](http://arxiv.org/abs/2212.10455v1)|null|
 |**2022-12-20**|**Socratic Pretraining: Question-Driven Pretraining for Controllable Summarization**|Artidoro Pagnoni et.al.|[2212.10449v1](http://arxiv.org/abs/2212.10449v1)|null|
-|**2022-12-20**|**Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations**|Valentina Pyatkin et.al.|[2212.10409v1](http://arxiv.org/abs/2212.10409v1)|null|
-|**2022-12-20**|**To Adapt or to Annotate: Challenges and Interventions for Domain Adaptation in Open-Domain Question Answering**|Dheeru Dua et.al.|[2212.10381v1](http://arxiv.org/abs/2212.10381v1)|null|
-|**2022-12-20**|**What Are You Token About? Dense Retrieval as Distributions Over the Vocabulary**|Ori Ram et.al.|[2212.10380v1](http://arxiv.org/abs/2212.10380v1)|null|
-|**2022-12-20**|**Does It Affect You? Social and Learning Implications of Using Cognitive-Affective State Recognition for Proactive Human-Robot Tutoring**|Matthias Kraus et.al.|[2212.10346v1](http://arxiv.org/abs/2212.10346v1)|null|
-|**2022-12-20**|**Extrinsic Evaluation of Machine Translation Metrics**|Nikita Moghe et.al.|[2212.10297v1](http://arxiv.org/abs/2212.10297v1)|null|
-|**2022-12-20**|**Do I have the Knowledge to Answer? Investigating Answerability of Knowledge Base Questions**|Mayur Patidar et.al.|[2212.10189v1](http://arxiv.org/abs/2212.10189v1)|null|
-|**2022-12-20**|**True Detective: A Challenging Benchmark for Deep Abductive Reasoning \\in Foundation Models**|Maksym Del et.al.|[2212.10114v1](http://arxiv.org/abs/2212.10114v1)|[link](https://github.com/delmaksym/true-detective)|
-|**2022-12-20**|**Toward a Unified Framework for Unsupervised Complex Tabular Reasoning**|Zhenyu Li et.al.|[2212.10097v1](http://arxiv.org/abs/2212.10097v1)|[link](https://github.com/leezythu/uctr)|
-|**2022-12-20**|**WeCheck: Strong Factual Consistency Checker via Weakly Supervised Learning**|Wenhao Wu et.al.|[2212.10057v1](http://arxiv.org/abs/2212.10057v1)|null|
-|**2022-12-20**|**When Do Decompositions Help for Machine Reading?**|Kangda Wei et.al.|[2212.10019v1](http://arxiv.org/abs/2212.10019v1)|null|
-|**2022-12-20**|**(QA)$^2$: Question Answering with Questionable Assumptions**|Najoung Kim et.al.|[2212.10003v1](http://arxiv.org/abs/2212.10003v1)|null|
-|**2022-12-20**|**Defending Against Poisoning Attacks in Open-Domain Question Answering**|Orion Weller et.al.|[2212.10002v1](http://arxiv.org/abs/2212.10002v1)|null|
-|**2022-12-20**|**Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters**|Boshi Wang et.al.|[2212.10001v1](http://arxiv.org/abs/2212.10001v1)|[link](https://github.com/sunlab-osu/understanding-cot)|
-|**2022-12-20**|**Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation**|Xinyu Pi et.al.|[2212.09994v1](http://arxiv.org/abs/2212.09994v1)|[link](https://github.com/microsoft/ContextualSP)|
-|**2022-12-19**|**Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks**|Kaiser Sun et.al.|[2212.09912v1](http://arxiv.org/abs/2212.09912v1)|null|
-|**2022-12-19**|**Asking Clarification Questions for Code Generation in General-Purpose Programming Language**|Haau-Sing Li et.al.|[2212.09885v1](http://arxiv.org/abs/2212.09885v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-29**|**Learning Multimodal Data Augmentation in Feature Space**|Zichang Liu et.al.|[2212.14453v1](http://arxiv.org/abs/2212.14453v1)|null|
 |**2022-12-27**|**MultiSpider: Towards Benchmarking Multilingual Text-to-SQL Semantic Parsing**|Longxu Dou et.al.|[2212.13492v1](http://arxiv.org/abs/2212.13492v1)|[link](https://github.com/microsoft/ContextualSP)|
 |**2022-12-27**|**A Survey on Table-and-Text HybridQA: Concepts, Methods, Challenges and Future Directions**|Dingzirui Wang et.al.|[2212.13465v1](http://arxiv.org/abs/2212.13465v1)|null|
 |**2022-12-27**|**A Survey on Knowledge-Enhanced Pre-trained Language Models**|Chaoqi Zhen et.al.|[2212.13428v1](http://arxiv.org/abs/2212.13428v1)|null|
@@ -222,4 +206,3 @@
 |**2022-11-15**|**Teaching Algorithmic Reasoning via In-context Learning**|Hattie Zhou et.al.|[2211.09066v1](http://arxiv.org/abs/2211.09066v1)|null|
 |**2022-11-14**|**Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA**|Elias Stengel-Eskin et.al.|[2211.07516v1](http://arxiv.org/abs/2211.07516v1)|[link](https://github.com/esteng/ambiguous_vqa)|
 |**2022-11-14**|**Calibrated Interpretation: Confidence Estimation in Semantic Parsing**|Elias Stengel-Eskin et.al.|[2211.07443v3](http://arxiv.org/abs/2211.07443v3)|[link](https://github.com/esteng/calibration_miso)|
-|**2022-11-13**|**WR-ONE2SET: Towards Well-Calibrated Keyphrase Generation**|Binbin Xie et.al.|[2211.06862v1](http://arxiv.org/abs/2211.06862v1)|[link](https://github.com/deeplearnxmu/wr-one2set)|
