@@ -1,24 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2023-01-03 20:32:42
+ Automated deployment @ 2023-01-03 21:01:23
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
-|**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
-|**2022-12-30**|**Black-box language model explanation by context length probing**|Ondřej Cífka et.al.|[2212.14815v1](http://arxiv.org/abs/2212.14815v1)|[link](https://github.com/cifkao/context-probing)|
-|**2022-12-30**|**How would Stance Detection Techniques Evolve after the Launch of ChatGPT?**|Bowen Zhang et.al.|[2212.14548v1](http://arxiv.org/abs/2212.14548v1)|null|
-|**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
-|**2022-12-27**|**NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis**|Xu Ye et.al.|[2212.13408v2](http://arxiv.org/abs/2212.13408v2)|[link](https://github.com/coco11563/NEEDED)|
-|**2022-12-24**|**Development of a Thermodynamics of Human Cognition and Human Culture**|Diederik Aerts et.al.|[2212.12795v1](http://arxiv.org/abs/2212.12795v1)|null|
-|**2022-12-21**|**A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**|Chengtai Cao et.al.|[2212.10888v1](http://arxiv.org/abs/2212.10888v1)|[link](https://github.com/chengtaicao/awesome-mix)|
-|**2022-12-21**|**PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition**|Sihao Chen et.al.|[2212.10750v1](http://arxiv.org/abs/2212.10750v1)|null|
-|**2022-12-21**|**MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Constructing Moral Discussions**|Hao Sun et.al.|[2212.10720v1](http://arxiv.org/abs/2212.10720v1)|null|
-|**2022-12-21**|**Extractive Text Summarization Using Generalized Additive Models with Interactions for Sentence Selection**|Vinícius Camargo da Silva et.al.|[2212.10707v1](http://arxiv.org/abs/2212.10707v1)|null|
 
 ## Question Answering
 
@@ -43,6 +26,23 @@
 |**2022-12-21**|**Language models are better than humans at next-token prediction**|Buck Shlegeris et.al.|[2212.11281v1](http://arxiv.org/abs/2212.11281v1)|null|
 |**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|[link](https://github.com/byungdoh/attn_dist)|
 |**2022-12-21**|**Training language models for deeper understanding improves brain alignment**|Khai Loong Aw et.al.|[2212.10898v1](http://arxiv.org/abs/2212.10898v1)|[link](https://github.com/brain-nlp/brain_language_deeper)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
+|**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
+|**2022-12-30**|**Black-box language model explanation by context length probing**|Ondřej Cífka et.al.|[2212.14815v1](http://arxiv.org/abs/2212.14815v1)|[link](https://github.com/cifkao/context-probing)|
+|**2022-12-30**|**How would Stance Detection Techniques Evolve after the Launch of ChatGPT?**|Bowen Zhang et.al.|[2212.14548v1](http://arxiv.org/abs/2212.14548v1)|null|
+|**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
+|**2022-12-27**|**NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis**|Xu Ye et.al.|[2212.13408v2](http://arxiv.org/abs/2212.13408v2)|[link](https://github.com/coco11563/NEEDED)|
+|**2022-12-24**|**Development of a Thermodynamics of Human Cognition and Human Culture**|Diederik Aerts et.al.|[2212.12795v1](http://arxiv.org/abs/2212.12795v1)|null|
+|**2022-12-21**|**A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**|Chengtai Cao et.al.|[2212.10888v1](http://arxiv.org/abs/2212.10888v1)|[link](https://github.com/chengtaicao/awesome-mix)|
+|**2022-12-21**|**PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition**|Sihao Chen et.al.|[2212.10750v1](http://arxiv.org/abs/2212.10750v1)|null|
+|**2022-12-21**|**MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Constructing Moral Discussions**|Hao Sun et.al.|[2212.10720v1](http://arxiv.org/abs/2212.10720v1)|null|
+|**2022-12-21**|**Extractive Text Summarization Using Generalized Additive Models with Interactions for Sentence Selection**|Vinícius Camargo da Silva et.al.|[2212.10707v1](http://arxiv.org/abs/2212.10707v1)|null|
 
 ## Reasoning
 
