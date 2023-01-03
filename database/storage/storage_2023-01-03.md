@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-03 09:17:58
+ Automated deployment @ 2023-01-03 20:32:42
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,30 +8,27 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
+|**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
 |**2022-12-30**|**Black-box language model explanation by context length probing**|Ondřej Cífka et.al.|[2212.14815v1](http://arxiv.org/abs/2212.14815v1)|[link](https://github.com/cifkao/context-probing)|
 |**2022-12-30**|**How would Stance Detection Techniques Evolve after the Launch of ChatGPT?**|Bowen Zhang et.al.|[2212.14548v1](http://arxiv.org/abs/2212.14548v1)|null|
 |**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
-|**2022-12-27**|**NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis**|Xu Ye et.al.|[2212.13408v2](http://arxiv.org/abs/2212.13408v2)|null|
+|**2022-12-27**|**NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis**|Xu Ye et.al.|[2212.13408v2](http://arxiv.org/abs/2212.13408v2)|[link](https://github.com/coco11563/NEEDED)|
 |**2022-12-24**|**Development of a Thermodynamics of Human Cognition and Human Culture**|Diederik Aerts et.al.|[2212.12795v1](http://arxiv.org/abs/2212.12795v1)|null|
 |**2022-12-21**|**A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**|Chengtai Cao et.al.|[2212.10888v1](http://arxiv.org/abs/2212.10888v1)|[link](https://github.com/chengtaicao/awesome-mix)|
 |**2022-12-21**|**PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition**|Sihao Chen et.al.|[2212.10750v1](http://arxiv.org/abs/2212.10750v1)|null|
 |**2022-12-21**|**MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Constructing Moral Discussions**|Hao Sun et.al.|[2212.10720v1](http://arxiv.org/abs/2212.10720v1)|null|
 |**2022-12-21**|**Extractive Text Summarization Using Generalized Additive Models with Interactions for Sentence Selection**|Vinícius Camargo da Silva et.al.|[2212.10707v1](http://arxiv.org/abs/2212.10707v1)|null|
-|**2022-12-20**|**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**|Damai Dai et.al.|[2212.10559v2](http://arxiv.org/abs/2212.10559v2)|[link](https://github.com/microsoft/lmops)|
-|**2022-12-20**|**DimonGen: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships**|Chenzhengyi Liu et.al.|[2212.10545v1](http://arxiv.org/abs/2212.10545v1)|[link](https://github.com/liuchenzhengyi/dimongen)|
-|**2022-12-20**|**BMX: Boosting Machine Translation Metrics with Explainability**|Christoph Leiter et.al.|[2212.10469v1](http://arxiv.org/abs/2212.10469v1)|[link](https://github.com/gringham/bmx)|
-|**2022-12-20**|**Generic Temporal Reasoning with Differential Analysis and Explanation**|Yu Feng et.al.|[2212.10467v1](http://arxiv.org/abs/2212.10467v1)|null|
-|**2022-12-20**|**Geographic and Geopolitical Biases of Language Models**|Fahim Faisal et.al.|[2212.10408v1](http://arxiv.org/abs/2212.10408v1)|null|
-|**2022-12-20**|**What Are You Token About? Dense Retrieval as Distributions Over the Vocabulary**|Ori Ram et.al.|[2212.10380v1](http://arxiv.org/abs/2212.10380v1)|null|
-|**2022-12-20**|**Receptive Field Alignment Enables Transformer Length Extrapolation**|Ta-Chung Chi et.al.|[2212.10356v1](http://arxiv.org/abs/2212.10356v1)|null|
-|**2022-12-20**|**On Improving Summarization Factual Consistency from Natural Language Feedback**|Yixin Liu et.al.|[2212.09968v1](http://arxiv.org/abs/2212.09968v1)|[link](https://github.com/microsoft/defacto)|
-|**2022-12-19**|**(Psycho-)Linguistic Features Meet Transformer Models for Improved Explainable and Controllable Text Simplification**|Yu Qiao et.al.|[2212.09848v1](http://arxiv.org/abs/2212.09848v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-01**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Sunshine Zhang et.al.|[2301.00479v1](http://arxiv.org/abs/2301.00479v1)|null|
+|**2023-01-01**|**Integrating Semantic Information into Sketchy Reading Module of Retro-Reader for Vietnamese Machine Reading Comprehension**|Hang Thi-Thu Le et.al.|[2301.00429v1](http://arxiv.org/abs/2301.00429v1)|null|
+|**2023-01-01**|**Is word segmentation necessary for Vietnamese sentiment classification?**|Duc-Vu Nguyen et.al.|[2301.00418v1](http://arxiv.org/abs/2301.00418v1)|null|
+|**2023-01-01**|**Inflected Forms Are Redundant in Question Generation Models**|Xingwu Sun et.al.|[2301.00397v1](http://arxiv.org/abs/2301.00397v1)|null|
 |**2022-12-29**|**Maximizing Use-Case Specificity through Precision Model Tuning**|Pranjali Awasthi et.al.|[2212.14206v1](http://arxiv.org/abs/2212.14206v1)|null|
 |**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
 |**2022-12-28**|**Cramming: Training a Language Model on a Single GPU in One Day**|Jonas Geiping et.al.|[2212.14034v1](http://arxiv.org/abs/2212.14034v1)|[link](https://github.com/jonasgeiping/cramming)|
@@ -46,26 +43,16 @@
 |**2022-12-21**|**Language models are better than humans at next-token prediction**|Buck Shlegeris et.al.|[2212.11281v1](http://arxiv.org/abs/2212.11281v1)|null|
 |**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|[link](https://github.com/byungdoh/attn_dist)|
 |**2022-12-21**|**Training language models for deeper understanding improves brain alignment**|Khai Loong Aw et.al.|[2212.10898v1](http://arxiv.org/abs/2212.10898v1)|[link](https://github.com/brain-nlp/brain_language_deeper)|
-|**2022-12-21**|**ZEROTOP: Zero-Shot Task-Oriented Semantic Parsing using Large Language Models**|Dheeraj Mekala et.al.|[2212.10815v1](http://arxiv.org/abs/2212.10815v1)|null|
-|**2022-12-21**|**Spoken Language Understanding for Conversational AI: Recent Advances and Future Direction**|Soyeon Caren Han et.al.|[2212.10728v1](http://arxiv.org/abs/2212.10728v1)|null|
-|**2022-12-21**|**Beyond Contrastive Learning: A Variational Generative Model for Multilingual Retrieval**|John Wieting et.al.|[2212.10726v1](http://arxiv.org/abs/2212.10726v1)|[link](https://github.com/google-research/google-research)|
-|**2022-12-21**|**Analyzing Semantic Faithfulness of Language Models via Input Intervention on Conversational Question Answering**|Akshay Chaturvedi et.al.|[2212.10696v1](http://arxiv.org/abs/2212.10696v1)|[link](https://github.com/akshay107/sem-faithfulness)|
-|**2022-12-20**|**Generation-Augmented Query Expansion For Code Retrieval**|Dong Li et.al.|[2212.10692v1](http://arxiv.org/abs/2212.10692v1)|null|
-|**2022-12-20**|**On-the-fly Denoising for Data Augmentation in Natural Language Understanding**|Tianqing Fang et.al.|[2212.10558v1](http://arxiv.org/abs/2212.10558v1)|null|
-|**2022-12-20**|**Measure More, Question More: Experimental Studies on Transformer-based Language Models and Complement Coercion**|Yuling Gu et.al.|[2212.10536v1](http://arxiv.org/abs/2212.10536v1)|null|
-|**2022-12-20**|**Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective**|Xingxuan Li et.al.|[2212.10529v1](http://arxiv.org/abs/2212.10529v1)|null|
-|**2022-12-20**|**SLUE Phase-2: A Benchmark Suite of Diverse Spoken Language Understanding Tasks**|Suwon Shon et.al.|[2212.10525v1](http://arxiv.org/abs/2212.10525v1)|null|
-|**2022-12-20**|**When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories**|Alex Mallen et.al.|[2212.10511v1](http://arxiv.org/abs/2212.10511v1)|[link](https://github.com/alextmallen/adaptive-retrieval)|
-|**2022-12-20**|**Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**|Harsh Trivedi et.al.|[2212.10509v1](http://arxiv.org/abs/2212.10509v1)|[link](https://github.com/stonybrooknlp/ircot)|
-|**2022-12-20**|**Little Red Riding Hood Goes Around the Globe:Crosslingual Story Planning and Generation with Large Language Models**|Evgeniia Razumovskaia et.al.|[2212.10471v1](http://arxiv.org/abs/2212.10471v1)|null|
-|**2022-12-20**|**MULTI3NLU++: A Multilingual, Multi-Intent, Multi-Domain Dataset for Natural Language Understanding in Task-Oriented Dialogue**|Nikita Moghe et.al.|[2212.10455v1](http://arxiv.org/abs/2212.10455v1)|null|
-|**2022-12-20**|**Socratic Pretraining: Question-Driven Pretraining for Controllable Summarization**|Artidoro Pagnoni et.al.|[2212.10449v1](http://arxiv.org/abs/2212.10449v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-02**|**IRT2: Inductive Linking and Ranking in Knowledge Graphs of Varying Scale**|Felix Hamann et.al.|[2301.00716v1](http://arxiv.org/abs/2301.00716v1)|[link](https://github.com/lavis-nlp/irt2)|
+|**2023-01-02**|**Analysing Discrete Self Supervised Speech Representation for Spoken Language Modeling**|Amitay Sicherman et.al.|[2301.00591v1](http://arxiv.org/abs/2301.00591v1)|[link](https://github.com/slp-rl/slm-discrete-representations)|
+|**2023-01-01**|**Leveraging Semantic Representations Combined with Contextual Word Representations for Recognizing Textual Entailment in Vietnamese**|Quoc-Loc Duong et.al.|[2301.00422v1](http://arxiv.org/abs/2301.00422v1)|null|
+|**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
 |**2022-12-29**|**Learning Multimodal Data Augmentation in Feature Space**|Zichang Liu et.al.|[2212.14453v1](http://arxiv.org/abs/2212.14453v1)|null|
 |**2022-12-27**|**MultiSpider: Towards Benchmarking Multilingual Text-to-SQL Semantic Parsing**|Longxu Dou et.al.|[2212.13492v1](http://arxiv.org/abs/2212.13492v1)|[link](https://github.com/microsoft/ContextualSP)|
 |**2022-12-27**|**A Survey on Table-and-Text HybridQA: Concepts, Methods, Challenges and Future Directions**|Dingzirui Wang et.al.|[2212.13465v1](http://arxiv.org/abs/2212.13465v1)|null|
@@ -204,5 +191,3 @@
 |**2022-11-15**|**FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense**|Changlong Yu et.al.|[2211.08316v1](http://arxiv.org/abs/2211.08316v1)|null|
 |**2022-11-15**|**Breakpoint Transformers for Modeling and Tracking Intermediate Beliefs**|Kyle Richardson et.al.|[2211.07950v1](http://arxiv.org/abs/2211.07950v1)|[link](https://github.com/allenai/situation_modeling)|
 |**2022-11-15**|**Teaching Algorithmic Reasoning via In-context Learning**|Hattie Zhou et.al.|[2211.09066v1](http://arxiv.org/abs/2211.09066v1)|null|
-|**2022-11-14**|**Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA**|Elias Stengel-Eskin et.al.|[2211.07516v1](http://arxiv.org/abs/2211.07516v1)|[link](https://github.com/esteng/ambiguous_vqa)|
-|**2022-11-14**|**Calibrated Interpretation: Confidence Estimation in Semantic Parsing**|Elias Stengel-Eskin et.al.|[2211.07443v3](http://arxiv.org/abs/2211.07443v3)|[link](https://github.com/esteng/calibration_miso)|
