@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-04 09:20:15
+ Automated deployment @ 2023-01-04 20:31:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-03**|**Large Language Models as Corporate Lobbyists**|John J. Nay et.al.|[2301.01181v1](http://arxiv.org/abs/2301.01181v1)|[link](https://github.com/johnnay/llm-lobbyist)|
 |**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
 |**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
 |**2022-12-30**|**Black-box language model explanation by context length probing**|Ondřej Cífka et.al.|[2212.14815v1](http://arxiv.org/abs/2212.14815v1)|[link](https://github.com/cifkao/context-probing)|
@@ -15,16 +16,15 @@
 |**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
 |**2022-12-27**|**NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis**|Xu Ye et.al.|[2212.13408v2](http://arxiv.org/abs/2212.13408v2)|[link](https://github.com/coco11563/NEEDED)|
 |**2022-12-24**|**Development of a Thermodynamics of Human Cognition and Human Culture**|Diederik Aerts et.al.|[2212.12795v1](http://arxiv.org/abs/2212.12795v1)|null|
-|**2022-12-21**|**A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**|Chengtai Cao et.al.|[2212.10888v1](http://arxiv.org/abs/2212.10888v1)|[link](https://github.com/chengtaicao/awesome-mix)|
-|**2022-12-21**|**PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition**|Sihao Chen et.al.|[2212.10750v1](http://arxiv.org/abs/2212.10750v1)|null|
-|**2022-12-21**|**MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Constructing Moral Discussions**|Hao Sun et.al.|[2212.10720v1](http://arxiv.org/abs/2212.10720v1)|null|
-|**2022-12-21**|**Extractive Text Summarization Using Generalized Additive Models with Interactions for Sentence Selection**|Vinícius Camargo da Silva et.al.|[2212.10707v1](http://arxiv.org/abs/2212.10707v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-03**|**Towards Knowledge-Intensive Text-to-SQL Semantic Parsing with Formulaic Knowledge**|Longxu Dou et.al.|[2301.01067v1](http://arxiv.org/abs/2301.01067v1)|null|
+|**2023-01-03**|**PIE-QG: Paraphrased Information Extraction for Unsupervised Question Generation from Small Corpora**|Dinesh Nagumothu et.al.|[2301.01064v1](http://arxiv.org/abs/2301.01064v1)|null|
+|**2023-01-02**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang et.al.|[2301.00876v1](http://arxiv.org/abs/2301.00876v1)|[link](https://github.com/TheAtticusProject/maud)|
 |**2023-01-01**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Sunshine Zhang et.al.|[2301.00479v1](http://arxiv.org/abs/2301.00479v1)|null|
 |**2023-01-01**|**Integrating Semantic Information into Sketchy Reading Module of Retro-Reader for Vietnamese Machine Reading Comprehension**|Hang Thi-Thu Le et.al.|[2301.00429v1](http://arxiv.org/abs/2301.00429v1)|null|
 |**2023-01-01**|**Is word segmentation necessary for Vietnamese sentiment classification?**|Duc-Vu Nguyen et.al.|[2301.00418v1](http://arxiv.org/abs/2301.00418v1)|null|
@@ -40,15 +40,14 @@
 |**2022-12-23**|**Learning to Generate Questions by Enhancing Text Generation with Sentence Selection**|Do Hoang Thai Duong et.al.|[2212.12192v1](http://arxiv.org/abs/2212.12192v1)|null|
 |**2022-12-22**|**When are Lemons Purple? The Concept Association Bias of CLIP**|Yutaro Yamada et.al.|[2212.12043v1](http://arxiv.org/abs/2212.12043v1)|null|
 |**2022-12-22**|**Understanding Postpartum Parents' Experiences via Two Digital Platforms**|Xuewen Yao et.al.|[2212.11455v1](http://arxiv.org/abs/2212.11455v1)|null|
-|**2022-12-21**|**Language models are better than humans at next-token prediction**|Buck Shlegeris et.al.|[2212.11281v1](http://arxiv.org/abs/2212.11281v1)|null|
-|**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|[link](https://github.com/byungdoh/attn_dist)|
-|**2022-12-21**|**Training language models for deeper understanding improves brain alignment**|Khai Loong Aw et.al.|[2212.10898v1](http://arxiv.org/abs/2212.10898v1)|[link](https://github.com/brain-nlp/brain_language_deeper)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-03**|**Language Models are Drummers: Drum Composition with Natural Language Pre-Training**|Li Zhang et.al.|[2301.01162v1](http://arxiv.org/abs/2301.01162v1)|null|
+|**2023-01-02**|**Understanding Political Polarisation using Language Models: A dataset and method**|Samiran Gode et.al.|[2301.00891v1](http://arxiv.org/abs/2301.00891v1)|null|
 |**2023-01-02**|**IRT2: Inductive Linking and Ranking in Knowledge Graphs of Varying Scale**|Felix Hamann et.al.|[2301.00716v1](http://arxiv.org/abs/2301.00716v1)|[link](https://github.com/lavis-nlp/irt2)|
 |**2023-01-02**|**Analysing Discrete Self Supervised Speech Representation for Spoken Language Modeling**|Amitay Sicherman et.al.|[2301.00591v1](http://arxiv.org/abs/2301.00591v1)|[link](https://github.com/slp-rl/slm-discrete-representations)|
 |**2023-01-01**|**Leveraging Semantic Representations Combined with Contextual Word Representations for Recognizing Textual Entailment in Vietnamese**|Quoc-Loc Duong et.al.|[2301.00422v1](http://arxiv.org/abs/2301.00422v1)|null|
@@ -188,6 +187,3 @@
 |**2022-11-15**|**MapQA: A Dataset for Question Answering on Choropleth Maps**|Shuaichen Chang et.al.|[2211.08545v1](http://arxiv.org/abs/2211.08545v1)|[link](https://github.com/osu-slatelab/mapqa)|
 |**2022-11-15**|**Reasoning Circuits: Few-shot Multihop Question Generation with Structured Rationales**|Saurabh Kulshreshtha et.al.|[2211.08466v1](http://arxiv.org/abs/2211.08466v1)|null|
 |**2022-11-15**|**Empowering Language Models with Knowledge Graph Reasoning for Question Answering**|Ziniu Hu et.al.|[2211.08380v1](http://arxiv.org/abs/2211.08380v1)|null|
-|**2022-11-15**|**FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense**|Changlong Yu et.al.|[2211.08316v1](http://arxiv.org/abs/2211.08316v1)|null|
-|**2022-11-15**|**Breakpoint Transformers for Modeling and Tracking Intermediate Beliefs**|Kyle Richardson et.al.|[2211.07950v1](http://arxiv.org/abs/2211.07950v1)|[link](https://github.com/allenai/situation_modeling)|
-|**2022-11-15**|**Teaching Algorithmic Reasoning via In-context Learning**|Hattie Zhou et.al.|[2211.09066v1](http://arxiv.org/abs/2211.09066v1)|null|
