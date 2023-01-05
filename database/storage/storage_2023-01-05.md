@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-05 09:22:33
+ Automated deployment @ 2023-01-05 20:31:54
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-04**|**Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer**|Zhixiang Su et.al.|[2301.01664v1](http://arxiv.org/abs/2301.01664v1)|[link](https://github.com/zhixiangsu/krst)|
 |**2023-01-03**|**Large Language Models as Corporate Lobbyists**|John J. Nay et.al.|[2301.01181v2](http://arxiv.org/abs/2301.01181v2)|[link](https://github.com/johnnay/llm-lobbyist)|
 |**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
 |**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
@@ -22,6 +23,7 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-04**|**Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes**|Justin Reppert et.al.|[2301.01751v1](http://arxiv.org/abs/2301.01751v1)|null|
 |**2023-01-03**|**Towards Knowledge-Intensive Text-to-SQL Semantic Parsing with Formulaic Knowledge**|Longxu Dou et.al.|[2301.01067v1](http://arxiv.org/abs/2301.01067v1)|null|
 |**2023-01-03**|**PIE-QG: Paraphrased Information Extraction for Unsupervised Question Generation from Small Corpora**|Dinesh Nagumothu et.al.|[2301.01064v1](http://arxiv.org/abs/2301.01064v1)|null|
 |**2023-01-02**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang et.al.|[2301.00876v1](http://arxiv.org/abs/2301.00876v1)|[link](https://github.com/TheAtticusProject/maud)|
@@ -29,6 +31,7 @@
 |**2023-01-01**|**Integrating Semantic Information into Sketchy Reading Module of Retro-Reader for Vietnamese Machine Reading Comprehension**|Hang Thi-Thu Le et.al.|[2301.00429v1](http://arxiv.org/abs/2301.00429v1)|null|
 |**2023-01-01**|**Is word segmentation necessary for Vietnamese sentiment classification?**|Duc-Vu Nguyen et.al.|[2301.00418v1](http://arxiv.org/abs/2301.00418v1)|null|
 |**2023-01-01**|**Inflected Forms Are Redundant in Question Generation Models**|Xingwu Sun et.al.|[2301.00397v1](http://arxiv.org/abs/2301.00397v1)|null|
+|**2023-01-01**|**Chatbots as Problem Solvers: Playing Twenty Questions with Role Reversals**|David Noever et.al.|[2301.01743v1](http://arxiv.org/abs/2301.01743v1)|null|
 |**2022-12-29**|**Maximizing Use-Case Specificity through Precision Model Tuning**|Pranjali Awasthi et.al.|[2212.14206v1](http://arxiv.org/abs/2212.14206v1)|null|
 |**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
 |**2022-12-28**|**Cramming: Training a Language Model on a Single GPU in One Day**|Jonas Geiping et.al.|[2212.14034v1](http://arxiv.org/abs/2212.14034v1)|[link](https://github.com/jonasgeiping/cramming)|
@@ -39,18 +42,21 @@
 |**2022-12-24**|**STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension**|Borui Wang et.al.|[2212.12652v1](http://arxiv.org/abs/2212.12652v1)|null|
 |**2022-12-23**|**Learning to Generate Questions by Enhancing Text Generation with Sentence Selection**|Do Hoang Thai Duong et.al.|[2212.12192v1](http://arxiv.org/abs/2212.12192v1)|null|
 |**2022-12-22**|**When are Lemons Purple? The Concept Association Bias of CLIP**|Yutaro Yamada et.al.|[2212.12043v1](http://arxiv.org/abs/2212.12043v1)|null|
-|**2022-12-22**|**Understanding Postpartum Parents' Experiences via Two Digital Platforms**|Xuewen Yao et.al.|[2212.11455v1](http://arxiv.org/abs/2212.11455v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-04**|**Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes**|Justin Reppert et.al.|[2301.01751v1](http://arxiv.org/abs/2301.01751v1)|null|
+|**2023-01-04**|**Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer**|Zhixiang Su et.al.|[2301.01664v1](http://arxiv.org/abs/2301.01664v1)|[link](https://github.com/zhixiangsu/krst)|
+|**2023-01-04**|**Grammar construction methods for extended deterministic expressions**|Xiaoying Mou et.al.|[2301.01621v1](http://arxiv.org/abs/2301.01621v1)|null|
 |**2023-01-03**|**Language Models are Drummers: Drum Composition with Natural Language Pre-Training**|Li Zhang et.al.|[2301.01162v1](http://arxiv.org/abs/2301.01162v1)|null|
 |**2023-01-02**|**Understanding Political Polarisation using Language Models: A dataset and method**|Samiran Gode et.al.|[2301.00891v1](http://arxiv.org/abs/2301.00891v1)|null|
 |**2023-01-02**|**IRT2: Inductive Linking and Ranking in Knowledge Graphs of Varying Scale**|Felix Hamann et.al.|[2301.00716v1](http://arxiv.org/abs/2301.00716v1)|[link](https://github.com/lavis-nlp/irt2)|
 |**2023-01-02**|**Analysing Discrete Self Supervised Speech Representation for Spoken Language Modeling**|Amitay Sicherman et.al.|[2301.00591v1](http://arxiv.org/abs/2301.00591v1)|[link](https://github.com/slp-rl/slm-discrete-representations)|
 |**2023-01-01**|**Leveraging Semantic Representations Combined with Contextual Word Representations for Recognizing Textual Entailment in Vietnamese**|Quoc-Loc Duong et.al.|[2301.00422v1](http://arxiv.org/abs/2301.00422v1)|null|
+|**2023-01-01**|**Chatbots as Problem Solvers: Playing Twenty Questions with Role Reversals**|David Noever et.al.|[2301.01743v1](http://arxiv.org/abs/2301.01743v1)|null|
 |**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
 |**2022-12-29**|**Learning Multimodal Data Augmentation in Feature Space**|Zichang Liu et.al.|[2212.14453v1](http://arxiv.org/abs/2212.14453v1)|null|
 |**2022-12-27**|**MultiSpider: Towards Benchmarking Multilingual Text-to-SQL Semantic Parsing**|Longxu Dou et.al.|[2212.13492v1](http://arxiv.org/abs/2212.13492v1)|[link](https://github.com/microsoft/ContextualSP)|
@@ -183,7 +189,3 @@
 |**2022-11-18**|**Detect Only What You Specify : Object Detection with Linguistic Target**|Moyuru Yamada et.al.|[2211.11572v1](http://arxiv.org/abs/2211.11572v1)|null|
 |**2022-11-17**|**Feedback is Needed for Retakes: An Explainable Poor Image Notification Framework for the Visually Impaired**|Kazuya Ohata et.al.|[2211.09427v1](http://arxiv.org/abs/2211.09427v1)|null|
 |**2022-11-16**|**Holistic Evaluation of Language Models**|Percy Liang et.al.|[2211.09110v1](http://arxiv.org/abs/2211.09110v1)|[link](https://github.com/stanford-crfm/helm)|
-|**2022-11-16**|**Galactica: A Large Language Model for Science**|Ross Taylor et.al.|[2211.09085v1](http://arxiv.org/abs/2211.09085v1)|[link](https://github.com/paperswithcode/galai)|
-|**2022-11-15**|**MapQA: A Dataset for Question Answering on Choropleth Maps**|Shuaichen Chang et.al.|[2211.08545v1](http://arxiv.org/abs/2211.08545v1)|[link](https://github.com/osu-slatelab/mapqa)|
-|**2022-11-15**|**Reasoning Circuits: Few-shot Multihop Question Generation with Structured Rationales**|Saurabh Kulshreshtha et.al.|[2211.08466v1](http://arxiv.org/abs/2211.08466v1)|null|
-|**2022-11-15**|**Empowering Language Models with Knowledge Graph Reasoning for Question Answering**|Ziniu Hu et.al.|[2211.08380v1](http://arxiv.org/abs/2211.08380v1)|null|
