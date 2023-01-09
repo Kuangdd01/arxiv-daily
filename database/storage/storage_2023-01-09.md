@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-09 09:20:10
+ Automated deployment @ 2023-01-09 20:32:50
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -16,13 +16,13 @@
 |**2022-12-30**|**How would Stance Detection Techniques Evolve after the Launch of ChatGPT?**|Bowen Zhang et.al.|[2212.14548v1](http://arxiv.org/abs/2212.14548v1)|null|
 |**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
 |**2022-12-27**|**NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis**|Xu Ye et.al.|[2212.13408v2](http://arxiv.org/abs/2212.13408v2)|[link](https://github.com/coco11563/NEEDED)|
-|**2022-12-24**|**Development of a Thermodynamics of Human Cognition and Human Culture**|Diederik Aerts et.al.|[2212.12795v1](http://arxiv.org/abs/2212.12795v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-06**|**You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**|Jungwoo Lim et.al.|[2301.02401v1](http://arxiv.org/abs/2301.02401v1)|[link](https://github.com/dlawjddn803/info)|
 |**2023-01-05**|**Emotion-Cause Pair Extraction as Question Answering**|Huu-Hiep Nguyen et.al.|[2301.01982v2](http://arxiv.org/abs/2301.01982v2)|null|
 |**2023-01-05**|**SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph**|Yuxing Long et.al.|[2301.01949v1](http://arxiv.org/abs/2301.01949v1)|null|
 |**2023-01-05**|**Topic Segmentation Model Focusing on Local Context**|Jeonghwan Lee et.al.|[2301.01935v1](http://arxiv.org/abs/2301.01935v1)|null|
@@ -44,7 +44,6 @@
 |**2022-12-27**|**A Survey on Table-and-Text HybridQA: Concepts, Methods, Challenges and Future Directions**|Dingzirui Wang et.al.|[2212.13465v1](http://arxiv.org/abs/2212.13465v1)|null|
 |**2022-12-26**|**Large Language Models Encode Clinical Knowledge**|Karan Singhal et.al.|[2212.13138v1](http://arxiv.org/abs/2212.13138v1)|null|
 |**2022-12-26**|**Improving Complex Knowledge Base Question Answering via Question-to-Action and Question-to-Question Alignment**|Yechun Tang et.al.|[2212.13036v1](http://arxiv.org/abs/2212.13036v1)|[link](https://github.com/tttttttty/alcqa)|
-|**2022-12-24**|**STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension**|Borui Wang et.al.|[2212.12652v1](http://arxiv.org/abs/2212.12652v1)|null|
 
 ## Reasoning
 
