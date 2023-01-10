@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-10 09:23:44
+ Automated deployment @ 2023-01-10 20:33:04
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-09**|**AI2: The next leap toward native language based and explainable machine learning framework**|Jean-Sébastien Dessureault et.al.|[2301.03391v1](http://arxiv.org/abs/2301.03391v1)|null|
+|**2023-01-08**|**The State of Human-centered NLP Technology for Fact-checking**|Anubrata Das et.al.|[2301.03056v1](http://arxiv.org/abs/2301.03056v1)|null|
+|**2023-01-08**|**SpeeChain: A Speech Toolkit for Large-Scale Machine Speech Chain**|Heli Qi et.al.|[2301.02966v1](http://arxiv.org/abs/2301.02966v1)|null|
+|**2023-01-05**|**Chatbots As Fluent Polyglots: Revisiting Breakthrough Code Snippets**|David Noever et.al.|[2301.03373v1](http://arxiv.org/abs/2301.03373v1)|null|
 |**2023-01-04**|**Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer**|Zhixiang Su et.al.|[2301.01664v1](http://arxiv.org/abs/2301.01664v1)|[link](https://github.com/zhixiangsu/krst)|
 |**2023-01-03**|**Large Language Models as Corporate Lobbyists**|John J. Nay et.al.|[2301.01181v4](http://arxiv.org/abs/2301.01181v4)|[link](https://github.com/johnnay/llm-lobbyist)|
 |**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
@@ -15,13 +19,16 @@
 |**2022-12-30**|**Black-box language model explanation by context length probing**|Ondřej Cífka et.al.|[2212.14815v1](http://arxiv.org/abs/2212.14815v1)|[link](https://github.com/cifkao/context-probing)|
 |**2022-12-30**|**How would Stance Detection Techniques Evolve after the Launch of ChatGPT?**|Bowen Zhang et.al.|[2212.14548v1](http://arxiv.org/abs/2212.14548v1)|null|
 |**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
-|**2022-12-27**|**NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis**|Xu Ye et.al.|[2212.13408v2](http://arxiv.org/abs/2212.13408v2)|[link](https://github.com/coco11563/NEEDED)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-09**|**Automatic Standardization of Arabic Dialects for Machine Translation**|Abidrabbo Alnassan et.al.|[2301.03447v1](http://arxiv.org/abs/2301.03447v1)|null|
+|**2023-01-09**|**MAQA: A Multimodal QA Benchmark for Negation**|Judith Yue Li et.al.|[2301.03238v1](http://arxiv.org/abs/2301.03238v1)|null|
+|**2023-01-07**|**A Brain-inspired Memory Transformation based Differentiable Neural Computer for Reasoning-based Question Answering**|Yao Liang et.al.|[2301.02809v1](http://arxiv.org/abs/2301.02809v1)|null|
+|**2023-01-07**|**RLAS-BIABC: A Reinforcement Learning-Based Answer Selection Using the BERT Model Boosted by an Improved ABC Algorithm**|Hamid Gharagozlou et.al.|[2301.02807v1](http://arxiv.org/abs/2301.02807v1)|null|
 |**2023-01-06**|**You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**|Jungwoo Lim et.al.|[2301.02401v1](http://arxiv.org/abs/2301.02401v1)|[link](https://github.com/dlawjddn803/info)|
 |**2023-01-05**|**Emotion-Cause Pair Extraction as Question Answering**|Huu-Hiep Nguyen et.al.|[2301.01982v2](http://arxiv.org/abs/2301.01982v2)|null|
 |**2023-01-05**|**SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph**|Yuxing Long et.al.|[2301.01949v1](http://arxiv.org/abs/2301.01949v1)|null|
@@ -41,15 +48,16 @@
 |**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
 |**2022-12-28**|**Cramming: Training a Language Model on a Single GPU in One Day**|Jonas Geiping et.al.|[2212.14034v1](http://arxiv.org/abs/2212.14034v1)|[link](https://github.com/jonasgeiping/cramming)|
 |**2022-12-28**|**Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**|Omar Khattab et.al.|[2212.14024v1](http://arxiv.org/abs/2212.14024v1)|null|
-|**2022-12-27**|**A Survey on Table-and-Text HybridQA: Concepts, Methods, Challenges and Future Directions**|Dingzirui Wang et.al.|[2212.13465v1](http://arxiv.org/abs/2212.13465v1)|null|
-|**2022-12-26**|**Large Language Models Encode Clinical Knowledge**|Karan Singhal et.al.|[2212.13138v1](http://arxiv.org/abs/2212.13138v1)|null|
-|**2022-12-26**|**Improving Complex Knowledge Base Question Answering via Question-to-Action and Question-to-Question Alignment**|Yechun Tang et.al.|[2212.13036v1](http://arxiv.org/abs/2212.13036v1)|[link](https://github.com/tttttttty/alcqa)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-09**|**MAQA: A Multimodal QA Benchmark for Negation**|Judith Yue Li et.al.|[2301.03238v1](http://arxiv.org/abs/2301.03238v1)|null|
+|**2023-01-07**|**Why do Nearest Neighbor Language Models Work?**|Frank F. Xu et.al.|[2301.02828v1](http://arxiv.org/abs/2301.02828v1)|null|
+|**2023-01-07**|**A Brain-inspired Memory Transformation based Differentiable Neural Computer for Reasoning-based Question Answering**|Yao Liang et.al.|[2301.02809v1](http://arxiv.org/abs/2301.02809v1)|null|
+|**2023-01-05**|**Chatbots As Fluent Polyglots: Revisiting Breakthrough Code Snippets**|David Noever et.al.|[2301.03373v1](http://arxiv.org/abs/2301.03373v1)|null|
 |**2023-01-05**|**SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph**|Yuxing Long et.al.|[2301.01949v1](http://arxiv.org/abs/2301.01949v1)|null|
 |**2023-01-04**|**Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes**|Justin Reppert et.al.|[2301.01751v2](http://arxiv.org/abs/2301.01751v2)|[link](https://github.com/oughtinc/ice)|
 |**2023-01-04**|**Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer**|Zhixiang Su et.al.|[2301.01664v1](http://arxiv.org/abs/2301.01664v1)|[link](https://github.com/zhixiangsu/krst)|
@@ -190,4 +198,3 @@
 |**2022-11-18**|**Visual Programming: Compositional visual reasoning without training**|Tanmay Gupta et.al.|[2211.11559v1](http://arxiv.org/abs/2211.11559v1)|null|
 |**2022-11-18**|**Overview of the HASOC Subtrack at FIRE 2022: Offensive Language Identification in Marathi**|Tharindu Ranasinghe et.al.|[2211.10163v1](http://arxiv.org/abs/2211.10163v1)|null|
 |**2022-11-18**|**Detect Only What You Specify : Object Detection with Linguistic Target**|Moyuru Yamada et.al.|[2211.11572v1](http://arxiv.org/abs/2211.11572v1)|null|
-|**2022-11-17**|**Feedback is Needed for Retakes: An Explainable Poor Image Notification Framework for the Visually Impaired**|Kazuya Ohata et.al.|[2211.09427v1](http://arxiv.org/abs/2211.09427v1)|null|
