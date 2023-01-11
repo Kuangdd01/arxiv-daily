@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-11 09:21:32
+ Automated deployment @ 2023-01-11 20:32:43
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -18,13 +18,14 @@
 |**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
 |**2022-12-30**|**Black-box language model explanation by context length probing**|Ondřej Cífka et.al.|[2212.14815v1](http://arxiv.org/abs/2212.14815v1)|[link](https://github.com/cifkao/context-probing)|
 |**2022-12-30**|**How would Stance Detection Techniques Evolve after the Launch of ChatGPT?**|Bowen Zhang et.al.|[2212.14548v1](http://arxiv.org/abs/2212.14548v1)|null|
-|**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-10**|**There is No Big Brother or Small Brother: Knowledge Infusion in Language Models for Link Prediction and Question Answering**|Ankush Agarwal et.al.|[2301.04013v1](http://arxiv.org/abs/2301.04013v1)|[link](https://github.com/ankush9812/knowledge-infusion-in-lm-for-qa)|
+|**2023-01-10**|**Language Models sounds the Death Knell of Knowledge Graphs**|Kunal Suri et.al.|[2301.03980v1](http://arxiv.org/abs/2301.03980v1)|null|
 |**2023-01-09**|**Automatic Standardization of Arabic Dialects for Machine Translation**|Abidrabbo Alnassan et.al.|[2301.03447v1](http://arxiv.org/abs/2301.03447v1)|null|
 |**2023-01-09**|**MAQA: A Multimodal QA Benchmark for Negation**|Judith Yue Li et.al.|[2301.03238v1](http://arxiv.org/abs/2301.03238v1)|null|
 |**2023-01-07**|**A Brain-inspired Memory Transformation based Differentiable Neural Computer for Reasoning-based Question Answering**|Yao Liang et.al.|[2301.02809v1](http://arxiv.org/abs/2301.02809v1)|null|
@@ -44,16 +45,13 @@
 |**2023-01-01**|**Is word segmentation necessary for Vietnamese sentiment classification?**|Duc-Vu Nguyen et.al.|[2301.00418v1](http://arxiv.org/abs/2301.00418v1)|null|
 |**2023-01-01**|**Inflected Forms Are Redundant in Question Generation Models**|Xingwu Sun et.al.|[2301.00397v1](http://arxiv.org/abs/2301.00397v1)|null|
 |**2023-01-01**|**Chatbots as Problem Solvers: Playing Twenty Questions with Role Reversals**|David Noever et.al.|[2301.01743v1](http://arxiv.org/abs/2301.01743v1)|null|
-|**2022-12-29**|**Maximizing Use-Case Specificity through Precision Model Tuning**|Pranjali Awasthi et.al.|[2212.14206v1](http://arxiv.org/abs/2212.14206v1)|null|
-|**2022-12-28**|**Improving a sequence-to-sequence nlp model using a reinforcement learning policy algorithm**|Jabri Ismail et.al.|[2212.14117v1](http://arxiv.org/abs/2212.14117v1)|null|
-|**2022-12-28**|**Cramming: Training a Language Model on a Single GPU in One Day**|Jonas Geiping et.al.|[2212.14034v1](http://arxiv.org/abs/2212.14034v1)|[link](https://github.com/jonasgeiping/cramming)|
-|**2022-12-28**|**Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**|Omar Khattab et.al.|[2212.14024v1](http://arxiv.org/abs/2212.14024v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-10**|**Structured Case-based Reasoning for Inference-time Adaptation of Text-to-SQL parsers**|Abhijeet Awasthi et.al.|[2301.04110v1](http://arxiv.org/abs/2301.04110v1)|null|
 |**2023-01-09**|**MAQA: A Multimodal QA Benchmark for Negation**|Judith Yue Li et.al.|[2301.03238v1](http://arxiv.org/abs/2301.03238v1)|null|
 |**2023-01-07**|**Why do Nearest Neighbor Language Models Work?**|Frank F. Xu et.al.|[2301.02828v1](http://arxiv.org/abs/2301.02828v1)|null|
 |**2023-01-07**|**A Brain-inspired Memory Transformation based Differentiable Neural Computer for Reasoning-based Question Answering**|Yao Liang et.al.|[2301.02809v1](http://arxiv.org/abs/2301.02809v1)|null|
@@ -197,4 +195,3 @@
 |**2022-11-18**|**PAL: Program-aided Language Models**|Luyu Gao et.al.|[2211.10435v1](http://arxiv.org/abs/2211.10435v1)|null|
 |**2022-11-18**|**Visual Programming: Compositional visual reasoning without training**|Tanmay Gupta et.al.|[2211.11559v1](http://arxiv.org/abs/2211.11559v1)|null|
 |**2022-11-18**|**Overview of the HASOC Subtrack at FIRE 2022: Offensive Language Identification in Marathi**|Tharindu Ranasinghe et.al.|[2211.10163v1](http://arxiv.org/abs/2211.10163v1)|null|
-|**2022-11-18**|**Detect Only What You Specify : Object Detection with Linguistic Target**|Moyuru Yamada et.al.|[2211.11572v1](http://arxiv.org/abs/2211.11572v1)|null|
