@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-12 09:22:12
+ Automated deployment @ 2023-01-12 20:35:01
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-11**|**The Role of Interactive Visualization in Explaining (Large) NLP Models: from Data to Inference**|Richard Brath et.al.|[2301.04528v1](http://arxiv.org/abs/2301.04528v1)|null|
 |**2023-01-09**|**AI2: The next leap toward native language based and explainable machine learning framework**|Jean-Sébastien Dessureault et.al.|[2301.03391v1](http://arxiv.org/abs/2301.03391v1)|null|
 |**2023-01-08**|**The State of Human-centered NLP Technology for Fact-checking**|Anubrata Das et.al.|[2301.03056v1](http://arxiv.org/abs/2301.03056v1)|null|
 |**2023-01-08**|**SpeeChain: A Speech Toolkit for Large-Scale Machine Speech Chain**|Heli Qi et.al.|[2301.02966v1](http://arxiv.org/abs/2301.02966v1)|null|
@@ -16,14 +17,17 @@
 |**2023-01-03**|**Large Language Models as Corporate Lobbyists**|John J. Nay et.al.|[2301.01181v4](http://arxiv.org/abs/2301.01181v4)|[link](https://github.com/johnnay/llm-lobbyist)|
 |**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
 |**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
-|**2022-12-30**|**Black-box language model explanation by context length probing**|Ondřej Cífka et.al.|[2212.14815v1](http://arxiv.org/abs/2212.14815v1)|[link](https://github.com/cifkao/context-probing)|
-|**2022-12-30**|**How would Stance Detection Techniques Evolve after the Launch of ChatGPT?**|Bowen Zhang et.al.|[2212.14548v1](http://arxiv.org/abs/2212.14548v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-11**|**GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities**|Jillian Bommarito et.al.|[2301.04408v1](http://arxiv.org/abs/2301.04408v1)|[link](https://github.com/mjbommar/gpt-as-knowledge-worker)|
+|**2023-01-11**|**Multimodal Inverse Cloze Task for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2301.04366v1](http://arxiv.org/abs/2301.04366v1)|[link](https://github.com/paullerner/viquae)|
+|**2023-01-11**|**Topics in Contextualised Attention Embeddings**|Mozhgan Talebpour et.al.|[2301.04339v1](http://arxiv.org/abs/2301.04339v1)|null|
+|**2023-01-11**|**ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English**|Tanmay Laud et.al.|[2301.04253v1](http://arxiv.org/abs/2301.04253v1)|null|
+|**2023-01-10**|**Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models**|Peter Hase et.al.|[2301.04213v1](http://arxiv.org/abs/2301.04213v1)|[link](https://github.com/google/belief-localization)|
 |**2023-01-10**|**There is No Big Brother or Small Brother: Knowledge Infusion in Language Models for Link Prediction and Question Answering**|Ankush Agarwal et.al.|[2301.04013v1](http://arxiv.org/abs/2301.04013v1)|[link](https://github.com/ankush9812/knowledge-infusion-in-lm-for-qa)|
 |**2023-01-10**|**Language Models sounds the Death Knell of Knowledge Graphs**|Kunal Suri et.al.|[2301.03980v1](http://arxiv.org/abs/2301.03980v1)|null|
 |**2023-01-09**|**Automatic Standardization of Arabic Dialects for Machine Translation**|Abidrabbo Alnassan et.al.|[2301.03447v1](http://arxiv.org/abs/2301.03447v1)|null|
@@ -51,6 +55,9 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-11**|**tieval: An Evaluation Framework for Temporal Information Extraction Systems**|Hugo Sousa et.al.|[2301.04643v1](http://arxiv.org/abs/2301.04643v1)|[link](https://github.com/liaad/tieval)|
+|**2023-01-11**|**GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities**|Jillian Bommarito et.al.|[2301.04408v1](http://arxiv.org/abs/2301.04408v1)|[link](https://github.com/mjbommar/gpt-as-knowledge-worker)|
+|**2023-01-10**|**User-Centered Security in Natural Language Processing**|Chris Emmery et.al.|[2301.04230v1](http://arxiv.org/abs/2301.04230v1)|null|
 |**2023-01-10**|**Structured Case-based Reasoning for Inference-time Adaptation of Text-to-SQL parsers**|Abhijeet Awasthi et.al.|[2301.04110v1](http://arxiv.org/abs/2301.04110v1)|null|
 |**2023-01-09**|**MAQA: A Multimodal QA Benchmark for Negation**|Judith Yue Li et.al.|[2301.03238v1](http://arxiv.org/abs/2301.03238v1)|null|
 |**2023-01-07**|**Why do Nearest Neighbor Language Models Work?**|Frank F. Xu et.al.|[2301.02828v1](http://arxiv.org/abs/2301.02828v1)|[link](https://github.com/frankxu2004/knnlm-why)|
@@ -149,7 +156,7 @@
 |**2022-12-06**|**CySecBERT: A Domain-Adapted Language Model for the Cybersecurity Domain**|Markus Bayer et.al.|[2212.02974v1](http://arxiv.org/abs/2212.02974v1)|null|
 |**2022-12-06**|**LUNA: Language Understanding with Number Augmentations on Transformers via Number Plugins and Pre-training**|Hongwei Han et.al.|[2212.02691v1](http://arxiv.org/abs/2212.02691v1)|null|
 |**2022-12-05**|**Video Games as a Corpus: Sentiment Analysis using Fallout New Vegas Dialog**|Mika Hämäläinen et.al.|[2212.02168v1](http://arxiv.org/abs/2212.02168v1)|null|
-|**2022-12-04**|**DFEE: Interactive DataFlow Execution and Evaluation Kit**|Han He et.al.|[2212.08099v1](http://arxiv.org/abs/2212.08099v1)|null|
+|**2022-12-04**|**DFEE: Interactive DataFlow Execution and Evaluation Kit**|Han He et.al.|[2212.08099v1](http://arxiv.org/abs/2212.08099v1)|[link](https://github.com/amazon-science/dataflow-evaluation-toolkit)|
 |**2022-12-04**|**Toward Efficient Language Model Pretraining and Downstream Adaptation via Self-Evolution: A Case Study on SuperGLUE**|Qihuang Zhong et.al.|[2212.01853v1](http://arxiv.org/abs/2212.01853v1)|null|
 |**2022-12-04**|**Utilizing Background Knowledge for Robust Reasoning over Traffic Situations**|Jiarui Zhang et.al.|[2212.07798v1](http://arxiv.org/abs/2212.07798v1)|null|
 |**2022-12-03**|**RHO ($ρ$): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding**|Ziwei Ji et.al.|[2212.01588v1](http://arxiv.org/abs/2212.01588v1)|null|
@@ -192,6 +199,3 @@
 |**2022-11-21**|**Unifying Vision-Language Representation Space with Single-tower Transformer**|Jiho Jang et.al.|[2211.11153v1](http://arxiv.org/abs/2211.11153v1)|null|
 |**2022-11-20**|**VER: Learning Natural Language Representations for Verbalizing Entities and Relations**|Jie Huang et.al.|[2211.11093v1](http://arxiv.org/abs/2211.11093v1)|[link](https://github.com/jeffhj/VER)|
 |**2022-11-19**|**Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**|Lin Xiao et.al.|[2211.10685v1](http://arxiv.org/abs/2211.10685v1)|null|
-|**2022-11-18**|**PAL: Program-aided Language Models**|Luyu Gao et.al.|[2211.10435v1](http://arxiv.org/abs/2211.10435v1)|null|
-|**2022-11-18**|**Visual Programming: Compositional visual reasoning without training**|Tanmay Gupta et.al.|[2211.11559v1](http://arxiv.org/abs/2211.11559v1)|null|
-|**2022-11-18**|**Overview of the HASOC Subtrack at FIRE 2022: Offensive Language Identification in Marathi**|Tharindu Ranasinghe et.al.|[2211.10163v1](http://arxiv.org/abs/2211.10163v1)|null|
