@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-13 09:22:51
+ Automated deployment @ 2023-01-13 20:31:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -15,14 +15,16 @@
 |**2023-01-05**|**Chatbots As Fluent Polyglots: Revisiting Breakthrough Code Snippets**|David Noever et.al.|[2301.03373v1](http://arxiv.org/abs/2301.03373v1)|null|
 |**2023-01-04**|**Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer**|Zhixiang Su et.al.|[2301.01664v1](http://arxiv.org/abs/2301.01664v1)|[link](https://github.com/zhixiangsu/krst)|
 |**2023-01-03**|**Large Language Models as Corporate Lobbyists**|John J. Nay et.al.|[2301.01181v4](http://arxiv.org/abs/2301.01181v4)|[link](https://github.com/johnnay/llm-lobbyist)|
-|**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
-|**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
+|**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|[link](https://github.com/nttmdlab-nlp/slidevqa)|
+|**2023-01-12**|**Language Cognition and Language Computation -- Human and Machine Language Understanding**|Shaonan Wang et.al.|[2301.04788v1](http://arxiv.org/abs/2301.04788v1)|null|
+|**2023-01-11**|**Semantic Web Enabled Geographic Question Answering Framework: GeoTR**|Ceren Ocal Tasar et.al.|[2301.04752v1](http://arxiv.org/abs/2301.04752v1)|null|
 |**2023-01-11**|**GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities**|Jillian Bommarito et.al.|[2301.04408v1](http://arxiv.org/abs/2301.04408v1)|[link](https://github.com/mjbommar/gpt-as-knowledge-worker)|
 |**2023-01-11**|**Multimodal Inverse Cloze Task for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2301.04366v1](http://arxiv.org/abs/2301.04366v1)|[link](https://github.com/paullerner/viquae)|
 |**2023-01-11**|**Topics in Contextualised Attention Embeddings**|Mozhgan Talebpour et.al.|[2301.04339v1](http://arxiv.org/abs/2301.04339v1)|null|
@@ -44,17 +46,14 @@
 |**2023-01-03**|**Towards Knowledge-Intensive Text-to-SQL Semantic Parsing with Formulaic Knowledge**|Longxu Dou et.al.|[2301.01067v1](http://arxiv.org/abs/2301.01067v1)|null|
 |**2023-01-03**|**PIE-QG: Paraphrased Information Extraction for Unsupervised Question Generation from Small Corpora**|Dinesh Nagumothu et.al.|[2301.01064v1](http://arxiv.org/abs/2301.01064v1)|null|
 |**2023-01-02**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang et.al.|[2301.00876v2](http://arxiv.org/abs/2301.00876v2)|[link](https://github.com/theatticusproject/maud-extraction)|
-|**2023-01-01**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Sunshine Zhang et.al.|[2301.00479v1](http://arxiv.org/abs/2301.00479v1)|[link](https://github.com/sunshineluyao/design-principle-blockchain)|
-|**2023-01-01**|**Integrating Semantic Information into Sketchy Reading Module of Retro-Reader for Vietnamese Machine Reading Comprehension**|Hang Thi-Thu Le et.al.|[2301.00429v1](http://arxiv.org/abs/2301.00429v1)|null|
-|**2023-01-01**|**Is word segmentation necessary for Vietnamese sentiment classification?**|Duc-Vu Nguyen et.al.|[2301.00418v1](http://arxiv.org/abs/2301.00418v1)|null|
-|**2023-01-01**|**Inflected Forms Are Redundant in Question Generation Models**|Xingwu Sun et.al.|[2301.00397v1](http://arxiv.org/abs/2301.00397v1)|null|
-|**2023-01-01**|**Chatbots as Problem Solvers: Playing Twenty Questions with Role Reversals**|David Noever et.al.|[2301.01743v1](http://arxiv.org/abs/2301.01743v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
+|**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|[link](https://github.com/nttmdlab-nlp/slidevqa)|
 |**2023-01-11**|**tieval: An Evaluation Framework for Temporal Information Extraction Systems**|Hugo Sousa et.al.|[2301.04643v1](http://arxiv.org/abs/2301.04643v1)|[link](https://github.com/liaad/tieval)|
 |**2023-01-11**|**GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities**|Jillian Bommarito et.al.|[2301.04408v1](http://arxiv.org/abs/2301.04408v1)|[link](https://github.com/mjbommar/gpt-as-knowledge-worker)|
 |**2023-01-10**|**User-Centered Security in Natural Language Processing**|Chris Emmery et.al.|[2301.04230v1](http://arxiv.org/abs/2301.04230v1)|null|
@@ -195,7 +194,3 @@
 |**2022-11-22**|**AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies**|Weiyan Shi et.al.|[2211.12615v1](http://arxiv.org/abs/2211.12615v1)|null|
 |**2022-11-22**|**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**|Wenhu Chen et.al.|[2211.12588v3](http://arxiv.org/abs/2211.12588v3)|[link](https://github.com/wenhuchen/program-of-thoughts)|
 |**2022-11-22**|**Visually Grounded Commonsense Knowledge Acquisition**|Yuan Yao et.al.|[2211.12054v1](http://arxiv.org/abs/2211.12054v1)|[link](https://github.com/thunlp/clever)|
-|**2022-11-21**|**Unsupervised Explanation Generation via Correct Instantiations**|Sijie Cheng et.al.|[2211.11160v1](http://arxiv.org/abs/2211.11160v1)|null|
-|**2022-11-21**|**Unifying Vision-Language Representation Space with Single-tower Transformer**|Jiho Jang et.al.|[2211.11153v1](http://arxiv.org/abs/2211.11153v1)|null|
-|**2022-11-20**|**VER: Learning Natural Language Representations for Verbalizing Entities and Relations**|Jie Huang et.al.|[2211.11093v1](http://arxiv.org/abs/2211.11093v1)|[link](https://github.com/jeffhj/VER)|
-|**2022-11-19**|**Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**|Lin Xiao et.al.|[2211.10685v1](http://arxiv.org/abs/2211.10685v1)|null|
