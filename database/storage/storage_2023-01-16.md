@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-16 09:19:48
+ Automated deployment @ 2023-01-16 20:33:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -14,7 +14,6 @@
 |**2023-01-08**|**SpeeChain: A Speech Toolkit for Large-Scale Machine Speech Chain**|Heli Qi et.al.|[2301.02966v1](http://arxiv.org/abs/2301.02966v1)|null|
 |**2023-01-05**|**Chatbots As Fluent Polyglots: Revisiting Breakthrough Code Snippets**|David Noever et.al.|[2301.03373v1](http://arxiv.org/abs/2301.03373v1)|null|
 |**2023-01-04**|**Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer**|Zhixiang Su et.al.|[2301.01664v1](http://arxiv.org/abs/2301.01664v1)|[link](https://github.com/zhixiangsu/krst)|
-|**2023-01-03**|**Large Language Models as Corporate Lobbyists**|John J. Nay et.al.|[2301.01181v5](http://arxiv.org/abs/2301.01181v5)|[link](https://github.com/johnnay/llm-lobbyist)|
 
 ## Question Answering
 
@@ -45,13 +44,13 @@
 |**2023-01-03**|**Large Language Models as Corporate Lobbyists**|John J. Nay et.al.|[2301.01181v5](http://arxiv.org/abs/2301.01181v5)|[link](https://github.com/johnnay/llm-lobbyist)|
 |**2023-01-03**|**Towards Knowledge-Intensive Text-to-SQL Semantic Parsing with Formulaic Knowledge**|Longxu Dou et.al.|[2301.01067v1](http://arxiv.org/abs/2301.01067v1)|null|
 |**2023-01-03**|**PIE-QG: Paraphrased Information Extraction for Unsupervised Question Generation from Small Corpora**|Dinesh Nagumothu et.al.|[2301.01064v1](http://arxiv.org/abs/2301.01064v1)|null|
-|**2023-01-02**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang et.al.|[2301.00876v2](http://arxiv.org/abs/2301.00876v2)|[link](https://github.com/theatticusproject/maud-extraction)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-13**|**From stage to page: language independent bootstrap measures of distinctiveness in fictional speech**|Artjoms Šeļa et.al.|[2301.05659v1](http://arxiv.org/abs/2301.05659v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|[link](https://github.com/nttmdlab-nlp/slidevqa)|
 |**2023-01-11**|**tieval: An Evaluation Framework for Temporal Information Extraction Systems**|Hugo Sousa et.al.|[2301.04643v1](http://arxiv.org/abs/2301.04643v1)|[link](https://github.com/liaad/tieval)|
