@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-18 09:23:08
+ Automated deployment @ 2023-01-18 20:31:43
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,18 +8,20 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-17**|**Vision Learners Meet Web Image-Text Pairs**|Bingchen Zhao et.al.|[2301.07088v1](http://arxiv.org/abs/2301.07088v1)|null|
+|**2023-01-17**|**Temporal Dynamics of Coordinated Online Behavior: Stability, Archetypes, and Influence**|Serena Tardelli et.al.|[2301.06774v1](http://arxiv.org/abs/2301.06774v1)|null|
+|**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-11**|**The Role of Interactive Visualization in Explaining (Large) NLP Models: from Data to Inference**|Richard Brath et.al.|[2301.04528v1](http://arxiv.org/abs/2301.04528v1)|null|
 |**2023-01-09**|**AI2: The next leap toward native language based and explainable machine learning framework**|Jean-Sébastien Dessureault et.al.|[2301.03391v2](http://arxiv.org/abs/2301.03391v2)|null|
 |**2023-01-08**|**The State of Human-centered NLP Technology for Fact-checking**|Anubrata Das et.al.|[2301.03056v1](http://arxiv.org/abs/2301.03056v1)|null|
 |**2023-01-08**|**SpeeChain: A Speech Toolkit for Large-Scale Machine Speech Chain**|Heli Qi et.al.|[2301.02966v1](http://arxiv.org/abs/2301.02966v1)|null|
-|**2023-01-05**|**Chatbots As Fluent Polyglots: Revisiting Breakthrough Code Snippets**|David Noever et.al.|[2301.03373v1](http://arxiv.org/abs/2301.03373v1)|null|
-|**2023-01-04**|**Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer**|Zhixiang Su et.al.|[2301.01664v1](http://arxiv.org/abs/2301.01664v1)|[link](https://github.com/zhixiangsu/krst)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|[link](https://github.com/nttmdlab-nlp/slidevqa)|
 |**2023-01-12**|**Language Cognition and Language Computation -- Human and Machine Language Understanding**|Shaonan Wang et.al.|[2301.04788v1](http://arxiv.org/abs/2301.04788v1)|null|
@@ -36,20 +38,16 @@
 |**2023-01-07**|**A Brain-inspired Memory Transformation based Differentiable Neural Computer for Reasoning-based Question Answering**|Yao Liang et.al.|[2301.02809v1](http://arxiv.org/abs/2301.02809v1)|null|
 |**2023-01-07**|**RLAS-BIABC: A Reinforcement Learning-Based Answer Selection Using the BERT Model Boosted by an Improved ABC Algorithm**|Hamid Gharagozlou et.al.|[2301.02807v1](http://arxiv.org/abs/2301.02807v1)|null|
 |**2023-01-06**|**You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**|Jungwoo Lim et.al.|[2301.02401v1](http://arxiv.org/abs/2301.02401v1)|[link](https://github.com/dlawjddn803/info)|
-|**2023-01-05**|**Emotion-Cause Pair Extraction as Question Answering**|Huu-Hiep Nguyen et.al.|[2301.01982v2](http://arxiv.org/abs/2301.01982v2)|null|
-|**2023-01-05**|**SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph**|Yuxing Long et.al.|[2301.01949v1](http://arxiv.org/abs/2301.01949v1)|null|
-|**2023-01-05**|**Topic Segmentation Model Focusing on Local Context**|Jeonghwan Lee et.al.|[2301.01935v1](http://arxiv.org/abs/2301.01935v1)|null|
-|**2023-01-05**|**Critical Perspectives: A Benchmark Revealing Pitfalls in PerspectiveAPI**|Lorena Piedras et.al.|[2301.01874v1](http://arxiv.org/abs/2301.01874v1)|[link](https://github.com/lurosenb/sass)|
-|**2023-01-04**|**Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes**|Justin Reppert et.al.|[2301.01751v2](http://arxiv.org/abs/2301.01751v2)|[link](https://github.com/oughtinc/ice)|
-|**2023-01-03**|**Large Language Models as Corporate Lobbyists**|John J. Nay et.al.|[2301.01181v5](http://arxiv.org/abs/2301.01181v5)|[link](https://github.com/johnnay/llm-lobbyist)|
-|**2023-01-03**|**Towards Knowledge-Intensive Text-to-SQL Semantic Parsing with Formulaic Knowledge**|Longxu Dou et.al.|[2301.01067v1](http://arxiv.org/abs/2301.01067v1)|null|
-|**2023-01-03**|**PIE-QG: Paraphrased Information Extraction for Unsupervised Question Generation from Small Corpora**|Dinesh Nagumothu et.al.|[2301.01064v1](http://arxiv.org/abs/2301.01064v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|null|
+|**2023-01-17**|**VaxxHesitancy: A Dataset for Studying Hesitancy Towards COVID-19 Vaccination on Twitter**|Yida Mu et.al.|[2301.06660v1](http://arxiv.org/abs/2301.06660v1)|null|
+|**2023-01-16**|**Dissociating language and thought in large language models: a cognitive perspective**|Kyle Mahowald et.al.|[2301.06627v1](http://arxiv.org/abs/2301.06627v1)|null|
+|**2023-01-16**|**A separation logic for sequences in pointer programs and its decidability**|Tianyue Cao et.al.|[2301.06237v1](http://arxiv.org/abs/2301.06237v1)|null|
 |**2023-01-13**|**From stage to page: language independent bootstrap measures of distinctiveness in fictional speech**|Artjoms Šeļa et.al.|[2301.05659v1](http://arxiv.org/abs/2301.05659v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|[link](https://github.com/nttmdlab-nlp/slidevqa)|
@@ -58,7 +56,7 @@
 |**2023-01-10**|**User-Centered Security in Natural Language Processing**|Chris Emmery et.al.|[2301.04230v1](http://arxiv.org/abs/2301.04230v1)|null|
 |**2023-01-10**|**Structured Case-based Reasoning for Inference-time Adaptation of Text-to-SQL parsers**|Abhijeet Awasthi et.al.|[2301.04110v1](http://arxiv.org/abs/2301.04110v1)|null|
 |**2023-01-09**|**MAQA: A Multimodal QA Benchmark for Negation**|Judith Yue Li et.al.|[2301.03238v1](http://arxiv.org/abs/2301.03238v1)|null|
-|**2023-01-07**|**Why do Nearest Neighbor Language Models Work?**|Frank F. Xu et.al.|[2301.02828v1](http://arxiv.org/abs/2301.02828v1)|[link](https://github.com/frankxu2004/knnlm-why)|
+|**2023-01-07**|**Why do Nearest Neighbor Language Models Work?**|Frank F. Xu et.al.|[2301.02828v2](http://arxiv.org/abs/2301.02828v2)|[link](https://github.com/frankxu2004/knnlm-why)|
 |**2023-01-07**|**A Brain-inspired Memory Transformation based Differentiable Neural Computer for Reasoning-based Question Answering**|Yao Liang et.al.|[2301.02809v1](http://arxiv.org/abs/2301.02809v1)|null|
 |**2023-01-05**|**Chatbots As Fluent Polyglots: Revisiting Breakthrough Code Snippets**|David Noever et.al.|[2301.03373v1](http://arxiv.org/abs/2301.03373v1)|null|
 |**2023-01-05**|**SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph**|Yuxing Long et.al.|[2301.01949v1](http://arxiv.org/abs/2301.01949v1)|null|
@@ -186,10 +184,3 @@
 |**2022-11-24**|**TSGP: Two-Stage Generative Prompting for Unsupervised Commonsense Question Answering**|Yueqing Sun et.al.|[2211.13515v1](http://arxiv.org/abs/2211.13515v1)|null|
 |**2022-11-23**|**SeedBERT: Recovering Annotator Rating Distributions from an Aggregated Label**|Aneesha Sampath et.al.|[2211.13196v1](http://arxiv.org/abs/2211.13196v1)|null|
 |**2022-11-23**|**Automatic Generation of Socratic Subquestions for Teaching Math Word Problems**|Kumar Shridhar et.al.|[2211.12835v1](http://arxiv.org/abs/2211.12835v1)|[link](https://github.com/eth-nlped/scaffolding-generation)|
-|**2022-11-23**|**Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation**|Tsu-Jui Fu et.al.|[2211.12824v1](http://arxiv.org/abs/2211.12824v1)|null|
-|**2022-11-23**|**Agent-Specific Deontic Modality Detection in Legal Language**|Abhilasha Sancheti et.al.|[2211.12752v1](http://arxiv.org/abs/2211.12752v1)|null|
-|**2022-11-23**|**DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data**|Xiao Li et.al.|[2211.12668v1](http://arxiv.org/abs/2211.12668v1)|[link](https://github.com/nju-websoft/dyrren)|
-|**2022-11-23**|**Leveraging Data Recasting to Enhance Tabular Reasoning**|Aashna Jena et.al.|[2211.12641v1](http://arxiv.org/abs/2211.12641v1)|null|
-|**2022-11-22**|**AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies**|Weiyan Shi et.al.|[2211.12615v1](http://arxiv.org/abs/2211.12615v1)|null|
-|**2022-11-22**|**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**|Wenhu Chen et.al.|[2211.12588v3](http://arxiv.org/abs/2211.12588v3)|[link](https://github.com/wenhuchen/program-of-thoughts)|
-|**2022-11-22**|**Visually Grounded Commonsense Knowledge Acquisition**|Yuan Yao et.al.|[2211.12054v1](http://arxiv.org/abs/2211.12054v1)|[link](https://github.com/thunlp/clever)|
