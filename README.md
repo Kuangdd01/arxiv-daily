@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-19 09:23:43
+ Automated deployment @ 2023-01-19 20:33:05
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -13,14 +13,17 @@
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-11**|**The Role of Interactive Visualization in Explaining (Large) NLP Models: from Data to Inference**|Richard Brath et.al.|[2301.04528v1](http://arxiv.org/abs/2301.04528v1)|null|
 |**2023-01-09**|**AI2: The next leap toward native language based and explainable machine learning framework**|Jean-Sébastien Dessureault et.al.|[2301.03391v2](http://arxiv.org/abs/2301.03391v2)|null|
-|**2023-01-08**|**The State of Human-centered NLP Technology for Fact-checking**|Anubrata Das et.al.|[2301.03056v1](http://arxiv.org/abs/2301.03056v1)|null|
-|**2023-01-08**|**SpeeChain: A Speech Toolkit for Large-Scale Machine Speech Chain**|Heli Qi et.al.|[2301.02966v1](http://arxiv.org/abs/2301.02966v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-18**|**How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection**|Biyang Guo et.al.|[2301.07597v1](http://arxiv.org/abs/2301.07597v1)|null|
+|**2023-01-18**|**Towards a Holistic Understanding of Mathematical Questions with Contrastive Pre-training**|Yuting Ning et.al.|[2301.07558v1](http://arxiv.org/abs/2301.07558v1)|[link](https://github.com/bigdata-ustc/quesco)|
+|**2023-01-18**|**Graphix-T5: Mixing Pre-Trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing**|Jinyang Li et.al.|[2301.07507v1](http://arxiv.org/abs/2301.07507v1)|null|
+|**2023-01-17**|**Curriculum Script Distillation for Multilingual Visual Question Answering**|Khyathi Raghavi Chandu et.al.|[2301.07227v1](http://arxiv.org/abs/2301.07227v1)|null|
+|**2023-01-16**|**EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records**|Gyubok Lee et.al.|[2301.07695v1](http://arxiv.org/abs/2301.07695v1)|[link](https://github.com/glee4810/EHRSQL)|
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|[link](https://github.com/nttmdlab-nlp/slidevqa)|
@@ -35,15 +38,13 @@
 |**2023-01-10**|**Language Models sounds the Death Knell of Knowledge Graphs**|Kunal Suri et.al.|[2301.03980v1](http://arxiv.org/abs/2301.03980v1)|null|
 |**2023-01-09**|**Automatic Standardization of Arabic Dialects for Machine Translation**|Abidrabbo Alnassan et.al.|[2301.03447v1](http://arxiv.org/abs/2301.03447v1)|null|
 |**2023-01-09**|**MAQA: A Multimodal QA Benchmark for Negation**|Judith Yue Li et.al.|[2301.03238v1](http://arxiv.org/abs/2301.03238v1)|null|
-|**2023-01-07**|**A Brain-inspired Memory Transformation based Differentiable Neural Computer for Reasoning-based Question Answering**|Yao Liang et.al.|[2301.02809v1](http://arxiv.org/abs/2301.02809v1)|null|
-|**2023-01-07**|**RLAS-BIABC: A Reinforcement Learning-Based Answer Selection Using the BERT Model Boosted by an Improved ABC Algorithm**|Hamid Gharagozlou et.al.|[2301.02807v1](http://arxiv.org/abs/2301.02807v1)|null|
-|**2023-01-06**|**You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**|Jungwoo Lim et.al.|[2301.02401v1](http://arxiv.org/abs/2301.02401v1)|[link](https://github.com/dlawjddn803/info)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-18**|**Graphix-T5: Mixing Pre-Trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing**|Jinyang Li et.al.|[2301.07507v1](http://arxiv.org/abs/2301.07507v1)|null|
 |**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|[link](https://github.com/dennlinger/summaries)|
 |**2023-01-17**|**VaxxHesitancy: A Dataset for Studying Hesitancy Towards COVID-19 Vaccination on Twitter**|Yida Mu et.al.|[2301.06660v1](http://arxiv.org/abs/2301.06660v1)|null|
 |**2023-01-16**|**Dissociating language and thought in large language models: a cognitive perspective**|Kyle Mahowald et.al.|[2301.06627v1](http://arxiv.org/abs/2301.06627v1)|null|
@@ -182,5 +183,3 @@
 |**2022-11-25**|**Complementary Explanations for Effective In-Context Learning**|Xi Ye et.al.|[2211.13892v1](http://arxiv.org/abs/2211.13892v1)|null|
 |**2022-11-25**|**TPA-Net: Generate A Dataset for Text to Physics-based Animation**|Yuxing Qiu et.al.|[2211.13887v1](http://arxiv.org/abs/2211.13887v1)|null|
 |**2022-11-24**|**TSGP: Two-Stage Generative Prompting for Unsupervised Commonsense Question Answering**|Yueqing Sun et.al.|[2211.13515v1](http://arxiv.org/abs/2211.13515v1)|null|
-|**2022-11-23**|**SeedBERT: Recovering Annotator Rating Distributions from an Aggregated Label**|Aneesha Sampath et.al.|[2211.13196v1](http://arxiv.org/abs/2211.13196v1)|null|
-|**2022-11-23**|**Automatic Generation of Socratic Subquestions for Teaching Math Word Problems**|Kumar Shridhar et.al.|[2211.12835v1](http://arxiv.org/abs/2211.12835v1)|[link](https://github.com/eth-nlped/scaffolding-generation)|
