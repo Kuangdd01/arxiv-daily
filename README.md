@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-20 09:22:04
+ Automated deployment @ 2023-01-20 20:32:48
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -12,13 +12,15 @@
 |**2023-01-17**|**Temporal Dynamics of Coordinated Online Behavior: Stability, Archetypes, and Influence**|Serena Tardelli et.al.|[2301.06774v1](http://arxiv.org/abs/2301.06774v1)|null|
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-11**|**The Role of Interactive Visualization in Explaining (Large) NLP Models: from Data to Inference**|Richard Brath et.al.|[2301.04528v1](http://arxiv.org/abs/2301.04528v1)|null|
-|**2023-01-09**|**AI2: The next leap toward native language based and explainable machine learning framework**|Jean-Sébastien Dessureault et.al.|[2301.03391v2](http://arxiv.org/abs/2301.03391v2)|null|
+|**2023-01-10**|**AI Insights into Theoretical Physics and the Swampland Program: A Journey Through the Cosmos with ChatGPT**|Kay Lehnert et.al.|[2301.08155v1](http://arxiv.org/abs/2301.08155v1)|[link](https://github.com/kabeleh/chatgpt)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-19**|**Language Embeddings Sometimes Contain Typological Generalizations**|Robert Östling et.al.|[2301.08115v1](http://arxiv.org/abs/2301.08115v1)|null|
+|**2023-01-19**|**Author as Character and Narrator: Deconstructing Personal Narratives from the r/AmITheAsshole Reddit Community**|Salvatore Giorgi et.al.|[2301.08104v1](http://arxiv.org/abs/2301.08104v1)|null|
 |**2023-01-18**|**How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection**|Biyang Guo et.al.|[2301.07597v1](http://arxiv.org/abs/2301.07597v1)|[link](https://github.com/hello-simpleai/chatgpt-comparison-detection)|
 |**2023-01-18**|**Towards a Holistic Understanding of Mathematical Questions with Contrastive Pre-training**|Yuting Ning et.al.|[2301.07558v1](http://arxiv.org/abs/2301.07558v1)|[link](https://github.com/bigdata-ustc/quesco)|
 |**2023-01-18**|**Graphix-T5: Mixing Pre-Trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing**|Jinyang Li et.al.|[2301.07507v1](http://arxiv.org/abs/2301.07507v1)|null|
@@ -36,8 +38,6 @@
 |**2023-01-10**|**Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models**|Peter Hase et.al.|[2301.04213v1](http://arxiv.org/abs/2301.04213v1)|[link](https://github.com/google/belief-localization)|
 |**2023-01-10**|**There is No Big Brother or Small Brother: Knowledge Infusion in Language Models for Link Prediction and Question Answering**|Ankush Agarwal et.al.|[2301.04013v1](http://arxiv.org/abs/2301.04013v1)|[link](https://github.com/ankush9812/knowledge-infusion-in-lm-for-qa)|
 |**2023-01-10**|**Language Models sounds the Death Knell of Knowledge Graphs**|Kunal Suri et.al.|[2301.03980v1](http://arxiv.org/abs/2301.03980v1)|null|
-|**2023-01-09**|**Automatic Standardization of Arabic Dialects for Machine Translation**|Abidrabbo Alnassan et.al.|[2301.03447v1](http://arxiv.org/abs/2301.03447v1)|null|
-|**2023-01-09**|**MAQA: A Multimodal QA Benchmark for Negation**|Judith Yue Li et.al.|[2301.03238v1](http://arxiv.org/abs/2301.03238v1)|null|
 
 ## Reasoning
 
