@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-23 09:19:21
+ Automated deployment @ 2023-01-23 20:31:48
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,19 +8,21 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-20**|**Can Peanuts Fall in Love with Distributional Semantics?**|James A. Michaelov et.al.|[2301.08731v1](http://arxiv.org/abs/2301.08731v1)|null|
 |**2023-01-17**|**Vision Learners Meet Web Image-Text Pairs**|Bingchen Zhao et.al.|[2301.07088v1](http://arxiv.org/abs/2301.07088v1)|null|
 |**2023-01-17**|**Temporal Dynamics of Coordinated Online Behavior: Stability, Archetypes, and Influence**|Serena Tardelli et.al.|[2301.06774v1](http://arxiv.org/abs/2301.06774v1)|null|
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-11**|**The Role of Interactive Visualization in Explaining (Large) NLP Models: from Data to Inference**|Richard Brath et.al.|[2301.04528v1](http://arxiv.org/abs/2301.04528v1)|null|
-|**2023-01-10**|**AI Insights into Theoretical Physics and the Swampland Program: A Journey Through the Cosmos with ChatGPT**|Kay Lehnert et.al.|[2301.08155v1](http://arxiv.org/abs/2301.08155v1)|[link](https://github.com/kabeleh/chatgpt)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-20**|**Can Peanuts Fall in Love with Distributional Semantics?**|James A. Michaelov et.al.|[2301.08731v1](http://arxiv.org/abs/2301.08731v1)|null|
 |**2023-01-19**|**Language Embeddings Sometimes Contain Typological Generalizations**|Robert Östling et.al.|[2301.08115v1](http://arxiv.org/abs/2301.08115v1)|null|
 |**2023-01-19**|**Author as Character and Narrator: Deconstructing Personal Narratives from the r/AmITheAsshole Reddit Community**|Salvatore Giorgi et.al.|[2301.08104v1](http://arxiv.org/abs/2301.08104v1)|null|
+|**2023-01-19**|**Reversing The Twenty Questions Game**|Parth Parikh et.al.|[2301.08718v1](http://arxiv.org/abs/2301.08718v1)|null|
 |**2023-01-18**|**How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection**|Biyang Guo et.al.|[2301.07597v1](http://arxiv.org/abs/2301.07597v1)|[link](https://github.com/hello-simpleai/chatgpt-comparison-detection)|
 |**2023-01-18**|**Towards a Holistic Understanding of Mathematical Questions with Contrastive Pre-training**|Yuting Ning et.al.|[2301.07558v1](http://arxiv.org/abs/2301.07558v1)|[link](https://github.com/bigdata-ustc/quesco)|
 |**2023-01-18**|**Graphix-T5: Mixing Pre-Trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing**|Jinyang Li et.al.|[2301.07507v1](http://arxiv.org/abs/2301.07507v1)|null|
@@ -44,6 +46,7 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-19**|**Batch Prompting: Efficient Inference with Large Language Model APIs**|Zhoujun Cheng et.al.|[2301.08721v1](http://arxiv.org/abs/2301.08721v1)|null|
 |**2023-01-18**|**Graphix-T5: Mixing Pre-Trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing**|Jinyang Li et.al.|[2301.07507v1](http://arxiv.org/abs/2301.07507v1)|null|
 |**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|[link](https://github.com/dennlinger/summaries)|
 |**2023-01-17**|**VaxxHesitancy: A Dataset for Studying Hesitancy Towards COVID-19 Vaccination on Twitter**|Yida Mu et.al.|[2301.06660v1](http://arxiv.org/abs/2301.06660v1)|null|
@@ -181,5 +184,3 @@
 |**2022-11-25**|**Semantic Table Detection with LayoutLMv3**|Ivan Silajev et.al.|[2211.15504v1](http://arxiv.org/abs/2211.15504v1)|null|
 |**2022-11-25**|**TRAC: A Textual Benchmark for Reasoning about Actions and Change**|Weinan He et.al.|[2211.13930v1](http://arxiv.org/abs/2211.13930v1)|null|
 |**2022-11-25**|**Complementary Explanations for Effective In-Context Learning**|Xi Ye et.al.|[2211.13892v1](http://arxiv.org/abs/2211.13892v1)|null|
-|**2022-11-25**|**TPA-Net: Generate A Dataset for Text to Physics-based Animation**|Yuxing Qiu et.al.|[2211.13887v1](http://arxiv.org/abs/2211.13887v1)|null|
-|**2022-11-24**|**TSGP: Two-Stage Generative Prompting for Unsupervised Commonsense Question Answering**|Yueqing Sun et.al.|[2211.13515v1](http://arxiv.org/abs/2211.13515v1)|null|
