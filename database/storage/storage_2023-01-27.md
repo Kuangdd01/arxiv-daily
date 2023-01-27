@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-27 09:22:46
+ Automated deployment @ 2023-01-27 20:31:07
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-26**|**NLP as a Lens for Causal Analysis and Perception Mining to Infer Mental Health on Social Media**|Muskan Garg et.al.|[2301.11004v1](http://arxiv.org/abs/2301.11004v1)|null|
+|**2023-01-25**|**Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering**|Chenxi Whitehouse et.al.|[2301.10799v1](http://arxiv.org/abs/2301.10799v1)|null|
 |**2023-01-25**|**Distilling Text into Circuits**|Vincent Wang-Mascianica et.al.|[2301.10595v1](http://arxiv.org/abs/2301.10595v1)|null|
 |**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
 |**2023-01-25**|**XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis**|Yingchaojie Feng et.al.|[2301.10385v1](http://arxiv.org/abs/2301.10385v1)|null|
@@ -19,13 +21,16 @@
 |**2023-01-20**|**A Review of the Trends and Challenges in Adopting Natural Language Processing Methods for Education Feedback Analysis**|Thanveer Shaik et.al.|[2301.08826v1](http://arxiv.org/abs/2301.08826v1)|null|
 |**2023-01-20**|**Can Peanuts Fall in Love with Distributional Semantics?**|James A. Michaelov et.al.|[2301.08731v1](http://arxiv.org/abs/2301.08731v1)|null|
 |**2023-01-17**|**Vision Learners Meet Web Image-Text Pairs**|Bingchen Zhao et.al.|[2301.07088v1](http://arxiv.org/abs/2301.07088v1)|null|
-|**2023-01-17**|**Temporal Dynamics of Coordinated Online Behavior: Stability, Archetypes, and Influence**|Serena Tardelli et.al.|[2301.06774v1](http://arxiv.org/abs/2301.06774v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-26**|**Understanding Finetuning for Factual Knowledge Extraction from Language Models**|Mehran Kazemi et.al.|[2301.11293v1](http://arxiv.org/abs/2301.11293v1)|null|
+|**2023-01-26**|**Break It Down: Evidence for Structural Compositionality in Neural Networks**|Michael A. Lepori et.al.|[2301.10884v1](http://arxiv.org/abs/2301.10884v1)|null|
+|**2023-01-25**|**On the inconsistency of separable losses for structured prediction**|Caio Corro et.al.|[2301.10810v1](http://arxiv.org/abs/2301.10810v1)|null|
+|**2023-01-25**|**Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering**|Chenxi Whitehouse et.al.|[2301.10799v1](http://arxiv.org/abs/2301.10799v1)|null|
 |**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
 |**2023-01-25**|**Multi-Tenant Optimization For Few-Shot Task-Oriented FAQ Retrieval**|Asha Vishwanathan et.al.|[2301.10517v1](http://arxiv.org/abs/2301.10517v1)|[link](https://github.com/verloop/few-shot-faqir)|
 |**2023-01-25**|**XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models**|Davis Liang et.al.|[2301.10472v1](http://arxiv.org/abs/2301.10472v1)|null|
@@ -52,13 +57,14 @@
 |**2023-01-18**|**Towards a Holistic Understanding of Mathematical Questions with Contrastive Pre-training**|Yuting Ning et.al.|[2301.07558v1](http://arxiv.org/abs/2301.07558v1)|[link](https://github.com/bigdata-ustc/quesco)|
 |**2023-01-18**|**Graphix-T5: Mixing Pre-Trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing**|Jinyang Li et.al.|[2301.07507v1](http://arxiv.org/abs/2301.07507v1)|null|
 |**2023-01-17**|**Curriculum Script Distillation for Multilingual Visual Question Answering**|Khyathi Raghavi Chandu et.al.|[2301.07227v1](http://arxiv.org/abs/2301.07227v1)|null|
-|**2023-01-16**|**EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records**|Gyubok Lee et.al.|[2301.07695v1](http://arxiv.org/abs/2301.07695v1)|[link](https://github.com/glee4810/EHRSQL)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-26**|**Causal Reasoning of Entities and Events in Procedural Texts**|Li Zhang et.al.|[2301.10896v1](http://arxiv.org/abs/2301.10896v1)|[link](https://github.com/zharry29/causal_reasoning_of_entities_and_events)|
+|**2023-01-25**|**Qualitative Analysis of a Graph Transformer Approach to Addressing Hate Speech: Adapting to Dynamically Changing Content**|Liam Hebert et.al.|[2301.10871v1](http://arxiv.org/abs/2301.10871v1)|null|
 |**2023-01-25**|**Backward Compatibility During Data Updates by Weight Interpolation**|Raphael Schumann et.al.|[2301.10546v1](http://arxiv.org/abs/2301.10546v1)|null|
 |**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
 |**2023-01-24**|**Audience-Centric Natural Language Generation via Style Infusion**|Samraj Moorjani et.al.|[2301.10283v1](http://arxiv.org/abs/2301.10283v1)|[link](https://github.com/crowddynamicslab/styleinfusion)|
@@ -194,5 +200,3 @@
 |**2022-12-01**|**Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions**|Kumar Shridhar et.al.|[2212.00193v1](http://arxiv.org/abs/2212.00193v1)|null|
 |**2022-11-30**|**Transformers are Short Text Classifiers: A Study of Inductive Short Text Classifiers on Benchmarks and Real-world Datasets**|Fabian Karl et.al.|[2211.16878v2](http://arxiv.org/abs/2211.16878v2)|[link](https://github.com/FKarl/short-text-classification)|
 |**2022-11-30**|**A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods**|Shantanu Jaiswal et.al.|[2211.16822v2](http://arxiv.org/abs/2211.16822v2)|null|
-|**2022-11-30**|**Automatic Identification of Motivation for Code-Switching in Speech Transcripts**|Ritu Belani et.al.|[2212.08565v1](http://arxiv.org/abs/2212.08565v1)|null|
-|**2022-11-29**|**Abstract Visual Reasoning with Tangram Shapes**|Anya Ji et.al.|[2211.16492v1](http://arxiv.org/abs/2211.16492v1)|null|
