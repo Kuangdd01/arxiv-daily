@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-31 20:31:59
+ Automated deployment @ 2023-01-31 21:05:06
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-01-30**|**Communication Drives the Emergence of Language Universals in Neural Agents: Evidence from the Word-order/Case-marking Trade-off**|Yuchen Lian et.al.|[2301.13083v1](http://arxiv.org/abs/2301.13083v1)|null|
 |**2023-01-30**|**GE-Blender: Graph-Based Knowledge Enhancement for Blender**|Xiaolei Lian et.al.|[2301.12850v1](http://arxiv.org/abs/2301.12850v1)|null|
-|**2023-01-28**|**Bipol: Multi-axes Evaluation of Bias with Explainability in Benchmark Datasets**|Tosin Adewumi et.al.|[2301.12139v1](http://arxiv.org/abs/2301.12139v1)|null|
+|**2023-01-28**|**Bipol: Multi-axes Evaluation of Bias with Explainability in Benchmark Datasets**|Tosin Adewumi et.al.|[2301.12139v1](http://arxiv.org/abs/2301.12139v1)|[link](https://github.com/tosingithub/bipol)|
 |**2023-01-27**|**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**|Xinyi Wang et.al.|[2301.11916v1](http://arxiv.org/abs/2301.11916v1)|null|
 |**2023-01-27**|**Case-Based Reasoning with Language Models for Classification of Logical Fallacies**|Zhivar Sourati et.al.|[2301.11879v1](http://arxiv.org/abs/2301.11879v1)|null|
 |**2023-01-27**|**Factual or Biased? Predicting Sentence-Level Factuality and Bias of News**|Francielle Vargas et.al.|[2301.11850v1](http://arxiv.org/abs/2301.11850v1)|null|
@@ -42,7 +42,7 @@
 |**2023-01-29**|**Vicarious Offense and Noise Audit of Offensive Speech Classifiers**|Tharindu Cyril Weerasooriya et.al.|[2301.12534v1](http://arxiv.org/abs/2301.12534v1)|null|
 |**2023-01-28**|**MQAG: Multiple-choice Question Answering and Generation for Assessing Information Consistency in Summarization**|Potsawee Manakul et.al.|[2301.12307v1](http://arxiv.org/abs/2301.12307v1)|[link](https://github.com/potsawee/mqag0)|
 |**2023-01-28**|**Semantic Parsing for Conversational Question Answering over Knowledge Graphs**|Laura Perez-Beltrachini et.al.|[2301.12217v1](http://arxiv.org/abs/2301.12217v1)|[link](https://github.com/edinburghnlp/spice)|
-|**2023-01-28**|**Bipol: Multi-axes Evaluation of Bias with Explainability in Benchmark Datasets**|Tosin Adewumi et.al.|[2301.12139v1](http://arxiv.org/abs/2301.12139v1)|null|
+|**2023-01-28**|**Bipol: Multi-axes Evaluation of Bias with Explainability in Benchmark Datasets**|Tosin Adewumi et.al.|[2301.12139v1](http://arxiv.org/abs/2301.12139v1)|[link](https://github.com/tosingithub/bipol)|
 |**2023-01-28**|**AutoPEFT: Automatic Configuration Search for Parameter-Efficient Fine-Tuning**|Han Zhou et.al.|[2301.12132v1](http://arxiv.org/abs/2301.12132v1)|[link](https://github.com/cambridgeltl/autopeft)|
 |**2023-01-28**|**On Pre-trained Language Models for Antibody**|Danqing Wang et.al.|[2301.12112v1](http://arxiv.org/abs/2301.12112v1)|[link](https://github.com/dqwang122/eatlm)|
 |**2023-01-27**|**Understanding the Effectiveness of Very Large Language Models on Dialog Evaluation**|Jessica Huynh et.al.|[2301.12004v1](http://arxiv.org/abs/2301.12004v1)|null|
