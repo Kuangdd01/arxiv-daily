@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-03 09:25:08
+ Automated deployment @ 2023-02-03 20:31:40
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -26,15 +26,18 @@
 |**2023-01-25**|**Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems**|Gaole He et.al.|[2301.11333v1](http://arxiv.org/abs/2301.11333v1)|[link](https://github.com/richardhgl/chi2023_dke)|
 |**2023-01-25**|**Distilling Text into Circuits**|Vincent Wang-Mascianica et.al.|[2301.10595v1](http://arxiv.org/abs/2301.10595v1)|null|
 |**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
-|**2023-01-25**|**XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis**|Yingchaojie Feng et.al.|[2301.10385v1](http://arxiv.org/abs/2301.10385v1)|null|
-|**2023-01-24**|**A Stability Analysis of Fine-Tuning a Pre-Trained Model**|Zihao Fu et.al.|[2301.09820v1](http://arxiv.org/abs/2301.09820v1)|null|
-|**2023-01-23**|**Selective Explanations: Leveraging Human Input to Align Explainable AI**|Vivian Lai et.al.|[2301.09656v1](http://arxiv.org/abs/2301.09656v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-02**|**What Language Reveals about Perception: Distilling Psychophysical Knowledge from Large Language Models**|Raja Marjieh et.al.|[2302.01308v1](http://arxiv.org/abs/2302.01308v1)|null|
+|**2023-02-02**|**Combining Deep Neural Reranking and Unsupervised Extraction for Multi-Query Focused Summarization**|Philipp Seeberger et.al.|[2302.01148v1](http://arxiv.org/abs/2302.01148v1)|null|
+|**2023-02-02**|**Multimodal Chain-of-Thought Reasoning in Language Models**|Zhuosheng Zhang et.al.|[2302.00923v1](http://arxiv.org/abs/2302.00923v1)|[link](https://github.com/amazon-science/mm-cot)|
+|**2023-02-02**|**Language Quantized AutoEncoders: Towards Unsupervised Text-Image Alignment**|Hao Liu et.al.|[2302.00902v1](http://arxiv.org/abs/2302.00902v1)|null|
+|**2023-02-02**|**idT5: Indonesian Version of Multilingual T5 Transformer**|Mukhlish Fuadi et.al.|[2302.00856v1](http://arxiv.org/abs/2302.00856v1)|null|
+|**2023-02-01**|**Visually Grounded Keyword Detection and Localisation for Low-Resource Languages**|Kayode Kolawole Olaleye et.al.|[2302.00765v1](http://arxiv.org/abs/2302.00765v1)|null|
 |**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
 |**2023-02-01**|**Are UD Treebanks Getting More Consistent? A Report Card for English UD**|Amir Zeldes et.al.|[2302.00636v1](http://arxiv.org/abs/2302.00636v1)|null|
 |**2023-02-01**|**Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**|Zhihong Shao et.al.|[2302.00618v1](http://arxiv.org/abs/2302.00618v1)|null|
@@ -64,18 +67,15 @@
 |**2023-01-27**|**ThoughtSource: A central hub for large language model reasoning data**|Simon Ott et.al.|[2301.11596v1](http://arxiv.org/abs/2301.11596v1)|[link](https://github.com/openbiolink/thoughtsource)|
 |**2023-01-26**|**How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech**|Aditya Yedetore et.al.|[2301.11462v1](http://arxiv.org/abs/2301.11462v1)|null|
 |**2023-01-26**|**Understanding Finetuning for Factual Knowledge Extraction from Language Models**|Mehran Kazemi et.al.|[2301.11293v1](http://arxiv.org/abs/2301.11293v1)|null|
-|**2023-01-26**|**LAGAN: Deep Semi-Supervised Linguistic-Anthropology Classification with Conditional Generative Adversarial Neural Network**|Rossi Kamal et.al.|[2301.13853v1](http://arxiv.org/abs/2301.13853v1)|null|
-|**2023-01-26**|**Break It Down: Evidence for Structural Compositionality in Neural Networks**|Michael A. Lepori et.al.|[2301.10884v1](http://arxiv.org/abs/2301.10884v1)|null|
-|**2023-01-25**|**On the inconsistency of separable losses for structured prediction**|Caio Corro et.al.|[2301.10810v1](http://arxiv.org/abs/2301.10810v1)|null|
-|**2023-01-25**|**Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering**|Chenxi Whitehouse et.al.|[2301.10799v1](http://arxiv.org/abs/2301.10799v1)|null|
-|**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
-|**2023-01-25**|**Multi-Tenant Optimization For Few-Shot Task-Oriented FAQ Retrieval**|Asha Vishwanathan et.al.|[2301.10517v1](http://arxiv.org/abs/2301.10517v1)|[link](https://github.com/verloop/few-shot-faqir)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-02**|**Double Permutation Equivariance for Knowledge Graph Completion**|Jianfei Gao et.al.|[2302.01313v1](http://arxiv.org/abs/2302.01313v1)|null|
+|**2023-02-02**|**Multimodal Chain-of-Thought Reasoning in Language Models**|Zhuosheng Zhang et.al.|[2302.00923v1](http://arxiv.org/abs/2302.00923v1)|[link](https://github.com/amazon-science/mm-cot)|
+|**2023-02-01**|**Collaborating with language models for embodied reasoning**|Ishita Dasgupta et.al.|[2302.00763v1](http://arxiv.org/abs/2302.00763v1)|null|
 |**2023-02-01**|**Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**|Zhihong Shao et.al.|[2302.00618v1](http://arxiv.org/abs/2302.00618v1)|null|
 |**2023-02-01**|**Zero Shot Transfer of Legal Judgement Prediction as Article-aware Entailment for the European Court of Human Rights**|Santosh T. Y. S. S et.al.|[2302.00609v1](http://arxiv.org/abs/2302.00609v1)|null|
 |**2023-02-01**|**An Empirical Study on the Transferability of Transformer Modules in Parameter-Efficient Fine-Tuning**|Mohammad AkbarTajari et.al.|[2302.00378v1](http://arxiv.org/abs/2302.00378v1)|null|
@@ -93,6 +93,7 @@
 |**2023-01-30**|**ChatGPT or Human? Detect and Explain. Explaining Decisions of Machine Learning Model for Detecting Short ChatGPT-generated Text**|Sandra Mitrović et.al.|[2301.13852v1](http://arxiv.org/abs/2301.13852v1)|null|
 |**2023-01-30**|**Evaluating Neuron Interpretation Methods of NLP Models**|Yimin Fan et.al.|[2301.12608v1](http://arxiv.org/abs/2301.12608v1)|[link](https://github.com/fdalvi/neuron-comparative-analysis)|
 |**2023-01-29**|**Physarum Inspired Bicycle Lane Network Design in a Congested Mega City**|Md. Ahsan Habib et.al.|[2301.13609v1](http://arxiv.org/abs/2301.13609v1)|null|
+|**2023-01-28**|**How learners produce data from text in classifying clickbait**|Nicholas J. Horton et.al.|[2302.01292v1](http://arxiv.org/abs/2302.01292v1)|null|
 |**2023-01-27**|**Case-Based Reasoning with Language Models for Classification of Logical Fallacies**|Zhivar Sourati et.al.|[2301.11879v1](http://arxiv.org/abs/2301.11879v1)|null|
 |**2023-01-27**|**Learning the Effects of Physical Actions in a Multi-modal Environment**|Gautier Dagan et.al.|[2301.11845v1](http://arxiv.org/abs/2301.11845v1)|[link](https://github.com/gautierdag/piglet-vis)|
 |**2023-01-27**|**Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking**|Mubashara Akhtar et.al.|[2301.11843v1](http://arxiv.org/abs/2301.11843v1)|null|
@@ -214,5 +215,3 @@
 |**2022-12-08**|**Successive Prompting for Decomposing Complex Questions**|Dheeru Dua et.al.|[2212.04092v1](http://arxiv.org/abs/2212.04092v1)|null|
 |**2022-12-07**|**Harnessing Knowledge and Reasoning for Human-Like Natural Language Generation: A Brief Review**|Jiangjie Chen et.al.|[2212.03747v1](http://arxiv.org/abs/2212.03747v1)|null|
 |**2022-12-07**|**A Generative Approach for Script Event Prediction via Contrastive Fine-tuning**|Fangqi Zhu et.al.|[2212.03496v3](http://arxiv.org/abs/2212.03496v3)|[link](https://github.com/zhufq00/mcnc)|
-|**2022-12-06**|**Counterfactual reasoning: Do language models need world knowledge for causal understanding?**|Jiaxuan Li et.al.|[2212.03278v1](http://arxiv.org/abs/2212.03278v1)|[link](https://github.com/goldengua/counterfactual_inference_lm)|
-|**2022-12-06**|**LawngNLI: A Long-Premise Benchmark for In-Domain Generalization from Short to Long Contexts and for Implication-Based Retrieval**|William Bruno et.al.|[2212.03222v1](http://arxiv.org/abs/2212.03222v1)|[link](https://github.com/wbrun0/LawngNLI)|
