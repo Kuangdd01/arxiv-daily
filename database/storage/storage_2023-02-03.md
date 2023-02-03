@@ -1,31 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2023-02-03 20:31:40
+ Automated deployment @ 2023-02-03 21:00:18
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-01**|**KNNs of Semantic Encodings for Rating Prediction**|Léo Laugier et.al.|[2302.00412v1](http://arxiv.org/abs/2302.00412v1)|null|
-|**2023-02-01**|**On the Role of Morphological Information for Contextual Lemmatization**|Olia Toporkov et.al.|[2302.00407v1](http://arxiv.org/abs/2302.00407v1)|null|
-|**2023-01-31**|**Universal Topological Regularities of Syntactic Structures: Decoupling Efficiency from Optimization**|Fermín Moscoso del Prado Martín et.al.|[2302.00129v1](http://arxiv.org/abs/2302.00129v1)|null|
-|**2023-01-31**|**Numeracy from Literacy: Data Science as an Emergent Skill from Large Language Models**|David Noever et.al.|[2301.13382v1](http://arxiv.org/abs/2301.13382v1)|null|
-|**2023-01-30**|**Communication Drives the Emergence of Language Universals in Neural Agents: Evidence from the Word-order/Case-marking Trade-off**|Yuchen Lian et.al.|[2301.13083v1](http://arxiv.org/abs/2301.13083v1)|null|
-|**2023-01-30**|**GE-Blender: Graph-Based Knowledge Enhancement for Blender**|Xiaolei Lian et.al.|[2301.12850v1](http://arxiv.org/abs/2301.12850v1)|null|
-|**2023-01-30**|**ChatGPT or Human? Detect and Explain. Explaining Decisions of Machine Learning Model for Detecting Short ChatGPT-generated Text**|Sandra Mitrović et.al.|[2301.13852v1](http://arxiv.org/abs/2301.13852v1)|null|
-|**2023-01-28**|**Bipol: Multi-axes Evaluation of Bias with Explainability in Benchmark Datasets**|Tosin Adewumi et.al.|[2301.12139v1](http://arxiv.org/abs/2301.12139v1)|[link](https://github.com/tosingithub/bipol)|
-|**2023-01-27**|**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**|Xinyi Wang et.al.|[2301.11916v1](http://arxiv.org/abs/2301.11916v1)|[link](https://github.com/wangxinyilinda/concept-based-demonstration-selection)|
-|**2023-01-27**|**Case-Based Reasoning with Language Models for Classification of Logical Fallacies**|Zhivar Sourati et.al.|[2301.11879v1](http://arxiv.org/abs/2301.11879v1)|null|
-|**2023-01-27**|**Factual or Biased? Predicting Sentence-Level Factuality and Bias of News**|Francielle Vargas et.al.|[2301.11850v1](http://arxiv.org/abs/2301.11850v1)|null|
-|**2023-01-26**|**Task formulation for Extracting Social Determinants of Health from Clinical Narratives**|Manabu Torii et.al.|[2301.11386v1](http://arxiv.org/abs/2301.11386v1)|null|
-|**2023-01-26**|**NLP as a Lens for Causal Analysis and Perception Mining to Infer Mental Health on Social Media**|Muskan Garg et.al.|[2301.11004v4](http://arxiv.org/abs/2301.11004v4)|null|
-|**2023-01-25**|**Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering**|Chenxi Whitehouse et.al.|[2301.10799v1](http://arxiv.org/abs/2301.10799v1)|null|
-|**2023-01-25**|**Explaining Large Language Model-Based Neural Semantic Parsers (Student Abstract)**|Daking Rai et.al.|[2301.13820v1](http://arxiv.org/abs/2301.13820v1)|null|
-|**2023-01-25**|**Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems**|Gaole He et.al.|[2301.11333v1](http://arxiv.org/abs/2301.11333v1)|[link](https://github.com/richardhgl/chi2023_dke)|
-|**2023-01-25**|**Distilling Text into Circuits**|Vincent Wang-Mascianica et.al.|[2301.10595v1](http://arxiv.org/abs/2301.10595v1)|null|
-|**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
 
 ## Question Answering
 
@@ -67,6 +43,30 @@
 |**2023-01-27**|**ThoughtSource: A central hub for large language model reasoning data**|Simon Ott et.al.|[2301.11596v1](http://arxiv.org/abs/2301.11596v1)|[link](https://github.com/openbiolink/thoughtsource)|
 |**2023-01-26**|**How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech**|Aditya Yedetore et.al.|[2301.11462v1](http://arxiv.org/abs/2301.11462v1)|null|
 |**2023-01-26**|**Understanding Finetuning for Factual Knowledge Extraction from Language Models**|Mehran Kazemi et.al.|[2301.11293v1](http://arxiv.org/abs/2301.11293v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-01**|**KNNs of Semantic Encodings for Rating Prediction**|Léo Laugier et.al.|[2302.00412v1](http://arxiv.org/abs/2302.00412v1)|null|
+|**2023-02-01**|**On the Role of Morphological Information for Contextual Lemmatization**|Olia Toporkov et.al.|[2302.00407v1](http://arxiv.org/abs/2302.00407v1)|null|
+|**2023-01-31**|**Universal Topological Regularities of Syntactic Structures: Decoupling Efficiency from Optimization**|Fermín Moscoso del Prado Martín et.al.|[2302.00129v1](http://arxiv.org/abs/2302.00129v1)|null|
+|**2023-01-31**|**Numeracy from Literacy: Data Science as an Emergent Skill from Large Language Models**|David Noever et.al.|[2301.13382v1](http://arxiv.org/abs/2301.13382v1)|null|
+|**2023-01-30**|**Communication Drives the Emergence of Language Universals in Neural Agents: Evidence from the Word-order/Case-marking Trade-off**|Yuchen Lian et.al.|[2301.13083v1](http://arxiv.org/abs/2301.13083v1)|null|
+|**2023-01-30**|**GE-Blender: Graph-Based Knowledge Enhancement for Blender**|Xiaolei Lian et.al.|[2301.12850v1](http://arxiv.org/abs/2301.12850v1)|null|
+|**2023-01-30**|**ChatGPT or Human? Detect and Explain. Explaining Decisions of Machine Learning Model for Detecting Short ChatGPT-generated Text**|Sandra Mitrović et.al.|[2301.13852v1](http://arxiv.org/abs/2301.13852v1)|null|
+|**2023-01-28**|**Bipol: Multi-axes Evaluation of Bias with Explainability in Benchmark Datasets**|Tosin Adewumi et.al.|[2301.12139v1](http://arxiv.org/abs/2301.12139v1)|[link](https://github.com/tosingithub/bipol)|
+|**2023-01-27**|**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**|Xinyi Wang et.al.|[2301.11916v1](http://arxiv.org/abs/2301.11916v1)|[link](https://github.com/wangxinyilinda/concept-based-demonstration-selection)|
+|**2023-01-27**|**Case-Based Reasoning with Language Models for Classification of Logical Fallacies**|Zhivar Sourati et.al.|[2301.11879v1](http://arxiv.org/abs/2301.11879v1)|null|
+|**2023-01-27**|**Factual or Biased? Predicting Sentence-Level Factuality and Bias of News**|Francielle Vargas et.al.|[2301.11850v1](http://arxiv.org/abs/2301.11850v1)|null|
+|**2023-01-26**|**Task formulation for Extracting Social Determinants of Health from Clinical Narratives**|Manabu Torii et.al.|[2301.11386v1](http://arxiv.org/abs/2301.11386v1)|null|
+|**2023-01-26**|**NLP as a Lens for Causal Analysis and Perception Mining to Infer Mental Health on Social Media**|Muskan Garg et.al.|[2301.11004v4](http://arxiv.org/abs/2301.11004v4)|null|
+|**2023-01-25**|**Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering**|Chenxi Whitehouse et.al.|[2301.10799v1](http://arxiv.org/abs/2301.10799v1)|null|
+|**2023-01-25**|**Explaining Large Language Model-Based Neural Semantic Parsers (Student Abstract)**|Daking Rai et.al.|[2301.13820v1](http://arxiv.org/abs/2301.13820v1)|null|
+|**2023-01-25**|**Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems**|Gaole He et.al.|[2301.11333v1](http://arxiv.org/abs/2301.11333v1)|[link](https://github.com/richardhgl/chi2023_dke)|
+|**2023-01-25**|**Distilling Text into Circuits**|Vincent Wang-Mascianica et.al.|[2301.10595v1](http://arxiv.org/abs/2301.10595v1)|null|
+|**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
 
 ## Reasoning
 
