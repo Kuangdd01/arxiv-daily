@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-06 09:20:03
+ Automated deployment @ 2023-02-06 20:32:42
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-03**|**Lexical Simplification using multi level and modular approach**|Nikita Katyal et.al.|[2302.01823v1](http://arxiv.org/abs/2302.01823v1)|null|
 |**2023-02-01**|**KNNs of Semantic Encodings for Rating Prediction**|Léo Laugier et.al.|[2302.00412v1](http://arxiv.org/abs/2302.00412v1)|null|
 |**2023-02-01**|**On the Role of Morphological Information for Contextual Lemmatization**|Olia Toporkov et.al.|[2302.00407v1](http://arxiv.org/abs/2302.00407v1)|null|
 |**2023-01-31**|**Universal Topological Regularities of Syntactic Structures: Decoupling Efficiency from Optimization**|Fermín Moscoso del Prado Martín et.al.|[2302.00129v1](http://arxiv.org/abs/2302.00129v1)|null|
@@ -20,23 +21,21 @@
 |**2023-01-27**|**Case-Based Reasoning with Language Models for Classification of Logical Fallacies**|Zhivar Sourati et.al.|[2301.11879v1](http://arxiv.org/abs/2301.11879v1)|null|
 |**2023-01-27**|**Factual or Biased? Predicting Sentence-Level Factuality and Bias of News**|Francielle Vargas et.al.|[2301.11850v1](http://arxiv.org/abs/2301.11850v1)|null|
 |**2023-01-26**|**Task formulation for Extracting Social Determinants of Health from Clinical Narratives**|Manabu Torii et.al.|[2301.11386v1](http://arxiv.org/abs/2301.11386v1)|null|
-|**2023-01-26**|**NLP as a Lens for Causal Analysis and Perception Mining to Infer Mental Health on Social Media**|Muskan Garg et.al.|[2301.11004v4](http://arxiv.org/abs/2301.11004v4)|null|
-|**2023-01-25**|**Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering**|Chenxi Whitehouse et.al.|[2301.10799v1](http://arxiv.org/abs/2301.10799v1)|null|
-|**2023-01-25**|**Explaining Large Language Model-Based Neural Semantic Parsers (Student Abstract)**|Daking Rai et.al.|[2301.13820v1](http://arxiv.org/abs/2301.13820v1)|null|
-|**2023-01-25**|**Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems**|Gaole He et.al.|[2301.11333v1](http://arxiv.org/abs/2301.11333v1)|[link](https://github.com/richardhgl/chi2023_dke)|
-|**2023-01-25**|**Distilling Text into Circuits**|Vincent Wang-Mascianica et.al.|[2301.10595v1](http://arxiv.org/abs/2301.10595v1)|null|
-|**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-03**|**Mitigating Data Scarcity for Large Language Models**|Hoang Van et.al.|[2302.01806v1](http://arxiv.org/abs/2302.01806v1)|[link](https://github.com/vanh17/techqa)|
+|**2023-02-03**|**LIQUID: A Framework for List Question Answering Dataset Generation**|Seongyun Lee et.al.|[2302.01691v1](http://arxiv.org/abs/2302.01691v1)|[link](https://github.com/dmis-lab/liquid)|
+|**2023-02-03**|**Bioformer: an efficient transformer language model for biomedical text mining**|Li Fang et.al.|[2302.01588v1](http://arxiv.org/abs/2302.01588v1)|null|
 |**2023-02-02**|**What Language Reveals about Perception: Distilling Psychophysical Knowledge from Large Language Models**|Raja Marjieh et.al.|[2302.01308v1](http://arxiv.org/abs/2302.01308v1)|null|
 |**2023-02-02**|**Combining Deep Neural Reranking and Unsupervised Extraction for Multi-Query Focused Summarization**|Philipp Seeberger et.al.|[2302.01148v1](http://arxiv.org/abs/2302.01148v1)|null|
 |**2023-02-02**|**Multimodal Chain-of-Thought Reasoning in Language Models**|Zhuosheng Zhang et.al.|[2302.00923v1](http://arxiv.org/abs/2302.00923v1)|[link](https://github.com/amazon-science/mm-cot)|
 |**2023-02-02**|**Language Quantized AutoEncoders: Towards Unsupervised Text-Image Alignment**|Hao Liu et.al.|[2302.00902v2](http://arxiv.org/abs/2302.00902v2)|null|
 |**2023-02-02**|**idT5: Indonesian Version of Multilingual T5 Transformer**|Mukhlish Fuadi et.al.|[2302.00856v1](http://arxiv.org/abs/2302.00856v1)|null|
+|**2023-02-02**|**Creating a Large Language Model of a Philosopher**|Eric Schwitzgebel et.al.|[2302.01339v1](http://arxiv.org/abs/2302.01339v1)|null|
 |**2023-02-01**|**Visually Grounded Keyword Detection and Localisation for Low-Resource Languages**|Kayode Kolawole Olaleye et.al.|[2302.00765v1](http://arxiv.org/abs/2302.00765v1)|null|
 |**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
 |**2023-02-01**|**Are UD Treebanks Getting More Consistent? A Report Card for English UD**|Amir Zeldes et.al.|[2302.00636v1](http://arxiv.org/abs/2302.00636v1)|null|
@@ -60,19 +59,13 @@
 |**2023-01-28**|**Bipol: Multi-axes Evaluation of Bias with Explainability in Benchmark Datasets**|Tosin Adewumi et.al.|[2301.12139v1](http://arxiv.org/abs/2301.12139v1)|[link](https://github.com/tosingithub/bipol)|
 |**2023-01-28**|**AutoPEFT: Automatic Configuration Search for Parameter-Efficient Fine-Tuning**|Han Zhou et.al.|[2301.12132v1](http://arxiv.org/abs/2301.12132v1)|[link](https://github.com/cambridgeltl/autopeft)|
 |**2023-01-28**|**On Pre-trained Language Models for Antibody**|Danqing Wang et.al.|[2301.12112v1](http://arxiv.org/abs/2301.12112v1)|[link](https://github.com/dqwang122/eatlm)|
-|**2023-01-27**|**Understanding the Effectiveness of Very Large Language Models on Dialog Evaluation**|Jessica Huynh et.al.|[2301.12004v1](http://arxiv.org/abs/2301.12004v1)|null|
-|**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|[link](https://github.com/luoyuanlab/clinical-longformer)|
-|**2023-01-27**|**Graph Attention with Hierarchies for Multi-hop Question Answering**|Yunjie He et.al.|[2301.11792v1](http://arxiv.org/abs/2301.11792v1)|null|
-|**2023-01-27**|**Can We Use Probing to Better Understand Fine-tuning and Knowledge Distillation of the BERT NLU?**|Jakub Hościłowicz et.al.|[2301.11688v1](http://arxiv.org/abs/2301.11688v1)|null|
-|**2023-01-27**|**ThoughtSource: A central hub for large language model reasoning data**|Simon Ott et.al.|[2301.11596v1](http://arxiv.org/abs/2301.11596v1)|[link](https://github.com/openbiolink/thoughtsource)|
-|**2023-01-26**|**How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech**|Aditya Yedetore et.al.|[2301.11462v1](http://arxiv.org/abs/2301.11462v1)|null|
-|**2023-01-26**|**Understanding Finetuning for Factual Knowledge Extraction from Language Models**|Mehran Kazemi et.al.|[2301.11293v1](http://arxiv.org/abs/2301.11293v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-03**|**Using natural language processing and structured medical data to phenotype patients hospitalized due to COVID-19**|Feier Chang et.al.|[2302.01536v1](http://arxiv.org/abs/2302.01536v1)|null|
 |**2023-02-02**|**Double Permutation Equivariance for Knowledge Graph Completion**|Jianfei Gao et.al.|[2302.01313v1](http://arxiv.org/abs/2302.01313v1)|null|
 |**2023-02-02**|**Multimodal Chain-of-Thought Reasoning in Language Models**|Zhuosheng Zhang et.al.|[2302.00923v1](http://arxiv.org/abs/2302.00923v1)|[link](https://github.com/amazon-science/mm-cot)|
 |**2023-02-01**|**Collaborating with language models for embodied reasoning**|Ishita Dasgupta et.al.|[2302.00763v1](http://arxiv.org/abs/2302.00763v1)|null|
@@ -213,5 +206,3 @@
 |**2022-12-08**|**BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation**|Dong An et.al.|[2212.04385v1](http://arxiv.org/abs/2212.04385v1)|null|
 |**2022-12-08**|**Implicit causality in GPT-2: a case study**|Hien Huynh et.al.|[2212.04348v1](http://arxiv.org/abs/2212.04348v1)|null|
 |**2022-12-08**|**Successive Prompting for Decomposing Complex Questions**|Dheeru Dua et.al.|[2212.04092v1](http://arxiv.org/abs/2212.04092v1)|null|
-|**2022-12-07**|**Harnessing Knowledge and Reasoning for Human-Like Natural Language Generation: A Brief Review**|Jiangjie Chen et.al.|[2212.03747v1](http://arxiv.org/abs/2212.03747v1)|null|
-|**2022-12-07**|**A Generative Approach for Script Event Prediction via Contrastive Fine-tuning**|Fangqi Zhu et.al.|[2212.03496v3](http://arxiv.org/abs/2212.03496v3)|[link](https://github.com/zhufq00/mcnc)|
