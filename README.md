@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-08 09:27:55
+ Automated deployment @ 2023-02-08 20:32:48
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -14,16 +14,17 @@
 |**2023-02-01**|**On the Role of Morphological Information for Contextual Lemmatization**|Olia Toporkov et.al.|[2302.00407v1](http://arxiv.org/abs/2302.00407v1)|null|
 |**2023-01-31**|**Universal Topological Regularities of Syntactic Structures: Decoupling Efficiency from Optimization**|Fermín Moscoso del Prado Martín et.al.|[2302.00129v1](http://arxiv.org/abs/2302.00129v1)|null|
 |**2023-01-31**|**Numeracy from Literacy: Data Science as an Emergent Skill from Large Language Models**|David Noever et.al.|[2301.13382v1](http://arxiv.org/abs/2301.13382v1)|null|
-|**2023-01-30**|**Communication Drives the Emergence of Language Universals in Neural Agents: Evidence from the Word-order/Case-marking Trade-off**|Yuchen Lian et.al.|[2301.13083v1](http://arxiv.org/abs/2301.13083v1)|null|
-|**2023-01-30**|**GE-Blender: Graph-Based Knowledge Enhancement for Blender**|Xiaolei Lian et.al.|[2301.12850v1](http://arxiv.org/abs/2301.12850v1)|null|
-|**2023-01-30**|**ChatGPT or Human? Detect and Explain. Explaining Decisions of Machine Learning Model for Detecting Short ChatGPT-generated Text**|Sandra Mitrović et.al.|[2301.13852v1](http://arxiv.org/abs/2301.13852v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-07**|**Efficiently Upgrading Multilingual Machine Translation Models to Support More Languages**|Simeng Sun et.al.|[2302.03528v1](http://arxiv.org/abs/2302.03528v1)|null|
+|**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v1](http://arxiv.org/abs/2302.03512v1)|null|
+|**2023-02-06**|**Techniques to Improve Neural Math Word Problem Solvers**|Youyuan Zhang et.al.|[2302.03145v1](http://arxiv.org/abs/2302.03145v1)|[link](https://github.com/sophistz/question-aware-deductive-mwp)|
 |**2023-02-06**|**Less is More: Understanding Word-level Textual Adversarial Attack via n-gram Frequency Descend**|Ning Lu et.al.|[2302.02568v2](http://arxiv.org/abs/2302.02568v2)|null|
+|**2023-02-06**|**A Categorical Archive of ChatGPT Failures**|Ali Borji et.al.|[2302.03494v1](http://arxiv.org/abs/2302.03494v1)|null|
 |**2023-02-04**|**Construction Grammar Provides Unique Insight into Neural Language Models**|Leonie Weissweiler et.al.|[2302.02178v1](http://arxiv.org/abs/2302.02178v1)|null|
 |**2023-02-04**|**Invariants for neural automata**|Jone Uria-Albizuri et.al.|[2302.02149v1](http://arxiv.org/abs/2302.02149v1)|[link](https://github.com/TuringMachinegun/Turing_Neural_Networks)|
 |**2023-02-04**|**Lived Experience Matters: Automatic Detection of Stigma toward People Who Use Substances on Social Media**|Salvatore Giorgi et.al.|[2302.02064v1](http://arxiv.org/abs/2302.02064v1)|null|
@@ -48,16 +49,14 @@
 |**2023-01-31**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shi et.al.|[2301.13741v1](http://arxiv.org/abs/2301.13741v1)|null|
 |**2023-01-31**|**Faithful Chain-of-Thought Reasoning**|Qing Lyu et.al.|[2301.13379v2](http://arxiv.org/abs/2301.13379v2)|[link](https://github.com/veronica320/faithful-cot)|
 |**2023-01-31**|**The Power of External Memory in Increasing Predictive Model Capacity**|Cenk Baykal et.al.|[2302.00003v1](http://arxiv.org/abs/2302.00003v1)|null|
-|**2023-01-30**|**Can an AI Win Ghana's National Science and Maths Quiz? An AI Grand Challenge for Education**|George Boateng et.al.|[2301.13089v1](http://arxiv.org/abs/2301.13089v1)|null|
-|**2023-01-30**|**On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex**|Terry Yue Zhuo et.al.|[2301.12868v2](http://arxiv.org/abs/2301.12868v2)|null|
-|**2023-01-30**|**Finding the Law: Enhancing Statutory Article Retrieval via Graph Neural Networks**|Antoine Louis et.al.|[2301.12847v1](http://arxiv.org/abs/2301.12847v1)|[link](https://github.com/maastrichtlawtech/gdsr)|
-|**2023-01-30**|**ChatGPT or Human? Detect and Explain. Explaining Decisions of Machine Learning Model for Detecting Short ChatGPT-generated Text**|Sandra Mitrović et.al.|[2301.13852v1](http://arxiv.org/abs/2301.13852v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-06**|**Techniques to Improve Neural Math Word Problem Solvers**|Youyuan Zhang et.al.|[2302.03145v1](http://arxiv.org/abs/2302.03145v1)|[link](https://github.com/sophistz/question-aware-deductive-mwp)|
+|**2023-02-06**|**A Categorical Archive of ChatGPT Failures**|Ali Borji et.al.|[2302.03494v1](http://arxiv.org/abs/2302.03494v1)|null|
 |**2023-02-04**|**How Many and Which Training Points Would Need to be Removed to Flip this Prediction?**|Jinghan Yang et.al.|[2302.02169v1](http://arxiv.org/abs/2302.02169v1)|[link](https://github.com/ecielyang/smallest_set)|
 |**2023-02-04**|**Knowledge Graph Completion Method Combined With Adaptive Enhanced Semantic Information**|Weidong Ji et.al.|[2302.02116v1](http://arxiv.org/abs/2302.02116v1)|null|
 |**2023-02-03**|**CAB: Empathetic Dialogue Generation with Cognition, Affection and Behavior**|Pan Gao et.al.|[2302.01935v1](http://arxiv.org/abs/2302.01935v1)|null|
@@ -198,4 +197,3 @@
 |**2022-12-12**|**Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue**|Sunjae Yoon et.al.|[2212.05765v1](http://arxiv.org/abs/2212.05765v1)|null|
 |**2022-12-11**|**Multimodal and Explainable Internet Meme Classification**|Abhinav Kumar Thakur et.al.|[2212.05612v2](http://arxiv.org/abs/2212.05612v2)|null|
 |**2022-12-10**|**Punctuation Restoration for Singaporean Spoken Languages: English, Malay, and Mandarin**|Abhinav Rao et.al.|[2212.05356v1](http://arxiv.org/abs/2212.05356v1)|[link](https://github.com/aetherprior/multilingual-sentence-boundary-detection)|
-|**2022-12-10**|**MAPS-KB: A Million-scale Probabilistic Simile Knowledge Base**|Qianyu He et.al.|[2212.05254v1](http://arxiv.org/abs/2212.05254v1)|[link](https://github.com/abbey4799/maps-kb)|
