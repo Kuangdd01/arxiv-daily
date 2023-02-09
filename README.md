@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-09 09:22:17
+ Automated deployment @ 2023-02-09 20:34:42
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,18 +8,22 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-08**|**Diagnosing and Rectifying Vision Models using Language**|Yuhui Zhang et.al.|[2302.04269v1](http://arxiv.org/abs/2302.04269v1)|[link](https://github.com/yuhui-zh15/drml)|
+|**2023-02-08**|**Training-free Lexical Backdoor Attacks on Language Models**|Yujin Huang et.al.|[2302.04116v1](http://arxiv.org/abs/2302.04116v1)|[link](https://github.com/jinxhy/tflexattack)|
+|**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v1](http://arxiv.org/abs/2302.03780v1)|null|
+|**2023-02-07**|**What Matters In The Structured Pruning of Generative Language Models?**|Michael Santacroce et.al.|[2302.03773v1](http://arxiv.org/abs/2302.03773v1)|null|
 |**2023-02-04**|**A New cross-domain strategy based XAI models for fake news detection**|Deepak Kanneganti et.al.|[2302.02122v1](http://arxiv.org/abs/2302.02122v1)|null|
 |**2023-02-03**|**Lexical Simplification using multi level and modular approach**|Nikita Katyal et.al.|[2302.01823v1](http://arxiv.org/abs/2302.01823v1)|null|
 |**2023-02-01**|**KNNs of Semantic Encodings for Rating Prediction**|Léo Laugier et.al.|[2302.00412v1](http://arxiv.org/abs/2302.00412v1)|null|
 |**2023-02-01**|**On the Role of Morphological Information for Contextual Lemmatization**|Olia Toporkov et.al.|[2302.00407v1](http://arxiv.org/abs/2302.00407v1)|null|
 |**2023-01-31**|**Universal Topological Regularities of Syntactic Structures: Decoupling Efficiency from Optimization**|Fermín Moscoso del Prado Martín et.al.|[2302.00129v1](http://arxiv.org/abs/2302.00129v1)|null|
-|**2023-01-31**|**Numeracy from Literacy: Data Science as an Emergent Skill from Large Language Models**|David Noever et.al.|[2301.13382v1](http://arxiv.org/abs/2301.13382v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v1](http://arxiv.org/abs/2302.03780v1)|null|
 |**2023-02-07**|**Efficiently Upgrading Multilingual Machine Translation Models to Support More Languages**|Simeng Sun et.al.|[2302.03528v1](http://arxiv.org/abs/2302.03528v1)|null|
 |**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
 |**2023-02-06**|**Techniques to Improve Neural Math Word Problem Solvers**|Youyuan Zhang et.al.|[2302.03145v1](http://arxiv.org/abs/2302.03145v1)|[link](https://github.com/sophistz/question-aware-deductive-mwp)|
@@ -47,14 +51,16 @@
 |**2023-01-31**|**Mathematical Capabilities of ChatGPT**|Simon Frieder et.al.|[2301.13867v1](http://arxiv.org/abs/2301.13867v1)|null|
 |**2023-01-31**|**Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**|Yunhu Ye et.al.|[2301.13808v1](http://arxiv.org/abs/2301.13808v1)|null|
 |**2023-01-31**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shi et.al.|[2301.13741v1](http://arxiv.org/abs/2301.13741v1)|null|
-|**2023-01-31**|**Faithful Chain-of-Thought Reasoning**|Qing Lyu et.al.|[2301.13379v2](http://arxiv.org/abs/2301.13379v2)|[link](https://github.com/veronica320/faithful-cot)|
-|**2023-01-31**|**The Power of External Memory in Increasing Predictive Model Capacity**|Cenk Baykal et.al.|[2302.00003v1](http://arxiv.org/abs/2302.00003v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-08**|**Efficient Joint Learning for Clinical Named Entity Recognition and Relation Extraction Using Fourier Networks: A Use Case in Adverse Drug Events**|Anthony Yazdani et.al.|[2302.04185v1](http://arxiv.org/abs/2302.04185v1)|[link](https://github.com/ds4dh/jnrf)|
+|**2023-02-08**|**Prompting for Multimodal Hateful Meme Classification**|Rui Cao et.al.|[2302.04156v1](http://arxiv.org/abs/2302.04156v1)|null|
+|**2023-02-08**|**A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**|Yejin Bang et.al.|[2302.04023v1](http://arxiv.org/abs/2302.04023v1)|null|
+|**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v1](http://arxiv.org/abs/2302.03780v1)|null|
 |**2023-02-06**|**Techniques to Improve Neural Math Word Problem Solvers**|Youyuan Zhang et.al.|[2302.03145v1](http://arxiv.org/abs/2302.03145v1)|[link](https://github.com/sophistz/question-aware-deductive-mwp)|
 |**2023-02-06**|**A Categorical Archive of ChatGPT Failures**|Ali Borji et.al.|[2302.03494v1](http://arxiv.org/abs/2302.03494v1)|null|
 |**2023-02-04**|**How Many and Which Training Points Would Need to be Removed to Flip this Prediction?**|Jinghan Yang et.al.|[2302.02169v1](http://arxiv.org/abs/2302.02169v1)|[link](https://github.com/ecielyang/smallest_set)|
@@ -193,7 +199,3 @@
 |**2022-12-13**|**Category Theory for Quantum Natural Language Processing**|Alexis Toumi et.al.|[2212.06615v1](http://arxiv.org/abs/2212.06615v1)|[link](https://github.com/toumix/thesis)|
 |**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
 |**2022-12-12**|**Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments**|Zhivar Sourati et.al.|[2212.07425v2](http://arxiv.org/abs/2212.07425v2)|[link](https://github.com/usc-isi-i2/logical-fallacy-identification)|
-|**2022-12-12**|**Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**|Ke Liang et.al.|[2212.05767v5](http://arxiv.org/abs/2212.05767v5)|[link](https://github.com/liangke23/awesome-knowledge-graph-reasoning)|
-|**2022-12-12**|**Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue**|Sunjae Yoon et.al.|[2212.05765v1](http://arxiv.org/abs/2212.05765v1)|null|
-|**2022-12-11**|**Multimodal and Explainable Internet Meme Classification**|Abhinav Kumar Thakur et.al.|[2212.05612v2](http://arxiv.org/abs/2212.05612v2)|null|
-|**2022-12-10**|**Punctuation Restoration for Singaporean Spoken Languages: English, Malay, and Mandarin**|Abhinav Rao et.al.|[2212.05356v1](http://arxiv.org/abs/2212.05356v1)|[link](https://github.com/aetherprior/multilingual-sentence-boundary-detection)|
