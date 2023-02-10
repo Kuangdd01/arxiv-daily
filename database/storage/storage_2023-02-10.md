@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-10 09:26:23
+ Automated deployment @ 2023-02-10 20:32:00
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,21 +8,25 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-09**|**FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning**|Yucheng Li et.al.|[2302.04834v1](http://arxiv.org/abs/2302.04834v1)|null|
+|**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
+|**2023-02-09**|**NLP-based Decision Support System for Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank**|Christian Hänig et.al.|[2302.04562v1](http://arxiv.org/abs/2302.04562v1)|null|
 |**2023-02-08**|**Diagnosing and Rectifying Vision Models using Language**|Yuhui Zhang et.al.|[2302.04269v1](http://arxiv.org/abs/2302.04269v1)|[link](https://github.com/yuhui-zh15/drml)|
 |**2023-02-08**|**Training-free Lexical Backdoor Attacks on Language Models**|Yujin Huang et.al.|[2302.04116v1](http://arxiv.org/abs/2302.04116v1)|[link](https://github.com/jinxhy/tflexattack)|
 |**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v1](http://arxiv.org/abs/2302.03780v1)|null|
 |**2023-02-07**|**What Matters In The Structured Pruning of Generative Language Models?**|Michael Santacroce et.al.|[2302.03773v1](http://arxiv.org/abs/2302.03773v1)|null|
 |**2023-02-04**|**A New cross-domain strategy based XAI models for fake news detection**|Deepak Kanneganti et.al.|[2302.02122v1](http://arxiv.org/abs/2302.02122v1)|null|
 |**2023-02-03**|**Lexical Simplification using multi level and modular approach**|Nikita Katyal et.al.|[2302.01823v1](http://arxiv.org/abs/2302.01823v1)|null|
-|**2023-02-01**|**KNNs of Semantic Encodings for Rating Prediction**|Léo Laugier et.al.|[2302.00412v1](http://arxiv.org/abs/2302.00412v1)|null|
-|**2023-02-01**|**On the Role of Morphological Information for Contextual Lemmatization**|Olia Toporkov et.al.|[2302.00407v1](http://arxiv.org/abs/2302.00407v1)|null|
-|**2023-01-31**|**Universal Topological Regularities of Syntactic Structures: Decoupling Efficiency from Optimization**|Fermín Moscoso del Prado Martín et.al.|[2302.00129v1](http://arxiv.org/abs/2302.00129v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-09**|**Learning by Asking for Embodied Visual Navigation and Task Completion**|Ying Shen et.al.|[2302.04865v1](http://arxiv.org/abs/2302.04865v1)|[link](https://github.com/plan-lab/elba)|
+|**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
+|**2023-02-09**|**Augmenting NLP data to counter Annotation Artifacts for NLI Tasks**|Armaan Singh Bhullar et.al.|[2302.04700v1](http://arxiv.org/abs/2302.04700v1)|null|
+|**2023-02-09**|**Robust Question Answering against Distribution Shifts with Test-Time Adaptation: An Empirical Study**|Hai Ye et.al.|[2302.04618v1](http://arxiv.org/abs/2302.04618v1)|[link](https://github.com/oceanypt/coldqa-tta)|
 |**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v1](http://arxiv.org/abs/2302.03780v1)|null|
 |**2023-02-07**|**Efficiently Upgrading Multilingual Machine Translation Models to Support More Languages**|Simeng Sun et.al.|[2302.03528v1](http://arxiv.org/abs/2302.03528v1)|null|
 |**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
@@ -32,6 +36,7 @@
 |**2023-02-04**|**Construction Grammar Provides Unique Insight into Neural Language Models**|Leonie Weissweiler et.al.|[2302.02178v1](http://arxiv.org/abs/2302.02178v1)|null|
 |**2023-02-04**|**Invariants for neural automata**|Jone Uria-Albizuri et.al.|[2302.02149v1](http://arxiv.org/abs/2302.02149v1)|[link](https://github.com/TuringMachinegun/Turing_Neural_Networks)|
 |**2023-02-04**|**Lived Experience Matters: Automatic Detection of Stigma toward People Who Use Substances on Social Media**|Salvatore Giorgi et.al.|[2302.02064v1](http://arxiv.org/abs/2302.02064v1)|null|
+|**2023-02-03**|**Exploring the Cognitive Dynamics of Artificial Intelligence in the Post-COVID-19 and Learning 3.0 Era: A Case Study of ChatGPT**|Lingfei Luan et.al.|[2302.04818v1](http://arxiv.org/abs/2302.04818v1)|null|
 |**2023-02-03**|**Mitigating Data Scarcity for Large Language Models**|Hoang Van et.al.|[2302.01806v1](http://arxiv.org/abs/2302.01806v1)|[link](https://github.com/vanh17/techqa)|
 |**2023-02-03**|**LaMPP: Language Models as Probabilistic Priors for Perception and Action**|Belinda Z. Li et.al.|[2302.02801v1](http://arxiv.org/abs/2302.02801v1)|null|
 |**2023-02-03**|**LIQUID: A Framework for List Question Answering Dataset Generation**|Seongyun Lee et.al.|[2302.01691v2](http://arxiv.org/abs/2302.01691v2)|[link](https://github.com/dmis-lab/liquid)|
@@ -47,16 +52,14 @@
 |**2023-02-01**|**Are UD Treebanks Getting More Consistent? A Report Card for English UD**|Amir Zeldes et.al.|[2302.00636v1](http://arxiv.org/abs/2302.00636v1)|null|
 |**2023-02-01**|**Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**|Zhihong Shao et.al.|[2302.00618v1](http://arxiv.org/abs/2302.00618v1)|null|
 |**2023-02-01**|**The RW3D: A multi-modal panel dataset to understand the psychological impact of the pandemic**|Isabelle van der Vegt et.al.|[2302.00606v1](http://arxiv.org/abs/2302.00606v1)|null|
-|**2023-01-31**|**PADL: Language-Directed Physics-Based Character Control**|Jordan Juravsky et.al.|[2301.13868v1](http://arxiv.org/abs/2301.13868v1)|[link](https://github.com/nv-tlabs/padl)|
-|**2023-01-31**|**Mathematical Capabilities of ChatGPT**|Simon Frieder et.al.|[2301.13867v1](http://arxiv.org/abs/2301.13867v1)|null|
-|**2023-01-31**|**Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**|Yunhu Ye et.al.|[2301.13808v1](http://arxiv.org/abs/2301.13808v1)|null|
-|**2023-01-31**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shi et.al.|[2301.13741v1](http://arxiv.org/abs/2301.13741v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
+|**2023-02-09**|**Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals**|Yue Wu et.al.|[2302.04449v1](http://arxiv.org/abs/2302.04449v1)|null|
 |**2023-02-08**|**Efficient Joint Learning for Clinical Named Entity Recognition and Relation Extraction Using Fourier Networks: A Use Case in Adverse Drug Events**|Anthony Yazdani et.al.|[2302.04185v1](http://arxiv.org/abs/2302.04185v1)|[link](https://github.com/ds4dh/jnrf)|
 |**2023-02-08**|**Prompting for Multimodal Hateful Meme Classification**|Rui Cao et.al.|[2302.04156v1](http://arxiv.org/abs/2302.04156v1)|null|
 |**2023-02-08**|**A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**|Yejin Bang et.al.|[2302.04023v1](http://arxiv.org/abs/2302.04023v1)|null|
@@ -197,5 +200,3 @@
 |**2022-12-14**|**Find Someone Who: Visual Commonsense Understanding in Human-Centric Grounding**|Haoxuan You et.al.|[2212.06971v1](http://arxiv.org/abs/2212.06971v1)|null|
 |**2022-12-13**|**CREPE: Can Vision-Language Foundation Models Reason Compositionally?**|Zixian Ma et.al.|[2212.07796v2](http://arxiv.org/abs/2212.07796v2)|null|
 |**2022-12-13**|**Category Theory for Quantum Natural Language Processing**|Alexis Toumi et.al.|[2212.06615v1](http://arxiv.org/abs/2212.06615v1)|[link](https://github.com/toumix/thesis)|
-|**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
-|**2022-12-12**|**Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments**|Zhivar Sourati et.al.|[2212.07425v2](http://arxiv.org/abs/2212.07425v2)|[link](https://github.com/usc-isi-i2/logical-fallacy-identification)|
