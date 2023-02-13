@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-13 09:24:55
+ Automated deployment @ 2023-02-13 20:33:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -23,6 +23,11 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-10**|**A Song of Ice and Fire: Analyzing Textual Autotelic Agents in ScienceWorld**|Laetitia Teodorescu et.al.|[2302.05244v1](http://arxiv.org/abs/2302.05244v1)|null|
+|**2023-02-10**|**Realistic Conversational Question Answering with Answer Selection based on Calibrated Confidence and Uncertainty Measurement**|Soyeong Jeong et.al.|[2302.05137v1](http://arxiv.org/abs/2302.05137v1)|null|
+|**2023-02-10**|**Translating Natural Language to Planning Goals with Large-Language Models**|Yaqi Xie et.al.|[2302.05128v1](http://arxiv.org/abs/2302.05128v1)|null|
+|**2023-02-10**|**ControversialQA: Exploring Controversy in Question Answering**|Zhen Wang et.al.|[2302.05061v1](http://arxiv.org/abs/2302.05061v1)|null|
+|**2023-02-10**|**Is multi-modal vision supervision beneficial to language?**|Avinash Madasu et.al.|[2302.05016v1](http://arxiv.org/abs/2302.05016v1)|null|
 |**2023-02-09**|**Learning by Asking for Embodied Visual Navigation and Task Completion**|Ying Shen et.al.|[2302.04865v1](http://arxiv.org/abs/2302.04865v1)|[link](https://github.com/plan-lab/elba)|
 |**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
 |**2023-02-09**|**Augmenting NLP data to counter Annotation Artifacts for NLI Tasks**|Armaan Singh Bhullar et.al.|[2302.04700v1](http://arxiv.org/abs/2302.04700v1)|null|
@@ -45,19 +50,16 @@
 |**2023-02-02**|**Combining Deep Neural Reranking and Unsupervised Extraction for Multi-Query Focused Summarization**|Philipp Seeberger et.al.|[2302.01148v1](http://arxiv.org/abs/2302.01148v1)|null|
 |**2023-02-02**|**Multimodal Chain-of-Thought Reasoning in Language Models**|Zhuosheng Zhang et.al.|[2302.00923v2](http://arxiv.org/abs/2302.00923v2)|[link](https://github.com/amazon-science/mm-cot)|
 |**2023-02-02**|**Language Quantized AutoEncoders: Towards Unsupervised Text-Image Alignment**|Hao Liu et.al.|[2302.00902v2](http://arxiv.org/abs/2302.00902v2)|[link](https://github.com/lhao499/lqae)|
-|**2023-02-02**|**idT5: Indonesian Version of Multilingual T5 Transformer**|Mukhlish Fuadi et.al.|[2302.00856v1](http://arxiv.org/abs/2302.00856v1)|null|
-|**2023-02-02**|**Creating a Large Language Model of a Philosopher**|Eric Schwitzgebel et.al.|[2302.01339v1](http://arxiv.org/abs/2302.01339v1)|null|
-|**2023-02-01**|**Visually Grounded Keyword Detection and Localisation for Low-Resource Languages**|Kayode Kolawole Olaleye et.al.|[2302.00765v1](http://arxiv.org/abs/2302.00765v1)|null|
-|**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
-|**2023-02-01**|**Are UD Treebanks Getting More Consistent? A Report Card for English UD**|Amir Zeldes et.al.|[2302.00636v1](http://arxiv.org/abs/2302.00636v1)|null|
-|**2023-02-01**|**Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**|Zhihong Shao et.al.|[2302.00618v1](http://arxiv.org/abs/2302.00618v1)|null|
-|**2023-02-01**|**The RW3D: A multi-modal panel dataset to understand the psychological impact of the pandemic**|Isabelle van der Vegt et.al.|[2302.00606v1](http://arxiv.org/abs/2302.00606v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-10**|**The Wisdom of Hindsight Makes Language Models Better Instruction Followers**|Tianjun Zhang et.al.|[2302.05206v1](http://arxiv.org/abs/2302.05206v1)|null|
+|**2023-02-10**|**Translating Natural Language to Planning Goals with Large-Language Models**|Yaqi Xie et.al.|[2302.05128v1](http://arxiv.org/abs/2302.05128v1)|null|
+|**2023-02-10**|**Predicting Desirable Revisions of Evidence and Reasoning in Argumentative Writing**|Tazin Afrin et.al.|[2302.05039v1](http://arxiv.org/abs/2302.05039v1)|null|
+|**2023-02-10**|**Is multi-modal vision supervision beneficial to language?**|Avinash Madasu et.al.|[2302.05016v1](http://arxiv.org/abs/2302.05016v1)|null|
 |**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
 |**2023-02-09**|**Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals**|Yue Wu et.al.|[2302.04449v1](http://arxiv.org/abs/2302.04449v1)|null|
 |**2023-02-08**|**Efficient Joint Learning for Clinical Named Entity Recognition and Relation Extraction Using Fourier Networks: A Use Case in Adverse Drug Events**|Anthony Yazdani et.al.|[2302.04185v1](http://arxiv.org/abs/2302.04185v1)|[link](https://github.com/ds4dh/jnrf)|
@@ -125,7 +127,7 @@
 |**2023-01-07**|**Why do Nearest Neighbor Language Models Work?**|Frank F. Xu et.al.|[2301.02828v2](http://arxiv.org/abs/2301.02828v2)|[link](https://github.com/frankxu2004/knnlm-why)|
 |**2023-01-07**|**A Brain-inspired Memory Transformation based Differentiable Neural Computer for Reasoning-based Question Answering**|Yao Liang et.al.|[2301.02809v1](http://arxiv.org/abs/2301.02809v1)|null|
 |**2023-01-05**|**Chatbots As Fluent Polyglots: Revisiting Breakthrough Code Snippets**|David Noever et.al.|[2301.03373v1](http://arxiv.org/abs/2301.03373v1)|null|
-|**2023-01-05**|**SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph**|Yuxing Long et.al.|[2301.01949v1](http://arxiv.org/abs/2301.01949v1)|null|
+|**2023-01-05**|**SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph**|Yuxing Long et.al.|[2301.01949v1](http://arxiv.org/abs/2301.01949v1)|[link](https://github.com/lyx0501/spring)|
 |**2023-01-04**|**Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes**|Justin Reppert et.al.|[2301.01751v2](http://arxiv.org/abs/2301.01751v2)|[link](https://github.com/oughtinc/ice)|
 |**2023-01-04**|**Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer**|Zhixiang Su et.al.|[2301.01664v1](http://arxiv.org/abs/2301.01664v1)|[link](https://github.com/zhixiangsu/krst)|
 |**2023-01-04**|**Grammar construction methods for extended deterministic expressions**|Xiaoying Mou et.al.|[2301.01621v3](http://arxiv.org/abs/2301.01621v3)|null|
@@ -196,7 +198,3 @@
 |**2022-12-15**|**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**|Omar Shaikh et.al.|[2212.08061v1](http://arxiv.org/abs/2212.08061v1)|null|
 |**2022-12-15**|**ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning**|Olga Golovneva et.al.|[2212.07919v1](http://arxiv.org/abs/2212.07919v1)|[link](https://github.com/facebookresearch/ParlAI)|
 |**2022-12-15**|**Constitutional AI: Harmlessness from AI Feedback**|Yuntao Bai et.al.|[2212.08073v1](http://arxiv.org/abs/2212.08073v1)|[link](https://github.com/anthropics/constitutionalharmlessnesspaper)|
-|**2022-12-14**|**APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning**|Jiashuo Sun et.al.|[2212.07249v1](http://arxiv.org/abs/2212.07249v1)|null|
-|**2022-12-14**|**Find Someone Who: Visual Commonsense Understanding in Human-Centric Grounding**|Haoxuan You et.al.|[2212.06971v1](http://arxiv.org/abs/2212.06971v1)|null|
-|**2022-12-13**|**CREPE: Can Vision-Language Foundation Models Reason Compositionally?**|Zixian Ma et.al.|[2212.07796v2](http://arxiv.org/abs/2212.07796v2)|null|
-|**2022-12-13**|**Category Theory for Quantum Natural Language Processing**|Alexis Toumi et.al.|[2212.06615v1](http://arxiv.org/abs/2212.06615v1)|[link](https://github.com/toumix/thesis)|
