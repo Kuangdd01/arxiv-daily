@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-15 09:24:50
+ Automated deployment @ 2023-02-15 20:34:14
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
 |**2023-02-13**|**Gradient-Based Automated Iterative Recovery for Parameter-Efficient Tuning**|Maximilian Mozes et.al.|[2302.06598v1](http://arxiv.org/abs/2302.06598v1)|null|
 |**2023-02-13**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Zihui Li et.al.|[2302.06132v1](http://arxiv.org/abs/2302.06132v1)|null|
 |**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|[link](https://github.com/alab-nii/multi-hop-analysis)|
@@ -20,13 +21,16 @@
 |**2023-02-08**|**Training-free Lexical Backdoor Attacks on Language Models**|Yujin Huang et.al.|[2302.04116v1](http://arxiv.org/abs/2302.04116v1)|[link](https://github.com/jinxhy/tflexattack)|
 |**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v2](http://arxiv.org/abs/2302.03780v2)|null|
 |**2023-02-07**|**What Matters In The Structured Pruning of Generative Language Models?**|Michael Santacroce et.al.|[2302.03773v1](http://arxiv.org/abs/2302.03773v1)|[link](https://github.com/huggingface/nn_pruning)|
-|**2023-02-04**|**A New cross-domain strategy based XAI models for fake news detection**|Deepak Kanneganti et.al.|[2302.02122v1](http://arxiv.org/abs/2302.02122v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-14**|**A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified?**|Kathleen C. Fraser et.al.|[2302.07159v1](http://arxiv.org/abs/2302.07159v1)|null|
+|**2023-02-14**|**Modeling Complex Event Scenarios via Simple Entity-focused Questions**|Mahnaz Koupaee et.al.|[2302.07139v1](http://arxiv.org/abs/2302.07139v1)|[link](https://github.com/stonybrooknlp/qa-event-lms)|
+|**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
+|**2023-02-13**|**On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)**|Karthik Valmeekam et.al.|[2302.06706v1](http://arxiv.org/abs/2302.06706v1)|null|
 |**2023-02-13**|**Can GPT-3 Perform Statutory Reasoning?**|Andrew Blair-Stanek et.al.|[2302.06100v1](http://arxiv.org/abs/2302.06100v1)|[link](https://github.com/blairstanek/gpt-statutes)|
 |**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|[link](https://github.com/alab-nii/multi-hop-analysis)|
 |**2023-02-11**|**Level Generation Through Large Language Models**|Graham Todd et.al.|[2302.05817v1](http://arxiv.org/abs/2302.05817v1)|null|
@@ -35,7 +39,7 @@
 |**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
 |**2023-02-11**|**Evaluating the Robustness of Discrete Prompts**|Yoichi Ishibashi et.al.|[2302.05619v1](http://arxiv.org/abs/2302.05619v1)|[link](https://github.com/livnlp/prompt-robustness)|
 |**2023-02-10**|**A Song of Ice and Fire: Analyzing Textual Autotelic Agents in ScienceWorld**|Laetitia Teodorescu et.al.|[2302.05244v3](http://arxiv.org/abs/2302.05244v3)|null|
-|**2023-02-10**|**Realistic Conversational Question Answering with Answer Selection based on Calibrated Confidence and Uncertainty Measurement**|Soyeong Jeong et.al.|[2302.05137v1](http://arxiv.org/abs/2302.05137v1)|null|
+|**2023-02-10**|**Realistic Conversational Question Answering with Answer Selection based on Calibrated Confidence and Uncertainty Measurement**|Soyeong Jeong et.al.|[2302.05137v1](http://arxiv.org/abs/2302.05137v1)|[link](https://github.com/starsuzi/as-convqa)|
 |**2023-02-10**|**Translating Natural Language to Planning Goals with Large-Language Models**|Yaqi Xie et.al.|[2302.05128v1](http://arxiv.org/abs/2302.05128v1)|[link](https://github.com/clear-nus/gpt-pddl)|
 |**2023-02-10**|**ControversialQA: Exploring Controversy in Question Answering**|Zhen Wang et.al.|[2302.05061v1](http://arxiv.org/abs/2302.05061v1)|null|
 |**2023-02-10**|**Is multi-modal vision supervision beneficial to language?**|Avinash Madasu et.al.|[2302.05016v1](http://arxiv.org/abs/2302.05016v1)|null|
@@ -48,18 +52,16 @@
 |**2023-02-07**|**Efficiently Upgrading Multilingual Machine Translation Models to Support More Languages**|Simeng Sun et.al.|[2302.03528v1](http://arxiv.org/abs/2302.03528v1)|null|
 |**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
 |**2023-02-06**|**Techniques to Improve Neural Math Word Problem Solvers**|Youyuan Zhang et.al.|[2302.03145v1](http://arxiv.org/abs/2302.03145v1)|[link](https://github.com/sophistz/question-aware-deductive-mwp)|
-|**2023-02-06**|**Less is More: Understanding Word-level Textual Adversarial Attack via n-gram Frequency Descend**|Ning Lu et.al.|[2302.02568v2](http://arxiv.org/abs/2302.02568v2)|null|
-|**2023-02-06**|**A Categorical Archive of ChatGPT Failures**|Ali Borji et.al.|[2302.03494v3](http://arxiv.org/abs/2302.03494v3)|[link](https://github.com/aliborji/chatgpt_failures)|
-|**2023-02-04**|**Construction Grammar Provides Unique Insight into Neural Language Models**|Leonie Weissweiler et.al.|[2302.02178v1](http://arxiv.org/abs/2302.02178v1)|null|
-|**2023-02-04**|**Invariants for neural automata**|Jone Uria-Albizuri et.al.|[2302.02149v1](http://arxiv.org/abs/2302.02149v1)|[link](https://github.com/TuringMachinegun/Turing_Neural_Networks)|
-|**2023-02-04**|**Lived Experience Matters: Automatic Detection of Stigma toward People Who Use Substances on Social Media**|Salvatore Giorgi et.al.|[2302.02064v1](http://arxiv.org/abs/2302.02064v1)|null|
-|**2023-02-03**|**Exploring the Cognitive Dynamics of Artificial Intelligence in the Post-COVID-19 and Learning 3.0 Era: A Case Study of ChatGPT**|Lingfei Luan et.al.|[2302.04818v1](http://arxiv.org/abs/2302.04818v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-14**|**Few-shot learning approaches for classifying low resource domain specific software requirements**|Anmol Nayak et.al.|[2302.06951v1](http://arxiv.org/abs/2302.06951v1)|null|
+|**2023-02-14**|**The Role of Semantic Parsing in Understanding Procedural Text**|Hossein Rajaby Faghihi et.al.|[2302.06829v1](http://arxiv.org/abs/2302.06829v1)|null|
+|**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
+|**2023-02-13**|**On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)**|Karthik Valmeekam et.al.|[2302.06706v1](http://arxiv.org/abs/2302.06706v1)|null|
 |**2023-02-13**|**A Study on ReLU and Softmax in Transformer**|Kai Shen et.al.|[2302.06461v1](http://arxiv.org/abs/2302.06461v1)|null|
 |**2023-02-13**|**Text2shape Deep Retrieval Model: Generating Initial Cases for Mechanical Part Redesign under the Context of Case-Based Reasoning**|Tianshuo Zang et.al.|[2302.06341v1](http://arxiv.org/abs/2302.06341v1)|null|
 |**2023-02-13**|**Can GPT-3 Perform Statutory Reasoning?**|Andrew Blair-Stanek et.al.|[2302.06100v1](http://arxiv.org/abs/2302.06100v1)|[link](https://github.com/blairstanek/gpt-statutes)|
@@ -90,7 +92,7 @@
 |**2023-02-01**|**Zero-shot Transfer of Article-aware Legal Outcome Classification for European Court of Human Rights Cases**|T. Y. S. S Santosh et.al.|[2302.00609v3](http://arxiv.org/abs/2302.00609v3)|null|
 |**2023-02-01**|**An Empirical Study on the Transferability of Transformer Modules in Parameter-Efficient Fine-Tuning**|Mohammad AkbarTajari et.al.|[2302.00378v1](http://arxiv.org/abs/2302.00378v1)|null|
 |**2023-02-01**|**Program Generation from Diverse Video Demonstrations**|Anthony Manchin et.al.|[2302.00178v1](http://arxiv.org/abs/2302.00178v1)|null|
-|**2023-01-31**|**Large Language Models Can Be Easily Distracted by Irrelevant Context**|Freda Shi et.al.|[2302.00093v2](http://arxiv.org/abs/2302.00093v2)|null|
+|**2023-01-31**|**Large Language Models Can Be Easily Distracted by Irrelevant Context**|Freda Shi et.al.|[2302.00093v2](http://arxiv.org/abs/2302.00093v2)|[link](https://github.com/google-research-datasets/gsm-ic)|
 |**2023-01-31**|**Benchmarking Large Language Models for News Summarization**|Tianyi Zhang et.al.|[2301.13848v1](http://arxiv.org/abs/2301.13848v1)|null|
 |**2023-01-31**|**Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**|Yunhu Ye et.al.|[2301.13808v1](http://arxiv.org/abs/2301.13808v1)|null|
 |**2023-01-31**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shi et.al.|[2301.13741v1](http://arxiv.org/abs/2301.13741v1)|null|
@@ -195,11 +197,3 @@
 |**2022-12-19**|**APOLLO: A Simple Approach for Adaptive Pretraining of Language Models for Logical Reasoning**|Soumya Sanyal et.al.|[2212.09282v1](http://arxiv.org/abs/2212.09282v1)|null|
 |**2022-12-19**|**Emergent Analogical Reasoning in Large Language Models**|Taylor Webb et.al.|[2212.09196v1](http://arxiv.org/abs/2212.09196v1)|[link](https://github.com/taylorwwebb/emergent_analogies_llm)|
 |**2022-12-18**|**Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model**|Parishad BehnamGhader et.al.|[2212.09146v1](http://arxiv.org/abs/2212.09146v1)|[link](https://github.com/mcgill-nlp/retriever-lm-reasoning)|
-|**2022-12-16**|**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**|Hanlin Zhang et.al.|[2212.08686v1](http://arxiv.org/abs/2212.08686v1)|[link](https://github.com/hlzhang109/lmlp)|
-|**2022-12-16**|**Enhancing Multi-modal and Multi-hop Question Answering via Structured Knowledge and Unified Retrieval-Generation**|Qian Yang et.al.|[2212.08632v1](http://arxiv.org/abs/2212.08632v1)|null|
-|**2022-12-16**|**MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation**|Swarnadeep Saha et.al.|[2212.08607v1](http://arxiv.org/abs/2212.08607v1)|null|
-|**2022-12-16**|**Teaching Small Language Models to Reason**|Lucie Charlotte Magister et.al.|[2212.08410v2](http://arxiv.org/abs/2212.08410v2)|null|
-|**2022-12-16**|**Law to Binary Tree -- An Formal Interpretation of Legal Natural Language**|Ha-Thanh Nguyen et.al.|[2212.08335v1](http://arxiv.org/abs/2212.08335v1)|null|
-|**2022-12-16**|**Convolution-enhanced Evolving Attention Networks**|Yujing Wang et.al.|[2212.08330v1](http://arxiv.org/abs/2212.08330v1)|[link](https://github.com/pkuyym/evolvingattention)|
-|**2022-12-16**|**ReCo: Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks**|Kai Xiong et.al.|[2212.08322v1](http://arxiv.org/abs/2212.08322v1)|[link](https://github.com/waste-wood/reco)|
-|**2022-12-16**|**ALERT: Adapting Language Models to Reasoning Tasks**|Ping Yu et.al.|[2212.08286v1](http://arxiv.org/abs/2212.08286v1)|null|
