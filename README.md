@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-16 09:24:33
+ Automated deployment @ 2023-02-16 20:33:35
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -14,6 +14,9 @@
 |**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|[link](https://github.com/alab-nii/multi-hop-analysis)|
 |**2023-02-12**|**Entanglement as a Method to Reduce Uncertainty**|Diederik Aerts et.al.|[2302.05898v1](http://arxiv.org/abs/2302.05898v1)|null|
 |**2023-02-12**|**"Why is this misleading?": Detecting News Headline Hallucinations with Explanations**|Jiaming Shen et.al.|[2302.05852v1](http://arxiv.org/abs/2302.05852v1)|null|
+|**2023-02-11**|**Explaining text classifiers through progressive neighborhood approximation with realistic samples**|Yi Cai et.al.|[2302.07733v1](http://arxiv.org/abs/2302.07733v1)|null|
+|**2023-02-11**|**Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech**|Fan Huang et.al.|[2302.07736v1](http://arxiv.org/abs/2302.07736v1)|null|
+|**2023-02-10**|**Alloprof: a new French question-answer education dataset and its use in an information retrieval case study**|Antoine Lefebvre-Brossard et.al.|[2302.07738v1](http://arxiv.org/abs/2302.07738v1)|null|
 |**2023-02-09**|**FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning**|Yucheng Li et.al.|[2302.04834v1](http://arxiv.org/abs/2302.04834v1)|[link](https://github.com/liyucheng09/metaphorframe)|
 |**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
 |**2023-02-09**|**NLP-based Decision Support System for Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank**|Christian Hänig et.al.|[2302.04562v1](http://arxiv.org/abs/2302.04562v1)|null|
@@ -27,10 +30,13 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-15**|**Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**|Keito Kudo et.al.|[2302.07866v1](http://arxiv.org/abs/2302.07866v1)|null|
+|**2023-02-15**|**Word class representations spontaneously emerge in a deep neural network trained on next word prediction**|Kishore Surendra et.al.|[2302.07588v1](http://arxiv.org/abs/2302.07588v1)|null|
 |**2023-02-14**|**A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified?**|Kathleen C. Fraser et.al.|[2302.07159v1](http://arxiv.org/abs/2302.07159v1)|null|
 |**2023-02-14**|**Modeling Complex Event Scenarios via Simple Entity-focused Questions**|Mahnaz Koupaee et.al.|[2302.07139v1](http://arxiv.org/abs/2302.07139v1)|[link](https://github.com/stonybrooknlp/qa-event-lms)|
 |**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
 |**2023-02-13**|**On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)**|Karthik Valmeekam et.al.|[2302.06706v1](http://arxiv.org/abs/2302.06706v1)|null|
+|**2023-02-13**|**Artificial Intelligence in Psychology Research**|Peter S. Park et.al.|[2302.07267v1](http://arxiv.org/abs/2302.07267v1)|null|
 |**2023-02-13**|**Can GPT-3 Perform Statutory Reasoning?**|Andrew Blair-Stanek et.al.|[2302.06100v1](http://arxiv.org/abs/2302.06100v1)|[link](https://github.com/blairstanek/gpt-statutes)|
 |**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|[link](https://github.com/alab-nii/multi-hop-analysis)|
 |**2023-02-11**|**Level Generation Through Large Language Models**|Graham Todd et.al.|[2302.05817v1](http://arxiv.org/abs/2302.05817v1)|null|
@@ -38,6 +44,7 @@
 |**2023-02-11**|**A Brief Report on LawGPT 1.0: A Virtual Legal Assistant Based on GPT-3**|Ha-Thanh Nguyen et.al.|[2302.05729v2](http://arxiv.org/abs/2302.05729v2)|null|
 |**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
 |**2023-02-11**|**Evaluating the Robustness of Discrete Prompts**|Yoichi Ishibashi et.al.|[2302.05619v1](http://arxiv.org/abs/2302.05619v1)|[link](https://github.com/livnlp/prompt-robustness)|
+|**2023-02-10**|**Alloprof: a new French question-answer education dataset and its use in an information retrieval case study**|Antoine Lefebvre-Brossard et.al.|[2302.07738v1](http://arxiv.org/abs/2302.07738v1)|null|
 |**2023-02-10**|**A Song of Ice and Fire: Analyzing Textual Autotelic Agents in ScienceWorld**|Laetitia Teodorescu et.al.|[2302.05244v3](http://arxiv.org/abs/2302.05244v3)|null|
 |**2023-02-10**|**Realistic Conversational Question Answering with Answer Selection based on Calibrated Confidence and Uncertainty Measurement**|Soyeong Jeong et.al.|[2302.05137v1](http://arxiv.org/abs/2302.05137v1)|[link](https://github.com/starsuzi/as-convqa)|
 |**2023-02-10**|**Translating Natural Language to Planning Goals with Large-Language Models**|Yaqi Xie et.al.|[2302.05128v1](http://arxiv.org/abs/2302.05128v1)|[link](https://github.com/clear-nus/gpt-pddl)|
@@ -51,13 +58,15 @@
 |**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v2](http://arxiv.org/abs/2302.03780v2)|null|
 |**2023-02-07**|**Efficiently Upgrading Multilingual Machine Translation Models to Support More Languages**|Simeng Sun et.al.|[2302.03528v1](http://arxiv.org/abs/2302.03528v1)|null|
 |**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
-|**2023-02-06**|**Techniques to Improve Neural Math Word Problem Solvers**|Youyuan Zhang et.al.|[2302.03145v1](http://arxiv.org/abs/2302.03145v1)|[link](https://github.com/sophistz/question-aware-deductive-mwp)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-15**|**Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**|Keito Kudo et.al.|[2302.07866v1](http://arxiv.org/abs/2302.07866v1)|null|
+|**2023-02-15**|**Augmented Language Models: a Survey**|Grégoire Mialon et.al.|[2302.07842v1](http://arxiv.org/abs/2302.07842v1)|null|
+|**2023-02-15**|**Whats New? Identifying the Unfolding of New Events in Narratives**|Seyed Mahed Mousavi et.al.|[2302.07748v1](http://arxiv.org/abs/2302.07748v1)|null|
 |**2023-02-14**|**Few-shot learning approaches for classifying low resource domain specific software requirements**|Anmol Nayak et.al.|[2302.06951v1](http://arxiv.org/abs/2302.06951v1)|null|
 |**2023-02-14**|**The Role of Semantic Parsing in Understanding Procedural Text**|Hossein Rajaby Faghihi et.al.|[2302.06829v1](http://arxiv.org/abs/2302.06829v1)|null|
 |**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
@@ -65,6 +74,7 @@
 |**2023-02-13**|**A Study on ReLU and Softmax in Transformer**|Kai Shen et.al.|[2302.06461v1](http://arxiv.org/abs/2302.06461v1)|null|
 |**2023-02-13**|**Text2shape Deep Retrieval Model: Generating Initial Cases for Mechanical Part Redesign under the Context of Case-Based Reasoning**|Tianshuo Zang et.al.|[2302.06341v1](http://arxiv.org/abs/2302.06341v1)|null|
 |**2023-02-13**|**Can GPT-3 Perform Statutory Reasoning?**|Andrew Blair-Stanek et.al.|[2302.06100v1](http://arxiv.org/abs/2302.06100v1)|[link](https://github.com/blairstanek/gpt-statutes)|
+|**2023-02-13**|**Knowledge Enhanced Semantic Communication Receiver**|Bingyan Wang et.al.|[2302.07727v1](http://arxiv.org/abs/2302.07727v1)|null|
 |**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|[link](https://github.com/alab-nii/multi-hop-analysis)|
 |**2023-02-11**|**Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning**|Jiayu Liu et.al.|[2302.05717v1](http://arxiv.org/abs/2302.05717v1)|null|
 |**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
@@ -195,5 +205,3 @@
 |**2022-12-19**|**An Efficient Drug-Drug Interactions Prediction Technology for Molecularly Intelligent Manufacturing**|Peng Gao et.al.|[2212.09400v2](http://arxiv.org/abs/2212.09400v2)|null|
 |**2022-12-19**|**Bridging The Gap: Entailment Fused-T5 for Open-retrieval Conversational Machine Reading Comprehension**|Xiao Zhang et.al.|[2212.09353v1](http://arxiv.org/abs/2212.09353v1)|null|
 |**2022-12-19**|**APOLLO: A Simple Approach for Adaptive Pretraining of Language Models for Logical Reasoning**|Soumya Sanyal et.al.|[2212.09282v1](http://arxiv.org/abs/2212.09282v1)|null|
-|**2022-12-19**|**Emergent Analogical Reasoning in Large Language Models**|Taylor Webb et.al.|[2212.09196v1](http://arxiv.org/abs/2212.09196v1)|[link](https://github.com/taylorwwebb/emergent_analogies_llm)|
-|**2022-12-18**|**Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model**|Parishad BehnamGhader et.al.|[2212.09146v1](http://arxiv.org/abs/2212.09146v1)|[link](https://github.com/mcgill-nlp/retriever-lm-reasoning)|
