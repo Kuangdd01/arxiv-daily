@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-17 09:27:24
+ Automated deployment @ 2023-02-17 20:32:39
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -20,16 +20,17 @@
 |**2023-02-09**|**FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning**|Yucheng Li et.al.|[2302.04834v1](http://arxiv.org/abs/2302.04834v1)|[link](https://github.com/liyucheng09/metaphorframe)|
 |**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
 |**2023-02-09**|**NLP-based Decision Support System for Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank**|Christian Hänig et.al.|[2302.04562v1](http://arxiv.org/abs/2302.04562v1)|null|
-|**2023-02-08**|**Diagnosing and Rectifying Vision Models using Language**|Yuhui Zhang et.al.|[2302.04269v1](http://arxiv.org/abs/2302.04269v1)|[link](https://github.com/yuhui-zh15/drml)|
-|**2023-02-08**|**Training-free Lexical Backdoor Attacks on Language Models**|Yujin Huang et.al.|[2302.04116v1](http://arxiv.org/abs/2302.04116v1)|[link](https://github.com/jinxhy/tflexattack)|
-|**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v2](http://arxiv.org/abs/2302.03780v2)|null|
-|**2023-02-07**|**What Matters In The Structured Pruning of Generative Language Models?**|Michael Santacroce et.al.|[2302.03773v1](http://arxiv.org/abs/2302.03773v1)|[link](https://github.com/huggingface/nn_pruning)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-16**|**Evaluating and Improving the Coreference Capabilities of Machine Translation Models**|Asaf Yehudai et.al.|[2302.08464v1](http://arxiv.org/abs/2302.08464v1)|null|
+|**2023-02-16**|**Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?**|Chengwei Qin et.al.|[2302.08143v1](http://arxiv.org/abs/2302.08143v1)|null|
+|**2023-02-16**|**Product Question Answering in E-Commerce: A Survey**|Yang Deng et.al.|[2302.08092v1](http://arxiv.org/abs/2302.08092v1)|null|
+|**2023-02-16**|**Do We Still Need Clinical Language Models?**|Eric Lehman et.al.|[2302.08091v1](http://arxiv.org/abs/2302.08091v1)|null|
+|**2023-02-15**|**Commonsense Reasoning for Conversational AI: A Survey of the State of the Art**|Christopher Richardson et.al.|[2302.07926v1](http://arxiv.org/abs/2302.07926v1)|null|
 |**2023-02-15**|**Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**|Keito Kudo et.al.|[2302.07866v1](http://arxiv.org/abs/2302.07866v1)|null|
 |**2023-02-15**|**Word class representations spontaneously emerge in a deep neural network trained on next word prediction**|Kishore Surendra et.al.|[2302.07588v1](http://arxiv.org/abs/2302.07588v1)|null|
 |**2023-02-14**|**A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified?**|Kathleen C. Fraser et.al.|[2302.07159v1](http://arxiv.org/abs/2302.07159v1)|null|
@@ -55,15 +56,17 @@
 |**2023-02-09**|**Augmenting NLP data to counter Annotation Artifacts for NLI Tasks**|Armaan Singh Bhullar et.al.|[2302.04700v1](http://arxiv.org/abs/2302.04700v1)|null|
 |**2023-02-09**|**Robust Question Answering against Distribution Shifts with Test-Time Adaptation: An Empirical Study**|Hai Ye et.al.|[2302.04618v1](http://arxiv.org/abs/2302.04618v1)|[link](https://github.com/oceanypt/coldqa-tta)|
 |**2023-02-08**|**ChatGPT versus Traditional Question Answering for Knowledge Graphs: Current Status and Future Directions Towards Knowledge Graph Chatbots**|Reham Omar et.al.|[2302.06466v1](http://arxiv.org/abs/2302.06466v1)|null|
-|**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v2](http://arxiv.org/abs/2302.03780v2)|null|
-|**2023-02-07**|**Efficiently Upgrading Multilingual Machine Translation Models to Support More Languages**|Simeng Sun et.al.|[2302.03528v1](http://arxiv.org/abs/2302.03528v1)|null|
-|**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-16**|**Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks**|Tomer Ullman et.al.|[2302.08399v1](http://arxiv.org/abs/2302.08399v1)|null|
+|**2023-02-16**|**Empirical Investigation of Neural Symbolic Reasoning Strategies**|Yoichi Aoki et.al.|[2302.08148v1](http://arxiv.org/abs/2302.08148v1)|[link](https://github.com/ao1neko/reasoning-strategy)|
+|**2023-02-16**|**Do We Still Need Clinical Language Models?**|Eric Lehman et.al.|[2302.08091v1](http://arxiv.org/abs/2302.08091v1)|null|
+|**2023-02-15**|**Tree-Based Representation and Generation of Natural and Mathematical Language**|Alexander Scarlatos et.al.|[2302.07974v1](http://arxiv.org/abs/2302.07974v1)|null|
+|**2023-02-15**|**Commonsense Reasoning for Conversational AI: A Survey of the State of the Art**|Christopher Richardson et.al.|[2302.07926v1](http://arxiv.org/abs/2302.07926v1)|null|
 |**2023-02-15**|**Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**|Keito Kudo et.al.|[2302.07866v1](http://arxiv.org/abs/2302.07866v1)|null|
 |**2023-02-15**|**Augmented Language Models: a Survey**|Grégoire Mialon et.al.|[2302.07842v1](http://arxiv.org/abs/2302.07842v1)|null|
 |**2023-02-15**|**Whats New? Identifying the Unfolding of New Events in Narratives**|Seyed Mahed Mousavi et.al.|[2302.07748v1](http://arxiv.org/abs/2302.07748v1)|null|
@@ -200,8 +203,3 @@
 |**2022-12-19**|**Resolving Open-textured Rules with Templated Interpretive Arguments**|John Licato et.al.|[2212.09700v2](http://arxiv.org/abs/2212.09700v2)|null|
 |**2022-12-19**|**Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI**|Alex Mei et.al.|[2212.09667v1](http://arxiv.org/abs/2212.09667v1)|null|
 |**2022-12-19**|**MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering**|Fangyu Liu et.al.|[2212.09662v1](http://arxiv.org/abs/2212.09662v1)|null|
-|**2022-12-19**|**Reasoning with Language Model Prompting: A Survey**|Shuofei Qiao et.al.|[2212.09597v1](http://arxiv.org/abs/2212.09597v1)|[link](https://github.com/zjunlp/Prompt4ReasoningPapers)|
-|**2022-12-19**|**Large Language Models are reasoners with Self-Verification**|Yixuan Weng et.al.|[2212.09561v1](http://arxiv.org/abs/2212.09561v1)|[link](https://github.com/WENGSYX/Self-Verification)|
-|**2022-12-19**|**An Efficient Drug-Drug Interactions Prediction Technology for Molecularly Intelligent Manufacturing**|Peng Gao et.al.|[2212.09400v2](http://arxiv.org/abs/2212.09400v2)|null|
-|**2022-12-19**|**Bridging The Gap: Entailment Fused-T5 for Open-retrieval Conversational Machine Reading Comprehension**|Xiao Zhang et.al.|[2212.09353v1](http://arxiv.org/abs/2212.09353v1)|null|
-|**2022-12-19**|**APOLLO: A Simple Approach for Adaptive Pretraining of Language Models for Logical Reasoning**|Soumya Sanyal et.al.|[2212.09282v1](http://arxiv.org/abs/2212.09282v1)|null|
