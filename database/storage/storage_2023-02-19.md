@@ -1,7 +1,25 @@
 # arxiv-daily
- Automated deployment @ 2023-02-19 09:26:31
+ Automated deployment @ 2023-02-19 20:30:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
+|**2023-02-13**|**Gradient-Based Automated Iterative Recovery for Parameter-Efficient Tuning**|Maximilian Mozes et.al.|[2302.06598v1](http://arxiv.org/abs/2302.06598v1)|null|
+|**2023-02-13**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Zihui Li et.al.|[2302.06132v1](http://arxiv.org/abs/2302.06132v1)|null|
+|**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|[link](https://github.com/alab-nii/multi-hop-analysis)|
+|**2023-02-12**|**Entanglement as a Method to Reduce Uncertainty**|Diederik Aerts et.al.|[2302.05898v1](http://arxiv.org/abs/2302.05898v1)|null|
+|**2023-02-12**|**"Why is this misleading?": Detecting News Headline Hallucinations with Explanations**|Jiaming Shen et.al.|[2302.05852v1](http://arxiv.org/abs/2302.05852v1)|null|
+|**2023-02-11**|**Explaining text classifiers through progressive neighborhood approximation with realistic samples**|Yi Cai et.al.|[2302.07733v1](http://arxiv.org/abs/2302.07733v1)|null|
+|**2023-02-11**|**Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech**|Fan Huang et.al.|[2302.07736v1](http://arxiv.org/abs/2302.07736v1)|null|
+|**2023-02-10**|**Alloprof: a new French question-answer education dataset and its use in an information retrieval case study**|Antoine Lefebvre-Brossard et.al.|[2302.07738v1](http://arxiv.org/abs/2302.07738v1)|null|
+|**2023-02-09**|**FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning**|Yucheng Li et.al.|[2302.04834v1](http://arxiv.org/abs/2302.04834v1)|[link](https://github.com/liyucheng09/metaphorframe)|
+|**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
+|**2023-02-09**|**NLP-based Decision Support System for Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank**|Christian Hänig et.al.|[2302.04562v1](http://arxiv.org/abs/2302.04562v1)|null|
 
 ## Question Answering
 
@@ -38,24 +56,6 @@
 |**2023-02-09**|**Augmenting NLP data to counter Annotation Artifacts for NLI Tasks**|Armaan Singh Bhullar et.al.|[2302.04700v1](http://arxiv.org/abs/2302.04700v1)|null|
 |**2023-02-09**|**Robust Question Answering against Distribution Shifts with Test-Time Adaptation: An Empirical Study**|Hai Ye et.al.|[2302.04618v1](http://arxiv.org/abs/2302.04618v1)|[link](https://github.com/oceanypt/coldqa-tta)|
 |**2023-02-08**|**ChatGPT versus Traditional Question Answering for Knowledge Graphs: Current Status and Future Directions Towards Knowledge Graph Chatbots**|Reham Omar et.al.|[2302.06466v1](http://arxiv.org/abs/2302.06466v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
-|**2023-02-13**|**Gradient-Based Automated Iterative Recovery for Parameter-Efficient Tuning**|Maximilian Mozes et.al.|[2302.06598v1](http://arxiv.org/abs/2302.06598v1)|null|
-|**2023-02-13**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Zihui Li et.al.|[2302.06132v1](http://arxiv.org/abs/2302.06132v1)|null|
-|**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|[link](https://github.com/alab-nii/multi-hop-analysis)|
-|**2023-02-12**|**Entanglement as a Method to Reduce Uncertainty**|Diederik Aerts et.al.|[2302.05898v1](http://arxiv.org/abs/2302.05898v1)|null|
-|**2023-02-12**|**"Why is this misleading?": Detecting News Headline Hallucinations with Explanations**|Jiaming Shen et.al.|[2302.05852v1](http://arxiv.org/abs/2302.05852v1)|null|
-|**2023-02-11**|**Explaining text classifiers through progressive neighborhood approximation with realistic samples**|Yi Cai et.al.|[2302.07733v1](http://arxiv.org/abs/2302.07733v1)|null|
-|**2023-02-11**|**Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech**|Fan Huang et.al.|[2302.07736v1](http://arxiv.org/abs/2302.07736v1)|null|
-|**2023-02-10**|**Alloprof: a new French question-answer education dataset and its use in an information retrieval case study**|Antoine Lefebvre-Brossard et.al.|[2302.07738v1](http://arxiv.org/abs/2302.07738v1)|null|
-|**2023-02-09**|**FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning**|Yucheng Li et.al.|[2302.04834v1](http://arxiv.org/abs/2302.04834v1)|[link](https://github.com/liyucheng09/metaphorframe)|
-|**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
-|**2023-02-09**|**NLP-based Decision Support System for Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank**|Christian Hänig et.al.|[2302.04562v1](http://arxiv.org/abs/2302.04562v1)|null|
 
 ## Reasoning
 
