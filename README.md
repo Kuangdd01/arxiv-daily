@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-22 09:22:05
+ Automated deployment @ 2023-02-22 20:33:53
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,20 +8,27 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-21**|**Parallel Sentence-Level Explanation Generation for Real-World Low-Resource Scenarios**|Yan Liu et.al.|[2302.10707v1](http://arxiv.org/abs/2302.10707v1)|null|
+|**2023-02-21**|**Tell Model Where to Attend: Improving Interpretability of Aspect-Based Sentiment Classification via Small Explanation Annotations**|Zhenxiao Cheng et.al.|[2302.10479v1](http://arxiv.org/abs/2302.10479v1)|null|
 |**2023-02-19**|**Learning Language Representations with Logical Inductive Bias**|Jianshu Chen et.al.|[2302.09458v1](http://arxiv.org/abs/2302.09458v1)|null|
 |**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v1](http://arxiv.org/abs/2302.09051v1)|null|
 |**2023-02-16**|**Syntactic Structure Processing in the Brain while Listening**|Subba Reddy Oota et.al.|[2302.08589v1](http://arxiv.org/abs/2302.08589v1)|null|
-|**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
-|**2023-02-13**|**Gradient-Based Automated Iterative Recovery for Parameter-Efficient Tuning**|Maximilian Mozes et.al.|[2302.06598v1](http://arxiv.org/abs/2302.06598v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-21**|**Real-World Deployment and Evaluation of Kwame for Science, An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2302.10786v1](http://arxiv.org/abs/2302.10786v1)|null|
+|**2023-02-21**|**ChatGPT: Jack of all trades, master of none**|Jan Kocoń et.al.|[2302.10724v1](http://arxiv.org/abs/2302.10724v1)|[link](https://github.com/clarin-pl/chatgpt-evaluation-01-2023)|
+|**2023-02-21**|**Connecting Humanities and Social Sciences: Applying Language and Speech Technology to Online Panel Surveys**|Henk van den Heuvel et.al.|[2302.10593v1](http://arxiv.org/abs/2302.10593v1)|null|
+|**2023-02-20**|**Fantastic Rewards and How to Tame Them: A Case Study on Reward Learning for Task-oriented Dialogue Systems**|Yihao Feng et.al.|[2302.10342v1](http://arxiv.org/abs/2302.10342v1)|[link](https://github.com/shentao-yang/fantastic_reward_iclr2023)|
+|**2023-02-20**|**Deep Transformers without Shortcuts: Modifying Self-attention for Faithful Signal Propagation**|Bobby He et.al.|[2302.10322v1](http://arxiv.org/abs/2302.10322v1)|null|
+|**2023-02-20**|**Zero-Shot Information Extraction via Chatting with ChatGPT**|Xiang Wei et.al.|[2302.10205v1](http://arxiv.org/abs/2302.10205v1)|null|
 |**2023-02-20**|**STOA-VLP: Spatial-Temporal Modeling of Object and Action for Video-Language Pre-training**|Weihong Zhong et.al.|[2302.09736v1](http://arxiv.org/abs/2302.09736v1)|null|
 |**2023-02-19**|**Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation**|Lorenz Kuhn et.al.|[2302.09664v2](http://arxiv.org/abs/2302.09664v2)|null|
-|**2023-02-19**|**Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference**|Ming Li et.al.|[2302.09582v2](http://arxiv.org/abs/2302.09582v2)|[link](https://github.com/thunlp/model_emotion)|
+|**2023-02-19**|**Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference**|Ming Li et.al.|[2302.09582v2](http://arxiv.org/abs/2302.09582v2)|null|
+|**2023-02-19**|**Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT**|Qihuang Zhong et.al.|[2302.10198v1](http://arxiv.org/abs/2302.10198v1)|[link](https://github.com/whu-zqh/chatgpt-vs.-bert)|
 |**2023-02-19**|**Learning Language Representations with Logical Inductive Bias**|Jianshu Chen et.al.|[2302.09458v1](http://arxiv.org/abs/2302.09458v1)|null|
 |**2023-02-18**|**Bag of Tricks for Effective Language Model Pretraining and Downstream Adaptation: A Case Study on GLUE**|Qihuang Zhong et.al.|[2302.09268v1](http://arxiv.org/abs/2302.09268v1)|null|
 |**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v1](http://arxiv.org/abs/2302.09051v1)|null|
@@ -43,18 +50,15 @@
 |**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
 |**2023-02-13**|**On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)**|Karthik Valmeekam et.al.|[2302.06706v1](http://arxiv.org/abs/2302.06706v1)|null|
 |**2023-02-13**|**Artificial intelligence in psychology research**|Peter S. Park et.al.|[2302.07267v2](http://arxiv.org/abs/2302.07267v2)|null|
-|**2023-02-13**|**Can GPT-3 Perform Statutory Reasoning?**|Andrew Blair-Stanek et.al.|[2302.06100v1](http://arxiv.org/abs/2302.06100v1)|[link](https://github.com/blairstanek/gpt-statutes)|
-|**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|[link](https://github.com/alab-nii/multi-hop-analysis)|
-|**2023-02-11**|**Level Generation Through Large Language Models**|Graham Todd et.al.|[2302.05817v1](http://arxiv.org/abs/2302.05817v1)|null|
-|**2023-02-11**|**Divergence-Based Domain Transferability for Zero-Shot Classification**|Alexander Pugantsov et.al.|[2302.05735v1](http://arxiv.org/abs/2302.05735v1)|null|
-|**2023-02-11**|**A Brief Report on LawGPT 1.0: A Virtual Legal Assistant Based on GPT-3**|Ha-Thanh Nguyen et.al.|[2302.05729v2](http://arxiv.org/abs/2302.05729v2)|null|
-|**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
+|**2023-02-13**|**Paparazzi: A Deep Dive into the Capabilities of Language and Vision Models for Grounding Viewpoint Descriptions**|Henrik Voigt et.al.|[2302.10282v1](http://arxiv.org/abs/2302.10282v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-21**|**Hyena Hierarchy: Towards Larger Convolutional Language Models**|Michael Poli et.al.|[2302.10866v1](http://arxiv.org/abs/2302.10866v1)|null|
+|**2023-02-21**|**Real-World Deployment and Evaluation of Kwame for Science, An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2302.10786v1](http://arxiv.org/abs/2302.10786v1)|null|
 |**2023-02-20**|**Learning Deep Semantics for Test Completion**|Pengyu Nie et.al.|[2302.10166v1](http://arxiv.org/abs/2302.10166v1)|null|
 |**2023-02-20**|**A Two-Sided Discussion of Preregistration of NLP Research**|Anders Søgaard et.al.|[2302.10086v1](http://arxiv.org/abs/2302.10086v1)|null|
 |**2023-02-20**|**Tail recursion transformation for invertible functions**|Joachim Tilsted Kristensen et.al.|[2302.10049v1](http://arxiv.org/abs/2302.10049v1)|null|
@@ -84,6 +88,7 @@
 |**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|[link](https://github.com/alab-nii/multi-hop-analysis)|
 |**2023-02-11**|**Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning**|Jiayu Liu et.al.|[2302.05717v1](http://arxiv.org/abs/2302.05717v1)|null|
 |**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
+|**2023-02-11**|**See Your Heart: Psychological states Interpretation through Visual Creations**|Likun Yang et.al.|[2302.10276v1](http://arxiv.org/abs/2302.10276v1)|null|
 |**2023-02-10**|**The Wisdom of Hindsight Makes Language Models Better Instruction Followers**|Tianjun Zhang et.al.|[2302.05206v1](http://arxiv.org/abs/2302.05206v1)|[link](https://github.com/tianjunz/hir)|
 |**2023-02-10**|**Translating Natural Language to Planning Goals with Large-Language Models**|Yaqi Xie et.al.|[2302.05128v1](http://arxiv.org/abs/2302.05128v1)|[link](https://github.com/clear-nus/gpt-pddl)|
 |**2023-02-10**|**Predicting Desirable Revisions of Evidence and Reasoning in Argumentative Writing**|Tazin Afrin et.al.|[2302.05039v1](http://arxiv.org/abs/2302.05039v1)|[link](https://github.com/tazin-afrin/desirable-revision-classification)|
@@ -188,9 +193,3 @@
 |**2022-12-20**|**Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**|Harsh Trivedi et.al.|[2212.10509v1](http://arxiv.org/abs/2212.10509v1)|[link](https://github.com/stonybrooknlp/ircot)|
 |**2022-12-20**|**DePlot: One-shot visual language reasoning by plot-to-table translation**|Fangyu Liu et.al.|[2212.10505v1](http://arxiv.org/abs/2212.10505v1)|null|
 |**2022-12-20**|**Generic Temporal Reasoning with Differential Analysis and Explanation**|Yu Feng et.al.|[2212.10467v1](http://arxiv.org/abs/2212.10467v1)|null|
-|**2022-12-20**|**Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations**|Valentina Pyatkin et.al.|[2212.10409v1](http://arxiv.org/abs/2212.10409v1)|null|
-|**2022-12-20**|**Towards Reasoning in Large Language Models: A Survey**|Jie Huang et.al.|[2212.10403v1](http://arxiv.org/abs/2212.10403v1)|[link](https://github.com/jeffhj/lm-reasoning)|
-|**2022-12-20**|**Debiasing Stance Detection Models with Counterfactual Reasoning and Adversarial Bias Learning**|Jianhua Yuan et.al.|[2212.10392v1](http://arxiv.org/abs/2212.10392v1)|null|
-|**2022-12-20**|**Does It Affect You? Social and Learning Implications of Using Cognitive-Affective State Recognition for Proactive Human-Robot Tutoring**|Matthias Kraus et.al.|[2212.10346v1](http://arxiv.org/abs/2212.10346v1)|null|
-|**2022-12-20**|**Do I have the Knowledge to Answer? Investigating Answerability of Knowledge Base Questions**|Mayur Patidar et.al.|[2212.10189v1](http://arxiv.org/abs/2212.10189v1)|null|
-|**2022-12-20**|**True Detective: A Challenging Benchmark for Deep Abductive Reasoning \\in Foundation Models**|Maksym Del et.al.|[2212.10114v1](http://arxiv.org/abs/2212.10114v1)|[link](https://github.com/delmaksym/true-detective)|
