@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-23 09:22:22
+ Automated deployment @ 2023-02-23 20:35:26
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -19,6 +19,9 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-22**|**GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method**|Xing Tang et.al.|[2302.11091v1](http://arxiv.org/abs/2302.11091v1)|[link](https://github.com/xt-55/GTRL)|
+|**2023-02-22**|**Distribution Normalization: An "Effortless" Test-Time Augmentation for Contrastively Learned Visual-language Models**|Yifei Zhou et.al.|[2302.11084v1](http://arxiv.org/abs/2302.11084v1)|[link](https://github.com/fengyuli2002/distribution-normalization)|
+|**2023-02-21**|**Learning to Retrieve Engaging Follow-Up Queries**|Christopher Richardson et.al.|[2302.10978v1](http://arxiv.org/abs/2302.10978v1)|[link](https://github.com/amazon-science/fq-bank)|
 |**2023-02-21**|**Real-World Deployment and Evaluation of Kwame for Science, An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2302.10786v1](http://arxiv.org/abs/2302.10786v1)|null|
 |**2023-02-21**|**ChatGPT: Jack of all trades, master of none**|Jan Kocoń et.al.|[2302.10724v1](http://arxiv.org/abs/2302.10724v1)|[link](https://github.com/clarin-pl/chatgpt-evaluation-01-2023)|
 |**2023-02-21**|**Connecting Humanities and Social Sciences: Applying Language and Speech Technology to Online Panel Surveys**|Henk van den Heuvel et.al.|[2302.10593v1](http://arxiv.org/abs/2302.10593v1)|null|
@@ -47,16 +50,13 @@
 |**2023-02-15**|**A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning**|Zhisheng Tang et.al.|[2302.09068v1](http://arxiv.org/abs/2302.09068v1)|null|
 |**2023-02-14**|**A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified?**|Kathleen C. Fraser et.al.|[2302.07159v1](http://arxiv.org/abs/2302.07159v1)|null|
 |**2023-02-14**|**Modeling Complex Event Scenarios via Simple Entity-focused Questions**|Mahnaz Koupaee et.al.|[2302.07139v1](http://arxiv.org/abs/2302.07139v1)|[link](https://github.com/stonybrooknlp/qa-event-lms)|
-|**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
-|**2023-02-13**|**On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)**|Karthik Valmeekam et.al.|[2302.06706v1](http://arxiv.org/abs/2302.06706v1)|null|
-|**2023-02-13**|**Artificial intelligence in psychology research**|Peter S. Park et.al.|[2302.07267v2](http://arxiv.org/abs/2302.07267v2)|null|
-|**2023-02-13**|**Paparazzi: A Deep Dive into the Capabilities of Language and Vision Models for Grounding Viewpoint Descriptions**|Henrik Voigt et.al.|[2302.10282v1](http://arxiv.org/abs/2302.10282v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-22**|**Improving Contextual Spelling Correction by External Acoustics Attention and Semantic Aware Data Augmentation**|Xiaoqiang Wang et.al.|[2302.11192v1](http://arxiv.org/abs/2302.11192v1)|null|
 |**2023-02-21**|**Hyena Hierarchy: Towards Larger Convolutional Language Models**|Michael Poli et.al.|[2302.10866v1](http://arxiv.org/abs/2302.10866v1)|null|
 |**2023-02-21**|**Real-World Deployment and Evaluation of Kwame for Science, An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2302.10786v1](http://arxiv.org/abs/2302.10786v1)|null|
 |**2023-02-20**|**Learning Deep Semantics for Test Completion**|Pengyu Nie et.al.|[2302.10166v1](http://arxiv.org/abs/2302.10166v1)|null|
@@ -143,7 +143,7 @@
 |**2023-01-24**|**Conclusion-based Counter-Argument Generation**|Milad Alshomary et.al.|[2301.09911v1](http://arxiv.org/abs/2301.09911v1)|null|
 |**2023-01-23**|**Selective Explanations: Leveraging Human Input to Align Explainable AI**|Vivian Lai et.al.|[2301.09656v1](http://arxiv.org/abs/2301.09656v1)|null|
 |**2023-01-21**|**Unifying Structure Reasoning and Language Model Pre-training for Complex Reasoning**|Siyuan Wang et.al.|[2301.08913v1](http://arxiv.org/abs/2301.08913v1)|null|
-|**2023-01-19**|**Batch Prompting: Efficient Inference with Large Language Model APIs**|Zhoujun Cheng et.al.|[2301.08721v1](http://arxiv.org/abs/2301.08721v1)|null|
+|**2023-01-19**|**Batch Prompting: Efficient Inference with Large Language Model APIs**|Zhoujun Cheng et.al.|[2301.08721v1](http://arxiv.org/abs/2301.08721v1)|[link](https://github.com/hkunlp/batch-prompting)|
 |**2023-01-18**|**Graphix-T5: Mixing Pre-Trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing**|Jinyang Li et.al.|[2301.07507v1](http://arxiv.org/abs/2301.07507v1)|null|
 |**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|[link](https://github.com/dennlinger/summaries)|
 |**2023-01-17**|**VaxxHesitancy: A Dataset for Studying Hesitancy Towards COVID-19 Vaccination on Twitter**|Yida Mu et.al.|[2301.06660v2](http://arxiv.org/abs/2301.06660v2)|null|
@@ -191,4 +191,3 @@
 |**2022-12-20**|**Privacy-Preserving Domain Adaptation of Semantic Parsers**|Fatemehsadat Mireshghallah et.al.|[2212.10520v1](http://arxiv.org/abs/2212.10520v1)|null|
 |**2022-12-20**|**Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**|Harsh Trivedi et.al.|[2212.10509v1](http://arxiv.org/abs/2212.10509v1)|[link](https://github.com/stonybrooknlp/ircot)|
 |**2022-12-20**|**DePlot: One-shot visual language reasoning by plot-to-table translation**|Fangyu Liu et.al.|[2212.10505v1](http://arxiv.org/abs/2212.10505v1)|null|
-|**2022-12-20**|**Generic Temporal Reasoning with Differential Analysis and Explanation**|Yu Feng et.al.|[2212.10467v1](http://arxiv.org/abs/2212.10467v1)|null|
