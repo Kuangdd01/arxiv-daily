@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-24 09:23:59
+ Automated deployment @ 2023-02-24 20:33:02
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -19,6 +19,14 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-23**|**Quantifying & Modeling Feature Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v1](http://arxiv.org/abs/2302.12247v1)|[link](https://github.com/pliang279/pid)|
+|**2023-02-23**|**Active Prompting with Chain-of-Thought for Large Language Models**|Shizhe Diao et.al.|[2302.12246v1](http://arxiv.org/abs/2302.12246v1)|null|
+|**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
+|**2023-02-23**|**Coarse-to-Fine Knowledge Selection for Document Grounded Dialogs**|Yeqin Zhang et.al.|[2302.11849v1](http://arxiv.org/abs/2302.11849v1)|null|
+|**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|null|
+|**2023-02-23**|**VLSP 2022 -- EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v1](http://arxiv.org/abs/2302.11752v1)|null|
+|**2023-02-23**|**Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?**|Yang Chen et.al.|[2302.11713v1](http://arxiv.org/abs/2302.11713v1)|null|
+|**2023-02-22**|**On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective**|Jindong Wang et.al.|[2302.12095v1](http://arxiv.org/abs/2302.12095v1)|null|
 |**2023-02-22**|**GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method**|Xing Tang et.al.|[2302.11091v1](http://arxiv.org/abs/2302.11091v1)|[link](https://github.com/xt-55/GTRL)|
 |**2023-02-22**|**Distribution Normalization: An "Effortless" Test-Time Augmentation for Contrastively Learned Visual-language Models**|Yifei Zhou et.al.|[2302.11084v1](http://arxiv.org/abs/2302.11084v1)|[link](https://github.com/fengyuli2002/distribution-normalization)|
 |**2023-02-21**|**Learning to Retrieve Engaging Follow-Up Queries**|Christopher Richardson et.al.|[2302.10978v1](http://arxiv.org/abs/2302.10978v1)|[link](https://github.com/amazon-science/fq-bank)|
@@ -46,16 +54,14 @@
 |**2023-02-16**|**Do We Still Need Clinical Language Models?**|Eric Lehman et.al.|[2302.08091v1](http://arxiv.org/abs/2302.08091v1)|null|
 |**2023-02-15**|**Commonsense Reasoning for Conversational AI: A Survey of the State of the Art**|Christopher Richardson et.al.|[2302.07926v1](http://arxiv.org/abs/2302.07926v1)|null|
 |**2023-02-15**|**Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**|Keito Kudo et.al.|[2302.07866v1](http://arxiv.org/abs/2302.07866v1)|[link](https://github.com/keitokudo/dentaku_skill_tree)|
-|**2023-02-15**|**Word class representations spontaneously emerge in a deep neural network trained on next word prediction**|Kishore Surendra et.al.|[2302.07588v1](http://arxiv.org/abs/2302.07588v1)|null|
-|**2023-02-15**|**A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning**|Zhisheng Tang et.al.|[2302.09068v1](http://arxiv.org/abs/2302.09068v1)|null|
-|**2023-02-14**|**A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified?**|Kathleen C. Fraser et.al.|[2302.07159v1](http://arxiv.org/abs/2302.07159v1)|null|
-|**2023-02-14**|**Modeling Complex Event Scenarios via Simple Entity-focused Questions**|Mahnaz Koupaee et.al.|[2302.07139v1](http://arxiv.org/abs/2302.07139v1)|[link](https://github.com/stonybrooknlp/qa-event-lms)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-23**|**Active Prompting with Chain-of-Thought for Large Language Models**|Shizhe Diao et.al.|[2302.12246v1](http://arxiv.org/abs/2302.12246v1)|null|
+|**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|null|
 |**2023-02-22**|**Improving Contextual Spelling Correction by External Acoustics Attention and Semantic Aware Data Augmentation**|Xiaoqiang Wang et.al.|[2302.11192v1](http://arxiv.org/abs/2302.11192v1)|null|
 |**2023-02-21**|**Hyena Hierarchy: Towards Larger Convolutional Language Models**|Michael Poli et.al.|[2302.10866v1](http://arxiv.org/abs/2302.10866v1)|null|
 |**2023-02-21**|**Real-World Deployment and Evaluation of Kwame for Science, An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2302.10786v1](http://arxiv.org/abs/2302.10786v1)|null|
@@ -188,6 +194,3 @@
 |**2022-12-20**|**Parsel: A (De-)compositional Framework for Algorithmic Reasoning with Language Models**|Eric Zelikman et.al.|[2212.10561v2](http://arxiv.org/abs/2212.10561v2)|[link](https://github.com/ezelikman/parsel)|
 |**2022-12-20**|**DimonGen: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships**|Chenzhengyi Liu et.al.|[2212.10545v1](http://arxiv.org/abs/2212.10545v1)|[link](https://github.com/liuchenzhengyi/dimongen)|
 |**2022-12-20**|**A Survey of Deep Learning for Mathematical Reasoning**|Pan Lu et.al.|[2212.10535v1](http://arxiv.org/abs/2212.10535v1)|[link](https://github.com/lupantech/dl4math)|
-|**2022-12-20**|**Privacy-Preserving Domain Adaptation of Semantic Parsers**|Fatemehsadat Mireshghallah et.al.|[2212.10520v1](http://arxiv.org/abs/2212.10520v1)|null|
-|**2022-12-20**|**Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**|Harsh Trivedi et.al.|[2212.10509v1](http://arxiv.org/abs/2212.10509v1)|[link](https://github.com/stonybrooknlp/ircot)|
-|**2022-12-20**|**DePlot: One-shot visual language reasoning by plot-to-table translation**|Fangyu Liu et.al.|[2212.10505v1](http://arxiv.org/abs/2212.10505v1)|null|
