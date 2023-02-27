@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-27 09:24:11
+ Automated deployment @ 2023-02-27 20:35:21
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -12,13 +12,18 @@
 |**2023-02-21**|**Tell Model Where to Attend: Improving Interpretability of Aspect-Based Sentiment Classification via Small Explanation Annotations**|Zhenxiao Cheng et.al.|[2302.10479v1](http://arxiv.org/abs/2302.10479v1)|null|
 |**2023-02-19**|**Learning Language Representations with Logical Inductive Bias**|Jianshu Chen et.al.|[2302.09458v1](http://arxiv.org/abs/2302.09458v1)|null|
 |**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v1](http://arxiv.org/abs/2302.09051v1)|null|
-|**2023-02-16**|**Syntactic Structure Processing in the Brain while Listening**|Subba Reddy Oota et.al.|[2302.08589v1](http://arxiv.org/abs/2302.08589v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-24**|**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**|Baolin Peng et.al.|[2302.12813v1](http://arxiv.org/abs/2302.12813v1)|null|
+|**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|null|
+|**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
+|**2023-02-24**|**Analyzing And Editing Inner Mechanisms Of Backdoored Language Models**|Max Lamparth et.al.|[2302.12461v1](http://arxiv.org/abs/2302.12461v1)|null|
+|**2023-02-23**|**Extracting Victim Counts from Text**|Mian Zhong et.al.|[2302.12367v1](http://arxiv.org/abs/2302.12367v1)|null|
+|**2023-02-23**|**Testing AI performance on less frequent aspects of language reveals insensitivity to underlying meaning**|Vittoria Dentella et.al.|[2302.12313v1](http://arxiv.org/abs/2302.12313v1)|null|
 |**2023-02-23**|**Quantifying & Modeling Feature Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v1](http://arxiv.org/abs/2302.12247v1)|[link](https://github.com/pliang279/pid)|
 |**2023-02-23**|**Active Prompting with Chain-of-Thought for Large Language Models**|Shizhe Diao et.al.|[2302.12246v1](http://arxiv.org/abs/2302.12246v1)|null|
 |**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
@@ -48,18 +53,16 @@
 |**2023-02-17**|**Natural Response Generation for Chinese Reading Comprehension**|Nuo Chen et.al.|[2302.08817v1](http://arxiv.org/abs/2302.08817v1)|[link](https://github.com/nuochenpku/penguin)|
 |**2023-02-16**|**Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media**|Gerhard Paaß et.al.|[2302.08575v1](http://arxiv.org/abs/2302.08575v1)|null|
 |**2023-02-16**|**Evaluating and Improving the Coreference Capabilities of Machine Translation Models**|Asaf Yehudai et.al.|[2302.08464v1](http://arxiv.org/abs/2302.08464v1)|null|
-|**2023-02-16**|**Bridge the Gap between Language models and Tabular Understanding**|Nuo Chen et.al.|[2302.09302v1](http://arxiv.org/abs/2302.09302v1)|null|
-|**2023-02-16**|**Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?**|Chengwei Qin et.al.|[2302.08143v1](http://arxiv.org/abs/2302.08143v1)|null|
-|**2023-02-16**|**Product Question Answering in E-Commerce: A Survey**|Yang Deng et.al.|[2302.08092v1](http://arxiv.org/abs/2302.08092v1)|null|
-|**2023-02-16**|**Do We Still Need Clinical Language Models?**|Eric Lehman et.al.|[2302.08091v1](http://arxiv.org/abs/2302.08091v1)|null|
-|**2023-02-15**|**Commonsense Reasoning for Conversational AI: A Survey of the State of the Art**|Christopher Richardson et.al.|[2302.07926v1](http://arxiv.org/abs/2302.07926v1)|null|
-|**2023-02-15**|**Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**|Keito Kudo et.al.|[2302.07866v1](http://arxiv.org/abs/2302.07866v1)|[link](https://github.com/keitokudo/dentaku_skill_tree)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-24**|**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**|KaShun Shum et.al.|[2302.12822v1](http://arxiv.org/abs/2302.12822v1)|null|
+|**2023-02-24**|**Implicit Temporal Reasoning for Evidence-Based Fact-Checking**|Liesbeth Allein et.al.|[2302.12569v1](http://arxiv.org/abs/2302.12569v1)|[link](https://github.com/marlon668/verificationclaimswithtimeattribution)|
+|**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
+|**2023-02-23**|**Extracting Victim Counts from Text**|Mian Zhong et.al.|[2302.12367v1](http://arxiv.org/abs/2302.12367v1)|null|
 |**2023-02-23**|**Active Prompting with Chain-of-Thought for Large Language Models**|Shizhe Diao et.al.|[2302.12246v1](http://arxiv.org/abs/2302.12246v1)|null|
 |**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|[link](https://github.com/yeeeqichen/fits)|
 |**2023-02-22**|**Improving Contextual Spelling Correction by External Acoustics Attention and Semantic Aware Data Augmentation**|Xiaoqiang Wang et.al.|[2302.11192v1](http://arxiv.org/abs/2302.11192v1)|null|
@@ -190,7 +193,3 @@
 |**2022-12-21**|**Multi-hop Evidence Retrieval for Cross-document Relation Extraction**|Keming Lu et.al.|[2212.10786v1](http://arxiv.org/abs/2212.10786v1)|null|
 |**2022-12-21**|**KL Regularized Normalization Framework for Low Resource Tasks**|Neeraj Kumar et.al.|[2212.11275v1](http://arxiv.org/abs/2212.11275v1)|null|
 |**2022-12-21**|**ImPaKT: A Dataset for Open-Schema Knowledge Base Construction**|Luke Vilnis et.al.|[2212.10770v1](http://arxiv.org/abs/2212.10770v1)|null|
-|**2022-12-21**|**CORRPUS: Detecting Story Inconsistencies via Codex-Bootstrapped Neurosymbolic Reasoning**|Yijiang River Dong et.al.|[2212.10754v1](http://arxiv.org/abs/2212.10754v1)|null|
-|**2022-12-20**|**Parsel: A (De-)compositional Framework for Algorithmic Reasoning with Language Models**|Eric Zelikman et.al.|[2212.10561v2](http://arxiv.org/abs/2212.10561v2)|[link](https://github.com/ezelikman/parsel)|
-|**2022-12-20**|**DimonGen: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships**|Chenzhengyi Liu et.al.|[2212.10545v1](http://arxiv.org/abs/2212.10545v1)|[link](https://github.com/liuchenzhengyi/dimongen)|
-|**2022-12-20**|**A Survey of Deep Learning for Mathematical Reasoning**|Pan Lu et.al.|[2212.10535v1](http://arxiv.org/abs/2212.10535v1)|[link](https://github.com/lupantech/dl4math)|
