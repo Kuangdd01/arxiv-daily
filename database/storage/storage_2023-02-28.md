@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-28 09:24:13
+ Automated deployment @ 2023-02-28 20:34:06
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,24 +8,39 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-27**|**Inseq: An Interpretability Toolkit for Sequence Generation Models**|Gabriele Sarti et.al.|[2302.13942v1](http://arxiv.org/abs/2302.13942v1)|[link](https://github.com/inseq-team/inseq)|
+|**2023-02-27**|**Evaluation of Automatically Constructed Word Meaning Explanations**|Marie Stará et.al.|[2302.13625v1](http://arxiv.org/abs/2302.13625v1)|null|
+|**2023-02-27**|**Changes in Commuter Behavior from COVID-19 Lockdowns in the Atlanta Metropolitan Area**|Tejas Santanam et.al.|[2302.13512v1](http://arxiv.org/abs/2302.13512v1)|null|
+|**2023-02-25**|**Human-in-the-Loop Schema Induction**|Tianyi Zhang et.al.|[2302.13048v1](http://arxiv.org/abs/2302.13048v1)|null|
+|**2023-02-23**|**Neural networks for learning personality traits from natural language**|Giorgia Adorni et.al.|[2302.13782v1](http://arxiv.org/abs/2302.13782v1)|null|
 |**2023-02-21**|**Parallel Sentence-Level Explanation Generation for Real-World Low-Resource Scenarios**|Yan Liu et.al.|[2302.10707v1](http://arxiv.org/abs/2302.10707v1)|null|
 |**2023-02-21**|**Tell Model Where to Attend: Improving Interpretability of Aspect-Based Sentiment Classification via Small Explanation Annotations**|Zhenxiao Cheng et.al.|[2302.10479v1](http://arxiv.org/abs/2302.10479v1)|null|
-|**2023-02-19**|**Learning Language Representations with Logical Inductive Bias**|Jianshu Chen et.al.|[2302.09458v1](http://arxiv.org/abs/2302.09458v1)|null|
-|**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v1](http://arxiv.org/abs/2302.09051v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
+|**2023-02-27**|**Make Every Example Count: On Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets**|Irina Bejan et.al.|[2302.13959v1](http://arxiv.org/abs/2302.13959v1)|null|
+|**2023-02-27**|**Let's have a chat! A Conversation with ChatGPT: Technology, Applications, and Limitations**|Sakib Shahriar et.al.|[2302.13817v1](http://arxiv.org/abs/2302.13817v1)|null|
+|**2023-02-27**|**Orca: A Few-shot Benchmark for Chinese Conversational Machine Reading Comprehension**|Nuo Chen et.al.|[2302.13619v1](http://arxiv.org/abs/2302.13619v1)|[link](https://github.com/nuochenpku/orca)|
+|**2023-02-27**|**kNN-BOX: A Unified Framework for Nearest Neighbor Generation**|Wenhao Zhu et.al.|[2302.13574v1](http://arxiv.org/abs/2302.13574v1)|[link](https://github.com/njunlp/knn-box)|
+|**2023-02-26**|**Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models**|Kaitlyn Zhou et.al.|[2302.13439v1](http://arxiv.org/abs/2302.13439v1)|null|
+|**2023-02-26**|**Cross-Lingual Question Answering over Knowledge Base as Reading Comprehension**|Chen Zhang et.al.|[2302.13241v1](http://arxiv.org/abs/2302.13241v1)|[link](https://github.com/luciusssss/xkbqa-as-mrc)|
+|**2023-02-26**|**CLICKER: Attention-Based Cross-Lingual Commonsense Knowledge Transfer**|Ruolin Su et.al.|[2302.13201v1](http://arxiv.org/abs/2302.13201v1)|null|
+|**2023-02-25**|**Sequential Query Encoding For Complex Query Answering on Knowledge Graphs**|Jiaxin Bai et.al.|[2302.13114v1](http://arxiv.org/abs/2302.13114v1)|null|
+|**2023-02-25**|**Choice Fusion as Knowledge for Zero-Shot Dialogue State Tracking**|Ruolin Su et.al.|[2302.13013v1](http://arxiv.org/abs/2302.13013v1)|[link](https://github.com/youlandasu/choice-fusion)|
 |**2023-02-24**|**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**|Baolin Peng et.al.|[2302.12813v1](http://arxiv.org/abs/2302.12813v1)|null|
 |**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|null|
 |**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
 |**2023-02-24**|**Analyzing And Editing Inner Mechanisms Of Backdoored Language Models**|Max Lamparth et.al.|[2302.12461v1](http://arxiv.org/abs/2302.12461v1)|null|
 |**2023-02-23**|**Extracting Victim Counts from Text**|Mian Zhong et.al.|[2302.12367v1](http://arxiv.org/abs/2302.12367v1)|null|
-|**2023-02-23**|**Testing AI performance on less frequent aspects of language reveals insensitivity to underlying meaning**|Vittoria Dentella et.al.|[2302.12313v1](http://arxiv.org/abs/2302.12313v1)|null|
+|**2023-02-23**|**Dr ChatGPT, tell me what I want to hear: How prompt knowledge impacts health answer correctness**|Guido Zuccon et.al.|[2302.13793v1](http://arxiv.org/abs/2302.13793v1)|null|
+|**2023-02-23**|**Testing AI performance on less frequent aspects of language reveals insensitivity to underlying meaning**|Vittoria Dentella et.al.|[2302.12313v2](http://arxiv.org/abs/2302.12313v2)|null|
 |**2023-02-23**|**Quantifying & Modeling Feature Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v1](http://arxiv.org/abs/2302.12247v1)|[link](https://github.com/pliang279/pid)|
 |**2023-02-23**|**Active Prompting with Chain-of-Thought for Large Language Models**|Shizhe Diao et.al.|[2302.12246v2](http://arxiv.org/abs/2302.12246v2)|[link](https://github.com/shizhediao/active-cot)|
+|**2023-02-23**|**An Independent Evaluation of ChatGPT on Mathematical Word Problems (MWP)**|Paulo Shakarian et.al.|[2302.13814v1](http://arxiv.org/abs/2302.13814v1)|null|
 |**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
 |**2023-02-23**|**Coarse-to-Fine Knowledge Selection for Document Grounded Dialogs**|Yeqin Zhang et.al.|[2302.11849v1](http://arxiv.org/abs/2302.11849v1)|null|
 |**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|[link](https://github.com/yeeeqichen/fits)|
@@ -43,22 +58,19 @@
 |**2023-02-20**|**Zero-Shot Information Extraction via Chatting with ChatGPT**|Xiang Wei et.al.|[2302.10205v1](http://arxiv.org/abs/2302.10205v1)|null|
 |**2023-02-20**|**STOA-VLP: Spatial-Temporal Modeling of Object and Action for Video-Language Pre-training**|Weihong Zhong et.al.|[2302.09736v1](http://arxiv.org/abs/2302.09736v1)|null|
 |**2023-02-19**|**Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation**|Lorenz Kuhn et.al.|[2302.09664v2](http://arxiv.org/abs/2302.09664v2)|null|
-|**2023-02-19**|**Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference**|Ming Li et.al.|[2302.09582v2](http://arxiv.org/abs/2302.09582v2)|null|
-|**2023-02-19**|**Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT**|Qihuang Zhong et.al.|[2302.10198v1](http://arxiv.org/abs/2302.10198v1)|[link](https://github.com/whu-zqh/chatgpt-vs.-bert)|
-|**2023-02-19**|**Learning Language Representations with Logical Inductive Bias**|Jianshu Chen et.al.|[2302.09458v1](http://arxiv.org/abs/2302.09458v1)|null|
-|**2023-02-18**|**Bag of Tricks for Effective Language Model Pretraining and Downstream Adaptation: A Case Study on GLUE**|Qihuang Zhong et.al.|[2302.09268v1](http://arxiv.org/abs/2302.09268v1)|null|
-|**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v1](http://arxiv.org/abs/2302.09051v1)|null|
-|**2023-02-17**|**Designing and Evaluating Interfaces that Highlight News Coverage Diversity Using Discord Questions**|Philippe Laban et.al.|[2302.08997v1](http://arxiv.org/abs/2302.08997v1)|null|
-|**2023-02-17**|**Handling the Alignment for Wake Word Detection: A Comparison Between Alignment-Based, Alignment-Free and Hybrid Approaches**|Vinicius Ribeiro et.al.|[2302.08950v1](http://arxiv.org/abs/2302.08950v1)|null|
-|**2023-02-17**|**Natural Response Generation for Chinese Reading Comprehension**|Nuo Chen et.al.|[2302.08817v1](http://arxiv.org/abs/2302.08817v1)|[link](https://github.com/nuochenpku/penguin)|
-|**2023-02-16**|**Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media**|Gerhard Paaß et.al.|[2302.08575v1](http://arxiv.org/abs/2302.08575v1)|null|
-|**2023-02-16**|**Evaluating and Improving the Coreference Capabilities of Machine Translation Models**|Asaf Yehudai et.al.|[2302.08464v1](http://arxiv.org/abs/2302.08464v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
+|**2023-02-27**|**Fluid Transformers and Creative Analogies: Exploring Large Language Models' Capacity for Augmenting Cross-Domain Analogical Creativity**|Zijian Ding et.al.|[2302.12832v1](http://arxiv.org/abs/2302.12832v1)|null|
+|**2023-02-27**|**Argument Mining using BERT and Self-Attention based Embeddings**|Pranjal Srivastava et.al.|[2302.13906v1](http://arxiv.org/abs/2302.13906v1)|null|
+|**2023-02-27**|**Orca: A Few-shot Benchmark for Chinese Conversational Machine Reading Comprehension**|Nuo Chen et.al.|[2302.13619v1](http://arxiv.org/abs/2302.13619v1)|[link](https://github.com/nuochenpku/orca)|
+|**2023-02-27**|**Changes in Commuter Behavior from COVID-19 Lockdowns in the Atlanta Metropolitan Area**|Tejas Santanam et.al.|[2302.13512v1](http://arxiv.org/abs/2302.13512v1)|null|
+|**2023-02-26**|**Tailoring Language Generation Models under Total Variation Distance**|Haozhe Ji et.al.|[2302.13344v1](http://arxiv.org/abs/2302.13344v1)|[link](https://github.com/thu-coai/tailr)|
+|**2023-02-26**|**CLICKER: Attention-Based Cross-Lingual Commonsense Knowledge Transfer**|Ruolin Su et.al.|[2302.13201v1](http://arxiv.org/abs/2302.13201v1)|null|
 |**2023-02-24**|**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**|KaShun Shum et.al.|[2302.12822v1](http://arxiv.org/abs/2302.12822v1)|null|
 |**2023-02-24**|**Implicit Temporal Reasoning for Evidence-Based Fact-Checking**|Liesbeth Allein et.al.|[2302.12569v1](http://arxiv.org/abs/2302.12569v1)|[link](https://github.com/marlon668/verificationclaimswithtimeattribution)|
 |**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
@@ -176,7 +188,7 @@
 |**2023-01-03**|**Language Models are Drummers: Drum Composition with Natural Language Pre-Training**|Li Zhang et.al.|[2301.01162v1](http://arxiv.org/abs/2301.01162v1)|null|
 |**2023-01-02**|**Understanding Political Polarisation using Language Models: A dataset and method**|Samiran Gode et.al.|[2301.00891v1](http://arxiv.org/abs/2301.00891v1)|null|
 |**2023-01-02**|**IRT2: Inductive Linking and Ranking in Knowledge Graphs of Varying Scale**|Felix Hamann et.al.|[2301.00716v1](http://arxiv.org/abs/2301.00716v1)|[link](https://github.com/lavis-nlp/irt2)|
-|**2023-01-02**|**Analysing Discrete Self Supervised Speech Representation for Spoken Language Modeling**|Amitay Sicherman et.al.|[2301.00591v1](http://arxiv.org/abs/2301.00591v1)|[link](https://github.com/slp-rl/slm-discrete-representations)|
+|**2023-01-02**|**Analysing Discrete Self Supervised Speech Representation for Spoken Language Modeling**|Amitay Sicherman et.al.|[2301.00591v2](http://arxiv.org/abs/2301.00591v2)|[link](https://github.com/slp-rl/slm-discrete-representations)|
 |**2023-01-01**|**Leveraging Semantic Representations Combined with Contextual Word Representations for Recognizing Textual Entailment in Vietnamese**|Quoc-Loc Duong et.al.|[2301.00422v1](http://arxiv.org/abs/2301.00422v1)|null|
 |**2023-01-01**|**Chatbots as Problem Solvers: Playing Twenty Questions with Role Reversals**|David Noever et.al.|[2301.01743v1](http://arxiv.org/abs/2301.01743v1)|null|
 |**2022-12-31**|**Rethinking with Retrieval: Faithful Large Language Model Inference**|Hangfeng He et.al.|[2301.00303v1](http://arxiv.org/abs/2301.00303v1)|[link](https://github.com/hornhehhf/rr)|
@@ -188,8 +200,3 @@
 |**2022-12-24**|**STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension**|Borui Wang et.al.|[2212.12652v1](http://arxiv.org/abs/2212.12652v1)|null|
 |**2022-12-22**|**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**|Srinivasan Iyer et.al.|[2212.12017v3](http://arxiv.org/abs/2212.12017v3)|null|
 |**2022-12-21**|**What do LLMs Know about Financial Markets? A Case Study on Reddit Market Sentiment Analysis**|Xiang Deng et.al.|[2212.11311v1](http://arxiv.org/abs/2212.11311v1)|null|
-|**2022-12-21**|**Resolving Indirect Referring Expressions for Entity Selection**|Mohammad Javad Hosseini et.al.|[2212.10933v1](http://arxiv.org/abs/2212.10933v1)|[link](https://github.com/google-research-datasets/altentities)|
-|**2022-12-21**|**Language Models as Inductive Reasoners**|Zonglin Yang et.al.|[2212.10923v1](http://arxiv.org/abs/2212.10923v1)|null|
-|**2022-12-21**|**Multi-hop Evidence Retrieval for Cross-document Relation Extraction**|Keming Lu et.al.|[2212.10786v1](http://arxiv.org/abs/2212.10786v1)|null|
-|**2022-12-21**|**KL Regularized Normalization Framework for Low Resource Tasks**|Neeraj Kumar et.al.|[2212.11275v1](http://arxiv.org/abs/2212.11275v1)|null|
-|**2022-12-21**|**ImPaKT: A Dataset for Open-Schema Knowledge Base Construction**|Luke Vilnis et.al.|[2212.10770v1](http://arxiv.org/abs/2212.10770v1)|null|
