@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-01 09:40:20
+ Automated deployment @ 2023-03-01 20:35:00
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -9,6 +9,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-02-27**|**Inseq: An Interpretability Toolkit for Sequence Generation Models**|Gabriele Sarti et.al.|[2302.13942v1](http://arxiv.org/abs/2302.13942v1)|[link](https://github.com/inseq-team/inseq)|
+|**2023-02-27**|**Explanations for Automatic Speech Recognition**|Xiaoliang Wu et.al.|[2302.14062v1](http://arxiv.org/abs/2302.14062v1)|null|
 |**2023-02-27**|**Evaluation of Automatically Constructed Word Meaning Explanations**|Marie Stará et.al.|[2302.13625v1](http://arxiv.org/abs/2302.13625v1)|null|
 |**2023-02-27**|**Changes in Commuter Behavior from COVID-19 Lockdowns in the Atlanta Metropolitan Area**|Tejas Santanam et.al.|[2302.13512v1](http://arxiv.org/abs/2302.13512v1)|null|
 |**2023-02-25**|**Human-in-the-Loop Schema Induction**|Tianyi Zhang et.al.|[2302.13048v1](http://arxiv.org/abs/2302.13048v1)|null|
@@ -21,6 +22,7 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-28**|**Information-Restricted Neural Language Models Reveal Different Brain Regions' Sensitivity to Semantics, Syntax and Context**|Alexandre Pasquiou et.al.|[2302.14389v1](http://arxiv.org/abs/2302.14389v1)|[link](https://github.com/alexandrepsq/information-restrited-nlms)|
 |**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
 |**2023-02-27**|**Make Every Example Count: On Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets**|Irina Bejan et.al.|[2302.13959v1](http://arxiv.org/abs/2302.13959v1)|null|
 |**2023-02-27**|**Let's have a chat! A Conversation with ChatGPT: Technology, Applications, and Limitations**|Sakib Shahriar et.al.|[2302.13817v1](http://arxiv.org/abs/2302.13817v1)|null|
@@ -30,6 +32,7 @@
 |**2023-02-26**|**Cross-Lingual Question Answering over Knowledge Base as Reading Comprehension**|Chen Zhang et.al.|[2302.13241v1](http://arxiv.org/abs/2302.13241v1)|[link](https://github.com/luciusssss/xkbqa-as-mrc)|
 |**2023-02-26**|**CLICKER: Attention-Based Cross-Lingual Commonsense Knowledge Transfer**|Ruolin Su et.al.|[2302.13201v1](http://arxiv.org/abs/2302.13201v1)|null|
 |**2023-02-25**|**Sequential Query Encoding For Complex Query Answering on Knowledge Graphs**|Jiaxin Bai et.al.|[2302.13114v2](http://arxiv.org/abs/2302.13114v2)|null|
+|**2023-02-25**|**Cross-modal Contrastive Learning for Multimodal Fake News Detection**|Longzheng Wang et.al.|[2302.14057v1](http://arxiv.org/abs/2302.14057v1)|null|
 |**2023-02-25**|**Choice Fusion as Knowledge for Zero-Shot Dialogue State Tracking**|Ruolin Su et.al.|[2302.13013v1](http://arxiv.org/abs/2302.13013v1)|[link](https://github.com/youlandasu/choice-fusion)|
 |**2023-02-24**|**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**|Baolin Peng et.al.|[2302.12813v1](http://arxiv.org/abs/2302.12813v1)|null|
 |**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|null|
@@ -52,18 +55,13 @@
 |**2023-02-21**|**Learning to Retrieve Engaging Follow-Up Queries**|Christopher Richardson et.al.|[2302.10978v1](http://arxiv.org/abs/2302.10978v1)|[link](https://github.com/amazon-science/fq-bank)|
 |**2023-02-21**|**Real-World Deployment and Evaluation of Kwame for Science, An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2302.10786v1](http://arxiv.org/abs/2302.10786v1)|null|
 |**2023-02-21**|**ChatGPT: Jack of all trades, master of none**|Jan Kocoń et.al.|[2302.10724v1](http://arxiv.org/abs/2302.10724v1)|[link](https://github.com/clarin-pl/chatgpt-evaluation-01-2023)|
-|**2023-02-21**|**Connecting Humanities and Social Sciences: Applying Language and Speech Technology to Online Panel Surveys**|Henk van den Heuvel et.al.|[2302.10593v1](http://arxiv.org/abs/2302.10593v1)|null|
-|**2023-02-20**|**Fantastic Rewards and How to Tame Them: A Case Study on Reward Learning for Task-oriented Dialogue Systems**|Yihao Feng et.al.|[2302.10342v1](http://arxiv.org/abs/2302.10342v1)|[link](https://github.com/shentao-yang/fantastic_reward_iclr2023)|
-|**2023-02-20**|**Deep Transformers without Shortcuts: Modifying Self-attention for Faithful Signal Propagation**|Bobby He et.al.|[2302.10322v1](http://arxiv.org/abs/2302.10322v1)|null|
-|**2023-02-20**|**Zero-Shot Information Extraction via Chatting with ChatGPT**|Xiang Wei et.al.|[2302.10205v1](http://arxiv.org/abs/2302.10205v1)|null|
-|**2023-02-20**|**STOA-VLP: Spatial-Temporal Modeling of Object and Action for Video-Language Pre-training**|Weihong Zhong et.al.|[2302.09736v1](http://arxiv.org/abs/2302.09736v1)|null|
-|**2023-02-19**|**Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation**|Lorenz Kuhn et.al.|[2302.09664v2](http://arxiv.org/abs/2302.09664v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-28**|**Automatic Scoring of Dream Reports' Emotional Content with Large Language Models**|Lorenzo Bertolini et.al.|[2302.14828v1](http://arxiv.org/abs/2302.14828v1)|null|
 |**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
 |**2023-02-27**|**Fluid Transformers and Creative Analogies: Exploring Large Language Models' Capacity for Augmenting Cross-Domain Analogical Creativity**|Zijian Ding et.al.|[2302.12832v1](http://arxiv.org/abs/2302.12832v1)|null|
 |**2023-02-27**|**Argument Mining using BERT and Self-Attention based Embeddings**|Pranjal Srivastava et.al.|[2302.13906v1](http://arxiv.org/abs/2302.13906v1)|null|
@@ -71,6 +69,7 @@
 |**2023-02-27**|**Changes in Commuter Behavior from COVID-19 Lockdowns in the Atlanta Metropolitan Area**|Tejas Santanam et.al.|[2302.13512v1](http://arxiv.org/abs/2302.13512v1)|null|
 |**2023-02-26**|**Tailoring Language Generation Models under Total Variation Distance**|Haozhe Ji et.al.|[2302.13344v1](http://arxiv.org/abs/2302.13344v1)|[link](https://github.com/thu-coai/tailr)|
 |**2023-02-26**|**CLICKER: Attention-Based Cross-Lingual Commonsense Knowledge Transfer**|Ruolin Su et.al.|[2302.13201v1](http://arxiv.org/abs/2302.13201v1)|null|
+|**2023-02-25**|**Sequential Query Encoding For Complex Query Answering on Knowledge Graphs**|Jiaxin Bai et.al.|[2302.13114v2](http://arxiv.org/abs/2302.13114v2)|null|
 |**2023-02-24**|**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**|KaShun Shum et.al.|[2302.12822v1](http://arxiv.org/abs/2302.12822v1)|null|
 |**2023-02-24**|**Implicit Temporal Reasoning for Evidence-Based Fact-Checking**|Liesbeth Allein et.al.|[2302.12569v1](http://arxiv.org/abs/2302.12569v1)|[link](https://github.com/marlon668/verificationclaimswithtimeattribution)|
 |**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
@@ -117,7 +116,7 @@
 |**2023-02-09**|**Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals**|Yue Wu et.al.|[2302.04449v2](http://arxiv.org/abs/2302.04449v2)|null|
 |**2023-02-08**|**Efficient Joint Learning for Clinical Named Entity Recognition and Relation Extraction Using Fourier Networks: A Use Case in Adverse Drug Events**|Anthony Yazdani et.al.|[2302.04185v1](http://arxiv.org/abs/2302.04185v1)|[link](https://github.com/ds4dh/jnrf)|
 |**2023-02-08**|**Prompting for Multimodal Hateful Meme Classification**|Rui Cao et.al.|[2302.04156v1](http://arxiv.org/abs/2302.04156v1)|null|
-|**2023-02-08**|**A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**|Yejin Bang et.al.|[2302.04023v2](http://arxiv.org/abs/2302.04023v2)|null|
+|**2023-02-08**|**A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**|Yejin Bang et.al.|[2302.04023v2](http://arxiv.org/abs/2302.04023v2)|[link](https://github.com/hltchkust/chatgpt-evaluation)|
 |**2023-02-08**|**Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**|Chengwei Qin et.al.|[2302.06476v2](http://arxiv.org/abs/2302.06476v2)|null|
 |**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v2](http://arxiv.org/abs/2302.03780v2)|null|
 |**2023-02-06**|**Techniques to Improve Neural Math Word Problem Solvers**|Youyuan Zhang et.al.|[2302.03145v1](http://arxiv.org/abs/2302.03145v1)|[link](https://github.com/sophistz/question-aware-deductive-mwp)|
@@ -197,6 +196,3 @@
 |**2022-12-27**|**A Survey on Table-and-Text HybridQA: Concepts, Methods, Challenges and Future Directions**|Dingzirui Wang et.al.|[2212.13465v2](http://arxiv.org/abs/2212.13465v2)|null|
 |**2022-12-27**|**A Survey on Knowledge-Enhanced Pre-trained Language Models**|Chaoqi Zhen et.al.|[2212.13428v1](http://arxiv.org/abs/2212.13428v1)|null|
 |**2022-12-26**|**Large Language Models Encode Clinical Knowledge**|Karan Singhal et.al.|[2212.13138v1](http://arxiv.org/abs/2212.13138v1)|null|
-|**2022-12-24**|**STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension**|Borui Wang et.al.|[2212.12652v1](http://arxiv.org/abs/2212.12652v1)|null|
-|**2022-12-22**|**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**|Srinivasan Iyer et.al.|[2212.12017v3](http://arxiv.org/abs/2212.12017v3)|null|
-|**2022-12-21**|**What do LLMs Know about Financial Markets? A Case Study on Reddit Market Sentiment Analysis**|Xiang Deng et.al.|[2212.11311v1](http://arxiv.org/abs/2212.11311v1)|null|
