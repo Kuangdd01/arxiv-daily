@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-06 09:25:22
+ Automated deployment @ 2023-03-06 20:34:19
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-03**|**Team Hitachi at SemEval-2023 Task 3: Exploring Cross-lingual Multi-task Strategies for Genre and Framing Detection in Online News**|Yuta Koreeda et.al.|[2303.01794v1](http://arxiv.org/abs/2303.01794v1)|null|
 |**2023-03-02**|**CTRLStruct: Dialogue Structure Learning for Open-Domain Response Generation**|Congchi Yin et.al.|[2303.01094v1](http://arxiv.org/abs/2303.01094v1)|[link](https://github.com/lemonsis/ctrlstruct)|
 |**2023-03-01**|**Competence-Based Analysis of Language Models**|Adam Davies et.al.|[2303.00333v1](http://arxiv.org/abs/2303.00333v1)|null|
 |**2023-02-27**|**Inseq: An Interpretability Toolkit for Sequence Generation Models**|Gabriele Sarti et.al.|[2302.13942v1](http://arxiv.org/abs/2302.13942v1)|[link](https://github.com/inseq-team/inseq)|
@@ -15,13 +16,15 @@
 |**2023-02-27**|**Evaluation of Automatically Constructed Word Meaning Explanations**|Marie Stará et.al.|[2302.13625v1](http://arxiv.org/abs/2302.13625v1)|null|
 |**2023-02-27**|**Changes in Commuter Behavior from COVID-19 Lockdowns in the Atlanta Metropolitan Area**|Tejas Santanam et.al.|[2302.13512v1](http://arxiv.org/abs/2302.13512v1)|null|
 |**2023-02-25**|**Human-in-the-Loop Schema Induction**|Tianyi Zhang et.al.|[2302.13048v1](http://arxiv.org/abs/2302.13048v1)|null|
-|**2023-02-23**|**Neural networks for learning personality traits from natural language**|Giorgia Adorni et.al.|[2302.13782v1](http://arxiv.org/abs/2302.13782v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-03**|**Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**|Renrui Zhang et.al.|[2303.02151v1](http://arxiv.org/abs/2303.02151v1)|[link](https://github.com/zrrskywalker/cafo)|
+|**2023-03-03**|**Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**|Zhenwei Shao et.al.|[2303.01903v1](http://arxiv.org/abs/2303.01903v1)|null|
+|**2023-03-02**|**QAID: Question Answering Inspired Few-shot Intent Detection**|Asaf Yehudai et.al.|[2303.01593v1](http://arxiv.org/abs/2303.01593v1)|null|
 |**2023-03-02**|**WiCE: Real-World Entailment for Claims in Wikipedia**|Ryo Kamoi et.al.|[2303.01432v1](http://arxiv.org/abs/2303.01432v1)|[link](https://github.com/ryokamoi/wice)|
 |**2023-03-02**|**Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study**|Mingxu Tao et.al.|[2303.01081v1](http://arxiv.org/abs/2303.01081v1)|[link](https://github.com/kobayashikanna01/plms_are_lifelong_learners)|
 |**2023-03-02**|**Adopting the Multi-answer Questioning Task with an Auxiliary Metric for Extreme Multi-label Text Classification Utilizing the Label Hierarchy**|Li Wang et.al.|[2303.01064v1](http://arxiv.org/abs/2303.01064v1)|null|
@@ -44,14 +47,6 @@
 |**2023-02-25**|**Cross-modal Contrastive Learning for Multimodal Fake News Detection**|Longzheng Wang et.al.|[2302.14057v1](http://arxiv.org/abs/2302.14057v1)|null|
 |**2023-02-25**|**Choice Fusion as Knowledge for Zero-Shot Dialogue State Tracking**|Ruolin Su et.al.|[2302.13013v1](http://arxiv.org/abs/2302.13013v1)|[link](https://github.com/youlandasu/choice-fusion)|
 |**2023-02-24**|**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**|Baolin Peng et.al.|[2302.12813v2](http://arxiv.org/abs/2302.12813v2)|null|
-|**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|[link](https://github.com/ukplab/care)|
-|**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
-|**2023-02-24**|**Analyzing And Editing Inner Mechanisms Of Backdoored Language Models**|Max Lamparth et.al.|[2302.12461v1](http://arxiv.org/abs/2302.12461v1)|null|
-|**2023-02-23**|**Extracting Victim Counts from Text**|Mian Zhong et.al.|[2302.12367v1](http://arxiv.org/abs/2302.12367v1)|null|
-|**2023-02-23**|**Dr ChatGPT, tell me what I want to hear: How prompt knowledge impacts health answer correctness**|Guido Zuccon et.al.|[2302.13793v1](http://arxiv.org/abs/2302.13793v1)|null|
-|**2023-02-23**|**Testing AI performance on less frequent aspects of language reveals insensitivity to underlying meaning**|Vittoria Dentella et.al.|[2302.12313v2](http://arxiv.org/abs/2302.12313v2)|null|
-|**2023-02-23**|**Quantifying & Modeling Feature Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v1](http://arxiv.org/abs/2302.12247v1)|[link](https://github.com/pliang279/pid)|
-|**2023-02-23**|**Active Prompting with Chain-of-Thought for Large Language Models**|Shizhe Diao et.al.|[2302.12246v2](http://arxiv.org/abs/2302.12246v2)|[link](https://github.com/shizhediao/active-cot)|
 
 ## Reasoning
 
