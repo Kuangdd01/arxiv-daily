@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-09 09:36:43
+ Automated deployment @ 2023-03-09 20:35:34
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-08**|**Student's t-Distribution: On Measuring the Inter-Rater Reliability When the Observations are Scarce**|Serge Gladkoff et.al.|[2303.04526v1](http://arxiv.org/abs/2303.04526v1)|null|
+|**2023-03-07**|**Do Prosody Transfer Models Transfer Prosody?**|Atli Thor Sigurgeirsson et.al.|[2303.04289v1](http://arxiv.org/abs/2303.04289v1)|null|
+|**2023-03-07**|**SemEval-2023 Task 10: Explainable Detection of Online Sexism**|Hannah Rose Kirk et.al.|[2303.04222v1](http://arxiv.org/abs/2303.04222v1)|null|
 |**2023-03-07**|**CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification**|Seungone Kim et.al.|[2303.03628v1](http://arxiv.org/abs/2303.03628v1)|null|
 |**2023-03-06**|**Multi-resolution Interpretation and Diagnostics Tool for Natural Language Classifiers**|Peyman Jalali et.al.|[2303.03542v1](http://arxiv.org/abs/2303.03542v1)|null|
 |**2023-03-06**|**IFAN: An Explainability-Focused Interaction Framework for Humans and NLP Models**|Edoardo Mosca et.al.|[2303.03124v1](http://arxiv.org/abs/2303.03124v1)|null|
@@ -24,6 +27,9 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
+|**2023-03-08**|**Does Synthetic Data Generation of LLMs Help Clinical Text Mining?**|Ruixiang Tang et.al.|[2303.04360v1](http://arxiv.org/abs/2303.04360v1)|null|
+|**2023-03-07**|**How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding**|Yuchen Li et.al.|[2303.04245v1](http://arxiv.org/abs/2303.04245v1)|null|
 |**2023-03-07**|**ChatGPT: Beginning of an End of Manual Linguistic Data Annotation? Use Case of Automatic Genre Identification**|Taja Kuzman et.al.|[2303.03953v2](http://arxiv.org/abs/2303.03953v2)|null|
 |**2023-03-07**|**Exploring the Feasibility of ChatGPT for Event Extraction**|Jun Gao et.al.|[2303.03836v1](http://arxiv.org/abs/2303.03836v1)|null|
 |**2023-03-06**|**AmQA: Amharic Question Answering Dataset**|Tilahun Abedissa et.al.|[2303.03290v1](http://arxiv.org/abs/2303.03290v1)|null|
@@ -42,15 +48,14 @@
 |**2023-03-02**|**Large-Scale Domain-Specific Pretraining for Biomedical Vision-Language Processing**|Sheng Zhang et.al.|[2303.00915v1](http://arxiv.org/abs/2303.00915v1)|null|
 |**2023-03-01**|**A Universal Question-Answering Platform for Knowledge Graphs**|Reham Omar et.al.|[2303.00595v1](http://arxiv.org/abs/2303.00595v1)|null|
 |**2023-03-01**|**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**|Zheng Yuan et.al.|[2303.00534v1](http://arxiv.org/abs/2303.00534v1)|null|
-|**2023-03-01**|**Can ChatGPT Assess Human Personalities? A General Evaluation Framework**|Haocong Rao et.al.|[2303.01248v2](http://arxiv.org/abs/2303.01248v2)|[link](https://github.com/kali-hac/chatgpt-mbti)|
-|**2023-03-01**|**DIFFQG: Generating Questions to Summarize Factual Changes**|Jeremy R. Cole et.al.|[2303.00242v1](http://arxiv.org/abs/2303.00242v1)|null|
-|**2023-03-01**|**Almanac: Knowledge-Grounded Language Models for Clinical Medicine**|Cyril Zakka et.al.|[2303.01229v1](http://arxiv.org/abs/2303.01229v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
+|**2023-03-07**|**How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding**|Yuchen Li et.al.|[2303.04245v1](http://arxiv.org/abs/2303.04245v1)|null|
 |**2023-03-07**|**Visual Abstraction and Reasoning through Language**|Giacomo Camposampiero et.al.|[2303.04091v1](http://arxiv.org/abs/2303.04091v1)|null|
 |**2023-03-07**|**Document-level Relation Extraction with Cross-sentence Reasoning Graph**|Hongfei Liu et.al.|[2303.03912v1](http://arxiv.org/abs/2303.03912v1)|null|
 |**2023-03-07**|**CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification**|Seungone Kim et.al.|[2303.03628v1](http://arxiv.org/abs/2303.03628v1)|null|
@@ -177,7 +182,3 @@
 |**2023-01-13**|**From stage to page: language independent bootstrap measures of distinctiveness in fictional speech**|Artjoms Šeļa et.al.|[2301.05659v1](http://arxiv.org/abs/2301.05659v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|[link](https://github.com/nttmdlab-nlp/slidevqa)|
-|**2023-01-11**|**tieval: An Evaluation Framework for Temporal Information Extraction Systems**|Hugo Sousa et.al.|[2301.04643v1](http://arxiv.org/abs/2301.04643v1)|[link](https://github.com/liaad/tieval)|
-|**2023-01-11**|**GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities**|Jillian Bommarito et.al.|[2301.04408v1](http://arxiv.org/abs/2301.04408v1)|[link](https://github.com/mjbommar/gpt-as-knowledge-worker)|
-|**2023-01-10**|**User-Centered Security in Natural Language Processing**|Chris Emmery et.al.|[2301.04230v1](http://arxiv.org/abs/2301.04230v1)|null|
-|**2023-01-10**|**Structured Case-based Reasoning for Inference-time Adaptation of Text-to-SQL parsers**|Abhijeet Awasthi et.al.|[2301.04110v1](http://arxiv.org/abs/2301.04110v1)|null|
