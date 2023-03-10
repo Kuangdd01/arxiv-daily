@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-10 09:27:50
+ Automated deployment @ 2023-03-10 20:33:48
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,11 +8,14 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-09**|**Geometry of Language**|Loe Feijs et.al.|[2303.05208v1](http://arxiv.org/abs/2303.05208v1)|null|
+|**2023-03-09**|**Revisiting the relevance of traditional genres: a network analysis of fiction readers' preferences**|Taom Sakal et.al.|[2303.05080v1](http://arxiv.org/abs/2303.05080v1)|[link](https://github.com/taomsakal/book-networks)|
 |**2023-03-08**|**Student's t-Distribution: On Measuring the Inter-Rater Reliability When the Observations are Scarce**|Serge Gladkoff et.al.|[2303.04526v1](http://arxiv.org/abs/2303.04526v1)|null|
 |**2023-03-07**|**Do Prosody Transfer Models Transfer Prosody?**|Atli Thor Sigurgeirsson et.al.|[2303.04289v1](http://arxiv.org/abs/2303.04289v1)|null|
 |**2023-03-07**|**SemEval-2023 Task 10: Explainable Detection of Online Sexism**|Hannah Rose Kirk et.al.|[2303.04222v1](http://arxiv.org/abs/2303.04222v1)|null|
 |**2023-03-07**|**CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification**|Seungone Kim et.al.|[2303.03628v1](http://arxiv.org/abs/2303.03628v1)|[link](https://github.com/seungonekim/cotever)|
 |**2023-03-06**|**Multi-resolution Interpretation and Diagnostics Tool for Natural Language Classifiers**|Peyman Jalali et.al.|[2303.03542v1](http://arxiv.org/abs/2303.03542v1)|null|
+|**2023-03-06**|**Depression Detection Using Digital Traces on Social Media: A Knowledge-aware Deep Learning Approach**|Wenli Zhang et.al.|[2303.05389v1](http://arxiv.org/abs/2303.05389v1)|null|
 |**2023-03-06**|**IFAN: An Explainability-Focused Interaction Framework for Humans and NLP Models**|Edoardo Mosca et.al.|[2303.03124v1](http://arxiv.org/abs/2303.03124v1)|null|
 |**2023-03-06**|**NxPlain: Web-based Tool for Discovery of Latent Concepts**|Fahim Dalvi et.al.|[2303.03019v1](http://arxiv.org/abs/2303.03019v1)|null|
 |**2023-03-05**|**Knowledge-Based Counterfactual Queries for Visual Question Answering**|Theodoti Stoikou et.al.|[2303.02601v1](http://arxiv.org/abs/2303.02601v1)|null|
@@ -20,22 +23,27 @@
 |**2023-03-03**|**Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models**|Navid Madani et.al.|[2303.02206v1](http://arxiv.org/abs/2303.02206v1)|[link](https://github.com/navidmdn/logic_based_qa)|
 |**2023-03-03**|**Team Hitachi at SemEval-2023 Task 3: Exploring Cross-lingual Multi-task Strategies for Genre and Framing Detection in Online News**|Yuta Koreeda et.al.|[2303.01794v1](http://arxiv.org/abs/2303.01794v1)|null|
 |**2023-03-02**|**CTRLStruct: Dialogue Structure Learning for Open-Domain Response Generation**|Congchi Yin et.al.|[2303.01094v1](http://arxiv.org/abs/2303.01094v1)|[link](https://github.com/lemonsis/ctrlstruct)|
-|**2023-03-01**|**Competence-Based Analysis of Language Models**|Adam Davies et.al.|[2303.00333v1](http://arxiv.org/abs/2303.00333v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-09**|**Geometry of Language**|Loe Feijs et.al.|[2303.05208v1](http://arxiv.org/abs/2303.05208v1)|null|
+|**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
+|**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
+|**2023-03-09**|**Let's Get Personal: Personal Questions Improve SocialBot Performance in the Alexa Prize**|Kevin K. Bowden et.al.|[2303.04953v1](http://arxiv.org/abs/2303.04953v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
 |**2023-03-08**|**Does Synthetic Data Generation of LLMs Help Clinical Text Mining?**|Ruixiang Tang et.al.|[2303.04360v1](http://arxiv.org/abs/2303.04360v1)|null|
 |**2023-03-07**|**How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding**|Yuchen Li et.al.|[2303.04245v1](http://arxiv.org/abs/2303.04245v1)|null|
+|**2023-03-07**|**Extracting Accurate Materials Data from Research Papers with Conversational Language Models and Prompt Engineering -- Example of ChatGPT**|Maciej P. Polak et.al.|[2303.05352v1](http://arxiv.org/abs/2303.05352v1)|null|
 |**2023-03-07**|**ChatGPT: Beginning of an End of Manual Linguistic Data Annotation? Use Case of Automatic Genre Identification**|Taja Kuzman et.al.|[2303.03953v2](http://arxiv.org/abs/2303.03953v2)|null|
 |**2023-03-07**|**Exploring the Feasibility of ChatGPT for Event Extraction**|Jun Gao et.al.|[2303.03836v2](http://arxiv.org/abs/2303.03836v2)|null|
 |**2023-03-06**|**AmQA: Amharic Question Answering Dataset**|Tilahun Abedissa et.al.|[2303.03290v1](http://arxiv.org/abs/2303.03290v1)|null|
 |**2023-03-06**|**Faithfulness-Aware Decoding Strategies for Abstractive Summarization**|David Wan et.al.|[2303.03278v1](http://arxiv.org/abs/2303.03278v1)|[link](https://github.com/amazon-science/faithful-summarization-generation)|
 |**2023-03-06**|**Data Portraits: Recording Foundation Model Training Data**|Marc Marone et.al.|[2303.03919v1](http://arxiv.org/abs/2303.03919v1)|null|
 |**2023-03-05**|**Knowledge-Based Counterfactual Queries for Visual Question Answering**|Theodoti Stoikou et.al.|[2303.02601v1](http://arxiv.org/abs/2303.02601v1)|null|
+|**2023-03-04**|**MathPrompter: Mathematical Reasoning using Large Language Models**|Shima Imani et.al.|[2303.05398v1](http://arxiv.org/abs/2303.05398v1)|null|
 |**2023-03-03**|**Learning to reason over visual objects**|Shanka Subhra Mondal et.al.|[2303.02260v1](http://arxiv.org/abs/2303.02260v1)|[link](https://github.com/shanka123/stsn)|
 |**2023-03-03**|**Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models**|Navid Madani et.al.|[2303.02206v1](http://arxiv.org/abs/2303.02206v1)|[link](https://github.com/navidmdn/logic_based_qa)|
 |**2023-03-03**|**Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**|Renrui Zhang et.al.|[2303.02151v1](http://arxiv.org/abs/2303.02151v1)|[link](https://github.com/zrrskywalker/cafo)|
@@ -43,17 +51,13 @@
 |**2023-03-03**|**Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**|Wen Zhang et.al.|[2303.03922v1](http://arxiv.org/abs/2303.03922v1)|[link](https://github.com/zjukg/kgtransformer)|
 |**2023-03-02**|**QAID: Question Answering Inspired Few-shot Intent Detection**|Asaf Yehudai et.al.|[2303.01593v1](http://arxiv.org/abs/2303.01593v1)|null|
 |**2023-03-02**|**WiCE: Real-World Entailment for Claims in Wikipedia**|Ryo Kamoi et.al.|[2303.01432v1](http://arxiv.org/abs/2303.01432v1)|[link](https://github.com/ryokamoi/wice)|
-|**2023-03-02**|**Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study**|Mingxu Tao et.al.|[2303.01081v1](http://arxiv.org/abs/2303.01081v1)|[link](https://github.com/kobayashikanna01/plms_are_lifelong_learners)|
-|**2023-03-02**|**Adopting the Multi-answer Questioning Task with an Auxiliary Metric for Extreme Multi-label Text Classification Utilizing the Label Hierarchy**|Li Wang et.al.|[2303.01064v1](http://arxiv.org/abs/2303.01064v1)|null|
-|**2023-03-02**|**Large-Scale Domain-Specific Pretraining for Biomedical Vision-Language Processing**|Sheng Zhang et.al.|[2303.00915v1](http://arxiv.org/abs/2303.00915v1)|null|
-|**2023-03-01**|**A Universal Question-Answering Platform for Knowledge Graphs**|Reham Omar et.al.|[2303.00595v1](http://arxiv.org/abs/2303.00595v1)|null|
-|**2023-03-01**|**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**|Zheng Yuan et.al.|[2303.00534v1](http://arxiv.org/abs/2303.00534v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-09**|**Planning with Large Language Models for Code Generation**|Shun Zhang et.al.|[2303.05510v1](http://arxiv.org/abs/2303.05510v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
 |**2023-03-07**|**How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding**|Yuchen Li et.al.|[2303.04245v1](http://arxiv.org/abs/2303.04245v1)|null|
 |**2023-03-07**|**Visual Abstraction and Reasoning through Language**|Giacomo Camposampiero et.al.|[2303.04091v1](http://arxiv.org/abs/2303.04091v1)|null|
@@ -65,6 +69,7 @@
 |**2023-03-06**|**HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention**|Shijie Geng et.al.|[2303.02995v1](http://arxiv.org/abs/2303.02995v1)|[link](https://github.com/jeykigung/hiclip)|
 |**2023-03-05**|**FQP 2.0: Industry Trend Analysis via Hierarchical Financial Data**|Hongyin Zhu et.al.|[2303.02707v1](http://arxiv.org/abs/2303.02707v1)|null|
 |**2023-03-05**|**Knowledge-Based Counterfactual Queries for Visual Question Answering**|Theodoti Stoikou et.al.|[2303.02601v1](http://arxiv.org/abs/2303.02601v1)|null|
+|**2023-03-04**|**MathPrompter: Mathematical Reasoning using Large Language Models**|Shima Imani et.al.|[2303.05398v1](http://arxiv.org/abs/2303.05398v1)|null|
 |**2023-03-03**|**Learning to reason over visual objects**|Shanka Subhra Mondal et.al.|[2303.02260v1](http://arxiv.org/abs/2303.02260v1)|[link](https://github.com/shanka123/stsn)|
 |**2023-03-03**|**Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models**|Navid Madani et.al.|[2303.02206v1](http://arxiv.org/abs/2303.02206v1)|[link](https://github.com/navidmdn/logic_based_qa)|
 |**2023-03-02**|**Denoising-based UNMT is more robust to word-order divergence than MASS-based UNMT**|Tamali Banerjee et.al.|[2303.01191v1](http://arxiv.org/abs/2303.01191v1)|null|
@@ -95,6 +100,7 @@
 |**2023-02-18**|**A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT**|Ce Zhou et.al.|[2302.09419v1](http://arxiv.org/abs/2302.09419v1)|null|
 |**2023-02-18**|**M-SENSE: Modeling Narrative Structure in Short Personal Narratives Using Protagonist's Mental Representations**|Prashanth Vijayaraghavan et.al.|[2302.09418v1](http://arxiv.org/abs/2302.09418v1)|null|
 |**2023-02-17**|**Unsupervised Task Graph Generation from Instructional Video Transcripts**|Lajanugen Logeswaran et.al.|[2302.09173v1](http://arxiv.org/abs/2302.09173v1)|null|
+|**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v3](http://arxiv.org/abs/2302.09051v3)|null|
 |**2023-02-17**|**CK-Transformer: Commonsense Knowledge Enhanced Transformers for Referring Expression Comprehension**|Zhi Zhang et.al.|[2302.09027v1](http://arxiv.org/abs/2302.09027v1)|[link](https://github.com/fightingfighting/ck-transformer)|
 |**2023-02-17**|**Grimm in Wonderland: Prompt Engineering with Midjourney to Illustrate Fairytales**|Martin Ruskov et.al.|[2302.08961v1](http://arxiv.org/abs/2302.08961v1)|null|
 |**2023-02-16**|**Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks**|Tomer Ullman et.al.|[2302.08399v4](http://arxiv.org/abs/2302.08399v4)|null|
@@ -180,5 +186,3 @@
 |**2023-01-16**|**Dissociating language and thought in large language models: a cognitive perspective**|Kyle Mahowald et.al.|[2301.06627v1](http://arxiv.org/abs/2301.06627v1)|null|
 |**2023-01-16**|**A separation logic for sequences in pointer programs and its decidability**|Tianyue Cao et.al.|[2301.06237v1](http://arxiv.org/abs/2301.06237v1)|null|
 |**2023-01-13**|**From stage to page: language independent bootstrap measures of distinctiveness in fictional speech**|Artjoms Šeļa et.al.|[2301.05659v1](http://arxiv.org/abs/2301.05659v1)|null|
-|**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
-|**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|[link](https://github.com/nttmdlab-nlp/slidevqa)|
