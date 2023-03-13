@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-13 09:21:23
+ Automated deployment @ 2023-03-13 20:33:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -22,13 +22,13 @@
 |**2023-03-05**|**FinXABSA:Explainable Finance through Aspect-Based Sentiment Analysis**|Keane Ong et.al.|[2303.02563v1](http://arxiv.org/abs/2303.02563v1)|null|
 |**2023-03-03**|**Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models**|Navid Madani et.al.|[2303.02206v1](http://arxiv.org/abs/2303.02206v1)|[link](https://github.com/navidmdn/logic_based_qa)|
 |**2023-03-03**|**Team Hitachi at SemEval-2023 Task 3: Exploring Cross-lingual Multi-task Strategies for Genre and Framing Detection in Online News**|Yuta Koreeda et.al.|[2303.01794v1](http://arxiv.org/abs/2303.01794v1)|null|
-|**2023-03-02**|**CTRLStruct: Dialogue Structure Learning for Open-Domain Response Generation**|Congchi Yin et.al.|[2303.01094v1](http://arxiv.org/abs/2303.01094v1)|[link](https://github.com/lemonsis/ctrlstruct)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-10**|**MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**|Jiaqi Xu et.al.|[2303.05707v1](http://arxiv.org/abs/2303.05707v1)|null|
 |**2023-03-09**|**Geometry of Language**|Loe Feijs et.al.|[2303.05208v1](http://arxiv.org/abs/2303.05208v1)|null|
 |**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
 |**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
@@ -39,6 +39,7 @@
 |**2023-03-07**|**Extracting Accurate Materials Data from Research Papers with Conversational Language Models and Prompt Engineering -- Example of ChatGPT**|Maciej P. Polak et.al.|[2303.05352v1](http://arxiv.org/abs/2303.05352v1)|null|
 |**2023-03-07**|**ChatGPT: Beginning of an End of Manual Linguistic Data Annotation? Use Case of Automatic Genre Identification**|Taja Kuzman et.al.|[2303.03953v2](http://arxiv.org/abs/2303.03953v2)|null|
 |**2023-03-07**|**Exploring the Feasibility of ChatGPT for Event Extraction**|Jun Gao et.al.|[2303.03836v2](http://arxiv.org/abs/2303.03836v2)|null|
+|**2023-03-06**|**wav2vec and its current potential to Automatic Speech Recognition in German for the usage in Digital History: A comparative assessment of available ASR-technologies for the use in cultural heritage contexts**|Michael Fleck et.al.|[2303.06026v1](http://arxiv.org/abs/2303.06026v1)|null|
 |**2023-03-06**|**AmQA: Amharic Question Answering Dataset**|Tilahun Abedissa et.al.|[2303.03290v1](http://arxiv.org/abs/2303.03290v1)|null|
 |**2023-03-06**|**Faithfulness-Aware Decoding Strategies for Abstractive Summarization**|David Wan et.al.|[2303.03278v1](http://arxiv.org/abs/2303.03278v1)|[link](https://github.com/amazon-science/faithful-summarization-generation)|
 |**2023-03-06**|**Data Portraits: Recording Foundation Model Training Data**|Marc Marone et.al.|[2303.03919v1](http://arxiv.org/abs/2303.03919v1)|null|
@@ -49,14 +50,13 @@
 |**2023-03-03**|**Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**|Renrui Zhang et.al.|[2303.02151v1](http://arxiv.org/abs/2303.02151v1)|[link](https://github.com/zrrskywalker/cafo)|
 |**2023-03-03**|**Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**|Zhenwei Shao et.al.|[2303.01903v1](http://arxiv.org/abs/2303.01903v1)|[link](https://github.com/milvlg/prophet)|
 |**2023-03-03**|**Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**|Wen Zhang et.al.|[2303.03922v1](http://arxiv.org/abs/2303.03922v1)|[link](https://github.com/zjukg/kgtransformer)|
-|**2023-03-02**|**QAID: Question Answering Inspired Few-shot Intent Detection**|Asaf Yehudai et.al.|[2303.01593v1](http://arxiv.org/abs/2303.01593v1)|null|
-|**2023-03-02**|**WiCE: Real-World Entailment for Claims in Wikipedia**|Ryo Kamoi et.al.|[2303.01432v1](http://arxiv.org/abs/2303.01432v1)|[link](https://github.com/ryokamoi/wice)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-10**|**Logic Against Bias: Textual Entailment Mitigates Stereotypical Sentence Reasoning**|Hongyin Luo et.al.|[2303.05670v1](http://arxiv.org/abs/2303.05670v1)|null|
 |**2023-03-09**|**Planning with Large Language Models for Code Generation**|Shun Zhang et.al.|[2303.05510v1](http://arxiv.org/abs/2303.05510v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
 |**2023-03-07**|**How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding**|Yuchen Li et.al.|[2303.04245v1](http://arxiv.org/abs/2303.04245v1)|null|
@@ -184,5 +184,3 @@
 |**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|[link](https://github.com/dennlinger/summaries)|
 |**2023-01-17**|**VaxxHesitancy: A Dataset for Studying Hesitancy Towards COVID-19 Vaccination on Twitter**|Yida Mu et.al.|[2301.06660v2](http://arxiv.org/abs/2301.06660v2)|null|
 |**2023-01-16**|**Dissociating language and thought in large language models: a cognitive perspective**|Kyle Mahowald et.al.|[2301.06627v1](http://arxiv.org/abs/2301.06627v1)|null|
-|**2023-01-16**|**A separation logic for sequences in pointer programs and its decidability**|Tianyue Cao et.al.|[2301.06237v1](http://arxiv.org/abs/2301.06237v1)|null|
-|**2023-01-13**|**From stage to page: language independent bootstrap measures of distinctiveness in fictional speech**|Artjoms Šeļa et.al.|[2301.05659v1](http://arxiv.org/abs/2301.05659v1)|null|
