@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-16 09:21:46
+ Automated deployment @ 2023-03-16 20:33:24
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-15**|**The Image of the Process Interpretation of Regular Expressions is Not Closed under Bisimulation Collapse**|Clemens Grabmayer et.al.|[2303.08553v1](http://arxiv.org/abs/2303.08553v1)|null|
 |**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v2](http://arxiv.org/abs/2303.07274v2)|null|
 |**2023-03-10**|**Does ChatGPT resemble humans in language use?**|Zhenguang G. Cai et.al.|[2303.08014v1](http://arxiv.org/abs/2303.08014v1)|null|
 |**2023-03-09**|**Large Language Models (GPT) Struggle to Answer Multiple-Choice Questions about Code**|Jaromir Savelka et.al.|[2303.08033v1](http://arxiv.org/abs/2303.08033v1)|null|
@@ -16,15 +17,15 @@
 |**2023-03-08**|**Student's t-Distribution: On Measuring the Inter-Rater Reliability When the Observations are Scarce**|Serge Gladkoff et.al.|[2303.04526v1](http://arxiv.org/abs/2303.04526v1)|null|
 |**2023-03-07**|**Do Prosody Transfer Models Transfer Prosody?**|Atli Thor Sigurgeirsson et.al.|[2303.04289v1](http://arxiv.org/abs/2303.04289v1)|null|
 |**2023-03-07**|**SemEval-2023 Task 10: Explainable Detection of Online Sexism**|Hannah Rose Kirk et.al.|[2303.04222v1](http://arxiv.org/abs/2303.04222v1)|null|
-|**2023-03-07**|**CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification**|Seungone Kim et.al.|[2303.03628v1](http://arxiv.org/abs/2303.03628v1)|[link](https://github.com/seungonekim/cotever)|
-|**2023-03-06**|**Multi-resolution Interpretation and Diagnostics Tool for Natural Language Classifiers**|Peyman Jalali et.al.|[2303.03542v1](http://arxiv.org/abs/2303.03542v1)|null|
-|**2023-03-06**|**Depression Detection Using Digital Traces on Social Media: A Knowledge-aware Deep Learning Approach**|Wenli Zhang et.al.|[2303.05389v1](http://arxiv.org/abs/2303.05389v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-15**|**Automated Query Generation for Evidence Collection from Web Search Engines**|Nestor Prieto-Chavana et.al.|[2303.08652v1](http://arxiv.org/abs/2303.08652v1)|null|
+|**2023-03-15**|**On the Calibration and Uncertainty with Pólya-Gamma Augmentation for Dialog Retrieval Models**|Tong Ye et.al.|[2303.08606v1](http://arxiv.org/abs/2303.08606v1)|null|
+|**2023-03-15**|**Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!**|Yubo Ma et.al.|[2303.08559v1](http://arxiv.org/abs/2303.08559v1)|null|
 |**2023-03-14**|**Do Transformers Parse while Predicting the Masked Word?**|Haoyu Zhao et.al.|[2303.08117v1](http://arxiv.org/abs/2303.08117v1)|null|
 |**2023-03-14**|**Simfluence: Modeling the Influence of Individual Training Examples by Simulating Training Runs**|Kelvin Guu et.al.|[2303.08114v1](http://arxiv.org/abs/2303.08114v1)|null|
 |**2023-03-14**|**Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions**|Yiming Tan et.al.|[2303.07992v1](http://arxiv.org/abs/2303.07992v1)|[link](https://github.com/tan92hl/complex-question-answering-evaluation-of-chatgpt)|
@@ -47,15 +48,15 @@
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
 |**2023-03-08**|**Does Synthetic Data Generation of LLMs Help Clinical Text Mining?**|Ruixiang Tang et.al.|[2303.04360v1](http://arxiv.org/abs/2303.04360v1)|null|
 |**2023-03-07**|**How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding**|Yuchen Li et.al.|[2303.04245v1](http://arxiv.org/abs/2303.04245v1)|null|
-|**2023-03-07**|**Extracting Accurate Materials Data from Research Papers with Conversational Language Models and Prompt Engineering -- Example of ChatGPT**|Maciej P. Polak et.al.|[2303.05352v1](http://arxiv.org/abs/2303.05352v1)|null|
-|**2023-03-07**|**ChatGPT: Beginning of an End of Manual Linguistic Data Annotation? Use Case of Automatic Genre Identification**|Taja Kuzman et.al.|[2303.03953v2](http://arxiv.org/abs/2303.03953v2)|null|
-|**2023-03-07**|**Exploring the Feasibility of ChatGPT for Event Extraction**|Jun Gao et.al.|[2303.03836v2](http://arxiv.org/abs/2303.03836v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-15**|**The Image of the Process Interpretation of Regular Expressions is Not Closed under Bisimulation Collapse**|Clemens Grabmayer et.al.|[2303.08553v1](http://arxiv.org/abs/2303.08553v1)|null|
+|**2023-03-15**|**A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**|Sicheng Zhou et.al.|[2303.08448v1](http://arxiv.org/abs/2303.08448v1)|null|
+|**2023-03-14**|**Chat with the Environment: Interactive Multimodal Perception using Large Language Models**|Xufeng Zhao et.al.|[2303.08268v1](http://arxiv.org/abs/2303.08268v1)|null|
 |**2023-03-14**|**Progress Note Understanding -- Assessment and Plan Reasoning: Overview of the 2022 N2C2 Track 3 Shared Task**|Yanjun Gao et.al.|[2303.08038v1](http://arxiv.org/abs/2303.08038v1)|null|
 |**2023-03-14**|**Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions**|Yiming Tan et.al.|[2303.07992v1](http://arxiv.org/abs/2303.07992v1)|[link](https://github.com/tan92hl/complex-question-answering-evaluation-of-chatgpt)|
 |**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v2](http://arxiv.org/abs/2303.07274v2)|null|
@@ -184,6 +185,3 @@
 |**2023-01-25**|**Qualitative Analysis of a Graph Transformer Approach to Addressing Hate Speech: Adapting to Dynamically Changing Content**|Liam Hebert et.al.|[2301.10871v2](http://arxiv.org/abs/2301.10871v2)|null|
 |**2023-01-25**|**Backward Compatibility During Data Updates by Weight Interpolation**|Raphael Schumann et.al.|[2301.10546v1](http://arxiv.org/abs/2301.10546v1)|null|
 |**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
-|**2023-01-24**|**Audience-Centric Natural Language Generation via Style Infusion**|Samraj Moorjani et.al.|[2301.10283v1](http://arxiv.org/abs/2301.10283v1)|[link](https://github.com/crowddynamicslab/styleinfusion)|
-|**2023-01-24**|**Opportunities and Challenges in Neural Dialog Tutoring**|Jakub Macina et.al.|[2301.09919v1](http://arxiv.org/abs/2301.09919v1)|[link](https://github.com/eth-nlped/dialog-tutoring)|
-|**2023-01-24**|**Conclusion-based Counter-Argument Generation**|Milad Alshomary et.al.|[2301.09911v1](http://arxiv.org/abs/2301.09911v1)|null|
