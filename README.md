@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-17 09:19:50
+ Automated deployment @ 2023-03-17 20:32:24
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-16**|**Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?**|Jaromir Savelka et.al.|[2303.09325v1](http://arxiv.org/abs/2303.09325v1)|null|
+|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|null|
 |**2023-03-15**|**Understanding Post-hoc Explainers: The Case of Anchors**|Gianluigi Lopardo et.al.|[2303.08806v1](http://arxiv.org/abs/2303.08806v1)|null|
 |**2023-03-15**|**The Image of the Process Interpretation of Regular Expressions is Not Closed under Bisimulation Collapse**|Clemens Grabmayer et.al.|[2303.08553v1](http://arxiv.org/abs/2303.08553v1)|null|
 |**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v2](http://arxiv.org/abs/2303.07274v2)|null|
@@ -15,15 +17,15 @@
 |**2023-03-09**|**Large Language Models (GPT) Struggle to Answer Multiple-Choice Questions about Code**|Jaromir Savelka et.al.|[2303.08033v1](http://arxiv.org/abs/2303.08033v1)|null|
 |**2023-03-09**|**Geometry of Language**|Loe Feijs et.al.|[2303.05208v1](http://arxiv.org/abs/2303.05208v1)|null|
 |**2023-03-09**|**Revisiting the relevance of traditional genres: a network analysis of fiction readers' preferences**|Taom Sakal et.al.|[2303.05080v1](http://arxiv.org/abs/2303.05080v1)|[link](https://github.com/taomsakal/book-networks)|
-|**2023-03-08**|**Student's t-Distribution: On Measuring the Inter-Rater Reliability When the Observations are Scarce**|Serge Gladkoff et.al.|[2303.04526v1](http://arxiv.org/abs/2303.04526v1)|null|
-|**2023-03-07**|**Do Prosody Transfer Models Transfer Prosody?**|Atli Thor Sigurgeirsson et.al.|[2303.04289v1](http://arxiv.org/abs/2303.04289v1)|null|
-|**2023-03-07**|**SemEval-2023 Task 10: Explainable Detection of Online Sexism**|Hannah Rose Kirk et.al.|[2303.04222v1](http://arxiv.org/abs/2303.04222v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-16**|**Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?**|Jaromir Savelka et.al.|[2303.09325v1](http://arxiv.org/abs/2303.09325v1)|null|
+|**2023-03-16**|**Secret-Keeping in Question Answering**|Nathaniel W. Rollings et.al.|[2303.09067v1](http://arxiv.org/abs/2303.09067v1)|null|
+|**2023-03-15**|**A Formalization of Operads in Coq**|Zachary Flores et.al.|[2303.08894v1](http://arxiv.org/abs/2303.08894v1)|null|
 |**2023-03-15**|**Automated Query Generation for Evidence Collection from Web Search Engines**|Nestor Prieto-Chavana et.al.|[2303.08652v1](http://arxiv.org/abs/2303.08652v1)|null|
 |**2023-03-15**|**On the Calibration and Uncertainty with Pólya-Gamma Augmentation for Dialog Retrieval Models**|Tong Ye et.al.|[2303.08606v1](http://arxiv.org/abs/2303.08606v1)|null|
 |**2023-03-15**|**Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!**|Yubo Ma et.al.|[2303.08559v1](http://arxiv.org/abs/2303.08559v1)|null|
@@ -44,17 +46,17 @@
 |**2023-03-09**|**Geometry of Language**|Loe Feijs et.al.|[2303.05208v1](http://arxiv.org/abs/2303.05208v1)|null|
 |**2023-03-09**|**TQ-Net: Mixed Contrastive Representation Learning For Heterogeneous Test Questions**|He Zhu et.al.|[2303.08039v1](http://arxiv.org/abs/2303.08039v1)|null|
 |**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
-|**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
-|**2023-03-09**|**Let's Get Personal: Personal Questions Improve SocialBot Performance in the Alexa Prize**|Kevin K. Bowden et.al.|[2303.04953v1](http://arxiv.org/abs/2303.04953v1)|null|
-|**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
-|**2023-03-08**|**Does Synthetic Data Generation of LLMs Help Clinical Text Mining?**|Ruixiang Tang et.al.|[2303.04360v1](http://arxiv.org/abs/2303.04360v1)|null|
-|**2023-03-07**|**How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding**|Yuchen Li et.al.|[2303.04245v1](http://arxiv.org/abs/2303.04245v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-16**|**Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?**|Jaromir Savelka et.al.|[2303.09325v1](http://arxiv.org/abs/2303.09325v1)|null|
+|**2023-03-16**|**Exploring Distributional Shifts in Large Language Models for Code Analysis**|Shushan Arakelyan et.al.|[2303.09128v1](http://arxiv.org/abs/2303.09128v1)|null|
+|**2023-03-16**|**Translating Radiology Reports into Plain Language using ChatGPT and GPT-4 with Prompt Learning: Promising Results, Limitations, and Potential**|Qing Lyu et.al.|[2303.09038v1](http://arxiv.org/abs/2303.09038v1)|null|
+|**2023-03-16**|**A Picture is Worth a Thousand Words: Language Models Plan from Pixels**|Anthony Z. Liu et.al.|[2303.09031v1](http://arxiv.org/abs/2303.09031v1)|null|
+|**2023-03-16**|**ART: Automatic multi-step reasoning and tool-use for large language models**|Bhargavi Paranjape et.al.|[2303.09014v1](http://arxiv.org/abs/2303.09014v1)|null|
 |**2023-03-15**|**The Image of the Process Interpretation of Regular Expressions is Not Closed under Bisimulation Collapse**|Clemens Grabmayer et.al.|[2303.08553v1](http://arxiv.org/abs/2303.08553v1)|null|
 |**2023-03-15**|**A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**|Sicheng Zhou et.al.|[2303.08448v1](http://arxiv.org/abs/2303.08448v1)|null|
 |**2023-03-14**|**Chat with the Environment: Interactive Multimodal Perception using Large Language Models**|Xufeng Zhao et.al.|[2303.08268v1](http://arxiv.org/abs/2303.08268v1)|null|
@@ -93,6 +95,7 @@
 |**2023-02-27**|**Fluid Transformers and Creative Analogies: Exploring Large Language Models' Capacity for Augmenting Cross-Domain Analogical Creativity**|Zijian Ding et.al.|[2302.12832v1](http://arxiv.org/abs/2302.12832v1)|null|
 |**2023-02-27**|**Argument Mining using BERT and Self-Attention based Embeddings**|Pranjal Srivastava et.al.|[2302.13906v1](http://arxiv.org/abs/2302.13906v1)|null|
 |**2023-02-27**|**Orca: A Few-shot Benchmark for Chinese Conversational Machine Reading Comprehension**|Nuo Chen et.al.|[2302.13619v1](http://arxiv.org/abs/2302.13619v1)|[link](https://github.com/nuochenpku/orca)|
+|**2023-02-27**|**TOT: Topology-Aware Optimal Transport For Multimodal Hate Detection**|Linhao Zhang et.al.|[2303.09314v1](http://arxiv.org/abs/2303.09314v1)|null|
 |**2023-02-27**|**Changes in Commuter Behavior from COVID-19 Lockdowns in the Atlanta Metropolitan Area**|Tejas Santanam et.al.|[2302.13512v1](http://arxiv.org/abs/2302.13512v1)|null|
 |**2023-02-26**|**Tailoring Language Generation Models under Total Variation Distance**|Haozhe Ji et.al.|[2302.13344v1](http://arxiv.org/abs/2302.13344v1)|[link](https://github.com/thu-coai/tailr)|
 |**2023-02-26**|**CLICKER: Attention-Based Cross-Lingual Commonsense Knowledge Transfer**|Ruolin Su et.al.|[2302.13201v1](http://arxiv.org/abs/2302.13201v1)|null|
@@ -181,8 +184,3 @@
 |**2023-01-27**|**Towards Personalized Review Summarization by Modeling Historical Reviews from Customer and Product Separately**|Xin Cheng et.al.|[2301.11682v1](http://arxiv.org/abs/2301.11682v1)|null|
 |**2023-01-27**|**ThoughtSource: A central hub for large language model reasoning data**|Simon Ott et.al.|[2301.11596v2](http://arxiv.org/abs/2301.11596v2)|[link](https://github.com/openbiolink/thoughtsource)|
 |**2023-01-26**|**Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification**|Zi Lin et.al.|[2301.11459v1](http://arxiv.org/abs/2301.11459v1)|[link](https://github.com/google/uncertainty-baselines)|
-|**2023-01-26**|**Multimodal Event Transformer for Image-guided Story Ending Generation**|Yucheng Zhou et.al.|[2301.11357v1](http://arxiv.org/abs/2301.11357v1)|null|
-|**2023-01-26**|**Causal Reasoning of Entities and Events in Procedural Texts**|Li Zhang et.al.|[2301.10896v3](http://arxiv.org/abs/2301.10896v3)|[link](https://github.com/zharry29/causal_reasoning_of_entities_and_events)|
-|**2023-01-25**|**Qualitative Analysis of a Graph Transformer Approach to Addressing Hate Speech: Adapting to Dynamically Changing Content**|Liam Hebert et.al.|[2301.10871v2](http://arxiv.org/abs/2301.10871v2)|null|
-|**2023-01-25**|**Backward Compatibility During Data Updates by Weight Interpolation**|Raphael Schumann et.al.|[2301.10546v1](http://arxiv.org/abs/2301.10546v1)|null|
-|**2023-01-25**|**ExaRanker: Explanation-Augmented Neural Ranker**|Fernando Ferraretto et.al.|[2301.10521v1](http://arxiv.org/abs/2301.10521v1)|[link](https://github.com/unicamp-dl/exaranker)|
