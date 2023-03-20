@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-20 09:23:16
+ Automated deployment @ 2023-03-20 20:33:29
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,15 +8,13 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-17**|**DORIC : Domain Robust Fine-Tuning for Open Intent Clustering through Dependency Parsing**|Jihyun Lee et.al.|[2303.09827v1](http://arxiv.org/abs/2303.09827v1)|null|
 |**2023-03-16**|**Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?**|Jaromir Savelka et.al.|[2303.09325v1](http://arxiv.org/abs/2303.09325v1)|null|
 |**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|[link](https://github.com/jeryi-sun/llm-and-law)|
 |**2023-03-15**|**Understanding Post-hoc Explainers: The Case of Anchors**|Gianluigi Lopardo et.al.|[2303.08806v1](http://arxiv.org/abs/2303.08806v1)|null|
 |**2023-03-15**|**The Image of the Process Interpretation of Regular Expressions is Not Closed under Bisimulation Collapse**|Clemens Grabmayer et.al.|[2303.08553v1](http://arxiv.org/abs/2303.08553v1)|null|
 |**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v2](http://arxiv.org/abs/2303.07274v2)|null|
 |**2023-03-10**|**Does ChatGPT resemble humans in language use?**|Zhenguang G. Cai et.al.|[2303.08014v1](http://arxiv.org/abs/2303.08014v1)|null|
-|**2023-03-09**|**Large Language Models (GPT) Struggle to Answer Multiple-Choice Questions about Code**|Jaromir Savelka et.al.|[2303.08033v1](http://arxiv.org/abs/2303.08033v1)|null|
-|**2023-03-09**|**Geometry of Language**|Loe Feijs et.al.|[2303.05208v1](http://arxiv.org/abs/2303.05208v1)|null|
-|**2023-03-09**|**Revisiting the relevance of traditional genres: a network analysis of fiction readers' preferences**|Taom Sakal et.al.|[2303.05080v1](http://arxiv.org/abs/2303.05080v1)|[link](https://github.com/taomsakal/book-networks)|
 
 ## Question Answering
 
@@ -43,9 +41,6 @@
 |**2023-03-11**|**Verbal behavior without syntactic structures: beyond Skinner and Chomsky**|Shimon Edelman et.al.|[2303.08080v1](http://arxiv.org/abs/2303.08080v1)|null|
 |**2023-03-10**|**MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**|Jiaqi Xu et.al.|[2303.05707v1](http://arxiv.org/abs/2303.05707v1)|null|
 |**2023-03-09**|**Large Language Models (GPT) Struggle to Answer Multiple-Choice Questions about Code**|Jaromir Savelka et.al.|[2303.08033v1](http://arxiv.org/abs/2303.08033v1)|null|
-|**2023-03-09**|**Geometry of Language**|Loe Feijs et.al.|[2303.05208v1](http://arxiv.org/abs/2303.05208v1)|null|
-|**2023-03-09**|**TQ-Net: Mixed Contrastive Representation Learning For Heterogeneous Test Questions**|He Zhu et.al.|[2303.08039v1](http://arxiv.org/abs/2303.08039v1)|null|
-|**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
 
 ## Reasoning
 
@@ -181,6 +176,3 @@
 |**2023-01-27**|**Learning the Effects of Physical Actions in a Multi-modal Environment**|Gautier Dagan et.al.|[2301.11845v2](http://arxiv.org/abs/2301.11845v2)|[link](https://github.com/gautierdag/piglet-vis)|
 |**2023-01-27**|**Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking**|Mubashara Akhtar et.al.|[2301.11843v1](http://arxiv.org/abs/2301.11843v1)|null|
 |**2023-01-27**|**Moûsai: Text-to-Music Generation with Long-Context Latent Diffusion**|Flavio Schneider et.al.|[2301.11757v2](http://arxiv.org/abs/2301.11757v2)|[link](https://github.com/archinetai/audio-diffusion-pytorch)|
-|**2023-01-27**|**Towards Personalized Review Summarization by Modeling Historical Reviews from Customer and Product Separately**|Xin Cheng et.al.|[2301.11682v1](http://arxiv.org/abs/2301.11682v1)|null|
-|**2023-01-27**|**ThoughtSource: A central hub for large language model reasoning data**|Simon Ott et.al.|[2301.11596v2](http://arxiv.org/abs/2301.11596v2)|[link](https://github.com/openbiolink/thoughtsource)|
-|**2023-01-26**|**Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification**|Zi Lin et.al.|[2301.11459v1](http://arxiv.org/abs/2301.11459v1)|[link](https://github.com/google/uncertainty-baselines)|
