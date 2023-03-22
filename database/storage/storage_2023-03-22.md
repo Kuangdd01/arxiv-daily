@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-22 09:16:10
+ Automated deployment @ 2023-03-22 20:30:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-21**|**The Open-domain Paradox for Chatbots: Common Ground as the Basis for Human-like Dialogue**|Gabriel Skantze et.al.|[2303.11708v1](http://arxiv.org/abs/2303.11708v1)|null|
 |**2023-03-18**|**Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**|Renze Lou et.al.|[2303.10475v2](http://arxiv.org/abs/2303.10475v2)|[link](https://github.com/renzelou/awesome-instruction-learning)|
 |**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395v1](http://arxiv.org/abs/2303.10395v1)|null|
 |**2023-03-17**|**DORIC : Domain Robust Fine-Tuning for Open Intent Clustering through Dependency Parsing**|Jihyun Lee et.al.|[2303.09827v1](http://arxiv.org/abs/2303.09827v1)|null|
@@ -22,6 +23,11 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-21**|**Large Language Models Can Be Used to Estimate the Ideologies of Politicians in a Zero-Shot Learning Setting**|Patrick Y. Wu et.al.|[2303.12057v1](http://arxiv.org/abs/2303.12057v1)|null|
+|**2023-03-21**|**The Open-domain Paradox for Chatbots: Common Ground as the Basis for Human-like Dialogue**|Gabriel Skantze et.al.|[2303.11708v1](http://arxiv.org/abs/2303.11708v1)|null|
+|**2023-03-20**|**Mind meets machine: Unravelling GPT-4's cognitive psychology**|Sifatkaur et.al.|[2303.11436v1](http://arxiv.org/abs/2303.11436v1)|null|
+|**2023-03-20**|**eP-ALM: Efficient Perceptual Augmentation of Language Models**|Mustafa Shukor et.al.|[2303.11403v1](http://arxiv.org/abs/2303.11403v1)|[link](https://github.com/mshukor/ep-alm)|
+|**2023-03-20**|**Reflexion: an autonomous agent with dynamic memory and self-reflection**|Noah Shinn et.al.|[2303.11366v1](http://arxiv.org/abs/2303.11366v1)|null|
 |**2023-03-20**|**Evaluating Language Models for Knowledge Base Completion**|Blerta Veseli et.al.|[2303.11082v1](http://arxiv.org/abs/2303.11082v1)|[link](https://github.com/bveseli/lmsforkbc)|
 |**2023-03-20**|**On-the-fly Text Retrieval for End-to-End ASR Adaptation**|Bolaji Yusuf et.al.|[2303.10942v1](http://arxiv.org/abs/2303.10942v1)|null|
 |**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
@@ -47,16 +53,18 @@
 |**2023-03-14**|**A Theory of Emergent In-Context Learning as Implicit Structure Induction**|Michael Hahn et.al.|[2303.07971v1](http://arxiv.org/abs/2303.07971v1)|null|
 |**2023-03-14**|**QI-TTS: Questioning Intonation Control for Emotional Speech Synthesis**|Haobin Tang et.al.|[2303.07682v1](http://arxiv.org/abs/2303.07682v1)|null|
 |**2023-03-14**|**Input-length-shortening and text generation via attention values**|Neşet Özkan Tan et.al.|[2303.07585v1](http://arxiv.org/abs/2303.07585v1)|null|
-|**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v2](http://arxiv.org/abs/2303.07274v2)|null|
-|**2023-03-13**|**NeuroQL: A Neuro-Symbolic Language and Dataset for Inter-Subjective Reasoning**|Nick Papoulias et.al.|[2303.07146v1](http://arxiv.org/abs/2303.07146v1)|null|
-|**2023-03-13**|**Generating multiple-choice questions for medical question answering with distractors and cue-masking**|Damien Sileo et.al.|[2303.07069v1](http://arxiv.org/abs/2303.07069v1)|null|
-|**2023-03-12**|**LUKE-Graph: A Transformer-based Approach with Gated Relational Graph Attention for Cloze-style Reading Comprehension**|Shima Foolad et.al.|[2303.06675v1](http://arxiv.org/abs/2303.06675v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-21**|**Large Language Models Can Be Used to Estimate the Ideologies of Politicians in a Zero-Shot Learning Setting**|Patrick Y. Wu et.al.|[2303.12057v1](http://arxiv.org/abs/2303.12057v1)|null|
+|**2023-03-21**|**Logical Reasoning over Natural Language as Knowledge Representation: A Survey**|Zonglin Yang et.al.|[2303.12023v1](http://arxiv.org/abs/2303.12023v1)|null|
+|**2023-03-20**|**Language Model Behavior: A Comprehensive Survey**|Tyler A. Chang et.al.|[2303.11504v1](http://arxiv.org/abs/2303.11504v1)|null|
+|**2023-03-20**|**Mind meets machine: Unravelling GPT-4's cognitive psychology**|Sifatkaur et.al.|[2303.11436v1](http://arxiv.org/abs/2303.11436v1)|null|
+|**2023-03-20**|**MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**|Zhengyuan Yang et.al.|[2303.11381v1](http://arxiv.org/abs/2303.11381v1)|null|
+|**2023-03-20**|**Reflexion: an autonomous agent with dynamic memory and self-reflection**|Noah Shinn et.al.|[2303.11366v1](http://arxiv.org/abs/2303.11366v1)|null|
 |**2023-03-20**|**Retrieving Multimodal Information for Augmented Generation: A Survey**|Ruochen Zhao et.al.|[2303.10868v1](http://arxiv.org/abs/2303.10868v1)|null|
 |**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
 |**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395v1](http://arxiv.org/abs/2303.10395v1)|null|
@@ -177,8 +185,3 @@
 |**2023-01-31**|**Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**|Yunhu Ye et.al.|[2301.13808v1](http://arxiv.org/abs/2301.13808v1)|null|
 |**2023-01-31**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shi et.al.|[2301.13741v1](http://arxiv.org/abs/2301.13741v1)|null|
 |**2023-01-31**|**Faithful Chain-of-Thought Reasoning**|Qing Lyu et.al.|[2301.13379v2](http://arxiv.org/abs/2301.13379v2)|[link](https://github.com/veronica320/faithful-cot)|
-|**2023-01-30**|**ArchiSound: Audio Generation with Diffusion**|Flavio Schneider et.al.|[2301.13267v1](http://arxiv.org/abs/2301.13267v1)|[link](https://github.com/archinetai/audio-diffusion-pytorch)|
-|**2023-01-30**|**The Secret of Metaphor on Expressing Stronger Emotion**|Yucheng Li et.al.|[2301.13042v1](http://arxiv.org/abs/2301.13042v1)|[link](https://github.com/liyucheng09/metaphors_are_more_emotional)|
-|**2023-01-30**|**Crawling the Internal Knowledge-Base of Language Models**|Roi Cohen et.al.|[2301.12810v1](http://arxiv.org/abs/2301.12810v1)|null|
-|**2023-01-30**|**Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling**|Aseem Srivastava et.al.|[2301.12729v1](http://arxiv.org/abs/2301.12729v1)|null|
-|**2023-01-30**|**Specializing Smaller Language Models towards Multi-Step Reasoning**|Yao Fu et.al.|[2301.12726v1](http://arxiv.org/abs/2301.12726v1)|null|
