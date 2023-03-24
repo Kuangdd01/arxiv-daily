@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-24 09:16:10
+ Automated deployment @ 2023-03-24 20:29:54
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,22 +8,27 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-23**|**A Simple Explanation for the Phase Transition in Large Language Models with List Decoding**|Cheng-Shang Chang et.al.|[2303.13112v1](http://arxiv.org/abs/2303.13112v1)|null|
 |**2023-03-22**|**Interpretable Bangla Sarcasm Detection using BERT and Explainable AI**|Ramisa Anan et.al.|[2303.12772v1](http://arxiv.org/abs/2303.12772v1)|null|
 |**2023-03-22**|**Evaluating Transformer Models and Human Behaviors on Chinese Character Naming**|Xiaomeng Ma et.al.|[2303.12294v1](http://arxiv.org/abs/2303.12294v1)|[link](https://github.com/xiaomeng-ma/chinese-character-naming)|
 |**2023-03-21**|**The Open-domain Paradox for Chatbots: Common Ground as the Basis for Human-like Dialogue**|Gabriel Skantze et.al.|[2303.11708v1](http://arxiv.org/abs/2303.11708v1)|null|
+|**2023-03-20**|**Learning Semantic Text Similarity to rank Hypernyms of Financial Terms**|Sohom Ghosh et.al.|[2303.13475v1](http://arxiv.org/abs/2303.13475v1)|[link](https://github.com/sohomghosh/FinSim_Financial_Hypernym_detection)|
+|**2023-03-20**|**Capabilities of GPT-4 on Medical Challenge Problems**|Harsha Nori et.al.|[2303.13375v1](http://arxiv.org/abs/2303.13375v1)|null|
 |**2023-03-18**|**Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**|Renze Lou et.al.|[2303.10475v2](http://arxiv.org/abs/2303.10475v2)|[link](https://github.com/renzelou/awesome-instruction-learning)|
 |**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395v1](http://arxiv.org/abs/2303.10395v1)|null|
 |**2023-03-17**|**DORIC : Domain Robust Fine-Tuning for Open Intent Clustering through Dependency Parsing**|Jihyun Lee et.al.|[2303.09827v1](http://arxiv.org/abs/2303.09827v1)|null|
 |**2023-03-16**|**Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?**|Jaromir Savelka et.al.|[2303.09325v1](http://arxiv.org/abs/2303.09325v1)|null|
 |**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|[link](https://github.com/jeryi-sun/llm-and-law)|
-|**2023-03-15**|**Understanding Post-hoc Explainers: The Case of Anchors**|Gianluigi Lopardo et.al.|[2303.08806v1](http://arxiv.org/abs/2303.08806v1)|null|
-|**2023-03-15**|**The Image of the Process Interpretation of Regular Expressions is Not Closed under Bisimulation Collapse**|Clemens Grabmayer et.al.|[2303.08553v1](http://arxiv.org/abs/2303.08553v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351v1](http://arxiv.org/abs/2303.13351v1)|null|
+|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v1](http://arxiv.org/abs/2303.13284v1)|null|
+|**2023-03-22**|**Are LLMs the Master of All Trades? : Exploring Domain-Agnostic Reasoning Skills of LLMs**|Shrivats Agrawal et.al.|[2303.12810v1](http://arxiv.org/abs/2303.12810v1)|null|
+|**2023-03-22**|**Salient Span Masking for Temporal Understanding**|Jeremy R. Cole et.al.|[2303.12860v1](http://arxiv.org/abs/2303.12860v1)|null|
 |**2023-03-22**|**Integrating Image Features with Convolutional Sequence-to-sequence Network for Multilingual Visual Question Answering**|Triet Minh Thai et.al.|[2303.12671v1](http://arxiv.org/abs/2303.12671v1)|null|
 |**2023-03-22**|**MEGA: Multilingual Evaluation of Generative AI**|Kabir Ahuja et.al.|[2303.12528v1](http://arxiv.org/abs/2303.12528v1)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
@@ -33,6 +38,7 @@
 |**2023-03-20**|**Mind meets machine: Unravelling GPT-4's cognitive psychology**|Sifatkaur et.al.|[2303.11436v1](http://arxiv.org/abs/2303.11436v1)|null|
 |**2023-03-20**|**eP-ALM: Efficient Perceptual Augmentation of Language Models**|Mustafa Shukor et.al.|[2303.11403v1](http://arxiv.org/abs/2303.11403v1)|[link](https://github.com/mshukor/ep-alm)|
 |**2023-03-20**|**Reflexion: an autonomous agent with dynamic memory and self-reflection**|Noah Shinn et.al.|[2303.11366v1](http://arxiv.org/abs/2303.11366v1)|[link](https://github.com/noahshinn024/reflexion)|
+|**2023-03-20**|**Capabilities of GPT-4 on Medical Challenge Problems**|Harsha Nori et.al.|[2303.13375v1](http://arxiv.org/abs/2303.13375v1)|null|
 |**2023-03-20**|**Evaluating Language Models for Knowledge Base Completion**|Blerta Veseli et.al.|[2303.11082v1](http://arxiv.org/abs/2303.11082v1)|[link](https://github.com/bveseli/lmsforkbc)|
 |**2023-03-20**|**On-the-fly Text Retrieval for End-to-End ASR Adaptation**|Bolaji Yusuf et.al.|[2303.10942v1](http://arxiv.org/abs/2303.10942v1)|null|
 |**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
@@ -45,23 +51,19 @@
 |**2023-03-18**|**An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering**|Nan Hu et.al.|[2303.10368v1](http://arxiv.org/abs/2303.10368v1)|[link](https://github.com/aannonymouuss/plms-in-practical-kbqa)|
 |**2023-03-18**|**Revisiting Automatic Question Summarization Evaluation in the Biomedical Domain**|Hongyi Yuan et.al.|[2303.10328v1](http://arxiv.org/abs/2303.10328v1)|null|
 |**2023-03-17**|**Conversational Tree Search: A New Hybrid Dialog Task**|Dirk Väth et.al.|[2303.10227v1](http://arxiv.org/abs/2303.10227v1)|[link](https://github.com/digitalphonetics/conversational-tree-search)|
+|**2023-03-17**|**Practical and Ethical Challenges of Large Language Models in Education: A Systematic Literature Review**|Lixiang Yan et.al.|[2303.13379v1](http://arxiv.org/abs/2303.13379v1)|null|
 |**2023-03-17**|**Can AI-Generated Text be Reliably Detected?**|Vinu Sankar Sadasivan et.al.|[2303.11156v1](http://arxiv.org/abs/2303.11156v1)|null|
+|**2023-03-16**|**Revealing Weaknesses of Vietnamese Language Models Through Unanswerable Questions in Machine Reading Comprehension**|Son Quoc Tran et.al.|[2303.13355v1](http://arxiv.org/abs/2303.13355v1)|null|
 |**2023-03-16**|**Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?**|Jaromir Savelka et.al.|[2303.09325v1](http://arxiv.org/abs/2303.09325v1)|null|
 |**2023-03-16**|**Secret-Keeping in Question Answering**|Nathaniel W. Rollings et.al.|[2303.09067v1](http://arxiv.org/abs/2303.09067v1)|null|
 |**2023-03-15**|**A Formalization of Operads in Coq**|Zachary Flores et.al.|[2303.08894v1](http://arxiv.org/abs/2303.08894v1)|null|
-|**2023-03-15**|**Automated Query Generation for Evidence Collection from Web Search Engines**|Nestor Prieto-Chavana et.al.|[2303.08652v1](http://arxiv.org/abs/2303.08652v1)|null|
-|**2023-03-15**|**On the Calibration and Uncertainty with Pólya-Gamma Augmentation for Dialog Retrieval Models**|Tong Ye et.al.|[2303.08606v1](http://arxiv.org/abs/2303.08606v1)|null|
-|**2023-03-15**|**Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!**|Yubo Ma et.al.|[2303.08559v1](http://arxiv.org/abs/2303.08559v1)|null|
-|**2023-03-14**|**Do Transformers Parse while Predicting the Masked Word?**|Haoyu Zhao et.al.|[2303.08117v1](http://arxiv.org/abs/2303.08117v1)|null|
-|**2023-03-14**|**Simfluence: Modeling the Influence of Individual Training Examples by Simulating Training Runs**|Kelvin Guu et.al.|[2303.08114v1](http://arxiv.org/abs/2303.08114v1)|null|
-|**2023-03-14**|**Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions**|Yiming Tan et.al.|[2303.07992v1](http://arxiv.org/abs/2303.07992v1)|[link](https://github.com/tan92hl/complex-question-answering-evaluation-of-chatgpt)|
-|**2023-03-14**|**A Theory of Emergent In-Context Learning as Implicit Structure Induction**|Michael Hahn et.al.|[2303.07971v1](http://arxiv.org/abs/2303.07971v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-22**|**Are LLMs the Master of All Trades? : Exploring Domain-Agnostic Reasoning Skills of LLMs**|Shrivats Agrawal et.al.|[2303.12810v1](http://arxiv.org/abs/2303.12810v1)|null|
 |**2023-03-22**|**Sparks of Artificial General Intelligence: Early experiments with GPT-4**|Sébastien Bubeck et.al.|[2303.12712v1](http://arxiv.org/abs/2303.12712v1)|null|
 |**2023-03-22**|**MEGA: Multilingual Evaluation of Generative AI**|Kabir Ahuja et.al.|[2303.12528v1](http://arxiv.org/abs/2303.12528v1)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
@@ -72,6 +74,7 @@
 |**2023-03-20**|**Mind meets machine: Unravelling GPT-4's cognitive psychology**|Sifatkaur et.al.|[2303.11436v1](http://arxiv.org/abs/2303.11436v1)|null|
 |**2023-03-20**|**MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**|Zhengyuan Yang et.al.|[2303.11381v1](http://arxiv.org/abs/2303.11381v1)|null|
 |**2023-03-20**|**Reflexion: an autonomous agent with dynamic memory and self-reflection**|Noah Shinn et.al.|[2303.11366v1](http://arxiv.org/abs/2303.11366v1)|[link](https://github.com/noahshinn024/reflexion)|
+|**2023-03-20**|**Capabilities of GPT-4 on Medical Challenge Problems**|Harsha Nori et.al.|[2303.13375v1](http://arxiv.org/abs/2303.13375v1)|null|
 |**2023-03-20**|**Retrieving Multimodal Information for Augmented Generation: A Survey**|Ruochen Zhao et.al.|[2303.10868v1](http://arxiv.org/abs/2303.10868v1)|null|
 |**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
 |**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395v1](http://arxiv.org/abs/2303.10395v1)|null|
@@ -183,6 +186,3 @@
 |**2023-02-02**|**Double Permutation Equivariance for Knowledge Graph Completion**|Jianfei Gao et.al.|[2302.01313v1](http://arxiv.org/abs/2302.01313v1)|null|
 |**2023-02-02**|**Multimodal Chain-of-Thought Reasoning in Language Models**|Zhuosheng Zhang et.al.|[2302.00923v4](http://arxiv.org/abs/2302.00923v4)|[link](https://github.com/amazon-science/mm-cot)|
 |**2023-02-01**|**Collaborating with language models for embodied reasoning**|Ishita Dasgupta et.al.|[2302.00763v1](http://arxiv.org/abs/2302.00763v1)|null|
-|**2023-02-01**|**Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**|Zhihong Shao et.al.|[2302.00618v1](http://arxiv.org/abs/2302.00618v1)|null|
-|**2023-02-01**|**Zero-shot Transfer of Article-aware Legal Outcome Classification for European Court of Human Rights Cases**|T. Y. S. S Santosh et.al.|[2302.00609v3](http://arxiv.org/abs/2302.00609v3)|null|
-|**2023-02-01**|**An Empirical Study on the Transferability of Transformer Modules in Parameter-Efficient Fine-Tuning**|Mohammad Akbar-Tajari et.al.|[2302.00378v2](http://arxiv.org/abs/2302.00378v2)|null|
