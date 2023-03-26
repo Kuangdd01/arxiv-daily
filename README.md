@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-26 09:22:42
+ Automated deployment @ 2023-03-26 20:28:49
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -26,7 +26,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351v1](http://arxiv.org/abs/2303.13351v1)|null|
-|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v1](http://arxiv.org/abs/2303.13284v1)|null|
+|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v1](http://arxiv.org/abs/2303.13284v1)|[link](https://github.com/debayan/gett-qa)|
 |**2023-03-22**|**Are LLMs the Master of All Trades? : Exploring Domain-Agnostic Reasoning Skills of LLMs**|Shrivats Agrawal et.al.|[2303.12810v1](http://arxiv.org/abs/2303.12810v1)|[link](https://github.com/shrivatsagrawal/are-llms-the-master-of-all-trades-exploring-domain-agnostic-reasoning-skills-of-llms)|
 |**2023-03-22**|**Salient Span Masking for Temporal Understanding**|Jeremy R. Cole et.al.|[2303.12860v1](http://arxiv.org/abs/2303.12860v1)|null|
 |**2023-03-22**|**Integrating Image Features with Convolutional Sequence-to-sequence Network for Multilingual Visual Question Answering**|Triet Minh Thai et.al.|[2303.12671v1](http://arxiv.org/abs/2303.12671v1)|null|
@@ -69,7 +69,7 @@
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
 |**2023-03-21**|**Large Language Models Can Be Used to Estimate the Ideologies of Politicians in a Zero-Shot Learning Setting**|Patrick Y. Wu et.al.|[2303.12057v2](http://arxiv.org/abs/2303.12057v2)|null|
 |**2023-03-21**|**Is BERT Blind? Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding**|Morris Alper et.al.|[2303.12513v1](http://arxiv.org/abs/2303.12513v1)|[link](https://github.com/TAU-VAILab/isbertblind)|
-|**2023-03-21**|**Logical Reasoning over Natural Language as Knowledge Representation: A Survey**|Zonglin Yang et.al.|[2303.12023v1](http://arxiv.org/abs/2303.12023v1)|null|
+|**2023-03-21**|**Logical Reasoning over Natural Language as Knowledge Representation: A Survey**|Zonglin Yang et.al.|[2303.12023v1](http://arxiv.org/abs/2303.12023v1)|[link](https://github.com/zongliny/lrnl-bench)|
 |**2023-03-20**|**Language Model Behavior: A Comprehensive Survey**|Tyler A. Chang et.al.|[2303.11504v1](http://arxiv.org/abs/2303.11504v1)|null|
 |**2023-03-20**|**Mind meets machine: Unravelling GPT-4's cognitive psychology**|Sifatkaur et.al.|[2303.11436v1](http://arxiv.org/abs/2303.11436v1)|null|
 |**2023-03-20**|**MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**|Zhengyuan Yang et.al.|[2303.11381v1](http://arxiv.org/abs/2303.11381v1)|null|
