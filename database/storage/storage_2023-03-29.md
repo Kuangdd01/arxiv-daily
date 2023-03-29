@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-29 09:24:38
+ Automated deployment @ 2023-03-29 20:35:15
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -17,14 +17,15 @@
 |**2023-03-22**|**Interpretable Bangla Sarcasm Detection using BERT and Explainable AI**|Ramisa Anan et.al.|[2303.12772v1](http://arxiv.org/abs/2303.12772v1)|null|
 |**2023-03-22**|**Evaluating Transformer Models and Human Behaviors on Chinese Character Naming**|Xiaomeng Ma et.al.|[2303.12294v1](http://arxiv.org/abs/2303.12294v1)|[link](https://github.com/xiaomeng-ma/chinese-character-naming)|
 |**2023-03-21**|**The Open-domain Paradox for Chatbots: Common Ground as the Basis for Human-like Dialogue**|Gabriel Skantze et.al.|[2303.11708v1](http://arxiv.org/abs/2303.11708v1)|null|
-|**2023-03-20**|**Learning Semantic Text Similarity to rank Hypernyms of Financial Terms**|Sohom Ghosh et.al.|[2303.13475v1](http://arxiv.org/abs/2303.13475v1)|[link](https://github.com/sohomghosh/FinSim_Financial_Hypernym_detection)|
-|**2023-03-20**|**Capabilities of GPT-4 on Medical Challenge Problems**|Harsha Nori et.al.|[2303.13375v1](http://arxiv.org/abs/2303.13375v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-28**|**Towards Countering Essentialism through Social Bias Reasoning**|Emily Allaway et.al.|[2303.16173v1](http://arxiv.org/abs/2303.16173v1)|null|
+|**2023-03-28**|**Explicit Planning Helps Language Models in Logical Reasoning**|Hongyu Zhao et.al.|[2303.15714v1](http://arxiv.org/abs/2303.15714v1)|[link](https://github.com/cindermond/explicit-planning-for-reasoning)|
+|**2023-03-27**|**ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization**|Zheheng Luo et.al.|[2303.15621v1](http://arxiv.org/abs/2303.15621v1)|null|
 |**2023-03-27**|**Zero-shot Model Diagnosis**|Jinqi Luo et.al.|[2303.15441v1](http://arxiv.org/abs/2303.15441v1)|null|
 |**2023-03-27**|**Curriculum Learning for Compositional Visual Reasoning**|Wafa Aissa et.al.|[2303.15006v1](http://arxiv.org/abs/2303.15006v1)|null|
 |**2023-03-27**|**Variation and Instability in Dialect-Based Embedding Spaces**|Jonathan Dunn et.al.|[2303.14963v1](http://arxiv.org/abs/2303.14963v1)|null|
@@ -33,6 +34,7 @@
 |**2023-03-25**|**Automatic Generation of Multiple-Choice Questions**|Cheng Zhang et.al.|[2303.14576v1](http://arxiv.org/abs/2303.14576v1)|null|
 |**2023-03-25**|**SmartBook: AI-Assisted Situation Report Generation**|Revanth Gangi Reddy et.al.|[2303.14337v2](http://arxiv.org/abs/2303.14337v2)|null|
 |**2023-03-25**|**The Semantic Reader Project: Augmenting Scholarly Documents through AI-Powered Interactive Reading Interfaces**|Kyle Lo et.al.|[2303.14334v1](http://arxiv.org/abs/2303.14334v1)|null|
+|**2023-03-24**|**ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge**|Li Yunxiang et.al.|[2303.14070v2](http://arxiv.org/abs/2303.14070v2)|[link](https://github.com/kent0n-li/chatdoctor)|
 |**2023-03-24**|**Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT**|Qingyu Lu et.al.|[2303.13809v1](http://arxiv.org/abs/2303.13809v1)|[link](https://github.com/coldmist-lu/erroranalysis_prompt)|
 |**2023-03-23**|**Mordecai 3: A Neural Geoparser and Event Geocoder**|Andrew Halterman et.al.|[2303.13675v1](http://arxiv.org/abs/2303.13675v1)|null|
 |**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351v2](http://arxiv.org/abs/2303.13351v2)|null|
@@ -52,16 +54,16 @@
 |**2023-03-20**|**Evaluating Language Models for Knowledge Base Completion**|Blerta Veseli et.al.|[2303.11082v1](http://arxiv.org/abs/2303.11082v1)|[link](https://github.com/bveseli/lmsforkbc)|
 |**2023-03-20**|**On-the-fly Text Retrieval for End-to-End ASR Adaptation**|Bolaji Yusuf et.al.|[2303.10942v1](http://arxiv.org/abs/2303.10942v1)|null|
 |**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
-|**2023-03-19**|**FVQA 2.0: Introducing Adversarial Samples into Fact-based Visual Question Answering**|Weizhe Lin et.al.|[2303.10699v1](http://arxiv.org/abs/2303.10699v1)|null|
-|**2023-03-19**|**COVID-19 event extraction from Twitter via extractive question answering with continuous prompts**|Yuhang Jiang et.al.|[2303.10659v2](http://arxiv.org/abs/2303.10659v2)|[link](https://github.com/bionlproc/twitter-covid-qa-extraction)|
-|**2023-03-18**|**Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning**|Qingru Zhang et.al.|[2303.10512v1](http://arxiv.org/abs/2303.10512v1)|null|
-|**2023-03-18**|**Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**|Renze Lou et.al.|[2303.10475v2](http://arxiv.org/abs/2303.10475v2)|[link](https://github.com/renzelou/awesome-instruction-learning)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|[link](https://github.com/zrrskywalker/llama-adapter)|
+|**2023-03-28**|**Towards Countering Essentialism through Social Bias Reasoning**|Emily Allaway et.al.|[2303.16173v1](http://arxiv.org/abs/2303.16173v1)|null|
+|**2023-03-28**|**Explicit Planning Helps Language Models in Logical Reasoning**|Hongyu Zhao et.al.|[2303.15714v1](http://arxiv.org/abs/2303.15714v1)|[link](https://github.com/cindermond/explicit-planning-for-reasoning)|
+|**2023-03-27**|**ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization**|Zheheng Luo et.al.|[2303.15621v1](http://arxiv.org/abs/2303.15621v1)|null|
 |**2023-03-27**|**Causal schema induction for knowledge discovery**|Michael Regan et.al.|[2303.15381v1](http://arxiv.org/abs/2303.15381v1)|null|
 |**2023-03-27**|**Evaluating self-attention interpretability through human-grounded experimental protocol**|Milan Bhan et.al.|[2303.15190v1](http://arxiv.org/abs/2303.15190v1)|null|
 |**2023-03-27**|**An ontology-aided, natural language-based approach for multi-constraint BIM model querying**|Mengtian Yin et.al.|[2303.15116v1](http://arxiv.org/abs/2303.15116v1)|null|
@@ -179,10 +181,3 @@
 |**2023-02-10**|**Predicting Desirable Revisions of Evidence and Reasoning in Argumentative Writing**|Tazin Afrin et.al.|[2302.05039v1](http://arxiv.org/abs/2302.05039v1)|[link](https://github.com/tazin-afrin/desirable-revision-classification)|
 |**2023-02-10**|**Is multi-modal vision supervision beneficial to language?**|Avinash Madasu et.al.|[2302.05016v1](http://arxiv.org/abs/2302.05016v1)|null|
 |**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
-|**2023-02-09**|**Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals**|Yue Wu et.al.|[2302.04449v2](http://arxiv.org/abs/2302.04449v2)|null|
-|**2023-02-08**|**Efficient Joint Learning for Clinical Named Entity Recognition and Relation Extraction Using Fourier Networks: A Use Case in Adverse Drug Events**|Anthony Yazdani et.al.|[2302.04185v1](http://arxiv.org/abs/2302.04185v1)|[link](https://github.com/ds4dh/jnrf)|
-|**2023-02-08**|**Prompting for Multimodal Hateful Meme Classification**|Rui Cao et.al.|[2302.04156v1](http://arxiv.org/abs/2302.04156v1)|null|
-|**2023-02-08**|**A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**|Yejin Bang et.al.|[2302.04023v2](http://arxiv.org/abs/2302.04023v2)|[link](https://github.com/hltchkust/chatgpt-evaluation)|
-|**2023-02-08**|**Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**|Chengwei Qin et.al.|[2302.06476v2](http://arxiv.org/abs/2302.06476v2)|null|
-|**2023-02-07**|**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**|Abhiramon Rajasekharan et.al.|[2302.03780v2](http://arxiv.org/abs/2302.03780v2)|null|
-|**2023-02-06**|**Techniques to Improve Neural Math Word Problem Solvers**|Youyuan Zhang et.al.|[2302.03145v1](http://arxiv.org/abs/2302.03145v1)|[link](https://github.com/sophistz/question-aware-deductive-mwp)|
