@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-30 09:18:55
+ Automated deployment @ 2023-03-30 20:32:28
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-29**|**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**|Xingwei He et.al.|[2303.16854v1](http://arxiv.org/abs/2303.16854v1)|null|
+|**2023-03-29**|**Evaluating NLG systems: A brief introduction**|Emiel van Miltenburg et.al.|[2303.16742v1](http://arxiv.org/abs/2303.16742v1)|null|
+|**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537v1](http://arxiv.org/abs/2303.16537v1)|null|
+|**2023-03-29**|**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**|Yaobo Liang et.al.|[2303.16434v1](http://arxiv.org/abs/2303.16434v1)|null|
 |**2023-03-27**|**Evaluating self-attention interpretability through human-grounded experimental protocol**|Milan Bhan et.al.|[2303.15190v1](http://arxiv.org/abs/2303.15190v1)|null|
 |**2023-03-26**|**Farspredict: A benchmark dataset for link prediction**|Najmeh Torabian et.al.|[2303.14647v1](http://arxiv.org/abs/2303.14647v1)|null|
 |**2023-03-25**|**Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System**|Yunfan Gao et.al.|[2303.14524v1](http://arxiv.org/abs/2303.14524v1)|null|
@@ -16,13 +20,16 @@
 |**2023-03-23**|**A Simple Explanation for the Phase Transition in Large Language Models with List Decoding**|Cheng-Shang Chang et.al.|[2303.13112v1](http://arxiv.org/abs/2303.13112v1)|null|
 |**2023-03-22**|**Interpretable Bangla Sarcasm Detection using BERT and Explainable AI**|Ramisa Anan et.al.|[2303.12772v1](http://arxiv.org/abs/2303.12772v1)|null|
 |**2023-03-22**|**Evaluating Transformer Models and Human Behaviors on Chinese Character Naming**|Xiaomeng Ma et.al.|[2303.12294v1](http://arxiv.org/abs/2303.12294v1)|[link](https://github.com/xiaomeng-ma/chinese-character-naming)|
-|**2023-03-21**|**The Open-domain Paradox for Chatbots: Common Ground as the Basis for Human-like Dialogue**|Gabriel Skantze et.al.|[2303.11708v1](http://arxiv.org/abs/2303.11708v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-29**|**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**|Xingwei He et.al.|[2303.16854v1](http://arxiv.org/abs/2303.16854v1)|null|
+|**2023-03-29**|**MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks**|Weicheng Kuo et.al.|[2303.16839v1](http://arxiv.org/abs/2303.16839v1)|null|
+|**2023-03-29**|**Zero-shot Entailment of Leaderboards for Empirical AI Research**|Salomon Kabongo et.al.|[2303.16835v1](http://arxiv.org/abs/2303.16835v1)|null|
+|**2023-03-29**|**ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models**|Ning Bian et.al.|[2303.16421v1](http://arxiv.org/abs/2303.16421v1)|null|
 |**2023-03-28**|**Towards Countering Essentialism through Social Bias Reasoning**|Emily Allaway et.al.|[2303.16173v1](http://arxiv.org/abs/2303.16173v1)|null|
 |**2023-03-28**|**Explicit Planning Helps Language Models in Logical Reasoning**|Hongyu Zhao et.al.|[2303.15714v1](http://arxiv.org/abs/2303.15714v1)|[link](https://github.com/cindermond/explicit-planning-for-reasoning)|
 |**2023-03-27**|**ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization**|Zheheng Luo et.al.|[2303.15621v1](http://arxiv.org/abs/2303.15621v1)|null|
@@ -46,22 +53,17 @@
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
 |**2023-03-22**|**Evaluating Transformer Models and Human Behaviors on Chinese Character Naming**|Xiaomeng Ma et.al.|[2303.12294v1](http://arxiv.org/abs/2303.12294v1)|[link](https://github.com/xiaomeng-ma/chinese-character-naming)|
 |**2023-03-21**|**Large Language Models Can Be Used to Estimate the Ideologies of Politicians in a Zero-Shot Learning Setting**|Patrick Y. Wu et.al.|[2303.12057v2](http://arxiv.org/abs/2303.12057v2)|null|
-|**2023-03-21**|**The Open-domain Paradox for Chatbots: Common Ground as the Basis for Human-like Dialogue**|Gabriel Skantze et.al.|[2303.11708v1](http://arxiv.org/abs/2303.11708v1)|null|
-|**2023-03-20**|**Mind meets machine: Unravelling GPT-4's cognitive psychology**|Sifatkaur et.al.|[2303.11436v1](http://arxiv.org/abs/2303.11436v1)|null|
-|**2023-03-20**|**eP-ALM: Efficient Perceptual Augmentation of Language Models**|Mustafa Shukor et.al.|[2303.11403v1](http://arxiv.org/abs/2303.11403v1)|[link](https://github.com/mshukor/ep-alm)|
-|**2023-03-20**|**Reflexion: an autonomous agent with dynamic memory and self-reflection**|Noah Shinn et.al.|[2303.11366v1](http://arxiv.org/abs/2303.11366v1)|[link](https://github.com/noahshinn024/reflexion)|
-|**2023-03-20**|**Capabilities of GPT-4 on Medical Challenge Problems**|Harsha Nori et.al.|[2303.13375v1](http://arxiv.org/abs/2303.13375v1)|null|
-|**2023-03-20**|**Evaluating Language Models for Knowledge Base Completion**|Blerta Veseli et.al.|[2303.11082v1](http://arxiv.org/abs/2303.11082v1)|[link](https://github.com/bveseli/lmsforkbc)|
-|**2023-03-20**|**On-the-fly Text Retrieval for End-to-End ASR Adaptation**|Bolaji Yusuf et.al.|[2303.10942v1](http://arxiv.org/abs/2303.10942v1)|null|
-|**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537v1](http://arxiv.org/abs/2303.16537v1)|null|
+|**2023-03-28**|**Writing Assistants Should Model Social Factors of Language**|Vivek Kulkarni et.al.|[2303.16275v1](http://arxiv.org/abs/2303.16275v1)|null|
 |**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|[link](https://github.com/zrrskywalker/llama-adapter)|
 |**2023-03-28**|**Towards Countering Essentialism through Social Bias Reasoning**|Emily Allaway et.al.|[2303.16173v1](http://arxiv.org/abs/2303.16173v1)|null|
+|**2023-03-28**|**How can Deep Learning Retrieve the Write-Missing Additional Diagnosis from Chinese Electronic Medical Record For DRG**|Shaohui Liu et.al.|[2303.16757v1](http://arxiv.org/abs/2303.16757v1)|null|
 |**2023-03-28**|**Explicit Planning Helps Language Models in Logical Reasoning**|Hongyu Zhao et.al.|[2303.15714v1](http://arxiv.org/abs/2303.15714v1)|[link](https://github.com/cindermond/explicit-planning-for-reasoning)|
 |**2023-03-27**|**ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization**|Zheheng Luo et.al.|[2303.15621v1](http://arxiv.org/abs/2303.15621v1)|null|
 |**2023-03-27**|**Causal schema induction for knowledge discovery**|Michael Regan et.al.|[2303.15381v1](http://arxiv.org/abs/2303.15381v1)|null|
@@ -176,8 +178,3 @@
 |**2023-02-11**|**Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning**|Jiayu Liu et.al.|[2302.05717v1](http://arxiv.org/abs/2302.05717v1)|null|
 |**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v2](http://arxiv.org/abs/2302.05698v2)|[link](https://github.com/hkunlp/icl-ceil)|
 |**2023-02-11**|**See Your Heart: Psychological states Interpretation through Visual Creations**|Likun Yang et.al.|[2302.10276v2](http://arxiv.org/abs/2302.10276v2)|null|
-|**2023-02-10**|**The Wisdom of Hindsight Makes Language Models Better Instruction Followers**|Tianjun Zhang et.al.|[2302.05206v1](http://arxiv.org/abs/2302.05206v1)|[link](https://github.com/tianjunz/hir)|
-|**2023-02-10**|**Translating Natural Language to Planning Goals with Large-Language Models**|Yaqi Xie et.al.|[2302.05128v1](http://arxiv.org/abs/2302.05128v1)|[link](https://github.com/clear-nus/gpt-pddl)|
-|**2023-02-10**|**Predicting Desirable Revisions of Evidence and Reasoning in Argumentative Writing**|Tazin Afrin et.al.|[2302.05039v1](http://arxiv.org/abs/2302.05039v1)|[link](https://github.com/tazin-afrin/desirable-revision-classification)|
-|**2023-02-10**|**Is multi-modal vision supervision beneficial to language?**|Avinash Madasu et.al.|[2302.05016v1](http://arxiv.org/abs/2302.05016v1)|null|
-|**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
