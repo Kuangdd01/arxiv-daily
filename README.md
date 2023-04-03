@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-03 09:12:36
+ Automated deployment @ 2023-04-03 20:29:50
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
+|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|null|
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
 |**2023-03-29**|**Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams**|Desnes Nunes et.al.|[2303.17003v1](http://arxiv.org/abs/2303.17003v1)|[link](https://github.com/piresramon/gpt-4-enem)|
 |**2023-03-29**|**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**|Xingwei He et.al.|[2303.16854v1](http://arxiv.org/abs/2303.16854v1)|null|
@@ -19,17 +21,27 @@
 |**2023-03-25**|**Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System**|Yunfan Gao et.al.|[2303.14524v1](http://arxiv.org/abs/2303.14524v1)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286v1](http://arxiv.org/abs/2303.14286v1)|null|
 |**2023-03-24**|**Improving Prediction Performance and Model Interpretability through Attention Mechanisms from Basic and Applied Research Perspectives**|Shunsuke Kitada et.al.|[2303.14116v1](http://arxiv.org/abs/2303.14116v1)|null|
-|**2023-03-23**|**A Simple Explanation for the Phase Transition in Large Language Models with List Decoding**|Cheng-Shang Chang et.al.|[2303.13112v1](http://arxiv.org/abs/2303.13112v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-31**|**A Multiple Choices Reading Comprehension Corpus for Vietnamese Language Education**|Son T. Luu et.al.|[2303.18162v1](http://arxiv.org/abs/2303.18162v1)|null|
+|**2023-03-31**|**Can AI Chatbots Pass the Fundamentals of Engineering (FE) and Principles and Practice of Engineering (PE) Structural Exams?**|M. Z. Naser et.al.|[2303.18149v1](http://arxiv.org/abs/2303.18149v1)|null|
+|**2023-03-31**|**UKP-SQuARE v3: A Platform for Multi-Agent QA Research**|Haritz Puerto et.al.|[2303.18120v1](http://arxiv.org/abs/2303.18120v1)|null|
+|**2023-03-31**|**WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset**|Tiago Ribeiro et.al.|[2303.17876v1](http://arxiv.org/abs/2303.17876v1)|null|
+|**2023-03-31**|**Exploring the Potential of Large Language models in Traditional Korean Medicine: A Foundation Model Approach to Culturally-Adapted Healthcare**|Dongyeop Jang et.al.|[2303.17807v1](http://arxiv.org/abs/2303.17807v1)|null|
+|**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
+|**2023-03-30**|**What Types of Questions Require Conversation to Answer? A Case Study of AskReddit Questions**|Shih-Hong Huang et.al.|[2303.17710v1](http://arxiv.org/abs/2303.17710v1)|null|
+|**2023-03-30**|**Task Oriented Conversational Modelling With Subjective Knowledge**|Raja Kumar et.al.|[2303.17695v1](http://arxiv.org/abs/2303.17695v1)|[link](https://github.com/raja-kumar/knowledge-grounded-tods)|
+|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|null|
+|**2023-03-30**|**Aligning a medium-size GPT model in English to a small closed domain in Spanish using reinforcement learning**|Oscar R. Navarrete-Parra et.al.|[2303.17649v1](http://arxiv.org/abs/2303.17649v1)|null|
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
 |**2023-03-30**|**Recognition, recall, and retention of few-shot memories in large language models**|A. Emin Orhan et.al.|[2303.17557v1](http://arxiv.org/abs/2303.17557v1)|[link](https://github.com/eminorhan/llm-memory)|
 |**2023-03-30**|**Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study**|Yong Cao et.al.|[2303.17466v2](http://arxiv.org/abs/2303.17466v2)|[link](https://github.com/yongcaoplus/probingchatgpt)|
 |**2023-03-30**|**Yes but.. Can ChatGPT Identify Entities in Historical Documents?**|Carlos-Emiliano González-Gallardo et.al.|[2303.17322v1](http://arxiv.org/abs/2303.17322v1)|null|
+|**2023-03-30**|**oBERTa: Improving Sparse Transfer Learning via improved initialization, distillation, and pruning regimes**|Daniel Campos et.al.|[2303.17612v1](http://arxiv.org/abs/2303.17612v1)|null|
 |**2023-03-30**|**DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents**|Varun Nair et.al.|[2303.17071v1](http://arxiv.org/abs/2303.17071v1)|[link](https://github.com/curai/curai-research)|
 |**2023-03-29**|**Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams**|Desnes Nunes et.al.|[2303.17003v1](http://arxiv.org/abs/2303.17003v1)|[link](https://github.com/piresramon/gpt-4-enem)|
 |**2023-03-29**|**Adapting to the Low-Resource Double-Bind: Investigating Low-Compute Methods on Low-Resource African Languages**|Colin Leong et.al.|[2303.16985v1](http://arxiv.org/abs/2303.16985v1)|null|
@@ -52,18 +64,18 @@
 |**2023-03-24**|**Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT**|Qingyu Lu et.al.|[2303.13809v1](http://arxiv.org/abs/2303.13809v1)|[link](https://github.com/coldmist-lu/erroranalysis_prompt)|
 |**2023-03-23**|**Mordecai 3: A Neural Geoparser and Event Geocoder**|Andrew Halterman et.al.|[2303.13675v1](http://arxiv.org/abs/2303.13675v1)|[link](https://github.com/ahalterman/mordecai3)|
 |**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351v3](http://arxiv.org/abs/2303.13351v3)|null|
-|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v3](http://arxiv.org/abs/2303.13284v3)|[link](https://github.com/debayan/gett-qa)|
-|**2023-03-22**|**Are LLMs the Master of All Trades? : Exploring Domain-Agnostic Reasoning Skills of LLMs**|Shrivats Agrawal et.al.|[2303.12810v1](http://arxiv.org/abs/2303.12810v1)|[link](https://github.com/shrivatsagrawal/are-llms-the-master-of-all-trades-exploring-domain-agnostic-reasoning-skills-of-llms)|
-|**2023-03-22**|**Salient Span Masking for Temporal Understanding**|Jeremy R. Cole et.al.|[2303.12860v1](http://arxiv.org/abs/2303.12860v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-31**|**Learning Procedure-aware Video Representation from Instructional Videos and Their Narrations**|Yiwu Zhong et.al.|[2303.17839v1](http://arxiv.org/abs/2303.17839v1)|null|
+|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|null|
 |**2023-03-30**|**Going Beyond Nouns With Vision & Language Models Using Synthetic Data**|Paola Cascante-Bonilla et.al.|[2303.17590v1](http://arxiv.org/abs/2303.17590v1)|null|
 |**2023-03-30**|**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace**|Yongliang Shen et.al.|[2303.17580v1](http://arxiv.org/abs/2303.17580v1)|[link](https://github.com/microsoft/JARVIS)|
 |**2023-03-30**|**Language Models can Solve Computer Tasks**|Geunwoo Kim et.al.|[2303.17491v1](http://arxiv.org/abs/2303.17491v1)|null|
+|**2023-03-30**|**Solving morphological analogies: from retrieval to generation**|Esteban Marquer et.al.|[2303.18062v1](http://arxiv.org/abs/2303.18062v1)|null|
 |**2023-03-30**|**Humans in Humans Out: On GPT Converging Toward Common Sense in both Success and Failure**|Philipp Koralus et.al.|[2303.17276v1](http://arxiv.org/abs/2303.17276v1)|null|
 |**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537v1](http://arxiv.org/abs/2303.16537v1)|null|
 |**2023-03-28**|**Writing Assistants Should Model Social Factors of Language**|Vivek Kulkarni et.al.|[2303.16275v1](http://arxiv.org/abs/2303.16275v1)|null|
@@ -175,5 +187,3 @@
 |**2023-02-14**|**Few-shot learning approaches for classifying low resource domain specific software requirements**|Anmol Nayak et.al.|[2302.06951v1](http://arxiv.org/abs/2302.06951v1)|null|
 |**2023-02-14**|**The Role of Semantic Parsing in Understanding Procedural Text**|Hossein Rajaby Faghihi et.al.|[2302.06829v1](http://arxiv.org/abs/2302.06829v1)|null|
 |**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
-|**2023-02-13**|**On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)**|Karthik Valmeekam et.al.|[2302.06706v1](http://arxiv.org/abs/2302.06706v1)|null|
-|**2023-02-13**|**A Study on ReLU and Softmax in Transformer**|Kai Shen et.al.|[2302.06461v1](http://arxiv.org/abs/2302.06461v1)|null|
