@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-05 09:03:05
+ Automated deployment @ 2023-04-05 20:36:56
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,7 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-04**|**Can BERT eat RuCoLA? Topological Data Analysis to Explain**|Irina Proskurina et.al.|[2304.01680v1](http://arxiv.org/abs/2304.01680v1)|null|
+|**2023-04-04**|**Multidimensional Perceptron for Efficient and Explainable Long Text Classification**|Yexiang Wang et.al.|[2304.01638v1](http://arxiv.org/abs/2304.01638v1)|null|
 |**2023-04-03**|**Can the Inference Logic of Large Language Models be Disentangled into Symbolic Concepts?**|Wen Shen et.al.|[2304.01083v1](http://arxiv.org/abs/2304.01083v1)|null|
+|**2023-04-01**|**Evaluating Large Language Models on a Highly-specialized Topic, Radiation Oncology Physics**|Jason Holmes et.al.|[2304.01938v1](http://arxiv.org/abs/2304.01938v1)|null|
 |**2023-04-01**|**Large language models can rate news outlet credibility**|Kai-Cheng Yang et.al.|[2304.00228v1](http://arxiv.org/abs/2304.00228v1)|[link](https://github.com/osome-iu/chatgpt_domain_rating)|
 |**2023-03-31**|**Demo Alleviate: Demonstrating Artificial Intelligence Enabled Virtual Assistance for Telehealth: The Mental Health Case**|Kaushik Roy et.al.|[2304.00025v1](http://arxiv.org/abs/2304.00025v1)|null|
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
@@ -19,14 +22,19 @@
 |**2023-03-29**|**Evaluating NLG systems: A brief introduction**|Emiel van Miltenburg et.al.|[2303.16742v1](http://arxiv.org/abs/2303.16742v1)|null|
 |**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537v1](http://arxiv.org/abs/2303.16537v1)|null|
 |**2023-03-29**|**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**|Yaobo Liang et.al.|[2303.16434v1](http://arxiv.org/abs/2303.16434v1)|null|
-|**2023-03-27**|**Evaluating self-attention interpretability through human-grounded experimental protocol**|Milan Bhan et.al.|[2303.15190v1](http://arxiv.org/abs/2303.15190v1)|null|
-|**2023-03-26**|**Farspredict: A benchmark dataset for link prediction**|Najmeh Torabian et.al.|[2303.14647v1](http://arxiv.org/abs/2303.14647v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-04**|**Dialogue-Contextualized Re-ranking for Medical History-Taking**|Jian Zhu et.al.|[2304.01974v1](http://arxiv.org/abs/2304.01974v1)|null|
+|**2023-04-04**|**Unsupervised Improvement of Factual Knowledge in Language Models**|Nafis Sadeq et.al.|[2304.01597v1](http://arxiv.org/abs/2304.01597v1)|[link](https://github.com/intuit/wmlm)|
+|**2023-04-04**|**To ChatGPT, or not to ChatGPT: That is the question!**|Alessandro Pegoraro et.al.|[2304.01487v1](http://arxiv.org/abs/2304.01487v1)|null|
+|**2023-04-04**|**The Vector Grounding Problem**|Dimitri Coelho Mollo et.al.|[2304.01481v1](http://arxiv.org/abs/2304.01481v1)|null|
+|**2023-04-03**|**Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling**|Stella Biderman et.al.|[2304.01373v1](http://arxiv.org/abs/2304.01373v1)|[link](https://github.com/eleutherai/pythia)|
+|**2023-04-03**|**Creating Custom Event Data Without Dictionaries: A Bag-of-Tricks**|Andrew Halterman et.al.|[2304.01331v1](http://arxiv.org/abs/2304.01331v1)|[link](https://github.com/philip-schrodt/ngec)|
+|**2023-04-03**|**Safety Analysis in the Era of Large Language Models: A Case Study of STPA using ChatGPT**|Yi Qi et.al.|[2304.01246v1](http://arxiv.org/abs/2304.01246v1)|[link](https://github.com/yiqi0318/chatgpt-stpa)|
 |**2023-04-03**|**Polytuplet Loss: A Reverse Approach to Training Reading Comprehension and Logical Reasoning Models**|Jeffrey Lu et.al.|[2304.01046v1](http://arxiv.org/abs/2304.01046v1)|[link](https://github.com/ussiamaboat/research-paper)|
 |**2023-04-03**|**Understanding Individual and Team-based Human Factors in Detecting Deepfake Texts**|Adaku Uchendu et.al.|[2304.01002v1](http://arxiv.org/abs/2304.01002v1)|null|
 |**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|[link](https://github.com/scandeval/scandeval.github.io)|
@@ -34,6 +42,7 @@
 |**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592v1](http://arxiv.org/abs/2304.00592v1)|[link](https://github.com/davendw49/PK-Chat)|
 |**2023-04-02**|**LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models**|Patrik Puchert et.al.|[2304.00457v1](http://arxiv.org/abs/2304.00457v1)|null|
 |**2023-04-01**|**When Crowd Meets Persona: Creating a Large-Scale Open-Domain Persona Dialogue Corpus**|Won Ik Cho et.al.|[2304.00350v1](http://arxiv.org/abs/2304.00350v1)|null|
+|**2023-04-01**|**Evaluating Large Language Models on a Highly-specialized Topic, Radiation Oncology Physics**|Jason Holmes et.al.|[2304.01938v1](http://arxiv.org/abs/2304.01938v1)|null|
 |**2023-04-01**|**What Does the Indian Parliament Discuss? An Exploratory Analysis of the Question Hour in the Lok Sabha**|Suman Adhya et.al.|[2304.00235v1](http://arxiv.org/abs/2304.00235v1)|null|
 |**2023-04-01**|**Large language models can rate news outlet credibility**|Kai-Cheng Yang et.al.|[2304.00228v1](http://arxiv.org/abs/2304.00228v1)|[link](https://github.com/osome-iu/chatgpt_domain_rating)|
 |**2023-03-31**|**A Multiple Choices Reading Comprehension Corpus for Vietnamese Language Education**|Son T. Luu et.al.|[2303.18162v1](http://arxiv.org/abs/2303.18162v1)|null|
@@ -63,22 +72,21 @@
 |**2023-03-28**|**Towards Countering Essentialism through Social Bias Reasoning**|Emily Allaway et.al.|[2303.16173v1](http://arxiv.org/abs/2303.16173v1)|null|
 |**2023-03-28**|**Explicit Planning Helps Language Models in Logical Reasoning**|Hongyu Zhao et.al.|[2303.15714v1](http://arxiv.org/abs/2303.15714v1)|[link](https://github.com/cindermond/explicit-planning-for-reasoning)|
 |**2023-03-27**|**ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization**|Zheheng Luo et.al.|[2303.15621v1](http://arxiv.org/abs/2303.15621v1)|null|
-|**2023-03-27**|**On the Creativity of Large Language Models**|Giorgio Franceschelli et.al.|[2304.00008v1](http://arxiv.org/abs/2304.00008v1)|null|
-|**2023-03-27**|**Zero-shot Model Diagnosis**|Jinqi Luo et.al.|[2303.15441v1](http://arxiv.org/abs/2303.15441v1)|null|
-|**2023-03-27**|**Curriculum Learning for Compositional Visual Reasoning**|Wafa Aissa et.al.|[2303.15006v1](http://arxiv.org/abs/2303.15006v1)|null|
-|**2023-03-27**|**Variation and Instability in Dialect-Based Embedding Spaces**|Jonathan Dunn et.al.|[2303.14963v1](http://arxiv.org/abs/2303.14963v1)|null|
-|**2023-03-27**|**TabIQA: Table Questions Answering on Business Document Images**|Phuc Nguyen et.al.|[2303.14935v1](http://arxiv.org/abs/2303.14935v1)|[link](https://github.com/phucty/itabqa)|
-|**2023-03-26**|**Nature Language Reasoning, A Survey**|Fei Yu et.al.|[2303.14725v1](http://arxiv.org/abs/2303.14725v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-04**|**LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models**|Zhiqiang Hu et.al.|[2304.01933v1](http://arxiv.org/abs/2304.01933v1)|[link](https://github.com/agi-edgerunners/llm-adapters)|
+|**2023-04-04**|**REFINER: Reasoning Feedback on Intermediate Representations**|Debjit Paul et.al.|[2304.01904v1](http://arxiv.org/abs/2304.01904v1)|null|
+|**2023-04-04**|**Neural Comprehension: Language Models with Compiled Neural Networks**|Yixuan Weng et.al.|[2304.01665v1](http://arxiv.org/abs/2304.01665v1)|[link](https://github.com/wengsyx/neural-comprehension)|
 |**2023-04-03**|**Can the Inference Logic of Large Language Models be Disentangled into Symbolic Concepts?**|Wen Shen et.al.|[2304.01083v1](http://arxiv.org/abs/2304.01083v1)|null|
 |**2023-04-03**|**Polytuplet Loss: A Reverse Approach to Training Reading Comprehension and Logical Reasoning Models**|Jeffrey Lu et.al.|[2304.01046v1](http://arxiv.org/abs/2304.01046v1)|[link](https://github.com/ussiamaboat/research-paper)|
+|**2023-04-03**|**Identifying Mentions of Pain in Mental Health Records Text: A Natural Language Processing Approach**|Jaya Chaturvedi et.al.|[2304.01240v1](http://arxiv.org/abs/2304.01240v1)|null|
 |**2023-04-03**|**Towards Integration of Discriminability and Robustness for Document-Level Relation Extraction**|Jia Guo et.al.|[2304.00824v1](http://arxiv.org/abs/2304.00824v1)|[link](https://github.com/guojiapub/pemscl)|
 |**2023-04-01**|**When Crowd Meets Persona: Creating a Large-Scale Open-Domain Persona Dialogue Corpus**|Won Ik Cho et.al.|[2304.00350v1](http://arxiv.org/abs/2304.00350v1)|null|
+|**2023-04-01**|**Evaluating Large Language Models on a Highly-specialized Topic, Radiation Oncology Physics**|Jason Holmes et.al.|[2304.01938v1](http://arxiv.org/abs/2304.01938v1)|null|
 |**2023-04-01**|**Inductive Relation Prediction from Relational Paths and Context with Hierarchical Transformers**|Jiaang Li et.al.|[2304.00215v1](http://arxiv.org/abs/2304.00215v1)|null|
 |**2023-03-31**|**Practical Conformer: Optimizing size, speed and flops of Conformer for on-Device and cloud ASR**|Rami Botros et.al.|[2304.00171v1](http://arxiv.org/abs/2304.00171v1)|null|
 |**2023-03-31**|**Learning Procedure-aware Video Representation from Instructional Videos and Their Narrations**|Yiwu Zhong et.al.|[2303.17839v1](http://arxiv.org/abs/2303.17839v1)|null|
@@ -186,11 +194,3 @@
 |**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v3](http://arxiv.org/abs/2302.09051v3)|null|
 |**2023-02-17**|**CK-Transformer: Commonsense Knowledge Enhanced Transformers for Referring Expression Comprehension**|Zhi Zhang et.al.|[2302.09027v1](http://arxiv.org/abs/2302.09027v1)|[link](https://github.com/fightingfighting/ck-transformer)|
 |**2023-02-17**|**Grimm in Wonderland: Prompt Engineering with Midjourney to Illustrate Fairytales**|Martin Ruskov et.al.|[2302.08961v1](http://arxiv.org/abs/2302.08961v1)|null|
-|**2023-02-16**|**Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks**|Tomer Ullman et.al.|[2302.08399v5](http://arxiv.org/abs/2302.08399v5)|null|
-|**2023-02-16**|**Empirical Investigation of Neural Symbolic Reasoning Strategies**|Yoichi Aoki et.al.|[2302.08148v1](http://arxiv.org/abs/2302.08148v1)|[link](https://github.com/ao1neko/reasoning-strategy)|
-|**2023-02-16**|**Do We Still Need Clinical Language Models?**|Eric Lehman et.al.|[2302.08091v1](http://arxiv.org/abs/2302.08091v1)|null|
-|**2023-02-15**|**Tree-Based Representation and Generation of Natural and Mathematical Language**|Alexander Scarlatos et.al.|[2302.07974v1](http://arxiv.org/abs/2302.07974v1)|null|
-|**2023-02-15**|**Commonsense Reasoning for Conversational AI: A Survey of the State of the Art**|Christopher Richardson et.al.|[2302.07926v1](http://arxiv.org/abs/2302.07926v1)|null|
-|**2023-02-15**|**Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**|Keito Kudo et.al.|[2302.07866v1](http://arxiv.org/abs/2302.07866v1)|[link](https://github.com/keitokudo/dentaku_skill_tree)|
-|**2023-02-15**|**Augmented Language Models: a Survey**|Grégoire Mialon et.al.|[2302.07842v1](http://arxiv.org/abs/2302.07842v1)|null|
-|**2023-02-15**|**Whats New? Identifying the Unfolding of New Events in Narratives**|Seyed Mahed Mousavi et.al.|[2302.07748v2](http://arxiv.org/abs/2302.07748v2)|null|
