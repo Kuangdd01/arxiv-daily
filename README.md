@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-06 20:29:08
+ Automated deployment @ 2023-04-06 20:54:17
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -18,7 +18,7 @@
 |**2023-04-01**|**Large language models can rate news outlet credibility**|Kai-Cheng Yang et.al.|[2304.00228v1](http://arxiv.org/abs/2304.00228v1)|[link](https://github.com/osome-iu/chatgpt_domain_rating)|
 |**2023-03-31**|**Demo Alleviate: Demonstrating Artificial Intelligence Enabled Virtual Assistance for Telehealth: The Mental Health Case**|Kaushik Roy et.al.|[2304.00025v1](http://arxiv.org/abs/2304.00025v1)|null|
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
-|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|null|
+|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|[link](https://github.com/madaan/self-refine)|
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
 |**2023-03-29**|**Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams**|Desnes Nunes et.al.|[2303.17003v1](http://arxiv.org/abs/2303.17003v1)|[link](https://github.com/piresramon/gpt-4-enem)|
 |**2023-03-29**|**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**|Xingwei He et.al.|[2303.16854v1](http://arxiv.org/abs/2303.16854v1)|null|
@@ -61,7 +61,7 @@
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
 |**2023-03-30**|**What Types of Questions Require Conversation to Answer? A Case Study of AskReddit Questions**|Shih-Hong Huang et.al.|[2303.17710v2](http://arxiv.org/abs/2303.17710v2)|null|
 |**2023-03-30**|**Task Oriented Conversational Modelling With Subjective Knowledge**|Raja Kumar et.al.|[2303.17695v1](http://arxiv.org/abs/2303.17695v1)|[link](https://github.com/raja-kumar/knowledge-grounded-tods)|
-|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|null|
+|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|[link](https://github.com/madaan/self-refine)|
 |**2023-03-30**|**Aligning a medium-size GPT model in English to a small closed domain in Spanish using reinforcement learning**|Oscar R. Navarrete-Parra et.al.|[2303.17649v2](http://arxiv.org/abs/2303.17649v2)|null|
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
 |**2023-03-30**|**Recognition, recall, and retention of few-shot memories in large language models**|A. Emin Orhan et.al.|[2303.17557v1](http://arxiv.org/abs/2303.17557v1)|[link](https://github.com/eminorhan/llm-memory)|
@@ -95,7 +95,7 @@
 |**2023-04-01**|**Inductive Relation Prediction from Relational Paths and Context with Hierarchical Transformers**|Jiaang Li et.al.|[2304.00215v1](http://arxiv.org/abs/2304.00215v1)|null|
 |**2023-03-31**|**Practical Conformer: Optimizing size, speed and flops of Conformer for on-Device and cloud ASR**|Rami Botros et.al.|[2304.00171v1](http://arxiv.org/abs/2304.00171v1)|null|
 |**2023-03-31**|**Learning Procedure-aware Video Representation from Instructional Videos and Their Narrations**|Yiwu Zhong et.al.|[2303.17839v1](http://arxiv.org/abs/2303.17839v1)|null|
-|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|null|
+|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|[link](https://github.com/madaan/self-refine)|
 |**2023-03-30**|**Going Beyond Nouns With Vision & Language Models Using Synthetic Data**|Paola Cascante-Bonilla et.al.|[2303.17590v1](http://arxiv.org/abs/2303.17590v1)|null|
 |**2023-03-30**|**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace**|Yongliang Shen et.al.|[2303.17580v2](http://arxiv.org/abs/2303.17580v2)|[link](https://github.com/microsoft/JARVIS)|
 |**2023-03-30**|**Language Models can Solve Computer Tasks**|Geunwoo Kim et.al.|[2303.17491v1](http://arxiv.org/abs/2303.17491v1)|null|
