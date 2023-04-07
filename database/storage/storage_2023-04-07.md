@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-07 09:10:57
+ Automated deployment @ 2023-04-07 20:28:25
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -22,15 +22,17 @@
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
 |**2023-03-29**|**Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams**|Desnes Nunes et.al.|[2303.17003v1](http://arxiv.org/abs/2303.17003v1)|[link](https://github.com/piresramon/gpt-4-enem)|
 |**2023-03-29**|**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**|Xingwei He et.al.|[2303.16854v1](http://arxiv.org/abs/2303.16854v1)|null|
-|**2023-03-29**|**Evaluating NLG systems: A brief introduction**|Emiel van Miltenburg et.al.|[2303.16742v1](http://arxiv.org/abs/2303.16742v1)|null|
-|**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537v1](http://arxiv.org/abs/2303.16537v1)|null|
-|**2023-03-29**|**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**|Yaobo Liang et.al.|[2303.16434v1](http://arxiv.org/abs/2303.16434v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|null|
+|**2023-04-06**|**Bridging the Language Gap: Knowledge Injected Multilingual Question Answering**|Zhichao Duan et.al.|[2304.03159v1](http://arxiv.org/abs/2304.03159v1)|null|
+|**2023-04-06**|**Evaluating the Robustness of Machine Reading Comprehension Models to Low Resource Entity Renaming**|Clemencia Siro et.al.|[2304.03145v1](http://arxiv.org/abs/2304.03145v1)|null|
+|**2023-04-06**|**Multi-label classification of open-ended questions with BERT**|Matthias Schonlau et.al.|[2304.02945v1](http://arxiv.org/abs/2304.02945v1)|null|
+|**2023-04-06**|**Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions**|Chen Feng Tsai et.al.|[2304.02868v1](http://arxiv.org/abs/2304.02868v1)|null|
 |**2023-04-05**|**Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification**|Shan Chen et.al.|[2304.02496v1](http://arxiv.org/abs/2304.02496v1)|[link](https://github.com/shan23chen/healthllm_eval)|
 |**2023-04-05**|**Ericson: An Interactive Open-Domain Conversational Search Agent**|Zihao Wang et.al.|[2304.02233v1](http://arxiv.org/abs/2304.02233v1)|null|
 |**2023-04-05**|**Document-Level Machine Translation with Large Language Models**|Longyue Wang et.al.|[2304.02210v1](http://arxiv.org/abs/2304.02210v1)|null|
@@ -67,20 +69,13 @@
 |**2023-03-30**|**Recognition, recall, and retention of few-shot memories in large language models**|A. Emin Orhan et.al.|[2303.17557v1](http://arxiv.org/abs/2303.17557v1)|[link](https://github.com/eminorhan/llm-memory)|
 |**2023-03-30**|**Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study**|Yong Cao et.al.|[2303.17466v2](http://arxiv.org/abs/2303.17466v2)|[link](https://github.com/yongcaoplus/probingchatgpt)|
 |**2023-03-30**|**Yes but.. Can ChatGPT Identify Entities in Historical Documents?**|Carlos-Emiliano González-Gallardo et.al.|[2303.17322v1](http://arxiv.org/abs/2303.17322v1)|null|
-|**2023-03-30**|**oBERTa: Improving Sparse Transfer Learning via improved initialization, distillation, and pruning regimes**|Daniel Campos et.al.|[2303.17612v2](http://arxiv.org/abs/2303.17612v2)|null|
-|**2023-03-30**|**QUADRo: Dataset and Models for QUestion-Answer Database Retrieval**|Stefano Campese et.al.|[2304.01003v1](http://arxiv.org/abs/2304.01003v1)|null|
-|**2023-03-30**|**DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents**|Varun Nair et.al.|[2303.17071v1](http://arxiv.org/abs/2303.17071v1)|[link](https://github.com/curai/curai-research)|
-|**2023-03-29**|**Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams**|Desnes Nunes et.al.|[2303.17003v1](http://arxiv.org/abs/2303.17003v1)|[link](https://github.com/piresramon/gpt-4-enem)|
-|**2023-03-29**|**Adapting to the Low-Resource Double-Bind: Investigating Low-Compute Methods on Low-Resource African Languages**|Colin Leong et.al.|[2303.16985v1](http://arxiv.org/abs/2303.16985v1)|null|
-|**2023-03-29**|**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**|Xingwei He et.al.|[2303.16854v1](http://arxiv.org/abs/2303.16854v1)|null|
-|**2023-03-29**|**MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks**|Weicheng Kuo et.al.|[2303.16839v2](http://arxiv.org/abs/2303.16839v2)|null|
-|**2023-03-29**|**Zero-shot Entailment of Leaderboards for Empirical AI Research**|Salomon Kabongo et.al.|[2303.16835v1](http://arxiv.org/abs/2303.16835v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-06**|**Bridging the Language Gap: Knowledge Injected Multilingual Question Answering**|Zhichao Duan et.al.|[2304.03159v1](http://arxiv.org/abs/2304.03159v1)|null|
 |**2023-04-05**|**Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification**|Shan Chen et.al.|[2304.02496v1](http://arxiv.org/abs/2304.02496v1)|[link](https://github.com/shan23chen/healthllm_eval)|
 |**2023-04-05**|**Personality-aware Human-centric Multimodal Reasoning: A New Task**|Yaochen Zhu et.al.|[2304.02313v1](http://arxiv.org/abs/2304.02313v1)|null|
 |**2023-04-04**|**LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models**|Zhiqiang Hu et.al.|[2304.01933v1](http://arxiv.org/abs/2304.01933v1)|[link](https://github.com/agi-edgerunners/llm-adapters)|
@@ -116,6 +111,7 @@
 |**2023-03-26**|**Nature Language Reasoning, A Survey**|Fei Yu et.al.|[2303.14725v1](http://arxiv.org/abs/2303.14725v1)|[link](https://github.com/freedomintelligence/reasoningnlp)|
 |**2023-03-26**|**GOAL: A Challenging Knowledge-grounded Video Captioning Benchmark for Real-time Soccer Commentary Generation**|Ji Qi et.al.|[2303.14655v1](http://arxiv.org/abs/2303.14655v1)|null|
 |**2023-03-26**|**Farspredict: A benchmark dataset for link prediction**|Najmeh Torabian et.al.|[2303.14647v1](http://arxiv.org/abs/2303.14647v1)|null|
+|**2023-03-23**|**ChatGPT for Shaping the Future of Dentistry: The Potential of Multi-Modal Large Language Model**|Hanyao Huang et.al.|[2304.03086v1](http://arxiv.org/abs/2304.03086v1)|null|
 |**2023-03-22**|**Are LLMs the Master of All Trades? : Exploring Domain-Agnostic Reasoning Skills of LLMs**|Shrivats Agrawal et.al.|[2303.12810v1](http://arxiv.org/abs/2303.12810v1)|[link](https://github.com/shrivatsagrawal/are-llms-the-master-of-all-trades-exploring-domain-agnostic-reasoning-skills-of-llms)|
 |**2023-03-22**|**Sparks of Artificial General Intelligence: Early experiments with GPT-4**|Sébastien Bubeck et.al.|[2303.12712v3](http://arxiv.org/abs/2303.12712v3)|null|
 |**2023-03-22**|**MEGA: Multilingual Evaluation of Generative AI**|Kabir Ahuja et.al.|[2303.12528v2](http://arxiv.org/abs/2303.12528v2)|null|
@@ -191,6 +187,3 @@
 |**2023-02-21**|**Hyena Hierarchy: Towards Larger Convolutional Language Models**|Michael Poli et.al.|[2302.10866v2](http://arxiv.org/abs/2302.10866v2)|[link](https://github.com/hazyresearch/safari)|
 |**2023-02-21**|**Real-World Deployment and Evaluation of Kwame for Science, An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2302.10786v1](http://arxiv.org/abs/2302.10786v1)|null|
 |**2023-02-20**|**Learning Deep Semantics for Test Completion**|Pengyu Nie et.al.|[2302.10166v3](http://arxiv.org/abs/2302.10166v3)|[link](https://github.com/engineeringsoftware/teco)|
-|**2023-02-20**|**A Two-Sided Discussion of Preregistration of NLP Research**|Anders Søgaard et.al.|[2302.10086v1](http://arxiv.org/abs/2302.10086v1)|null|
-|**2023-02-19**|**Learning Language Representations with Logical Inductive Bias**|Jianshu Chen et.al.|[2302.09458v1](http://arxiv.org/abs/2302.09458v1)|null|
-|**2023-02-18**|**A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT**|Ce Zhou et.al.|[2302.09419v2](http://arxiv.org/abs/2302.09419v2)|null|
