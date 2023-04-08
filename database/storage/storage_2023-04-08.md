@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-08 09:11:38
+ Automated deployment @ 2023-04-08 20:27:13
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -42,7 +42,7 @@
 |**2023-04-04**|**To ChatGPT, or not to ChatGPT: That is the question!**|Alessandro Pegoraro et.al.|[2304.01487v2](http://arxiv.org/abs/2304.01487v2)|null|
 |**2023-04-04**|**The Vector Grounding Problem**|Dimitri Coelho Mollo et.al.|[2304.01481v1](http://arxiv.org/abs/2304.01481v1)|null|
 |**2023-04-03**|**Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling**|Stella Biderman et.al.|[2304.01373v1](http://arxiv.org/abs/2304.01373v1)|[link](https://github.com/eleutherai/pythia)|
-|**2023-04-03**|**Creating Custom Event Data Without Dictionaries: A Bag-of-Tricks**|Andrew Halterman et.al.|[2304.01331v1](http://arxiv.org/abs/2304.01331v1)|[link](https://github.com/philip-schrodt/ngec)|
+|**2023-04-03**|**Creating Custom Event Data Without Dictionaries: A Bag-of-Tricks**|Andrew Halterman et.al.|[2304.01331v1](http://arxiv.org/abs/2304.01331v1)|[link](https://github.com/ahalterman/ngec)|
 |**2023-04-03**|**Safety Analysis in the Era of Large Language Models: A Case Study of STPA using ChatGPT**|Yi Qi et.al.|[2304.01246v1](http://arxiv.org/abs/2304.01246v1)|[link](https://github.com/yiqi0318/chatgpt-stpa)|
 |**2023-04-03**|**Polytuplet Loss: A Reverse Approach to Training Reading Comprehension and Logical Reasoning Models**|Jeffrey Lu et.al.|[2304.01046v1](http://arxiv.org/abs/2304.01046v1)|[link](https://github.com/ussiamaboat/research-paper)|
 |**2023-04-03**|**Understanding Individual and Team-based Human Factors in Detecting Deepfake Texts**|Adaku Uchendu et.al.|[2304.01002v1](http://arxiv.org/abs/2304.01002v1)|null|
@@ -58,7 +58,7 @@
 |**2023-03-31**|**Quick Dense Retrievers Consume KALE: Post Training Kullback Leibler Alignment of Embeddings for Asymmetrical dual encoders**|Daniel Campos et.al.|[2304.01016v1](http://arxiv.org/abs/2304.01016v1)|null|
 |**2023-03-31**|**Can AI Chatbots Pass the Fundamentals of Engineering (FE) and Principles and Practice of Engineering (PE) Structural Exams?**|M. Z. Naser et.al.|[2303.18149v2](http://arxiv.org/abs/2303.18149v2)|null|
 |**2023-03-31**|**UKP-SQuARE v3: A Platform for Multi-Agent QA Research**|Haritz Puerto et.al.|[2303.18120v1](http://arxiv.org/abs/2303.18120v1)|null|
-|**2023-03-31**|**WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset**|Tiago Ribeiro et.al.|[2303.17876v1](http://arxiv.org/abs/2303.17876v1)|null|
+|**2023-03-31**|**WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset**|Tiago Ribeiro et.al.|[2303.17876v1](http://arxiv.org/abs/2303.17876v1)|[link](https://github.com/tfnribeiro/webqamgaze)|
 |**2023-03-31**|**Exploring the Potential of Large Language models in Traditional Korean Medicine: A Foundation Model Approach to Culturally-Adapted Healthcare**|Dongyeop Jang et.al.|[2303.17807v1](http://arxiv.org/abs/2303.17807v1)|null|
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
 |**2023-03-30**|**What Types of Questions Require Conversation to Answer? A Case Study of AskReddit Questions**|Shih-Hong Huang et.al.|[2303.17710v2](http://arxiv.org/abs/2303.17710v2)|null|
