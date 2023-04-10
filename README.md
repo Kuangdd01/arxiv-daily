@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-10 09:13:00
+ Automated deployment @ 2023-04-10 20:28:54
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-07**|**Interpretable Unified Language Checking**|Tianhua Zhang et.al.|[2304.03728v1](http://arxiv.org/abs/2304.03728v1)|[link](https://github.com/luohongyin/unilc)|
+|**2023-04-07**|**SSS at SemEval-2023 Task 10: Explainable Detection of Online Sexism using Majority Voted Fine-Tuned Transformers**|Sriya Rallabandi et.al.|[2304.03518v1](http://arxiv.org/abs/2304.03518v1)|null|
+|**2023-04-06**|**On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental Health Analysis**|Kailai Yang et.al.|[2304.03347v1](http://arxiv.org/abs/2304.03347v1)|null|
 |**2023-04-05**|**Towards Explainable AI Writing Assistants for Non-native English Speakers**|Yewon Kim et.al.|[2304.02625v1](http://arxiv.org/abs/2304.02625v1)|null|
 |**2023-04-05**|**Human-like Summarization Evaluation with ChatGPT**|Mingqi Gao et.al.|[2304.02554v1](http://arxiv.org/abs/2304.02554v1)|null|
 |**2023-04-05**|**Document-Level Machine Translation with Large Language Models**|Longyue Wang et.al.|[2304.02210v1](http://arxiv.org/abs/2304.02210v1)|null|
@@ -20,14 +23,15 @@
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
 |**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|[link](https://github.com/madaan/self-refine)|
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
-|**2023-03-29**|**Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams**|Desnes Nunes et.al.|[2303.17003v1](http://arxiv.org/abs/2303.17003v1)|[link](https://github.com/piresramon/gpt-4-enem)|
-|**2023-03-29**|**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**|Xingwei He et.al.|[2303.16854v1](http://arxiv.org/abs/2303.16854v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-07**|**Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering**|Hung-Ting Su et.al.|[2304.03754v1](http://arxiv.org/abs/2304.03754v1)|null|
+|**2023-04-06**|**CAPOT: Creating Robust Dense Query Encoders using Post Training Contrastive Alignment**|Daniel Campos et.al.|[2304.03401v1](http://arxiv.org/abs/2304.03401v1)|null|
+|**2023-04-06**|**ChatGPT-Crawler: Find out if ChatGPT really knows what it's talking about**|Aman Rangapur et.al.|[2304.03325v1](http://arxiv.org/abs/2304.03325v1)|null|
 |**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|null|
 |**2023-04-06**|**Bridging the Language Gap: Knowledge Injected Multilingual Question Answering**|Zhichao Duan et.al.|[2304.03159v1](http://arxiv.org/abs/2304.03159v1)|null|
 |**2023-04-06**|**Evaluating the Robustness of Machine Reading Comprehension Models to Low Resource Entity Renaming**|Clemencia Siro et.al.|[2304.03145v1](http://arxiv.org/abs/2304.03145v1)|null|
@@ -68,13 +72,14 @@
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
 |**2023-03-30**|**Recognition, recall, and retention of few-shot memories in large language models**|A. Emin Orhan et.al.|[2303.17557v1](http://arxiv.org/abs/2303.17557v1)|[link](https://github.com/eminorhan/llm-memory)|
 |**2023-03-30**|**Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study**|Yong Cao et.al.|[2303.17466v2](http://arxiv.org/abs/2303.17466v2)|[link](https://github.com/yongcaoplus/probingchatgpt)|
-|**2023-03-30**|**Yes but.. Can ChatGPT Identify Entities in Historical Documents?**|Carlos-Emiliano González-Gallardo et.al.|[2303.17322v1](http://arxiv.org/abs/2303.17322v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-07**|**Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4**|Hanmeng Liu et.al.|[2304.03439v1](http://arxiv.org/abs/2304.03439v1)|null|
+|**2023-04-06**|**On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental Health Analysis**|Kailai Yang et.al.|[2304.03347v1](http://arxiv.org/abs/2304.03347v1)|null|
 |**2023-04-06**|**Bridging the Language Gap: Knowledge Injected Multilingual Question Answering**|Zhichao Duan et.al.|[2304.03159v1](http://arxiv.org/abs/2304.03159v1)|null|
 |**2023-04-05**|**Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification**|Shan Chen et.al.|[2304.02496v1](http://arxiv.org/abs/2304.02496v1)|[link](https://github.com/shan23chen/healthllm_eval)|
 |**2023-04-05**|**Personality-aware Human-centric Multimodal Reasoning: A New Task**|Yaochen Zhu et.al.|[2304.02313v1](http://arxiv.org/abs/2304.02313v1)|null|
@@ -184,6 +189,3 @@
 |**2023-02-23**|**Active Prompting with Chain-of-Thought for Large Language Models**|Shizhe Diao et.al.|[2302.12246v2](http://arxiv.org/abs/2302.12246v2)|[link](https://github.com/shizhediao/active-cot)|
 |**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v2](http://arxiv.org/abs/2302.11799v2)|[link](https://github.com/yeeeqichen/fits)|
 |**2023-02-22**|**Improving Contextual Spelling Correction by External Acoustics Attention and Semantic Aware Data Augmentation**|Xiaoqiang Wang et.al.|[2302.11192v1](http://arxiv.org/abs/2302.11192v1)|null|
-|**2023-02-21**|**Hyena Hierarchy: Towards Larger Convolutional Language Models**|Michael Poli et.al.|[2302.10866v2](http://arxiv.org/abs/2302.10866v2)|[link](https://github.com/hazyresearch/safari)|
-|**2023-02-21**|**Real-World Deployment and Evaluation of Kwame for Science, An AI Teaching Assistant for Science Education in West Africa**|George Boateng et.al.|[2302.10786v1](http://arxiv.org/abs/2302.10786v1)|null|
-|**2023-02-20**|**Learning Deep Semantics for Test Completion**|Pengyu Nie et.al.|[2302.10166v3](http://arxiv.org/abs/2302.10166v3)|[link](https://github.com/engineeringsoftware/teco)|
