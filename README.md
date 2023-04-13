@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-13 09:12:12
+ Automated deployment @ 2023-04-13 20:31:18
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-12**|**Semantic Feature Verification in FLAN-T5**|Siddharth Suresh et.al.|[2304.05591v1](http://arxiv.org/abs/2304.05591v1)|null|
+|**2023-04-12**|**Does Informativeness Matter? Active Learning for Educational Dialogue Act Classification**|Wei Tan et.al.|[2304.05578v1](http://arxiv.org/abs/2304.05578v1)|null|
 |**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128v1](http://arxiv.org/abs/2304.05128v1)|null|
 |**2023-04-11**|**Reinforcement Learning Tutor Better Supported Lower Performers in a Math Task**|Sherry Ruan et.al.|[2304.04933v1](http://arxiv.org/abs/2304.04933v1)|null|
 |**2023-04-10**|**Attention at SemEval-2023 Task 10: Explainable Detection of Online Sexism (EDOS)**|Debashish Roy et.al.|[2304.04610v1](http://arxiv.org/abs/2304.04610v1)|[link](https://github.com/debashish05/explainable_detection_of_online_sexism)|
@@ -24,14 +26,17 @@
 |**2023-04-05**|**Towards Explainable AI Writing Assistants for Non-native English Speakers**|Yewon Kim et.al.|[2304.02625v1](http://arxiv.org/abs/2304.02625v1)|null|
 |**2023-04-05**|**Human-like Summarization Evaluation with ChatGPT**|Mingqi Gao et.al.|[2304.02554v1](http://arxiv.org/abs/2304.02554v1)|null|
 |**2023-04-05**|**Document-Level Machine Translation with Large Language Models**|Longyue Wang et.al.|[2304.02210v1](http://arxiv.org/abs/2304.02210v1)|null|
-|**2023-04-04**|**Can BERT eat RuCoLA? Topological Data Analysis to Explain**|Irina Proskurina et.al.|[2304.01680v1](http://arxiv.org/abs/2304.01680v1)|[link](https://github.com/upunaprosk/la-tda)|
-|**2023-04-04**|**Multidimensional Perceptron for Efficient and Explainable Long Text Classification**|Yexiang Wang et.al.|[2304.01638v1](http://arxiv.org/abs/2304.01638v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-12**|**Global Prompt Cell: A Portable Control Module for Effective Prompt**|Chi Liu et.al.|[2304.05642v1](http://arxiv.org/abs/2304.05642v1)|null|
+|**2023-04-12**|**ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning**|Viet Dac Lai et.al.|[2304.05613v1](http://arxiv.org/abs/2304.05613v1)|null|
+|**2023-04-12**|**Galactic ChitChat: Using Large Language Models to Converse with Astronomy Literature**|Ioana Ciucă et.al.|[2304.05406v1](http://arxiv.org/abs/2304.05406v1)|null|
+|**2023-04-11**|**Understanding Causality with Large Language Models: Feasibility and Opportunities**|Cheng Zhang et.al.|[2304.05524v1](http://arxiv.org/abs/2304.05524v1)|null|
+|**2023-04-11**|**chatIPCC: Grounding Conversational AI in Climate Science**|Saeid Ashraf Vaghefi et.al.|[2304.05510v1](http://arxiv.org/abs/2304.05510v1)|null|
 |**2023-04-10**|**DISTO: Evaluating Textual Distractors for Multi-Choice Questions using Negative Sampling based Approach**|Bilal Ghanem et.al.|[2304.04881v1](http://arxiv.org/abs/2304.04881v1)|null|
 |**2023-04-10**|**On the Possibilities of AI-Generated Text Detection**|Souradip Chakraborty et.al.|[2304.04736v1](http://arxiv.org/abs/2304.04736v1)|null|
 |**2023-04-10**|**Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis**|Wenhao Zhu et.al.|[2304.04675v1](http://arxiv.org/abs/2304.04675v1)|null|
@@ -58,18 +63,15 @@
 |**2023-04-04**|**Unsupervised Improvement of Factual Knowledge in Language Models**|Nafis Sadeq et.al.|[2304.01597v1](http://arxiv.org/abs/2304.01597v1)|[link](https://github.com/intuit/wmlm)|
 |**2023-04-04**|**To ChatGPT, or not to ChatGPT: That is the question!**|Alessandro Pegoraro et.al.|[2304.01487v2](http://arxiv.org/abs/2304.01487v2)|null|
 |**2023-04-04**|**The Vector Grounding Problem**|Dimitri Coelho Mollo et.al.|[2304.01481v1](http://arxiv.org/abs/2304.01481v1)|null|
-|**2023-04-03**|**Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling**|Stella Biderman et.al.|[2304.01373v1](http://arxiv.org/abs/2304.01373v1)|[link](https://github.com/eleutherai/pythia)|
-|**2023-04-03**|**Creating Custom Event Data Without Dictionaries: A Bag-of-Tricks**|Andrew Halterman et.al.|[2304.01331v1](http://arxiv.org/abs/2304.01331v1)|[link](https://github.com/ahalterman/ngec)|
-|**2023-04-03**|**Safety Analysis in the Era of Large Language Models: A Case Study of STPA using ChatGPT**|Yi Qi et.al.|[2304.01246v1](http://arxiv.org/abs/2304.01246v1)|[link](https://github.com/yiqi0318/chatgpt-stpa)|
-|**2023-04-03**|**Polytuplet Loss: A Reverse Approach to Training Reading Comprehension and Logical Reasoning Models**|Jeffrey Lu et.al.|[2304.01046v1](http://arxiv.org/abs/2304.01046v1)|[link](https://github.com/ussiamaboat/research-paper)|
-|**2023-04-03**|**Understanding Individual and Team-based Human Factors in Detecting Deepfake Texts**|Adaku Uchendu et.al.|[2304.01002v1](http://arxiv.org/abs/2304.01002v1)|null|
-|**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|[link](https://github.com/scandeval/scandeval.github.io)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973v1](http://arxiv.org/abs/2304.05973v1)|null|
+|**2023-04-12**|**Boosted Prompt Ensembles for Large Language Models**|Silviu Pitis et.al.|[2304.05970v1](http://arxiv.org/abs/2304.05970v1)|[link](https://github.com/awwang10/llmpromptboosting)|
+|**2023-04-12**|**Global Prompt Cell: A Portable Control Module for Effective Prompt**|Chi Liu et.al.|[2304.05642v1](http://arxiv.org/abs/2304.05642v1)|null|
 |**2023-04-11**|**Emergent autonomous scientific research capabilities of large language models**|Daniil A. Boiko et.al.|[2304.05332v1](http://arxiv.org/abs/2304.05332v1)|null|
 |**2023-04-10**|**OpenAGI: When LLM Meets Domain Experts**|Yingqiang Ge et.al.|[2304.04370v1](http://arxiv.org/abs/2304.04370v1)|[link](https://github.com/agiresearch/openagi)|
 |**2023-04-09**|**Extractive Summarization via ChatGPT for Faithful Summary Generation**|Haopeng Zhang et.al.|[2304.04193v1](http://arxiv.org/abs/2304.04193v1)|null|
@@ -172,8 +174,3 @@
 |**2023-02-28**|**Beyond the limitations of any imaginable mechanism: large language models and psycholinguistics**|Conor Houghton et.al.|[2303.00077v1](http://arxiv.org/abs/2303.00077v1)|null|
 |**2023-02-28**|**EvoPrompting: Language Models for Code-Level Neural Architecture Search**|Angelica Chen et.al.|[2302.14838v1](http://arxiv.org/abs/2302.14838v1)|null|
 |**2023-02-28**|**Automatic Scoring of Dream Reports' Emotional Content with Large Language Models**|Lorenzo Bertolini et.al.|[2302.14828v1](http://arxiv.org/abs/2302.14828v1)|[link](https://github.com/lorenzoscottb/Dream_Reports_Annotation)|
-|**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v2](http://arxiv.org/abs/2302.14045v2)|[link](https://github.com/microsoft/unilm)|
-|**2023-02-27**|**Fluid Transformers and Creative Analogies: Exploring Large Language Models' Capacity for Augmenting Cross-Domain Analogical Creativity**|Zijian Ding et.al.|[2302.12832v1](http://arxiv.org/abs/2302.12832v1)|null|
-|**2023-02-27**|**Argument Mining using BERT and Self-Attention based Embeddings**|Pranjal Srivastava et.al.|[2302.13906v1](http://arxiv.org/abs/2302.13906v1)|null|
-|**2023-02-27**|**Orca: A Few-shot Benchmark for Chinese Conversational Machine Reading Comprehension**|Nuo Chen et.al.|[2302.13619v1](http://arxiv.org/abs/2302.13619v1)|[link](https://github.com/nuochenpku/orca)|
-|**2023-02-27**|**TOT: Topology-Aware Optimal Transport For Multimodal Hate Detection**|Linhao Zhang et.al.|[2303.09314v1](http://arxiv.org/abs/2303.09314v1)|null|
