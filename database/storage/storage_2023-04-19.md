@@ -1,28 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2023-04-19 09:15:44
+ Automated deployment @ 2023-04-19 20:29:58
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-17**|**Interactive and Explainable Region-guided Radiology Report Generation**|Tim Tanida et.al.|[2304.08295v1](http://arxiv.org/abs/2304.08295v1)|[link](https://github.com/ttanida/rgrg)|
-|**2023-04-15**|**A CTC Alignment-based Non-autoregressive Transformer for End-to-end Automatic Speech Recognition**|Ruchao Fan et.al.|[2304.07611v1](http://arxiv.org/abs/2304.07611v1)|null|
-|**2023-04-12**|**Textual Explanations for Automated Commentary Driving**|Marc Alexander Kühn et.al.|[2304.08178v1](http://arxiv.org/abs/2304.08178v1)|[link](https://github.com/cognitive-robots/causal-natural-language-explanations)|
-|**2023-04-12**|**Semantic Feature Verification in FLAN-T5**|Siddharth Suresh et.al.|[2304.05591v1](http://arxiv.org/abs/2304.05591v1)|null|
-|**2023-04-12**|**Does Informativeness Matter? Active Learning for Educational Dialogue Act Classification**|Wei Tan et.al.|[2304.05578v1](http://arxiv.org/abs/2304.05578v1)|null|
-|**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128v1](http://arxiv.org/abs/2304.05128v1)|null|
-|**2023-04-11**|**Reinforcement Learning Tutor Better Supported Lower Performers in a Math Task**|Sherry Ruan et.al.|[2304.04933v2](http://arxiv.org/abs/2304.04933v2)|null|
-|**2023-04-10**|**Attention at SemEval-2023 Task 10: Explainable Detection of Online Sexism (EDOS)**|Debashish Roy et.al.|[2304.04610v1](http://arxiv.org/abs/2304.04610v1)|[link](https://github.com/debashish05/explainable_detection_of_online_sexism)|
-|**2023-04-10**|**The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges**|Qianqian Xie et.al.|[2304.05351v1](http://arxiv.org/abs/2304.05351v1)|null|
-|**2023-04-08**|**Multi-class Categorization of Reasons behind Mental Disturbance in Long Texts**|Muskan Garg et.al.|[2304.04118v1](http://arxiv.org/abs/2304.04118v1)|null|
-|**2023-04-08**|**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**|Tanveer Ahmed Belal et.al.|[2304.04087v1](http://arxiv.org/abs/2304.04087v1)|[link](https://github.com/deepu099cse/multi-labeled-bengali-toxic-comments-classification)|
-|**2023-04-08**|**Bipol: A Novel Multi-Axes Bias Evaluation Metric with Explainability for NLP**|Lama Alkhaled et.al.|[2304.04029v1](http://arxiv.org/abs/2304.04029v1)|null|
-|**2023-04-08**|**Comparing Code Explanations Created by Students and Large Language Models**|Juho Leinonen et.al.|[2304.03938v1](http://arxiv.org/abs/2304.03938v1)|null|
-|**2023-04-08**|**An Empirical Study and Improvement for Speech Emotion Recognition**|Zhen Wu et.al.|[2304.03899v1](http://arxiv.org/abs/2304.03899v1)|null|
-|**2023-04-07**|**Expectations over Unspoken Alternatives Predict Pragmatic Inferences**|Jennifer Hu et.al.|[2304.04758v1](http://arxiv.org/abs/2304.04758v1)|[link](https://github.com/jennhu/expectations-over-alternatives)|
 
 ## Question Answering
 
@@ -55,19 +34,33 @@
 |**2023-04-10**|**On the Possibilities of AI-Generated Text Detection**|Souradip Chakraborty et.al.|[2304.04736v1](http://arxiv.org/abs/2304.04736v1)|null|
 |**2023-04-10**|**Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis**|Wenhao Zhu et.al.|[2304.04675v1](http://arxiv.org/abs/2304.04675v1)|null|
 |**2023-04-09**|**FrenchMedMCQA: A French Multiple-Choice Question Answering Dataset for Medical domain**|Yanis Labrak et.al.|[2304.04280v1](http://arxiv.org/abs/2304.04280v1)|null|
-|**2023-04-09**|**Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding**|Yuqing Wang et.al.|[2304.05368v2](http://arxiv.org/abs/2304.05368v2)|null|
-|**2023-04-09**|**RISC: Generating Realistic Synthetic Bilingual Insurance Contract**|David Beauchemin et.al.|[2304.04212v1](http://arxiv.org/abs/2304.04212v1)|[link](https://github.com/graal-research/risc)|
-|**2023-04-09**|**An investigation of speaker independent phrase break models in End-to-End TTS systems**|Anandaswarup Vadapalli et.al.|[2304.04157v1](http://arxiv.org/abs/2304.04157v1)|[link](https://github.com/anandaswarup/phrase_break_prediction)|
-|**2023-04-08**|**MphayaNER: Named Entity Recognition for Tshivenda**|Rendani Mbuvha et.al.|[2304.03952v1](http://arxiv.org/abs/2304.03952v1)|[link](https://github.com/rendanim/mphayaner)|
-|**2023-04-07**|**Why think step-by-step? Reasoning emerges from the locality of experience**|Ben Prystawski et.al.|[2304.03843v1](http://arxiv.org/abs/2304.03843v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-17**|**Interactive and Explainable Region-guided Radiology Report Generation**|Tim Tanida et.al.|[2304.08295v1](http://arxiv.org/abs/2304.08295v1)|[link](https://github.com/ttanida/rgrg)|
+|**2023-04-15**|**A CTC Alignment-based Non-autoregressive Transformer for End-to-end Automatic Speech Recognition**|Ruchao Fan et.al.|[2304.07611v1](http://arxiv.org/abs/2304.07611v1)|null|
+|**2023-04-12**|**Textual Explanations for Automated Commentary Driving**|Marc Alexander Kühn et.al.|[2304.08178v1](http://arxiv.org/abs/2304.08178v1)|[link](https://github.com/cognitive-robots/causal-natural-language-explanations)|
+|**2023-04-12**|**Semantic Feature Verification in FLAN-T5**|Siddharth Suresh et.al.|[2304.05591v1](http://arxiv.org/abs/2304.05591v1)|null|
+|**2023-04-12**|**Does Informativeness Matter? Active Learning for Educational Dialogue Act Classification**|Wei Tan et.al.|[2304.05578v1](http://arxiv.org/abs/2304.05578v1)|null|
+|**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128v1](http://arxiv.org/abs/2304.05128v1)|null|
+|**2023-04-11**|**Reinforcement Learning Tutor Better Supported Lower Performers in a Math Task**|Sherry Ruan et.al.|[2304.04933v2](http://arxiv.org/abs/2304.04933v2)|null|
+|**2023-04-10**|**Attention at SemEval-2023 Task 10: Explainable Detection of Online Sexism (EDOS)**|Debashish Roy et.al.|[2304.04610v1](http://arxiv.org/abs/2304.04610v1)|[link](https://github.com/debashish05/explainable_detection_of_online_sexism)|
+|**2023-04-10**|**The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges**|Qianqian Xie et.al.|[2304.05351v1](http://arxiv.org/abs/2304.05351v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-18**|**Exploring the Trade-Offs: Unified Large Language Models vs Local Fine-Tuned Models for Highly-Specific Radiology NLI Task**|Zihao Wu et.al.|[2304.09138v1](http://arxiv.org/abs/2304.09138v1)|null|
+|**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048v1](http://arxiv.org/abs/2304.09048v1)|[link](https://github.com/zjunlp/DeepKE/tree/main/example/llm)|
+|**2023-04-18**|**Stochastic Parrots Looking for Stochastic Parrots: LLMs are Easy to Fine-Tune and Hard to Detect with other LLMs**|Da Silva Gameiro Henrique et.al.|[2304.08968v1](http://arxiv.org/abs/2304.08968v1)|null|
 |**2023-04-17**|**Tool Learning with Foundation Models**|Yujia Qin et.al.|[2304.08354v1](http://arxiv.org/abs/2304.08354v1)|[link](https://github.com/openbmb/bmtools)|
 |**2023-04-17**|**From Zero to Hero: Examining the Power of Symbolic Tasks in Instruction Tuning**|Qian Liu et.al.|[2304.07995v1](http://arxiv.org/abs/2304.07995v1)|[link](https://github.com/sail-sg/symbolic-instruction-tuning)|
+|**2023-04-16**|**Solving Math Word Problems by Combining Language Models With Symbolic Solvers**|Joy He-Yueya et.al.|[2304.09102v1](http://arxiv.org/abs/2304.09102v1)|null|
 |**2023-04-15**|**Medical Question Summarization with Entity-driven Contrastive Learning**|Sibo Wei et.al.|[2304.07437v1](http://arxiv.org/abs/2304.07437v1)|[link](https://github.com/yrbobo/mqs-ecl)|
 |**2023-04-14**|**Improving Patient Pre-screening for Clinical Trials: Assisting Physicians with Large Language Models**|Danny M. den Hamer et.al.|[2304.07396v1](http://arxiv.org/abs/2304.07396v1)|[link](https://github.com/mytomorrows/llm-prescreening)|
 |**2023-04-14**|**Prompt Engineering and Calibration for Zero-Shot Commonsense Reasoning**|Chenkai Ma et.al.|[2304.06962v1](http://arxiv.org/abs/2304.06962v1)|null|
@@ -169,6 +162,3 @@
 |**2023-03-07**|**CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification**|Seungone Kim et.al.|[2303.03628v1](http://arxiv.org/abs/2303.03628v1)|[link](https://github.com/seungonekim/cotever)|
 |**2023-03-06**|**Large Language Models as Zero-Shot Human Models for Human-Robot Interaction**|Bowen Zhang et.al.|[2303.03548v1](http://arxiv.org/abs/2303.03548v1)|[link](https://github.com/clear-nus/llm-human-model)|
 |**2023-03-06**|**Multi-resolution Interpretation and Diagnostics Tool for Natural Language Classifiers**|Peyman Jalali et.al.|[2303.03542v1](http://arxiv.org/abs/2303.03542v1)|null|
-|**2023-03-06**|**Crowdsourcing on Sensitive Data with Privacy-Preserving Text Rewriting**|Nina Mouhammad et.al.|[2303.03053v1](http://arxiv.org/abs/2303.03053v1)|null|
-|**2023-03-06**|**HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention**|Shijie Geng et.al.|[2303.02995v1](http://arxiv.org/abs/2303.02995v1)|[link](https://github.com/jeykigung/hiclip)|
-|**2023-03-05**|**FQP 2.0: Industry Trend Analysis via Hierarchical Financial Data**|Hongyin Zhu et.al.|[2303.02707v1](http://arxiv.org/abs/2303.02707v1)|null|
