@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-20 09:13:08
+ Automated deployment @ 2023-04-20 20:29:52
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-19**|**SemEval 2023 Task 6: LegalEval -- Understanding Legal Texts**|Ashutosh Modi et.al.|[2304.09548v1](http://arxiv.org/abs/2304.09548v1)|null|
 |**2023-04-17**|**Interactive and Explainable Region-guided Radiology Report Generation**|Tim Tanida et.al.|[2304.08295v1](http://arxiv.org/abs/2304.08295v1)|[link](https://github.com/ttanida/rgrg)|
 |**2023-04-15**|**A CTC Alignment-based Non-autoregressive Transformer for End-to-end Automatic Speech Recognition**|Ruchao Fan et.al.|[2304.07611v1](http://arxiv.org/abs/2304.07611v1)|null|
 |**2023-04-12**|**Textual Explanations for Automated Commentary Driving**|Marc Alexander Kühn et.al.|[2304.08178v1](http://arxiv.org/abs/2304.08178v1)|[link](https://github.com/cognitive-robots/causal-natural-language-explanations)|
@@ -15,14 +16,19 @@
 |**2023-04-12**|**Does Informativeness Matter? Active Learning for Educational Dialogue Act Classification**|Wei Tan et.al.|[2304.05578v1](http://arxiv.org/abs/2304.05578v1)|null|
 |**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128v1](http://arxiv.org/abs/2304.05128v1)|null|
 |**2023-04-11**|**Reinforcement Learning Tutor Better Supported Lower Performers in a Math Task**|Sherry Ruan et.al.|[2304.04933v2](http://arxiv.org/abs/2304.04933v2)|null|
-|**2023-04-10**|**Attention at SemEval-2023 Task 10: Explainable Detection of Online Sexism (EDOS)**|Debashish Roy et.al.|[2304.04610v1](http://arxiv.org/abs/2304.04610v1)|[link](https://github.com/debashish05/explainable_detection_of_online_sexism)|
-|**2023-04-10**|**The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges**|Qianqian Xie et.al.|[2304.05351v1](http://arxiv.org/abs/2304.05351v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-19**|**Evaluating Verifiability in Generative Search Engines**|Nelson F. Liu et.al.|[2304.09848v1](http://arxiv.org/abs/2304.09848v1)|[link](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)|
+|**2023-04-19**|**Progressive-Hint Prompting Improves Reasoning in Large Language Models**|Chuanyang Zheng et.al.|[2304.09797v1](http://arxiv.org/abs/2304.09797v1)|null|
+|**2023-04-19**|**GeneGPT: Teaching Large Language Models to Use NCBI Web APIs**|Qiao Jin et.al.|[2304.09667v1](http://arxiv.org/abs/2304.09667v1)|null|
+|**2023-04-19**|**MPMQA: Multimodal Question Answering on Product Manuals**|Liang Zhang et.al.|[2304.09660v1](http://arxiv.org/abs/2304.09660v1)|[link](https://github.com/aim3-ruc/mpmqa)|
+|**2023-04-19**|**BRENT: Bidirectional Retrieval Enhanced Norwegian Transformer**|Lucas Georges Gabriel Charpentier et.al.|[2304.09649v1](http://arxiv.org/abs/2304.09649v1)|null|
+|**2023-04-19**|**LLM as A Robotic Brain: Unifying Egocentric Memory and Control**|Jinjie Mai et.al.|[2304.09349v1](http://arxiv.org/abs/2304.09349v1)|null|
+|**2023-04-18**|**BIM-GPT: a Prompt-Based Virtual Assistant Framework for BIM Information Retrieval**|Junwen Zheng et.al.|[2304.09333v1](http://arxiv.org/abs/2304.09333v1)|null|
 |**2023-04-17**|**LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction**|Abdullatif Köksal et.al.|[2304.08460v1](http://arxiv.org/abs/2304.08460v1)|[link](https://github.com/akoksal/longform)|
 |**2023-04-17**|**What Makes a Good Dataset for Symbol Description Reading?**|Karol Lynch et.al.|[2304.08352v1](http://arxiv.org/abs/2304.08352v1)|null|
 |**2023-04-17**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**|Sihan Chen et.al.|[2304.08345v1](http://arxiv.org/abs/2304.08345v1)|[link](https://github.com/TXH-mercury/VALOR)|
@@ -45,18 +51,16 @@
 |**2023-04-12**|**Galactic ChitChat: Using Large Language Models to Converse with Astronomy Literature**|Ioana Ciucă et.al.|[2304.05406v1](http://arxiv.org/abs/2304.05406v1)|null|
 |**2023-04-11**|**Understanding Causality with Large Language Models: Feasibility and Opportunities**|Cheng Zhang et.al.|[2304.05524v1](http://arxiv.org/abs/2304.05524v1)|null|
 |**2023-04-11**|**chatIPCC: Grounding Conversational AI in Climate Science**|Saeid Ashraf Vaghefi et.al.|[2304.05510v1](http://arxiv.org/abs/2304.05510v1)|null|
-|**2023-04-10**|**DISTO: Evaluating Textual Distractors for Multi-Choice Questions using Negative Sampling based Approach**|Bilal Ghanem et.al.|[2304.04881v1](http://arxiv.org/abs/2304.04881v1)|null|
-|**2023-04-10**|**On the Possibilities of AI-Generated Text Detection**|Souradip Chakraborty et.al.|[2304.04736v1](http://arxiv.org/abs/2304.04736v1)|null|
-|**2023-04-10**|**Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis**|Wenhao Zhu et.al.|[2304.04675v1](http://arxiv.org/abs/2304.04675v1)|null|
-|**2023-04-09**|**FrenchMedMCQA: A French Multiple-Choice Question Answering Dataset for Medical domain**|Yanis Labrak et.al.|[2304.04280v1](http://arxiv.org/abs/2304.04280v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-19**|**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**|Pan Lu et.al.|[2304.09842v1](http://arxiv.org/abs/2304.09842v1)|[link](https://github.com/lupantech/chameleon-llm)|
+|**2023-04-19**|**Progressive-Hint Prompting Improves Reasoning in Large Language Models**|Chuanyang Zheng et.al.|[2304.09797v1](http://arxiv.org/abs/2304.09797v1)|null|
 |**2023-04-18**|**Exploring the Trade-Offs: Unified Large Language Models vs Local Fine-Tuned Models for Highly-Specific Radiology NLI Task**|Zihao Wu et.al.|[2304.09138v1](http://arxiv.org/abs/2304.09138v1)|null|
-|**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048v1](http://arxiv.org/abs/2304.09048v1)|[link](https://github.com/zjunlp/DeepKE/tree/main/example/llm)|
+|**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048v1](http://arxiv.org/abs/2304.09048v1)|[link](https://github.com/zjunlp/deepke)|
 |**2023-04-18**|**Stochastic Parrots Looking for Stochastic Parrots: LLMs are Easy to Fine-Tune and Hard to Detect with other LLMs**|Da Silva Gameiro Henrique et.al.|[2304.08968v1](http://arxiv.org/abs/2304.08968v1)|null|
 |**2023-04-17**|**Tool Learning with Foundation Models**|Yujia Qin et.al.|[2304.08354v1](http://arxiv.org/abs/2304.08354v1)|[link](https://github.com/openbmb/bmtools)|
 |**2023-04-17**|**From Zero to Hero: Examining the Power of Symbolic Tasks in Instruction Tuning**|Qian Liu et.al.|[2304.07995v1](http://arxiv.org/abs/2304.07995v1)|[link](https://github.com/sail-sg/symbolic-instruction-tuning)|
