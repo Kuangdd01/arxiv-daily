@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-23 09:22:52
+ Automated deployment @ 2023-04-23 20:28:49
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -59,7 +59,7 @@
 |**2023-04-19**|**Progressive-Hint Prompting Improves Reasoning in Large Language Models**|Chuanyang Zheng et.al.|[2304.09797v1](http://arxiv.org/abs/2304.09797v1)|[link](https://github.com/chuanyang-Zheng/Progressive-Hint)|
 |**2023-04-18**|**Exploring the Trade-Offs: Unified Large Language Models vs Local Fine-Tuned Models for Highly-Specific Radiology NLI Task**|Zihao Wu et.al.|[2304.09138v1](http://arxiv.org/abs/2304.09138v1)|null|
 |**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048v1](http://arxiv.org/abs/2304.09048v1)|[link](https://github.com/zjunlp/deepke)|
-|**2023-04-18**|**Stochastic Parrots Looking for Stochastic Parrots: LLMs are Easy to Fine-Tune and Hard to Detect with other LLMs**|Da Silva Gameiro Henrique et.al.|[2304.08968v1](http://arxiv.org/abs/2304.08968v1)|null|
+|**2023-04-18**|**Stochastic Parrots Looking for Stochastic Parrots: LLMs are Easy to Fine-Tune and Hard to Detect with other LLMs**|Da Silva Gameiro Henrique et.al.|[2304.08968v1](http://arxiv.org/abs/2304.08968v1)|[link](https://github.com/8a3539f168fd077097ea473cc8a9c093/gpt_bert_gan)|
 |**2023-04-17**|**Tool Learning with Foundation Models**|Yujia Qin et.al.|[2304.08354v1](http://arxiv.org/abs/2304.08354v1)|[link](https://github.com/openbmb/bmtools)|
 |**2023-04-17**|**From Zero to Hero: Examining the Power of Symbolic Tasks in Instruction Tuning**|Qian Liu et.al.|[2304.07995v1](http://arxiv.org/abs/2304.07995v1)|[link](https://github.com/sail-sg/symbolic-instruction-tuning)|
 |**2023-04-16**|**Solving Math Word Problems by Combining Language Models With Symbolic Solvers**|Joy He-Yueya et.al.|[2304.09102v1](http://arxiv.org/abs/2304.09102v1)|[link](https://github.com/joyheyueya/declarative-math-word-problem)|
@@ -82,13 +82,13 @@
 |**2023-04-08**|**Comparing Code Explanations Created by Students and Large Language Models**|Juho Leinonen et.al.|[2304.03938v1](http://arxiv.org/abs/2304.03938v1)|null|
 |**2023-04-07**|**Why think step-by-step? Reasoning emerges from the locality of experience**|Ben Prystawski et.al.|[2304.03843v1](http://arxiv.org/abs/2304.03843v1)|null|
 |**2023-04-07**|**Expectations over Unspoken Alternatives Predict Pragmatic Inferences**|Jennifer Hu et.al.|[2304.04758v1](http://arxiv.org/abs/2304.04758v1)|[link](https://github.com/jennhu/expectations-over-alternatives)|
-|**2023-04-07**|**Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4**|Hanmeng Liu et.al.|[2304.03439v2](http://arxiv.org/abs/2304.03439v2)|[link](https://github.com/csitfun/logiqa2.0)|
+|**2023-04-07**|**Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4**|Hanmeng Liu et.al.|[2304.03439v2](http://arxiv.org/abs/2304.03439v2)|[link](https://github.com/csitfun/logieval)|
 |**2023-04-06**|**On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental Health Analysis**|Kailai Yang et.al.|[2304.03347v1](http://arxiv.org/abs/2304.03347v1)|null|
 |**2023-04-06**|**Bridging the Language Gap: Knowledge Injected Multilingual Question Answering**|Zhichao Duan et.al.|[2304.03159v1](http://arxiv.org/abs/2304.03159v1)|null|
 |**2023-04-05**|**Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification**|Shan Chen et.al.|[2304.02496v1](http://arxiv.org/abs/2304.02496v1)|[link](https://github.com/shan23chen/healthllm_eval)|
 |**2023-04-05**|**Personality-aware Human-centric Multimodal Reasoning: A New Task**|Yaochen Zhu et.al.|[2304.02313v1](http://arxiv.org/abs/2304.02313v1)|null|
 |**2023-04-04**|**LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models**|Zhiqiang Hu et.al.|[2304.01933v1](http://arxiv.org/abs/2304.01933v1)|[link](https://github.com/agi-edgerunners/llm-adapters)|
-|**2023-04-04**|**REFINER: Reasoning Feedback on Intermediate Representations**|Debjit Paul et.al.|[2304.01904v1](http://arxiv.org/abs/2304.01904v1)|null|
+|**2023-04-04**|**REFINER: Reasoning Feedback on Intermediate Representations**|Debjit Paul et.al.|[2304.01904v1](http://arxiv.org/abs/2304.01904v1)|[link](https://github.com/debjitpaul/refiner)|
 |**2023-04-04**|**Neural Comprehension: Language Models with Compiled Neural Networks**|Yixuan Weng et.al.|[2304.01665v1](http://arxiv.org/abs/2304.01665v1)|[link](https://github.com/wengsyx/neural-comprehension)|
 |**2023-04-03**|**Can the Inference Logic of Large Language Models be Disentangled into Symbolic Concepts?**|Wen Shen et.al.|[2304.01083v1](http://arxiv.org/abs/2304.01083v1)|null|
 |**2023-04-03**|**Polytuplet Loss: A Reverse Approach to Training Reading Comprehension and Logical Reasoning Models**|Jeffrey Lu et.al.|[2304.01046v1](http://arxiv.org/abs/2304.01046v1)|[link](https://github.com/ussiamaboat/research-paper)|
