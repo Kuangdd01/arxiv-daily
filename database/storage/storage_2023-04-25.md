@@ -1,7 +1,21 @@
 # arxiv-daily
- Automated deployment @ 2023-04-25 20:55:14
+ Automated deployment @ 2023-04-25 21:18:08
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v1](http://arxiv.org/abs/2304.12036v1)|null|
+|**2023-04-23**|**Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness**|Bo Li et.al.|[2304.11633v1](http://arxiv.org/abs/2304.11633v1)|[link](https://github.com/pkuserc/chatgpt_for_ie)|
+|**2023-04-22**|**Recurrent Neural Networks and Long Short-Term Memory Networks: Tutorial and Survey**|Benyamin Ghojogh et.al.|[2304.11461v1](http://arxiv.org/abs/2304.11461v1)|null|
+|**2023-04-22**|**A bounded rationality account of dependency length minimization in Hindi**|Sidharth Ranjan et.al.|[2304.11410v1](http://arxiv.org/abs/2304.11410v1)|null|
+|**2023-04-20**|**Towards a Benchmark for Scientific Understanding in Humans and Machines**|Kristian Gonzalez Barman et.al.|[2304.10327v2](http://arxiv.org/abs/2304.10327v2)|null|
+|**2023-04-19**|**SemEval 2023 Task 6: LegalEval -- Understanding Legal Texts**|Ashutosh Modi et.al.|[2304.09548v2](http://arxiv.org/abs/2304.09548v2)|null|
+|**2023-04-17**|**Interactive and Explainable Region-guided Radiology Report Generation**|Tim Tanida et.al.|[2304.08295v1](http://arxiv.org/abs/2304.08295v1)|[link](https://github.com/ttanida/rgrg)|
+|**2023-04-15**|**A CTC Alignment-based Non-autoregressive Transformer for End-to-end Automatic Speech Recognition**|Ruchao Fan et.al.|[2304.07611v1](http://arxiv.org/abs/2304.07611v1)|null|
 
 ## Question Answering
 
@@ -43,20 +57,6 @@
 |**2023-04-17**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**|Sihan Chen et.al.|[2304.08345v1](http://arxiv.org/abs/2304.08345v1)|[link](https://github.com/TXH-mercury/VALOR)|
 |**2023-04-17**|**Supporting Qualitative Analysis with Large Language Models: Combining Codebook with GPT-3 for Deductive Coding**|Ziang Xiao et.al.|[2304.10548v1](http://arxiv.org/abs/2304.10548v1)|null|
 |**2023-04-17**|**A Question-Answering Approach to Key Value Pair Extraction from Form-like Document Images**|Kai Hu et.al.|[2304.07957v1](http://arxiv.org/abs/2304.07957v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v1](http://arxiv.org/abs/2304.12036v1)|null|
-|**2023-04-23**|**Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness**|Bo Li et.al.|[2304.11633v1](http://arxiv.org/abs/2304.11633v1)|[link](https://github.com/pkuserc/chatgpt_for_ie)|
-|**2023-04-22**|**Recurrent Neural Networks and Long Short-Term Memory Networks: Tutorial and Survey**|Benyamin Ghojogh et.al.|[2304.11461v1](http://arxiv.org/abs/2304.11461v1)|null|
-|**2023-04-22**|**A bounded rationality account of dependency length minimization in Hindi**|Sidharth Ranjan et.al.|[2304.11410v1](http://arxiv.org/abs/2304.11410v1)|null|
-|**2023-04-20**|**Towards a Benchmark for Scientific Understanding in Humans and Machines**|Kristian Gonzalez Barman et.al.|[2304.10327v2](http://arxiv.org/abs/2304.10327v2)|null|
-|**2023-04-19**|**SemEval 2023 Task 6: LegalEval -- Understanding Legal Texts**|Ashutosh Modi et.al.|[2304.09548v2](http://arxiv.org/abs/2304.09548v2)|null|
-|**2023-04-17**|**Interactive and Explainable Region-guided Radiology Report Generation**|Tim Tanida et.al.|[2304.08295v1](http://arxiv.org/abs/2304.08295v1)|[link](https://github.com/ttanida/rgrg)|
-|**2023-04-15**|**A CTC Alignment-based Non-autoregressive Transformer for End-to-end Automatic Speech Recognition**|Ruchao Fan et.al.|[2304.07611v1](http://arxiv.org/abs/2304.07611v1)|null|
 
 ## Reasoning
 
