@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-27 09:16:43
+ Automated deployment @ 2023-04-27 20:29:04
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-26**|**ChartSumm: A Comprehensive Benchmark for Automatic Chart Summarization of Long and Short Summaries**|Raian Rahman et.al.|[2304.13620v1](http://arxiv.org/abs/2304.13620v1)|null|
+|**2023-04-25**|**Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**|Surjodeep Sarkar et.al.|[2304.13191v1](http://arxiv.org/abs/2304.13191v1)|null|
 |**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|[link](https://github.com/oriyor/reasoning-on-cots)|
 |**2023-04-25**|**Explain like I am BM25: Interpreting a Dense Model's Ranked-List with a Sparse Approximation**|Michael Llordes et.al.|[2304.12631v1](http://arxiv.org/abs/2304.12631v1)|[link](https://github.com/micllordes/elibm25)|
 |**2023-04-24**|**Understanding and Predicting Human Label Variation in Natural Language Inference through Explanation**|Nan-Jiang Jiang et.al.|[2304.12443v1](http://arxiv.org/abs/2304.12443v1)|null|
@@ -18,13 +20,19 @@
 |**2023-04-22**|**A bounded rationality account of dependency length minimization in Hindi**|Sidharth Ranjan et.al.|[2304.11410v1](http://arxiv.org/abs/2304.11410v1)|null|
 |**2023-04-20**|**Towards a Benchmark for Scientific Understanding in Humans and Machines**|Kristian Gonzalez Barman et.al.|[2304.10327v2](http://arxiv.org/abs/2304.10327v2)|null|
 |**2023-04-19**|**SemEval 2023 Task 6: LegalEval -- Understanding Legal Texts**|Ashutosh Modi et.al.|[2304.09548v2](http://arxiv.org/abs/2304.09548v2)|null|
-|**2023-04-17**|**Interactive and Explainable Region-guided Radiology Report Generation**|Tim Tanida et.al.|[2304.08295v1](http://arxiv.org/abs/2304.08295v1)|[link](https://github.com/ttanida/rgrg)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
+|**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
+|**2023-04-26**|**Using Implicit Feedback to Improve Question Generation**|Hugo Rodrigues et.al.|[2304.13664v1](http://arxiv.org/abs/2304.13664v1)|null|
+|**2023-04-26**|**A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**|Alireza Salemi et.al.|[2304.13649v1](http://arxiv.org/abs/2304.13649v1)|null|
+|**2023-04-26**|**A Case-Based Reasoning Framework for Adaptive Prompting in Cross-Domain Text-to-SQL**|Chunxi Guo et.al.|[2304.13301v1](http://arxiv.org/abs/2304.13301v1)|null|
+|**2023-04-26**|**Exploring the Curious Case of Code Prompts**|Li Zhang et.al.|[2304.13250v1](http://arxiv.org/abs/2304.13250v1)|null|
+|**2023-04-25**|**Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**|Surjodeep Sarkar et.al.|[2304.13191v1](http://arxiv.org/abs/2304.13191v1)|null|
 |**2023-04-25**|**Unstructured and structured data: Can we have the best of both worlds with large language models?**|Wang-Chiew Tan et.al.|[2304.13010v1](http://arxiv.org/abs/2304.13010v1)|null|
 |**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|[link](https://github.com/oriyor/reasoning-on-cots)|
 |**2023-04-24**|**Extreme Classification for Answer Type Prediction in Question Answering**|Vinay Setty et.al.|[2304.12395v1](http://arxiv.org/abs/2304.12395v1)|null|
@@ -33,7 +41,7 @@
 |**2023-04-24**|**PAXQA: Generating Cross-lingual Question Answering Examples at Training Scale**|Bryan Li et.al.|[2304.12206v1](http://arxiv.org/abs/2304.12206v1)|null|
 |**2023-04-24**|**Unlocking Context Constraints of LLMs: Enhancing Context Efficiency of LLMs with Self-Information-Based Content Filtering**|Yucheng Li et.al.|[2304.12102v1](http://arxiv.org/abs/2304.12102v1)|[link](https://github.com/liyucheng09/selective_context)|
 |**2023-04-24**|**Benchmarking ChatGPT-4 on ACR Radiation Oncology In-Training Exam (TXIT): Potentials and Challenges for AI-Assisted Medical Education and Decision Making in Radiation Oncology**|Yixing Huang et.al.|[2304.11957v1](http://arxiv.org/abs/2304.11957v1)|[link](https://github.com/yixinghuang/chatgpt-benchmark-on-radiation-oncology)|
-|**2023-04-24**|**Development of a Trust-Aware User Simulator for Statistical Proactive Dialog Modeling in Human-AI Teams**|Matthias Kraus et.al.|[2304.11913v1](http://arxiv.org/abs/2304.11913v1)|null|
+|**2023-04-24**|**Development of a Trust-Aware User Simulator for Statistical Proactive Dialog Modeling in Human-AI Teams**|Matthias Kraus et.al.|[2304.11913v1](http://arxiv.org/abs/2304.11913v1)|[link](https://github.com/MattKraus90/ProactiveTraining)|
 |**2023-04-24**|**ChatLLM Network: More brains, More intelligence**|Rui Hao et.al.|[2304.12998v1](http://arxiv.org/abs/2304.12998v1)|null|
 |**2023-04-23**|**NAIST-SIC-Aligned: Automatically-Aligned English-Japanese Simultaneous Interpretation Corpus**|Jinming Zhao et.al.|[2304.11766v2](http://arxiv.org/abs/2304.11766v2)|null|
 |**2023-04-23**|**A Lightweight Constrained Generation Alternative for Query-focused Summarization**|Zhichao Xu et.al.|[2304.11721v1](http://arxiv.org/abs/2304.11721v1)|null|
@@ -57,15 +65,15 @@
 |**2023-04-19**|**GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**|Qiao Jin et.al.|[2304.09667v2](http://arxiv.org/abs/2304.09667v2)|null|
 |**2023-04-19**|**MPMQA: Multimodal Question Answering on Product Manuals**|Liang Zhang et.al.|[2304.09660v1](http://arxiv.org/abs/2304.09660v1)|[link](https://github.com/aim3-ruc/mpmqa)|
 |**2023-04-19**|**BRENT: Bidirectional Retrieval Enhanced Norwegian Transformer**|Lucas Georges Gabriel Charpentier et.al.|[2304.09649v1](http://arxiv.org/abs/2304.09649v1)|null|
-|**2023-04-19**|**LLM as A Robotic Brain: Unifying Egocentric Memory and Control**|Jinjie Mai et.al.|[2304.09349v2](http://arxiv.org/abs/2304.09349v2)|null|
-|**2023-04-18**|**BIM-GPT: a Prompt-Based Virtual Assistant Framework for BIM Information Retrieval**|Junwen Zheng et.al.|[2304.09333v1](http://arxiv.org/abs/2304.09333v1)|null|
-|**2023-04-18**|**HeRo: RoBERTa and Longformer Hebrew Language Models**|Vitaly Shalumov et.al.|[2304.11077v1](http://arxiv.org/abs/2304.11077v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-26**|**A Case-Based Reasoning Framework for Adaptive Prompting in Cross-Domain Text-to-SQL**|Chunxi Guo et.al.|[2304.13301v1](http://arxiv.org/abs/2304.13301v1)|null|
+|**2023-04-26**|**The Closeness of In-Context Learning and Weight Shifting for Softmax Regression**|Shuai Li et.al.|[2304.13276v1](http://arxiv.org/abs/2304.13276v1)|null|
+|**2023-04-26**|**Exploring the Curious Case of Code Prompts**|Li Zhang et.al.|[2304.13250v1](http://arxiv.org/abs/2304.13250v1)|null|
 |**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|[link](https://github.com/oriyor/reasoning-on-cots)|
 |**2023-04-25**|**Evaluating Inter-Bilingual Semantic Parsing for Indian Languages**|Divyanshu Aggarwal et.al.|[2304.13005v1](http://arxiv.org/abs/2304.13005v1)|null|
 |**2023-04-25**|**Escaping the sentence-level paradigm in machine translation**|Matt Post et.al.|[2304.12959v1](http://arxiv.org/abs/2304.12959v1)|null|
@@ -170,9 +178,3 @@
 |**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
 |**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395v1](http://arxiv.org/abs/2303.10395v1)|null|
 |**2023-03-16**|**Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?**|Jaromir Savelka et.al.|[2303.09325v1](http://arxiv.org/abs/2303.09325v1)|null|
-|**2023-03-16**|**Exploring Distributional Shifts in Large Language Models for Code Analysis**|Shushan Arakelyan et.al.|[2303.09128v1](http://arxiv.org/abs/2303.09128v1)|null|
-|**2023-03-16**|**Translating Radiology Reports into Plain Language using ChatGPT and GPT-4 with Prompt Learning: Promising Results, Limitations, and Potential**|Qing Lyu et.al.|[2303.09038v3](http://arxiv.org/abs/2303.09038v3)|null|
-|**2023-03-16**|**A Picture is Worth a Thousand Words: Language Models Plan from Pixels**|Anthony Z. Liu et.al.|[2303.09031v1](http://arxiv.org/abs/2303.09031v1)|null|
-|**2023-03-16**|**ART: Automatic multi-step reasoning and tool-use for large language models**|Bhargavi Paranjape et.al.|[2303.09014v1](http://arxiv.org/abs/2303.09014v1)|null|
-|**2023-03-15**|**The Image of the Process Interpretation of Regular Expressions is Not Closed under Bisimulation Collapse**|Clemens Grabmayer et.al.|[2303.08553v1](http://arxiv.org/abs/2303.08553v1)|null|
-|**2023-03-15**|**A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**|Sicheng Zhou et.al.|[2303.08448v1](http://arxiv.org/abs/2303.08448v1)|null|
