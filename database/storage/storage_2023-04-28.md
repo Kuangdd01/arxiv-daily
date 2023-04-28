@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-28 09:15:49
+ Automated deployment @ 2023-04-28 20:28:27
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-26**|**Transferring Procedural Knowledge across Commonsense Tasks**|Yifan Jiang et.al.|[2304.13867v1](http://arxiv.org/abs/2304.13867v1)|null|
 |**2023-04-26**|**ChartSumm: A Comprehensive Benchmark for Automatic Chart Summarization of Long and Short Summaries**|Raian Rahman et.al.|[2304.13620v1](http://arxiv.org/abs/2304.13620v1)|null|
 |**2023-04-25**|**Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**|Surjodeep Sarkar et.al.|[2304.13191v1](http://arxiv.org/abs/2304.13191v1)|null|
 |**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|[link](https://github.com/oriyor/reasoning-on-cots)|
@@ -19,13 +20,20 @@
 |**2023-04-22**|**Recurrent Neural Networks and Long Short-Term Memory Networks: Tutorial and Survey**|Benyamin Ghojogh et.al.|[2304.11461v1](http://arxiv.org/abs/2304.11461v1)|null|
 |**2023-04-22**|**A bounded rationality account of dependency length minimization in Hindi**|Sidharth Ranjan et.al.|[2304.11410v1](http://arxiv.org/abs/2304.11410v1)|null|
 |**2023-04-20**|**Towards a Benchmark for Scientific Understanding in Humans and Machines**|Kristian Gonzalez Barman et.al.|[2304.10327v2](http://arxiv.org/abs/2304.10327v2)|null|
-|**2023-04-19**|**SemEval 2023 Task 6: LegalEval -- Understanding Legal Texts**|Ashutosh Modi et.al.|[2304.09548v2](http://arxiv.org/abs/2304.09548v2)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-27**|**ViMQ: A Vietnamese Medical Question Dataset for Healthcare Dialogue System Development**|Ta Duc Huy et.al.|[2304.14405v1](http://arxiv.org/abs/2304.14405v1)|[link](https://github.com/tadeephuy/vimq)|
+|**2023-04-27**|**Idioms, Probing and Dangerous Things: Towards Structural Probing for Idiomaticity in Vector Space**|Filip Klubička et.al.|[2304.14333v1](http://arxiv.org/abs/2304.14333v1)|null|
+|**2023-04-27**|**q2d: Turning Questions into Dialogs to Teach Models How to Search**|Yonatan Bitton et.al.|[2304.14318v1](http://arxiv.org/abs/2304.14318v1)|null|
+|**2023-04-27**|**Large Language Models are Strong Zero-Shot Retriever**|Tao Shen et.al.|[2304.14233v1](http://arxiv.org/abs/2304.14233v1)|null|
+|**2023-04-27**|**A Modular Approach for Multilingual Timex Detection and Normalization using Deep Learning and Grammar-based methods**|Nayla Escribano et.al.|[2304.14221v1](http://arxiv.org/abs/2304.14221v1)|null|
+|**2023-04-27**|**ChatLog: Recording and Analyzing ChatGPT Across Time**|Shangqing Tu et.al.|[2304.14106v1](http://arxiv.org/abs/2304.14106v1)|[link](https://github.com/thu-keg/chatlog)|
+|**2023-04-27**|**Controllable Data Augmentation for Context-Dependent Text-to-SQL**|Dingzirui Wang et.al.|[2304.13902v1](http://arxiv.org/abs/2304.13902v1)|null|
+|**2023-04-26**|**MasonNLP+ at SemEval-2023 Task 8: Extracting Medical Questions, Experiences and Claims from Social Media using Knowledge-Augmented Pre-trained Language Models**|Giridhar Kaushik Ramachandran et.al.|[2304.13875v1](http://arxiv.org/abs/2304.13875v1)|null|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
 |**2023-04-26**|**Using Implicit Feedback to Improve Question Generation**|Hugo Rodrigues et.al.|[2304.13664v1](http://arxiv.org/abs/2304.13664v1)|null|
@@ -60,17 +68,17 @@
 |**2023-04-20**|**"Can We Detect Substance Use Disorder?": Knowledge and Time Aware Classification on Social Media from Darkweb**|Usha Lokala et.al.|[2304.10512v1](http://arxiv.org/abs/2304.10512v1)|null|
 |**2023-04-20**|**CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**|Tianqing Fang et.al.|[2304.10392v1](http://arxiv.org/abs/2304.10392v1)|[link](https://github.com/hkust-knowcomp/cskb-population)|
 |**2023-04-20**|**Towards a Benchmark for Scientific Understanding in Humans and Machines**|Kristian Gonzalez Barman et.al.|[2304.10327v2](http://arxiv.org/abs/2304.10327v2)|null|
-|**2023-04-19**|**Evaluating Verifiability in Generative Search Engines**|Nelson F. Liu et.al.|[2304.09848v1](http://arxiv.org/abs/2304.09848v1)|[link](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)|
-|**2023-04-19**|**Progressive-Hint Prompting Improves Reasoning in Large Language Models**|Chuanyang Zheng et.al.|[2304.09797v1](http://arxiv.org/abs/2304.09797v1)|[link](https://github.com/chuanyang-Zheng/Progressive-Hint)|
-|**2023-04-19**|**GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**|Qiao Jin et.al.|[2304.09667v2](http://arxiv.org/abs/2304.09667v2)|null|
-|**2023-04-19**|**MPMQA: Multimodal Question Answering on Product Manuals**|Liang Zhang et.al.|[2304.09660v1](http://arxiv.org/abs/2304.09660v1)|[link](https://github.com/aim3-ruc/mpmqa)|
-|**2023-04-19**|**BRENT: Bidirectional Retrieval Enhanced Norwegian Transformer**|Lucas Georges Gabriel Charpentier et.al.|[2304.09649v1](http://arxiv.org/abs/2304.09649v1)|[link](https://github.com/ltgoslo/brent)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-27**|**mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**|Qinghao Ye et.al.|[2304.14178v1](http://arxiv.org/abs/2304.14178v1)|[link](https://github.com/x-plug/mplug-owl)|
+|**2023-04-27**|**ChatLog: Recording and Analyzing ChatGPT Across Time**|Shangqing Tu et.al.|[2304.14106v1](http://arxiv.org/abs/2304.14106v1)|[link](https://github.com/thu-keg/chatlog)|
+|**2023-04-27**|**Learning and Reasoning Multifaceted and Longitudinal Data for Poverty Estimates and Livelihood Capabilities of Lagged Regions in Rural India**|Atharva Kulkarni et.al.|[2304.13958v1](http://arxiv.org/abs/2304.13958v1)|null|
+|**2023-04-27**|**Retrieval-based Knowledge Augmented Vision Language Pre-training**|Jiahua Rao et.al.|[2304.13923v1](http://arxiv.org/abs/2304.13923v1)|null|
+|**2023-04-26**|**Translate to Disambiguate: Zero-shot Multilingual Word Sense Disambiguation with Pretrained Language Models**|Haoqiang Kang et.al.|[2304.13803v1](http://arxiv.org/abs/2304.13803v1)|null|
 |**2023-04-26**|**A Case-Based Reasoning Framework for Adaptive Prompting in Cross-Domain Text-to-SQL**|Chunxi Guo et.al.|[2304.13301v1](http://arxiv.org/abs/2304.13301v1)|null|
 |**2023-04-26**|**The Closeness of In-Context Learning and Weight Shifting for Softmax Regression**|Shuai Li et.al.|[2304.13276v1](http://arxiv.org/abs/2304.13276v1)|null|
 |**2023-04-26**|**Exploring the Curious Case of Code Prompts**|Li Zhang et.al.|[2304.13250v1](http://arxiv.org/abs/2304.13250v1)|null|
@@ -176,5 +184,3 @@
 |**2023-03-20**|**Capabilities of GPT-4 on Medical Challenge Problems**|Harsha Nori et.al.|[2303.13375v2](http://arxiv.org/abs/2303.13375v2)|null|
 |**2023-03-20**|**Retrieving Multimodal Information for Augmented Generation: A Survey**|Ruochen Zhao et.al.|[2303.10868v1](http://arxiv.org/abs/2303.10868v1)|null|
 |**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
-|**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395v1](http://arxiv.org/abs/2303.10395v1)|null|
-|**2023-03-16**|**Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?**|Jaromir Savelka et.al.|[2303.09325v1](http://arxiv.org/abs/2303.09325v1)|null|
