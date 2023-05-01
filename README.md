@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-01 09:18:54
+ Automated deployment @ 2023-05-01 20:29:01
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-28**|**Interpreting Vision and Language Generative Models with Semantic Visual Priors**|Michele Cafagna et.al.|[2304.14986v1](http://arxiv.org/abs/2304.14986v1)|null|
+|**2023-04-27**|**Understanding Shared Speech-Text Representations**|Gary Wang et.al.|[2304.14514v1](http://arxiv.org/abs/2304.14514v1)|null|
 |**2023-04-26**|**Transferring Procedural Knowledge across Commonsense Tasks**|Yifan Jiang et.al.|[2304.13867v1](http://arxiv.org/abs/2304.13867v1)|null|
 |**2023-04-26**|**ChartSumm: A Comprehensive Benchmark for Automatic Chart Summarization of Long and Short Summaries**|Raian Rahman et.al.|[2304.13620v1](http://arxiv.org/abs/2304.13620v1)|null|
 |**2023-04-25**|**Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**|Surjodeep Sarkar et.al.|[2304.13191v1](http://arxiv.org/abs/2304.13191v1)|null|
@@ -26,6 +28,11 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-28**|**Dissecting Recall of Factual Associations in Auto-Regressive Language Models**|Mor Geva et.al.|[2304.14767v1](http://arxiv.org/abs/2304.14767v1)|null|
+|**2023-04-28**|**Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks**|Shicheng Xu et.al.|[2304.14732v1](http://arxiv.org/abs/2304.14732v1)|null|
+|**2023-04-27**|**Appropriateness is all you need!**|Hendrik Kempt et.al.|[2304.14553v1](http://arxiv.org/abs/2304.14553v1)|null|
+|**2023-04-27**|**PMC-LLaMA: Further Finetuning LLaMA on Medical Papers**|Chaoyi Wu et.al.|[2304.14454v1](http://arxiv.org/abs/2304.14454v1)|null|
+|**2023-04-27**|**Analyzing Vietnamese Legal Questions Using Deep Neural Networks with Biaffine Classifiers**|Nguyen Anh Tu et.al.|[2304.14447v1](http://arxiv.org/abs/2304.14447v1)|null|
 |**2023-04-27**|**ViMQ: A Vietnamese Medical Question Dataset for Healthcare Dialogue System Development**|Ta Duc Huy et.al.|[2304.14405v1](http://arxiv.org/abs/2304.14405v1)|[link](https://github.com/tadeephuy/vimq)|
 |**2023-04-27**|**Idioms, Probing and Dangerous Things: Towards Structural Probing for Idiomaticity in Vector Space**|Filip Klubička et.al.|[2304.14333v1](http://arxiv.org/abs/2304.14333v1)|null|
 |**2023-04-27**|**q2d: Turning Questions into Dialogs to Teach Models How to Search**|Yonatan Bitton et.al.|[2304.14318v1](http://arxiv.org/abs/2304.14318v1)|null|
@@ -66,14 +73,17 @@
 |**2023-04-21**|**ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness**|Archiki Prasad et.al.|[2304.10703v1](http://arxiv.org/abs/2304.10703v1)|[link](https://github.com/archiki/receval)|
 |**2023-04-20**|**Why Does ChatGPT Fall Short in Answering Questions Faithfully?**|Shen Zheng et.al.|[2304.10513v1](http://arxiv.org/abs/2304.10513v1)|null|
 |**2023-04-20**|**"Can We Detect Substance Use Disorder?": Knowledge and Time Aware Classification on Social Media from Darkweb**|Usha Lokala et.al.|[2304.10512v1](http://arxiv.org/abs/2304.10512v1)|null|
-|**2023-04-20**|**CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**|Tianqing Fang et.al.|[2304.10392v1](http://arxiv.org/abs/2304.10392v1)|[link](https://github.com/hkust-knowcomp/cskb-population)|
-|**2023-04-20**|**Towards a Benchmark for Scientific Understanding in Humans and Machines**|Kristian Gonzalez Barman et.al.|[2304.10327v2](http://arxiv.org/abs/2304.10327v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|[link](https://github.com/zrrskywalker/llama-adapter)|
+|**2023-04-28**|**HQP: A Human-Annotated Dataset for Detecting Online Propaganda**|Abdurahman Maarouf et.al.|[2304.14931v1](http://arxiv.org/abs/2304.14931v1)|[link](https://github.com/abdumaa/hiqualprop)|
+|**2023-04-28**|**ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**|Chunkit Chan et.al.|[2304.14827v1](http://arxiv.org/abs/2304.14827v1)|null|
+|**2023-04-28**|**Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks**|Shicheng Xu et.al.|[2304.14732v1](http://arxiv.org/abs/2304.14732v1)|null|
+|**2023-04-27**|**Multivariate Representation Learning for Information Retrieval**|Hamed Zamani et.al.|[2304.14522v1](http://arxiv.org/abs/2304.14522v1)|null|
 |**2023-04-27**|**mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**|Qinghao Ye et.al.|[2304.14178v1](http://arxiv.org/abs/2304.14178v1)|[link](https://github.com/x-plug/mplug-owl)|
 |**2023-04-27**|**ChatLog: Recording and Analyzing ChatGPT Across Time**|Shangqing Tu et.al.|[2304.14106v1](http://arxiv.org/abs/2304.14106v1)|[link](https://github.com/thu-keg/chatlog)|
 |**2023-04-27**|**Learning and Reasoning Multifaceted and Longitudinal Data for Poverty Estimates and Livelihood Capabilities of Lagged Regions in Rural India**|Atharva Kulkarni et.al.|[2304.13958v1](http://arxiv.org/abs/2304.13958v1)|null|
@@ -180,7 +190,3 @@
 |**2023-03-20**|**Language Model Behavior: A Comprehensive Survey**|Tyler A. Chang et.al.|[2303.11504v1](http://arxiv.org/abs/2303.11504v1)|null|
 |**2023-03-20**|**Mind meets machine: Unravelling GPT-4's cognitive psychology**|Sifatkaur Dhingra et.al.|[2303.11436v2](http://arxiv.org/abs/2303.11436v2)|null|
 |**2023-03-20**|**MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**|Zhengyuan Yang et.al.|[2303.11381v1](http://arxiv.org/abs/2303.11381v1)|[link](https://github.com/microsoft/MM-REACT)|
-|**2023-03-20**|**Reflexion: an autonomous agent with dynamic memory and self-reflection**|Noah Shinn et.al.|[2303.11366v1](http://arxiv.org/abs/2303.11366v1)|[link](https://github.com/noahshinn024/reflexion)|
-|**2023-03-20**|**Capabilities of GPT-4 on Medical Challenge Problems**|Harsha Nori et.al.|[2303.13375v2](http://arxiv.org/abs/2303.13375v2)|null|
-|**2023-03-20**|**Retrieving Multimodal Information for Augmented Generation: A Survey**|Ruochen Zhao et.al.|[2303.10868v1](http://arxiv.org/abs/2303.10868v1)|null|
-|**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
