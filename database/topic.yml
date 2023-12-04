@@ -1,13 +1,16 @@
-"Reasoning":
-  "Reasoning": '("Language")AND("Reason")'
-#   "Logical Reasoning": '"Language"AND(("Logic")OR("Logical"))'
-#   "Math Reasoning": '"Language"AND(("Math")OR("Mathematical")OR("Numerical"))'
+"Mutimodal":
+  "Weakly Supervised grounding": '("Weakly")AND("Supervised")AND(("Phrase")OR("Visual"))AND("Grounding")'
+  "Grounding": '(Grounding)'
+# "Reasoning":
+#   "Reasoning": '("Language")AND("Reason")'
+# #   "Logical Reasoning": '"Language"AND(("Logic")OR("Logical"))'
+# #   "Math Reasoning": '"Language"AND(("Math")OR("Mathematical")OR("Numerical"))'
   
-"Question Answering":
-  "QA": '"Question Answering"'
+# "Question Answering":
+#   "QA": '"Question Answering"'
 
-"Explanation":
-  "Explanation": '"Language"AND(("Explanation")OR("Explain"))'
+# "Explanation":
+#   "Explanation": '"Language"AND(("Explanation")OR("Explain"))'
 
 # "Computer Vision":
 #   "Image Classification": '"Image Classification"'
