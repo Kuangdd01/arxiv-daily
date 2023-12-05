@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-05 09:39:43
+ Automated deployment @ 2023-12-05 20:11:03
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -24,7 +24,12 @@
 ### Grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-04**|**A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia**|Giovanni Monea et.al.|[2312.02073v1](http://arxiv.org/abs/2312.02073v1)|null|
+|**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|null|
+|**2023-12-04**|**Expand BERT Representation with Visual Information via Grounded Language Learning with Multimodal Partial Alignment**|Cong-Duy Nguyen et.al.|[2312.01592v1](http://arxiv.org/abs/2312.01592v1)|null|
+|**2023-12-03**|**NLEBench+NorGLM: A Comprehensive Empirical Analysis and Benchmark Dataset for Generative Language Models in Norwegian**|Peng Liu et.al.|[2312.01314v1](http://arxiv.org/abs/2312.01314v1)|null|
 |**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774v1](http://arxiv.org/abs/2312.00774v1)|null|
+|**2023-12-01**|**RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback**|Tianyu Yu et.al.|[2312.00849v1](http://arxiv.org/abs/2312.00849v1)|[link](https://github.com/rlhf-v/rlhf-v)|
 |**2023-11-30**|**Relevance-guided Neural Machine Translation**|Isidora Chara Tourni et.al.|[2312.00214v1](http://arxiv.org/abs/2312.00214v1)|null|
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
 |**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743v2](http://arxiv.org/abs/2311.18743v2)|[link](https://github.com/thudm/alignbench)|
