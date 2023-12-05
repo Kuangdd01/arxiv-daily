@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-05 08:30:10
+ Automated deployment @ 2023-12-05 09:39:43
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -27,7 +27,7 @@
 |**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774v1](http://arxiv.org/abs/2312.00774v1)|null|
 |**2023-11-30**|**Relevance-guided Neural Machine Translation**|Isidora Chara Tourni et.al.|[2312.00214v1](http://arxiv.org/abs/2312.00214v1)|null|
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
-|**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743v1](http://arxiv.org/abs/2311.18743v1)|[link](https://github.com/thudm/alignbench)|
+|**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743v2](http://arxiv.org/abs/2311.18743v2)|[link](https://github.com/thudm/alignbench)|
 |**2023-11-30**|**RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**|Chantal Pellegrini et.al.|[2311.18681v1](http://arxiv.org/abs/2311.18681v1)|[link](https://github.com/chantalmp/radialog)|
 |**2023-11-30**|**Use of explicit replies as coordination mechanisms in online student debate**|Bruno D. Ferreira-Saraiva et.al.|[2311.18466v1](http://arxiv.org/abs/2311.18466v1)|null|
 |**2023-11-30**|**Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation**|Ryutaro Tanno et.al.|[2311.18260v1](http://arxiv.org/abs/2311.18260v1)|null|
