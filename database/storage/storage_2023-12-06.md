@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-06 09:38:42
+ Automated deployment @ 2023-12-06 20:11:14
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -24,11 +24,16 @@
 ### Grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-05**|**Describing Differences in Image Sets with Natural Language**|Lisa Dunlap et.al.|[2312.02974v1](http://arxiv.org/abs/2312.02974v1)|[link](https://github.com/understanding-visual-datasets/visdiff)|
+|**2023-12-05**|**DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding**|Thong Nguyen et.al.|[2312.02549v1](http://arxiv.org/abs/2312.02549v1)|null|
+|**2023-12-05**|**Visually Grounded Language Learning: a review of language games, datasets, tasks, and models**|Alessandro Suglia et.al.|[2312.02431v1](http://arxiv.org/abs/2312.02431v1)|null|
+|**2023-12-04**|**LLMs Accelerate Annotation for Medical Information Extraction**|Akshay Goel et.al.|[2312.02296v1](http://arxiv.org/abs/2312.02296v1)|null|
 |**2023-12-04**|**A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia**|Giovanni Monea et.al.|[2312.02073v1](http://arxiv.org/abs/2312.02073v1)|null|
 |**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|null|
 |**2023-12-04**|**Expand BERT Representation with Visual Information via Grounded Language Learning with Multimodal Partial Alignment**|Cong-Duy Nguyen et.al.|[2312.01592v1](http://arxiv.org/abs/2312.01592v1)|null|
+|**2023-12-03**|**Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models**|Andrés Villa et.al.|[2312.02219v1](http://arxiv.org/abs/2312.02219v1)|null|
 |**2023-12-03**|**NLEBench+NorGLM: A Comprehensive Empirical Analysis and Benchmark Dataset for Generative Language Models in Norwegian**|Peng Liu et.al.|[2312.01314v1](http://arxiv.org/abs/2312.01314v1)|null|
-|**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774v1](http://arxiv.org/abs/2312.00774v1)|null|
+|**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774v1](http://arxiv.org/abs/2312.00774v1)|[link](https://github.com/jliu-v/pk-ncli)|
 |**2023-12-01**|**RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback**|Tianyu Yu et.al.|[2312.00849v1](http://arxiv.org/abs/2312.00849v1)|[link](https://github.com/rlhf-v/rlhf-v)|
 |**2023-11-30**|**Relevance-guided Neural Machine Translation**|Isidora Chara Tourni et.al.|[2312.00214v1](http://arxiv.org/abs/2312.00214v1)|null|
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
@@ -40,8 +45,3 @@
 |**2023-11-29**|**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**|Yingdong Hu et.al.|[2311.17842v1](http://arxiv.org/abs/2311.17842v1)|null|
 |**2023-11-29**|**LanGWM: Language Grounded World Model**|Rudra P. K. Poudel et.al.|[2311.17593v1](http://arxiv.org/abs/2311.17593v1)|null|
 |**2023-11-28**|**Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**|Sicong Leng et.al.|[2311.16922v1](http://arxiv.org/abs/2311.16922v1)|[link](https://github.com/damo-nlp-sg/vcd)|
-|**2023-11-28**|**Exo2EgoDVC: Dense Video Captioning of Egocentric Procedural Activities Using Web Instructional Videos**|Takehiko Ohkawa et.al.|[2311.16444v2](http://arxiv.org/abs/2311.16444v2)|null|
-|**2023-11-27**|**Compositional Chain-of-Thought Prompting for Large Multimodal Models**|Chancharik Mitra et.al.|[2311.17076v1](http://arxiv.org/abs/2311.17076v1)|null|
-|**2023-11-27**|**Comprehensive Benchmarking of Entropy and Margin Based Scoring Metrics for Data Selection**|Anusha Sabbineni et.al.|[2311.16302v1](http://arxiv.org/abs/2311.16302v1)|null|
-|**2023-11-27**|**WorldSense: A Synthetic Benchmark for Grounded Reasoning in Large Language Models**|Youssef Benchekroun et.al.|[2311.15930v1](http://arxiv.org/abs/2311.15930v1)|[link](https://github.com/facebookresearch/worldsense)|
-|**2023-11-27**|**Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs**|Simone Conia et.al.|[2311.15781v1](http://arxiv.org/abs/2311.15781v1)|[link](https://github.com/apple/ml-kge)|
