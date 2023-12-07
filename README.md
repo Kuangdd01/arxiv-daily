@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-07 08:29:25
+ Automated deployment @ 2023-12-07 09:38:20
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -40,7 +40,7 @@
 |**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743v3](http://arxiv.org/abs/2311.18743v3)|[link](https://github.com/thudm/alignbench)|
 |**2023-11-30**|**RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**|Chantal Pellegrini et.al.|[2311.18681v1](http://arxiv.org/abs/2311.18681v1)|[link](https://github.com/chantalmp/radialog)|
 |**2023-11-30**|**Use of explicit replies as coordination mechanisms in online student debate**|Bruno D. Ferreira-Saraiva et.al.|[2311.18466v1](http://arxiv.org/abs/2311.18466v1)|null|
-|**2023-11-30**|**Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation**|Ryutaro Tanno et.al.|[2311.18260v1](http://arxiv.org/abs/2311.18260v1)|null|
+|**2023-11-30**|**Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation**|Ryutaro Tanno et.al.|[2311.18260v2](http://arxiv.org/abs/2311.18260v2)|null|
 |**2023-11-29**|**DisCGen: A Framework for Discourse-Informed Counterspeech Generation**|Sabit Hassan et.al.|[2311.18147v1](http://arxiv.org/abs/2311.18147v1)|[link](https://github.com/sabithsn/discgen)|
 |**2023-11-29**|**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**|Yingdong Hu et.al.|[2311.17842v1](http://arxiv.org/abs/2311.17842v1)|null|
 |**2023-11-29**|**LanGWM: Language Grounded World Model**|Rudra P. K. Poudel et.al.|[2311.17593v1](http://arxiv.org/abs/2311.17593v1)|null|
