@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-08 09:39:09
+ Automated deployment @ 2023-12-08 20:11:17
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Weakly Supervised grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-07**|**Improved Visual Grounding through Self-Consistent Explanations**|Ruozhen He et.al.|[2312.04554v1](http://arxiv.org/abs/2312.04554v1)|null|
 |**2023-05-18**|**Weakly-Supervised Visual-Textual Grounding with Semantic Prior Refinement**|Davide Rigoni et.al.|[2305.10913v2](http://arxiv.org/abs/2305.10913v2)|[link](https://github.com/drigoni/sprm)|
 |**2023-03-31**|**Zero-shot Referring Image Segmentation with Global-Local Context Features**|Seonghoon Yu et.al.|[2303.17811v2](http://arxiv.org/abs/2303.17811v2)|[link](https://github.com/seonghoon-yu/zero-shot-ris)|
 |**2022-10-09**|**MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**|Zijia Zhao et.al.|[2210.04183v3](http://arxiv.org/abs/2210.04183v3)|null|
@@ -24,8 +25,11 @@
 ### Grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-12-06**|**Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia**|Alexander Sasha Vezhnevets et.al.|[2312.03664v1](http://arxiv.org/abs/2312.03664v1)|null|
+|**2023-12-07**|**Improved Visual Grounding through Self-Consistent Explanations**|Ruozhen He et.al.|[2312.04554v1](http://arxiv.org/abs/2312.04554v1)|null|
+|**2023-12-07**|**CLadder: A Benchmark to Assess Causal Reasoning Capabilities of Language Models**|Zhijing Jin et.al.|[2312.04350v1](http://arxiv.org/abs/2312.04350v1)|[link](https://github.com/causalnlp/cladder)|
+|**2023-12-06**|**Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia**|Alexander Sasha Vezhnevets et.al.|[2312.03664v1](http://arxiv.org/abs/2312.03664v1)|[link](https://github.com/google-deepmind/concordia)|
 |**2023-12-06**|**Can language agents be alternatives to PPO? A Preliminary Empirical Study On OpenAI Gym**|Junjie Sheng et.al.|[2312.03290v1](http://arxiv.org/abs/2312.03290v1)|[link](https://github.com/mail-ecnu/text-gym-agents)|
+|**2023-12-05**|**Mismatch Quest: Visual and Textual Feedback for Image-Text Misalignment**|Brian Gordon et.al.|[2312.03766v1](http://arxiv.org/abs/2312.03766v1)|null|
 |**2023-12-05**|**Describing Differences in Image Sets with Natural Language**|Lisa Dunlap et.al.|[2312.02974v1](http://arxiv.org/abs/2312.02974v1)|[link](https://github.com/understanding-visual-datasets/visdiff)|
 |**2023-12-05**|**Training on Synthetic Data Beats Real Data in Multimodal Relation Extraction**|Zilin Du et.al.|[2312.03025v1](http://arxiv.org/abs/2312.03025v1)|null|
 |**2023-12-05**|**DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding**|Thong Nguyen et.al.|[2312.02549v1](http://arxiv.org/abs/2312.02549v1)|null|
@@ -45,5 +49,3 @@
 |**2023-11-30**|**Use of explicit replies as coordination mechanisms in online student debate**|Bruno D. Ferreira-Saraiva et.al.|[2311.18466v1](http://arxiv.org/abs/2311.18466v1)|null|
 |**2023-11-30**|**Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation**|Ryutaro Tanno et.al.|[2311.18260v2](http://arxiv.org/abs/2311.18260v2)|null|
 |**2023-11-29**|**DisCGen: A Framework for Discourse-Informed Counterspeech Generation**|Sabit Hassan et.al.|[2311.18147v1](http://arxiv.org/abs/2311.18147v1)|[link](https://github.com/sabithsn/discgen)|
-|**2023-11-29**|**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**|Yingdong Hu et.al.|[2311.17842v1](http://arxiv.org/abs/2311.17842v1)|null|
-|**2023-11-29**|**LanGWM: Language Grounded World Model**|Rudra P. K. Poudel et.al.|[2311.17593v1](http://arxiv.org/abs/2311.17593v1)|null|
