@@ -1,26 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2023-12-09 09:48:48
+ Automated deployment @ 2023-12-09 20:17:19
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
 ## Mutimodal
-
-### Weakly Supervised grounding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-07**|**Improved Visual Grounding through Self-Consistent Explanations**|Ruozhen He et.al.|[2312.04554v1](http://arxiv.org/abs/2312.04554v1)|null|
-|**2023-05-18**|**Weakly-Supervised Visual-Textual Grounding with Semantic Prior Refinement**|Davide Rigoni et.al.|[2305.10913v2](http://arxiv.org/abs/2305.10913v2)|[link](https://github.com/drigoni/sprm)|
-|**2023-03-31**|**Zero-shot Referring Image Segmentation with Global-Local Context Features**|Seonghoon Yu et.al.|[2303.17811v2](http://arxiv.org/abs/2303.17811v2)|[link](https://github.com/seonghoon-yu/zero-shot-ris)|
-|**2022-10-09**|**MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**|Zijia Zhao et.al.|[2210.04183v3](http://arxiv.org/abs/2210.04183v3)|null|
-|**2022-04-22**|**Hypergraph Transformer: Weakly-supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering**|Yu-Jung Heo et.al.|[2204.10448v1](http://arxiv.org/abs/2204.10448v1)|[link](https://github.com/yujungheo/kbvqa-public)|
-|**2022-03-16**|**Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding**|Haojun Jiang et.al.|[2203.08481v2](http://arxiv.org/abs/2203.08481v2)|[link](https://github.com/leaplabthu/pseudo-q)|
-|**2022-02-09**|**Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?**|Jiawen Zhang et.al.|[2202.04306v1](http://arxiv.org/abs/2202.04306v1)|null|
-|**2021-12-01**|**Weakly-Supervised Video Object Grounding via Causal Intervention**|Wei Wang et.al.|[2112.00475v1](http://arxiv.org/abs/2112.00475v1)|null|
-|**2021-09-04**|**Weakly Supervised Relative Spatial Reasoning for Visual Question Answering**|Pratyay Banerjee et.al.|[2109.01934v1](http://arxiv.org/abs/2109.01934v1)|null|
-|**2020-10-12**|**MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding**|Qinxin Wang et.al.|[2010.05379v1](http://arxiv.org/abs/2010.05379v1)|[link](https://github.com/qinzzz/Multimodal-Alignment-Framework)|
-|**2020-06-17**|**Contrastive Learning for Weakly Supervised Phrase Grounding**|Tanmay Gupta et.al.|[2006.09920v3](http://arxiv.org/abs/2006.09920v3)|[link](https://github.com/BigRedT/info-ground)|
-|**2019-12-01**|**Learning to Relate from Captions and Bounding Boxes**|Sarthak Garg et.al.|[1912.00311v1](http://arxiv.org/abs/1912.00311v1)|null|
-|**2019-08-29**|**Aesthetic Image Captioning From Weakly-Labelled Photographs**|Koustav Ghosal et.al.|[1908.11310v1](http://arxiv.org/abs/1908.11310v1)|null|
 
 ### Grounding
 |Publish Date|Title|Authors|PDF|Code|
@@ -49,3 +32,20 @@
 |**2023-11-30**|**Use of explicit replies as coordination mechanisms in online student debate**|Bruno D. Ferreira-Saraiva et.al.|[2311.18466v1](http://arxiv.org/abs/2311.18466v1)|null|
 |**2023-11-30**|**Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation**|Ryutaro Tanno et.al.|[2311.18260v2](http://arxiv.org/abs/2311.18260v2)|null|
 |**2023-11-29**|**DisCGen: A Framework for Discourse-Informed Counterspeech Generation**|Sabit Hassan et.al.|[2311.18147v1](http://arxiv.org/abs/2311.18147v1)|[link](https://github.com/sabithsn/discgen)|
+
+### Weakly Supervised grounding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-07**|**Improved Visual Grounding through Self-Consistent Explanations**|Ruozhen He et.al.|[2312.04554v1](http://arxiv.org/abs/2312.04554v1)|null|
+|**2023-05-18**|**Weakly-Supervised Visual-Textual Grounding with Semantic Prior Refinement**|Davide Rigoni et.al.|[2305.10913v2](http://arxiv.org/abs/2305.10913v2)|[link](https://github.com/drigoni/sprm)|
+|**2023-03-31**|**Zero-shot Referring Image Segmentation with Global-Local Context Features**|Seonghoon Yu et.al.|[2303.17811v2](http://arxiv.org/abs/2303.17811v2)|[link](https://github.com/seonghoon-yu/zero-shot-ris)|
+|**2022-10-09**|**MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**|Zijia Zhao et.al.|[2210.04183v3](http://arxiv.org/abs/2210.04183v3)|null|
+|**2022-04-22**|**Hypergraph Transformer: Weakly-supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering**|Yu-Jung Heo et.al.|[2204.10448v1](http://arxiv.org/abs/2204.10448v1)|[link](https://github.com/yujungheo/kbvqa-public)|
+|**2022-03-16**|**Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding**|Haojun Jiang et.al.|[2203.08481v2](http://arxiv.org/abs/2203.08481v2)|[link](https://github.com/leaplabthu/pseudo-q)|
+|**2022-02-09**|**Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?**|Jiawen Zhang et.al.|[2202.04306v1](http://arxiv.org/abs/2202.04306v1)|null|
+|**2021-12-01**|**Weakly-Supervised Video Object Grounding via Causal Intervention**|Wei Wang et.al.|[2112.00475v1](http://arxiv.org/abs/2112.00475v1)|null|
+|**2021-09-04**|**Weakly Supervised Relative Spatial Reasoning for Visual Question Answering**|Pratyay Banerjee et.al.|[2109.01934v1](http://arxiv.org/abs/2109.01934v1)|null|
+|**2020-10-12**|**MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding**|Qinxin Wang et.al.|[2010.05379v1](http://arxiv.org/abs/2010.05379v1)|[link](https://github.com/qinzzz/Multimodal-Alignment-Framework)|
+|**2020-06-17**|**Contrastive Learning for Weakly Supervised Phrase Grounding**|Tanmay Gupta et.al.|[2006.09920v3](http://arxiv.org/abs/2006.09920v3)|[link](https://github.com/BigRedT/info-ground)|
+|**2019-12-01**|**Learning to Relate from Captions and Bounding Boxes**|Sarthak Garg et.al.|[1912.00311v1](http://arxiv.org/abs/1912.00311v1)|null|
+|**2019-08-29**|**Aesthetic Image Captioning From Weakly-Labelled Photographs**|Koustav Ghosal et.al.|[1908.11310v1](http://arxiv.org/abs/1908.11310v1)|null|
