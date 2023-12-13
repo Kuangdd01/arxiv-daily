@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-13 08:29:35
+ Automated deployment @ 2023-12-13 09:38:04
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -25,7 +25,7 @@
 ### Grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-12-08**|**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**|Jae Sung Park et.al.|[2312.04837v1](http://arxiv.org/abs/2312.04837v1)|null|
+|**2023-12-08**|**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**|Jae Sung Park et.al.|[2312.04837v2](http://arxiv.org/abs/2312.04837v2)|[link](https://github.com/jamespark3922/localized-skd)|
 |**2023-12-07**|**Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos**|Mehmet Saygin Seyfioglu et.al.|[2312.04746v1](http://arxiv.org/abs/2312.04746v1)|null|
 |**2023-12-07**|**Latent Skill Discovery for Chain-of-Thought Reasoning**|Zifan Xu et.al.|[2312.04684v1](http://arxiv.org/abs/2312.04684v1)|null|
 |**2023-12-07**|**Improved Visual Grounding through Self-Consistent Explanations**|Ruozhen He et.al.|[2312.04554v1](http://arxiv.org/abs/2312.04554v1)|null|
