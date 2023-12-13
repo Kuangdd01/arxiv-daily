@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-13 09:38:04
+ Automated deployment @ 2023-12-13 20:11:06
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -25,6 +25,8 @@
 ### Grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-12**|**Cross-modal Contrastive Learning with Asymmetric Co-attention Network for Video Moment Retrieval**|Love Panta et.al.|[2312.07435v1](http://arxiv.org/abs/2312.07435v1)|null|
+|**2023-12-12**|**READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling**|Thong Nguyen et.al.|[2312.06950v1](http://arxiv.org/abs/2312.06950v1)|null|
 |**2023-12-08**|**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**|Jae Sung Park et.al.|[2312.04837v2](http://arxiv.org/abs/2312.04837v2)|[link](https://github.com/jamespark3922/localized-skd)|
 |**2023-12-07**|**Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos**|Mehmet Saygin Seyfioglu et.al.|[2312.04746v1](http://arxiv.org/abs/2312.04746v1)|null|
 |**2023-12-07**|**Latent Skill Discovery for Chain-of-Thought Reasoning**|Zifan Xu et.al.|[2312.04684v1](http://arxiv.org/abs/2312.04684v1)|null|
@@ -40,6 +42,3 @@
 |**2023-12-04**|**LLMs Accelerate Annotation for Medical Information Extraction**|Akshay Goel et.al.|[2312.02296v1](http://arxiv.org/abs/2312.02296v1)|null|
 |**2023-12-04**|**A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia**|Giovanni Monea et.al.|[2312.02073v1](http://arxiv.org/abs/2312.02073v1)|null|
 |**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|[link](https://github.com/renshuhuai-andy/timechat)|
-|**2023-12-04**|**Expand BERT Representation with Visual Information via Grounded Language Learning with Multimodal Partial Alignment**|Cong-Duy Nguyen et.al.|[2312.01592v1](http://arxiv.org/abs/2312.01592v1)|null|
-|**2023-12-03**|**Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models**|Andrés Villa et.al.|[2312.02219v1](http://arxiv.org/abs/2312.02219v1)|null|
-|**2023-12-03**|**NLEBench+NorGLM: A Comprehensive Empirical Analysis and Benchmark Dataset for Generative Language Models in Norwegian**|Peng Liu et.al.|[2312.01314v1](http://arxiv.org/abs/2312.01314v1)|null|
