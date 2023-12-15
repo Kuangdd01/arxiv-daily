@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-15 08:30:07
+ Automated deployment @ 2023-12-15 09:39:03
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -34,7 +34,7 @@
 |**2023-12-07**|**Latent Skill Discovery for Chain-of-Thought Reasoning**|Zifan Xu et.al.|[2312.04684v1](http://arxiv.org/abs/2312.04684v1)|null|
 |**2023-12-07**|**Improved Visual Grounding through Self-Consistent Explanations**|Ruozhen He et.al.|[2312.04554v1](http://arxiv.org/abs/2312.04554v1)|null|
 |**2023-12-07**|**CLadder: A Benchmark to Assess Causal Reasoning Capabilities of Language Models**|Zhijing Jin et.al.|[2312.04350v1](http://arxiv.org/abs/2312.04350v1)|[link](https://github.com/causalnlp/cladder)|
-|**2023-12-06**|**Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia**|Alexander Sasha Vezhnevets et.al.|[2312.03664v1](http://arxiv.org/abs/2312.03664v1)|[link](https://github.com/google-deepmind/concordia)|
+|**2023-12-06**|**Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia**|Alexander Sasha Vezhnevets et.al.|[2312.03664v2](http://arxiv.org/abs/2312.03664v2)|[link](https://github.com/google-deepmind/concordia)|
 |**2023-12-06**|**Can language agents be alternatives to PPO? A Preliminary Empirical Study On OpenAI Gym**|Junjie Sheng et.al.|[2312.03290v1](http://arxiv.org/abs/2312.03290v1)|[link](https://github.com/mail-ecnu/text-gym-agents)|
 |**2023-12-05**|**Mismatch Quest: Visual and Textual Feedback for Image-Text Misalignment**|Brian Gordon et.al.|[2312.03766v1](http://arxiv.org/abs/2312.03766v1)|null|
 |**2023-12-05**|**Describing Differences in Image Sets with Natural Language**|Lisa Dunlap et.al.|[2312.02974v1](http://arxiv.org/abs/2312.02974v1)|[link](https://github.com/understanding-visual-datasets/visdiff)|
