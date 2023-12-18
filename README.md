@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-18 08:30:44
+ Automated deployment @ 2023-12-18 09:39:09
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -30,7 +30,7 @@
 |**2023-12-13**|**Graph vs. Sequence: An Empirical Study on Knowledge Forms for Knowledge-Grounded Dialogue**|Yizhe Yang et.al.|[2312.07868v1](http://arxiv.org/abs/2312.07868v1)|null|
 |**2023-12-12**|**Cross-modal Contrastive Learning with Asymmetric Co-attention Network for Video Moment Retrieval**|Love Panta et.al.|[2312.07435v1](http://arxiv.org/abs/2312.07435v1)|[link](https://github.com/love481/Cross-modal-Contrastive-Learning-with-Asymmetric-Co-attention-Network-for-Video-Moment-Retrieval)|
 |**2023-12-12**|**READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling**|Thong Nguyen et.al.|[2312.06950v1](http://arxiv.org/abs/2312.06950v1)|null|
-|**2023-12-08**|**PaperQA: Retrieval-Augmented Generative Agent for Scientific Research**|Jakub Lála et.al.|[2312.07559v1](http://arxiv.org/abs/2312.07559v1)|null|
+|**2023-12-08**|**PaperQA: Retrieval-Augmented Generative Agent for Scientific Research**|Jakub Lála et.al.|[2312.07559v2](http://arxiv.org/abs/2312.07559v2)|null|
 |**2023-12-08**|**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**|Jae Sung Park et.al.|[2312.04837v2](http://arxiv.org/abs/2312.04837v2)|[link](https://github.com/jamespark3922/localized-skd)|
 |**2023-12-07**|**Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos**|Mehmet Saygin Seyfioglu et.al.|[2312.04746v1](http://arxiv.org/abs/2312.04746v1)|null|
 |**2023-12-07**|**Latent Skill Discovery for Chain-of-Thought Reasoning**|Zifan Xu et.al.|[2312.04684v1](http://arxiv.org/abs/2312.04684v1)|null|
