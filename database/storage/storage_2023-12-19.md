@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-19 09:37:28
+ Automated deployment @ 2023-12-19 20:11:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -27,6 +27,7 @@
 ### Grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-15**|**Pipeline and Dataset Generation for Automated Fact-checking in Almost Any Language**|Jan Drchal et.al.|[2312.10171v1](http://arxiv.org/abs/2312.10171v1)|null|
 |**2023-12-15**|**Generative Context-aware Fine-tuning of Self-supervised Speech Models**|Suwon Shon et.al.|[2312.09895v1](http://arxiv.org/abs/2312.09895v1)|null|
 |**2023-12-15**|**HEAR: Hearing Enhanced Audio Response for Video-grounded Dialogue**|Sunjae Yoon et.al.|[2312.09736v1](http://arxiv.org/abs/2312.09736v1)|null|
 |**2023-12-15**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625v1](http://arxiv.org/abs/2312.09625v1)|null|
@@ -36,7 +37,3 @@
 |**2023-12-12**|**READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling**|Thong Nguyen et.al.|[2312.06950v1](http://arxiv.org/abs/2312.06950v1)|null|
 |**2023-12-08**|**PaperQA: Retrieval-Augmented Generative Agent for Scientific Research**|Jakub Lála et.al.|[2312.07559v2](http://arxiv.org/abs/2312.07559v2)|null|
 |**2023-12-08**|**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**|Jae Sung Park et.al.|[2312.04837v2](http://arxiv.org/abs/2312.04837v2)|[link](https://github.com/jamespark3922/localized-skd)|
-|**2023-12-07**|**Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos**|Mehmet Saygin Seyfioglu et.al.|[2312.04746v1](http://arxiv.org/abs/2312.04746v1)|null|
-|**2023-12-07**|**Latent Skill Discovery for Chain-of-Thought Reasoning**|Zifan Xu et.al.|[2312.04684v1](http://arxiv.org/abs/2312.04684v1)|null|
-|**2023-12-07**|**Improved Visual Grounding through Self-Consistent Explanations**|Ruozhen He et.al.|[2312.04554v1](http://arxiv.org/abs/2312.04554v1)|null|
-|**2023-12-07**|**CLadder: A Benchmark to Assess Causal Reasoning Capabilities of Language Models**|Zhijing Jin et.al.|[2312.04350v1](http://arxiv.org/abs/2312.04350v1)|[link](https://github.com/causalnlp/cladder)|
