@@ -1,28 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2023-12-20 20:57:11
+ Automated deployment @ 2023-12-20 21:08:24
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
 ## Mutimodal
-
-### Grounding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|null|
-|**2023-12-19**|**Efficient Title Reranker for Fast and Improved Knowledge-Intense NLP**|Ziyi Chen et.al.|[2312.12430v1](http://arxiv.org/abs/2312.12430v1)|null|
-|**2023-12-18**|**NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation**|Nandan Thakur et.al.|[2312.11361v1](http://arxiv.org/abs/2312.11361v1)|null|
-|**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|[link](https://github.com/Aipura/LLM-ARK)|
-|**2023-12-18**|**UniGen: A Unified Generative Framework for Retrieval and Question Answering with Large Language Models**|Xiaoxi Li et.al.|[2312.11036v1](http://arxiv.org/abs/2312.11036v1)|null|
-|**2023-12-18**|**LaViP:Language-Grounded Visual Prompts**|Nilakshan Kunananthaseelan et.al.|[2312.10945v1](http://arxiv.org/abs/2312.10945v1)|null|
-|**2023-12-17**|**Deciphering Compatibility Relationships with Textual Descriptions via Extraction and Explanation**|Yu Wang et.al.|[2312.11554v1](http://arxiv.org/abs/2312.11554v1)|null|
-|**2023-12-15**|**Pipeline and Dataset Generation for Automated Fact-checking in Almost Any Language**|Jan Drchal et.al.|[2312.10171v1](http://arxiv.org/abs/2312.10171v1)|null|
-|**2023-12-15**|**Generative Context-aware Fine-tuning of Self-supervised Speech Models**|Suwon Shon et.al.|[2312.09895v1](http://arxiv.org/abs/2312.09895v1)|null|
-|**2023-12-15**|**HEAR: Hearing Enhanced Audio Response for Video-grounded Dialogue**|Sunjae Yoon et.al.|[2312.09736v1](http://arxiv.org/abs/2312.09736v1)|null|
-|**2023-12-15**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625v1](http://arxiv.org/abs/2312.09625v1)|null|
-|**2023-12-14**|**SEF-VC: Speaker Embedding Free Zero-Shot Voice Conversion with Cross Attention**|Junjie Li et.al.|[2312.08676v1](http://arxiv.org/abs/2312.08676v1)|null|
-|**2023-12-13**|**Graph vs. Sequence: An Empirical Study on Knowledge Forms for Knowledge-Grounded Dialogue**|Yizhe Yang et.al.|[2312.07868v1](http://arxiv.org/abs/2312.07868v1)|null|
-|**2023-12-12**|**Cross-modal Contrastive Learning with Asymmetric Co-attention Network for Video Moment Retrieval**|Love Panta et.al.|[2312.07435v1](http://arxiv.org/abs/2312.07435v1)|[link](https://github.com/love481/Cross-modal-Contrastive-Learning-with-Asymmetric-Co-attention-Network-for-Video-Moment-Retrieval)|
-|**2023-12-12**|**READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling**|Thong Nguyen et.al.|[2312.06950v1](http://arxiv.org/abs/2312.06950v1)|null|
 
 ### Weakly Supervised grounding
 |Publish Date|Title|Authors|PDF|Code|
@@ -42,3 +23,22 @@
 |**2020-06-17**|**Contrastive Learning for Weakly Supervised Phrase Grounding**|Tanmay Gupta et.al.|[2006.09920v3](http://arxiv.org/abs/2006.09920v3)|[link](https://github.com/BigRedT/info-ground)|
 |**2019-12-01**|**Learning to Relate from Captions and Bounding Boxes**|Sarthak Garg et.al.|[1912.00311v1](http://arxiv.org/abs/1912.00311v1)|null|
 |**2019-08-29**|**Aesthetic Image Captioning From Weakly-Labelled Photographs**|Koustav Ghosal et.al.|[1908.11310v1](http://arxiv.org/abs/1908.11310v1)|null|
+
+### Grounding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|null|
+|**2023-12-19**|**Efficient Title Reranker for Fast and Improved Knowledge-Intense NLP**|Ziyi Chen et.al.|[2312.12430v1](http://arxiv.org/abs/2312.12430v1)|null|
+|**2023-12-18**|**NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation**|Nandan Thakur et.al.|[2312.11361v1](http://arxiv.org/abs/2312.11361v1)|null|
+|**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|[link](https://github.com/Aipura/LLM-ARK)|
+|**2023-12-18**|**UniGen: A Unified Generative Framework for Retrieval and Question Answering with Large Language Models**|Xiaoxi Li et.al.|[2312.11036v1](http://arxiv.org/abs/2312.11036v1)|null|
+|**2023-12-18**|**LaViP:Language-Grounded Visual Prompts**|Nilakshan Kunananthaseelan et.al.|[2312.10945v1](http://arxiv.org/abs/2312.10945v1)|null|
+|**2023-12-17**|**Deciphering Compatibility Relationships with Textual Descriptions via Extraction and Explanation**|Yu Wang et.al.|[2312.11554v1](http://arxiv.org/abs/2312.11554v1)|null|
+|**2023-12-15**|**Pipeline and Dataset Generation for Automated Fact-checking in Almost Any Language**|Jan Drchal et.al.|[2312.10171v1](http://arxiv.org/abs/2312.10171v1)|null|
+|**2023-12-15**|**Generative Context-aware Fine-tuning of Self-supervised Speech Models**|Suwon Shon et.al.|[2312.09895v1](http://arxiv.org/abs/2312.09895v1)|null|
+|**2023-12-15**|**HEAR: Hearing Enhanced Audio Response for Video-grounded Dialogue**|Sunjae Yoon et.al.|[2312.09736v1](http://arxiv.org/abs/2312.09736v1)|null|
+|**2023-12-15**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625v1](http://arxiv.org/abs/2312.09625v1)|null|
+|**2023-12-14**|**SEF-VC: Speaker Embedding Free Zero-Shot Voice Conversion with Cross Attention**|Junjie Li et.al.|[2312.08676v1](http://arxiv.org/abs/2312.08676v1)|null|
+|**2023-12-13**|**Graph vs. Sequence: An Empirical Study on Knowledge Forms for Knowledge-Grounded Dialogue**|Yizhe Yang et.al.|[2312.07868v1](http://arxiv.org/abs/2312.07868v1)|null|
+|**2023-12-12**|**Cross-modal Contrastive Learning with Asymmetric Co-attention Network for Video Moment Retrieval**|Love Panta et.al.|[2312.07435v1](http://arxiv.org/abs/2312.07435v1)|[link](https://github.com/love481/Cross-modal-Contrastive-Learning-with-Asymmetric-Co-attention-Network-for-Video-Moment-Retrieval)|
+|**2023-12-12**|**READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling**|Thong Nguyen et.al.|[2312.06950v1](http://arxiv.org/abs/2312.06950v1)|null|
