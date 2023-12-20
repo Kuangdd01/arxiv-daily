@@ -1,14 +1,14 @@
 # arxiv-daily
- Automated deployment @ 2023-12-20 08:23:52
+ Automated deployment @ 2023-12-20 09:14:08
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
 ## Mutimodal
 
-### Grounding
+### Weakly Supervised grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 
-### Weakly Supervised grounding
+### Grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
