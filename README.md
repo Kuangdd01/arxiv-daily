@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-21 08:29:27
+ Automated deployment @ 2023-12-21 09:36:21
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -13,7 +13,7 @@
 |**2023-05-18**|**Weakly-Supervised Visual-Textual Grounding with Semantic Prior Refinement**|Davide Rigoni et.al.|[2305.10913v2](http://arxiv.org/abs/2305.10913v2)|[link](https://github.com/drigoni/sprm)|
 |**2023-03-31**|**Zero-shot Referring Image Segmentation with Global-Local Context Features**|Seonghoon Yu et.al.|[2303.17811v2](http://arxiv.org/abs/2303.17811v2)|[link](https://github.com/seonghoon-yu/zero-shot-ris)|
 |**2022-10-09**|**MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**|Zijia Zhao et.al.|[2210.04183v3](http://arxiv.org/abs/2210.04183v3)|null|
-|**2022-06-14**|**Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities**|Hammad A. Ayyubi et.al.|[2206.07207v2](http://arxiv.org/abs/2206.07207v2)|null|
+|**2022-06-14**|**Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities**|Hammad A. Ayyubi et.al.|[2206.07207v3](http://arxiv.org/abs/2206.07207v3)|null|
 |**2022-04-22**|**Hypergraph Transformer: Weakly-supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering**|Yu-Jung Heo et.al.|[2204.10448v1](http://arxiv.org/abs/2204.10448v1)|[link](https://github.com/yujungheo/kbvqa-public)|
 |**2022-03-16**|**Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding**|Haojun Jiang et.al.|[2203.08481v2](http://arxiv.org/abs/2203.08481v2)|[link](https://github.com/leaplabthu/pseudo-q)|
 |**2022-02-09**|**Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?**|Jiawen Zhang et.al.|[2202.04306v1](http://arxiv.org/abs/2202.04306v1)|null|
@@ -28,7 +28,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|null|
-|**2023-12-19**|**Efficient Title Reranker for Fast and Improved Knowledge-Intense NLP**|Ziyi Chen et.al.|[2312.12430v1](http://arxiv.org/abs/2312.12430v1)|null|
+|**2023-12-19**|**Efficient Title Reranker for Fast and Improved Knowledge-Intense NLP**|Ziyi Chen et.al.|[2312.12430v2](http://arxiv.org/abs/2312.12430v2)|null|
 |**2023-12-18**|**NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation**|Nandan Thakur et.al.|[2312.11361v1](http://arxiv.org/abs/2312.11361v1)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|[link](https://github.com/Aipura/LLM-ARK)|
 |**2023-12-18**|**UniGen: A Unified Generative Framework for Retrieval and Question Answering with Large Language Models**|Xiaoxi Li et.al.|[2312.11036v1](http://arxiv.org/abs/2312.11036v1)|null|
