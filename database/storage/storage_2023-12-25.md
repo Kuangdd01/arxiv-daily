@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-25 09:37:38
+ Automated deployment @ 2023-12-25 20:10:29
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -30,6 +30,7 @@
 |**2023-12-21**|**Team Flow at DRC2023: Building Common Ground and Text-based Turn-taking in a Travel Agent Spoken Dialogue System**|Ryu Hirai et.al.|[2312.13816v1](http://arxiv.org/abs/2312.13816v1)|null|
 |**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|[link](https://github.com/lambert-x/prolab)|
 |**2023-12-20**|**BloomVQA: Assessing Hierarchical Multi-modal Comprehension**|Yunye Gong et.al.|[2312.12716v1](http://arxiv.org/abs/2312.12716v1)|null|
+|**2023-12-19**|**Auto311: A Confidence-guided Automated System for Non-emergency Call**|Zirong Chen et.al.|[2312.14185v1](http://arxiv.org/abs/2312.14185v1)|null|
 |**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v2](http://arxiv.org/abs/2312.12436v2)|[link](https://github.com/bradyfu/awesome-multimodal-large-language-models)|
 |**2023-12-19**|**Efficient Title Reranker for Fast and Improved Knowledge-Intense NLP**|Ziyi Chen et.al.|[2312.12430v2](http://arxiv.org/abs/2312.12430v2)|null|
 |**2023-12-18**|**NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation**|Nandan Thakur et.al.|[2312.11361v1](http://arxiv.org/abs/2312.11361v1)|[link](https://github.com/project-miracl/nomiracl)|
@@ -40,4 +41,3 @@
 |**2023-12-15**|**Pipeline and Dataset Generation for Automated Fact-checking in Almost Any Language**|Jan Drchal et.al.|[2312.10171v1](http://arxiv.org/abs/2312.10171v1)|[link](https://github.com/aic-factcheck/multilingual-fact-checking)|
 |**2023-12-15**|**Generative Context-aware Fine-tuning of Self-supervised Speech Models**|Suwon Shon et.al.|[2312.09895v1](http://arxiv.org/abs/2312.09895v1)|null|
 |**2023-12-15**|**HEAR: Hearing Enhanced Audio Response for Video-grounded Dialogue**|Sunjae Yoon et.al.|[2312.09736v1](http://arxiv.org/abs/2312.09736v1)|null|
-|**2023-12-15**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625v1](http://arxiv.org/abs/2312.09625v1)|null|
