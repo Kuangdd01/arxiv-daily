@@ -1,9 +1,22 @@
 # arxiv-daily
- Automated deployment @ 2024-01-01 20:53:38
+ Automated deployment @ 2024-01-01 21:01:34
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
 ## Mutimodal
+
+### Grounding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429v1](http://arxiv.org/abs/2312.17429v1)|null|
+|**2023-12-28**|**Exploring Nature: Datasets and Models for Analyzing Nature-Related Disclosures**|Tobias Schimanski et.al.|[2312.17337v1](http://arxiv.org/abs/2312.17337v1)|null|
+|**2023-12-28**|**BBScore: A Brownian Bridge Based Metric for Assessing Text Coherence**|Zhecheng Sheng et.al.|[2312.16893v1](http://arxiv.org/abs/2312.16893v1)|null|
+|**2023-12-27**|**Large Language Models for Conducting Advanced Text Analytics Information Systems Research**|Benjamin M. Ampel et.al.|[2312.17278v1](http://arxiv.org/abs/2312.17278v1)|null|
+|**2023-12-27**|**Automating Knowledge Acquisition for Content-Centric Cognitive Agents Using LLMs**|Sanjay Oruganti et.al.|[2312.16378v1](http://arxiv.org/abs/2312.16378v1)|null|
+|**2023-12-26**|**Can ChatGPT Read Who You Are?**|Erik Derner et.al.|[2312.16070v1](http://arxiv.org/abs/2312.16070v1)|null|
+|**2023-12-21**|**Team Flow at DRC2023: Building Common Ground and Text-based Turn-taking in a Travel Agent Spoken Dialogue System**|Ryu Hirai et.al.|[2312.13816v1](http://arxiv.org/abs/2312.13816v1)|null|
+|**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|[link](https://github.com/lambert-x/prolab)|
+|**2023-12-20**|**BloomVQA: Assessing Hierarchical Multi-modal Comprehension**|Yunye Gong et.al.|[2312.12716v1](http://arxiv.org/abs/2312.12716v1)|null|
 
 ### Weakly Supervised grounding
 |Publish Date|Title|Authors|PDF|Code|
@@ -23,16 +36,3 @@
 |**2020-06-17**|**Contrastive Learning for Weakly Supervised Phrase Grounding**|Tanmay Gupta et.al.|[2006.09920v3](http://arxiv.org/abs/2006.09920v3)|[link](https://github.com/BigRedT/info-ground)|
 |**2019-12-01**|**Learning to Relate from Captions and Bounding Boxes**|Sarthak Garg et.al.|[1912.00311v1](http://arxiv.org/abs/1912.00311v1)|null|
 |**2019-08-29**|**Aesthetic Image Captioning From Weakly-Labelled Photographs**|Koustav Ghosal et.al.|[1908.11310v1](http://arxiv.org/abs/1908.11310v1)|null|
-
-### Grounding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429v1](http://arxiv.org/abs/2312.17429v1)|null|
-|**2023-12-28**|**Exploring Nature: Datasets and Models for Analyzing Nature-Related Disclosures**|Tobias Schimanski et.al.|[2312.17337v1](http://arxiv.org/abs/2312.17337v1)|null|
-|**2023-12-28**|**BBScore: A Brownian Bridge Based Metric for Assessing Text Coherence**|Zhecheng Sheng et.al.|[2312.16893v1](http://arxiv.org/abs/2312.16893v1)|null|
-|**2023-12-27**|**Large Language Models for Conducting Advanced Text Analytics Information Systems Research**|Benjamin M. Ampel et.al.|[2312.17278v1](http://arxiv.org/abs/2312.17278v1)|null|
-|**2023-12-27**|**Automating Knowledge Acquisition for Content-Centric Cognitive Agents Using LLMs**|Sanjay Oruganti et.al.|[2312.16378v1](http://arxiv.org/abs/2312.16378v1)|null|
-|**2023-12-26**|**Can ChatGPT Read Who You Are?**|Erik Derner et.al.|[2312.16070v1](http://arxiv.org/abs/2312.16070v1)|null|
-|**2023-12-21**|**Team Flow at DRC2023: Building Common Ground and Text-based Turn-taking in a Travel Agent Spoken Dialogue System**|Ryu Hirai et.al.|[2312.13816v1](http://arxiv.org/abs/2312.13816v1)|null|
-|**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|[link](https://github.com/lambert-x/prolab)|
-|**2023-12-20**|**BloomVQA: Assessing Hierarchical Multi-modal Comprehension**|Yunye Gong et.al.|[2312.12716v1](http://arxiv.org/abs/2312.12716v1)|null|
