@@ -1,93 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-01-23 15:28:33
+ Automated deployment @ 2024-01-23 15:33:44
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Computer Vision
-
-### OVD
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015v1](http://arxiv.org/abs/2311.12015v1)|null|
-|**2023-08-25**|**How to Evaluate the Generalization of Detection? A Benchmark for Comprehensive Open-Vocabulary Detection**|Yiyang Yao et.al.|[2308.13177v2](http://arxiv.org/abs/2308.13177v2)|[link](https://github.com/om-ai-lab/ovdeval)|
-|**2023-05-11**|**Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**|Dahun Kim et.al.|[2305.07011v4](http://arxiv.org/abs/2305.07011v4)|[link](https://github.com/mcahny/rovit)|
-|**2023-04-10**|**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**|Shuhuai Ren et.al.|[2304.04704v2](http://arxiv.org/abs/2304.04704v2)|[link](https://github.com/amazon-science/prompt-pretraining)|
-|**2023-03-29**|**MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks**|Weicheng Kuo et.al.|[2303.16839v3](http://arxiv.org/abs/2303.16839v3)|null|
-|**2023-03-17**|**Investigating the Role of Attribute Context in Vision-Language Models for Object Recognition and Detection**|Kyle Buettner et.al.|[2303.10093v2](http://arxiv.org/abs/2303.10093v2)|null|
-|**2022-09-10**|**OmDet: Language-Aware Object Detection with Large-scale Vision-Language Multi-dataset Pre-training**|Tiancheng Zhao et.al.|[2209.05946v1](http://arxiv.org/abs/2209.05946v1)|[link](https://github.com/om-ai-lab/OmDet)|
-|**2022-06-12**|**GLIPv2: Unifying Localization and Vision-Language Understanding**|Haotian Zhang et.al.|[2206.05836v2](http://arxiv.org/abs/2206.05836v2)|[link](https://github.com/microsoft/GLIP)|
-
-### LMM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-22**|**CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark**|Ge Zhang et.al.|[2401.11944v1](http://arxiv.org/abs/2401.11944v1)|null|
-|**2024-01-22**|**Benchmarking Large Multimodal Models against Common Corruptions**|Jiawei Zhang et.al.|[2401.11943v1](http://arxiv.org/abs/2401.11943v1)|[link](https://github.com/sail-sg/mmcbench)|
-|**2024-01-20**|**InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance**|Pengyu Wang et.al.|[2401.11206v1](http://arxiv.org/abs/2401.11206v1)|[link](https://github.com/jihuai-wpy/inferaligner)|
-|**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711v1](http://arxiv.org/abs/2401.10711v1)|null|
-|**2024-01-19**|**Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences**|Xiyao Wang et.al.|[2401.10529v1](http://arxiv.org/abs/2401.10529v1)|null|
-|**2024-01-17**|**Bridging Research and Readers: A Multi-Modal Automated Academic Papers Interpretation System**|Feng Jiang et.al.|[2401.09150v1](http://arxiv.org/abs/2401.09150v1)|null|
-|**2024-01-16**|**AiGen-FoodReview: A Multimodal Dataset of Machine-Generated Restaurant Reviews and Images on Social Media**|Alessandro Gambetti et.al.|[2401.08825v1](http://arxiv.org/abs/2401.08825v1)|null|
-|**2024-01-16**|**MMToM-QA: Multimodal Theory of Mind Question Answering**|Chuanyang Jin et.al.|[2401.08743v1](http://arxiv.org/abs/2401.08743v1)|null|
-|**2024-01-16**|**AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception**|Yipo Huang et.al.|[2401.08276v1](http://arxiv.org/abs/2401.08276v1)|[link](https://github.com/yipoh/aesbench)|
-|**2024-01-15**|**MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception**|Yuhao Wang et.al.|[2401.07529v1](http://arxiv.org/abs/2401.07529v1)|null|
-|**2024-01-15**|**Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering**|Qing Li et.al.|[2401.07510v3](http://arxiv.org/abs/2401.07510v3)|null|
-|**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659v1](http://arxiv.org/abs/2401.06659v1)|null|
-|**2024-01-11**|**REBUS: A Robust Evaluation Benchmark of Understanding Symbols**|Andrew Gritsevskiy et.al.|[2401.05604v1](http://arxiv.org/abs/2401.05604v1)|[link](https://github.com/cvndsh/rebus)|
-|**2024-01-10**|**An EcoSage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant**|Mohit Tomar et.al.|[2401.06807v1](http://arxiv.org/abs/2401.06807v1)|[link](https://github.com/mohit2b/ecosage)|
-|**2024-01-10**|**Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning**|Yiqi Wang et.al.|[2401.06805v2](http://arxiv.org/abs/2401.06805v2)|null|
-|**2024-01-09**|**TransportationGames: Benchmarking Transportation Knowledge of (Multimodal) Large Language Models**|Xue Zhang et.al.|[2401.04471v1](http://arxiv.org/abs/2401.04471v1)|null|
-|**2024-01-08**|**FunnyNet-W: Multimodal Learning of Funny Moments in Videos in the Wild**|Zhi-Song Liu et.al.|[2401.04210v1](http://arxiv.org/abs/2401.04210v1)|null|
-|**2024-01-08**|**SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems**|Dong Zhang et.al.|[2401.03945v1](http://arxiv.org/abs/2401.03945v1)|[link](https://github.com/0nutation/speechagents)|
-|**2024-01-08**|**LightHouse: A Survey of AGI Hallucination**|Feng Wang et.al.|[2401.06792v2](http://arxiv.org/abs/2401.06792v2)|[link](https://github.com/zurichrain/agi-hallucination)|
-|**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906v2](http://arxiv.org/abs/2401.02906v2)|[link](https://github.com/pipilurj/mllm-protector)|
-|**2024-01-05**|**PeFoMed: Parameter Efficient Fine-tuning on Multimodal Large Language Models for Medical Visual Question Answering**|Jinlong He et.al.|[2401.02797v1](http://arxiv.org/abs/2401.02797v1)|[link](https://github.com/jinlhe/pefomed)|
-|**2024-01-03**|**GPT-4V(ision) is a Generalist Web Agent, if Grounded**|Boyuan Zheng et.al.|[2401.01614v1](http://arxiv.org/abs/2401.01614v1)|[link](https://github.com/osu-nlp-group/seeact)|
-|**2024-01-03**|**GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse**|Hongzhan Lin et.al.|[2401.01523v2](http://arxiv.org/abs/2401.01523v2)|null|
-|**2023-12-31**|**DocLLM: A layout-aware generative language model for multimodal document understanding**|Dongsheng Wang et.al.|[2401.00908v1](http://arxiv.org/abs/2401.00908v1)|null|
-|**2023-12-29**|**Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models**|Yuqing Wang et.al.|[2312.17661v1](http://arxiv.org/abs/2312.17661v1)|[link](https://github.com/eternityyw/gemini-commonsense-evaluation)|
-|**2023-12-29**|**Video Understanding with Large Language Models: A Survey**|Yunlong Tang et.al.|[2312.17432v2](http://arxiv.org/abs/2312.17432v2)|[link](https://github.com/yunlong10/awesome-llms-for-video-understanding)|
-|**2023-12-28**|**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**|Jiasen Lu et.al.|[2312.17172v1](http://arxiv.org/abs/2312.17172v1)|null|
-|**2023-12-28**|**TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**|Zhengqing Yuan et.al.|[2312.16862v1](http://arxiv.org/abs/2312.16862v1)|[link](https://github.com/dlyuangod/tinygpt-v)|
-|**2023-12-26**|**DocMSU: A Comprehensive Benchmark for Document-level Multimodal Sarcasm Understanding**|Hang Du et.al.|[2312.16023v1](http://arxiv.org/abs/2312.16023v1)|null|
-|**2023-12-24**|**Multimodal Classification of Teaching Activities from University Lecture Recordings**|Oscar Sapena et.al.|[2312.17262v1](http://arxiv.org/abs/2312.17262v1)|null|
-|**2023-12-23**|**Paralinguistics-Enhanced Large Language Modeling of Spoken Dialogue**|Guan-Ting Lin et.al.|[2312.15316v2](http://arxiv.org/abs/2312.15316v2)|null|
-|**2023-12-22**|**VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation**|Max Ku et.al.|[2312.14867v1](http://arxiv.org/abs/2312.14867v1)|null|
-|**2023-12-20**|**Exploring Multimodal Large Language Models for Radiology Report Error-checking**|Jinge Wu et.al.|[2312.13103v1](http://arxiv.org/abs/2312.13103v1)|null|
-|**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v2](http://arxiv.org/abs/2312.12436v2)|[link](https://github.com/bradyfu/awesome-multimodal-large-language-models)|
-|**2023-12-18**|**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**|Jiahui Gao et.al.|[2312.11370v1](http://arxiv.org/abs/2312.11370v1)|[link](https://github.com/pipilurj/g-llava)|
-|**2023-12-17**|**StarVector: Generating Scalable Vector Graphics Code from Images**|Juan A. Rodriguez et.al.|[2312.11556v1](http://arxiv.org/abs/2312.11556v1)|null|
-|**2023-12-17**|**Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization**|Xuan Long Do et.al.|[2312.10610v1](http://arxiv.org/abs/2312.10610v1)|null|
-|**2023-12-16**|**When Parameter-efficient Tuning Meets General-purpose Vision-language Models**|Yihang Zhai et.al.|[2312.12458v1](http://arxiv.org/abs/2312.12458v1)|[link](https://github.com/melonking32/petal)|
-|**2023-12-16**|**CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare**|Akash Ghosh et.al.|[2312.11541v1](http://arxiv.org/abs/2312.11541v1)|null|
-|**2023-12-15**|**SMILE: Multimodal Dataset for Understanding Laughter in Video with Language Models**|Lee Hyun et.al.|[2312.09818v1](http://arxiv.org/abs/2312.09818v1)|[link](https://github.com/smile-data/smile)|
-|**2023-12-13**|**Assessing GPT4-V on Structured Reasoning Tasks**|Mukul Singh et.al.|[2312.11524v1](http://arxiv.org/abs/2312.11524v1)|null|
-|**2023-12-13**|**ToViLaG: Your Visual-Language Generative Model is Also An Evildoer**|Xinpeng Wang et.al.|[2312.11523v1](http://arxiv.org/abs/2312.11523v1)|[link](https://github.com/victorup/ToViLaG)|
-|**2023-12-13**|**Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI**|Kai Huang et.al.|[2312.07886v1](http://arxiv.org/abs/2312.07886v1)|[link](https://github.com/pittisl/mpnp-llm)|
-|**2023-12-11**|**Honeybee: Locality-enhanced Projector for Multimodal LLM**|Junbum Cha et.al.|[2312.06742v1](http://arxiv.org/abs/2312.06742v1)|[link](https://github.com/kakaobrain/honeybee)|
-|**2023-12-11**|**PromptMTopic: Unsupervised Multimodal Topic Modeling of Memes using Large Language Models**|Nirmalendu Prakash et.al.|[2312.06093v1](http://arxiv.org/abs/2312.06093v1)|null|
-|**2023-12-11**|**EgoPlan-Bench: Benchmarking Egocentric Embodied Planning with Multimodal Large Language Models**|Yi Chen et.al.|[2312.06722v1](http://arxiv.org/abs/2312.06722v1)|[link](https://github.com/chenyi99/egoplan)|
-|**2023-12-09**|**Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models**|Hongzhan Lin et.al.|[2312.05434v1](http://arxiv.org/abs/2312.05434v1)|[link](https://github.com/hkbunlp/mr.harm-emnlp2023)|
-|**2023-12-08**|**GlitchBench: Can large multimodal models detect video game glitches?**|Mohammad Reza Taesiri et.al.|[2312.05291v1](http://arxiv.org/abs/2312.05291v1)|null|
-|**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187v1](http://arxiv.org/abs/2312.05187v1)|[link](https://github.com/facebookresearch/seamless_communication)|
-|**2023-12-08**|**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**|Jae Sung Park et.al.|[2312.04837v2](http://arxiv.org/abs/2312.04837v2)|[link](https://github.com/jamespark3922/localized-skd)|
-|**2023-12-06**|**Understanding (Un)Intended Memorization in Text-to-Image Generative Models**|Ali Naseh et.al.|[2312.07550v1](http://arxiv.org/abs/2312.07550v1)|null|
-|**2023-12-06**|**Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**|Zeyi Sun et.al.|[2312.03818v2](http://arxiv.org/abs/2312.03818v2)|[link](https://github.com/sunzey/alphaclip)|
-|**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700v1](http://arxiv.org/abs/2312.03700v1)|[link](https://github.com/csuhan/onellm)|
-|**2023-12-05**|**Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation**|Shanshan Zhong et.al.|[2312.02439v2](http://arxiv.org/abs/2312.02439v2)|[link](https://github.com/sail-sg/clot)|
-|**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|[link](https://github.com/renshuhuai-andy/timechat)|
-|**2023-12-03**|**Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation**|Yuzhe Lu et.al.|[2312.01504v1](http://arxiv.org/abs/2312.01504v1)|null|
-|**2023-12-01**|**Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts**|Jialin Wu et.al.|[2312.00968v1](http://arxiv.org/abs/2312.00968v1)|null|
-|**2023-12-01**|**Making Large Multimodal Models Understand Arbitrary Visual Prompts**|Mu Cai et.al.|[2312.00784v1](http://arxiv.org/abs/2312.00784v1)|null|
-|**2023-12-01**|**RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback**|Tianyu Yu et.al.|[2312.00849v1](http://arxiv.org/abs/2312.00849v1)|[link](https://github.com/rlhf-v/rlhf-v)|
-|**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
-|**2023-11-30**|**mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model**|Anwen Hu et.al.|[2311.18248v2](http://arxiv.org/abs/2311.18248v2)|[link](https://github.com/x-plug/mplug-docowl)|
-|**2023-11-29**|**Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**|Jinqi Luo et.al.|[2311.17898v2](http://arxiv.org/abs/2311.17898v2)|null|
-|**2023-11-29**|**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**|Yingdong Hu et.al.|[2311.17842v2](http://arxiv.org/abs/2311.17842v2)|null|
-|**2023-11-29**|**VIM: Probing Multimodal Large Language Models for Visual Embedded Instruction Following**|Yujie Lu et.al.|[2311.17647v1](http://arxiv.org/abs/2311.17647v1)|null|
-|**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839v1](http://arxiv.org/abs/2311.16839v1)|null|
-|**2023-11-27**|**Compositional Chain-of-Thought Prompting for Large Multimodal Models**|Chancharik Mitra et.al.|[2311.17076v1](http://arxiv.org/abs/2311.17076v1)|null|
-|**2023-11-27**|**ChartLlama: A Multimodal LLM for Chart Understanding and Generation**|Yucheng Han et.al.|[2311.16483v1](http://arxiv.org/abs/2311.16483v1)|null|
-|**2023-11-27**|**Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs**|Yunxin Li et.al.|[2311.15759v1](http://arxiv.org/abs/2311.15759v1)|null|
 
 ## Mutimodal
 
@@ -185,3 +99,89 @@
 |**2023-07-31**|**FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis**|Ziao Wang et.al.|[2308.01430v1](http://arxiv.org/abs/2308.01430v1)|[link](https://github.com/wwwadx/FinVis-GPT)|
 |**2023-07-27**|**MESED: A Multi-modal Entity Set Expansion Dataset with Fine-grained Semantic Classes and Hard Negative Entities**|Yangning Li et.al.|[2307.14878v1](http://arxiv.org/abs/2307.14878v1)|[link](https://github.com/thukelab/mesed)|
 |**2023-07-22**|**Extracting Molecular Properties from Natural Language with Multimodal Contrastive Learning**|Romain Lacombe et.al.|[2307.12996v1](http://arxiv.org/abs/2307.12996v1)|null|
+
+## Computer Vision
+
+### OVD
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015v1](http://arxiv.org/abs/2311.12015v1)|null|
+|**2023-08-25**|**How to Evaluate the Generalization of Detection? A Benchmark for Comprehensive Open-Vocabulary Detection**|Yiyang Yao et.al.|[2308.13177v2](http://arxiv.org/abs/2308.13177v2)|[link](https://github.com/om-ai-lab/ovdeval)|
+|**2023-05-11**|**Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**|Dahun Kim et.al.|[2305.07011v4](http://arxiv.org/abs/2305.07011v4)|[link](https://github.com/mcahny/rovit)|
+|**2023-04-10**|**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**|Shuhuai Ren et.al.|[2304.04704v2](http://arxiv.org/abs/2304.04704v2)|[link](https://github.com/amazon-science/prompt-pretraining)|
+|**2023-03-29**|**MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks**|Weicheng Kuo et.al.|[2303.16839v3](http://arxiv.org/abs/2303.16839v3)|null|
+|**2023-03-17**|**Investigating the Role of Attribute Context in Vision-Language Models for Object Recognition and Detection**|Kyle Buettner et.al.|[2303.10093v2](http://arxiv.org/abs/2303.10093v2)|null|
+|**2022-09-10**|**OmDet: Language-Aware Object Detection with Large-scale Vision-Language Multi-dataset Pre-training**|Tiancheng Zhao et.al.|[2209.05946v1](http://arxiv.org/abs/2209.05946v1)|[link](https://github.com/om-ai-lab/OmDet)|
+|**2022-06-12**|**GLIPv2: Unifying Localization and Vision-Language Understanding**|Haotian Zhang et.al.|[2206.05836v2](http://arxiv.org/abs/2206.05836v2)|[link](https://github.com/microsoft/GLIP)|
+
+### LMM
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-22**|**CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark**|Ge Zhang et.al.|[2401.11944v1](http://arxiv.org/abs/2401.11944v1)|null|
+|**2024-01-22**|**Benchmarking Large Multimodal Models against Common Corruptions**|Jiawei Zhang et.al.|[2401.11943v1](http://arxiv.org/abs/2401.11943v1)|[link](https://github.com/sail-sg/mmcbench)|
+|**2024-01-20**|**InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance**|Pengyu Wang et.al.|[2401.11206v1](http://arxiv.org/abs/2401.11206v1)|[link](https://github.com/jihuai-wpy/inferaligner)|
+|**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711v1](http://arxiv.org/abs/2401.10711v1)|null|
+|**2024-01-19**|**Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences**|Xiyao Wang et.al.|[2401.10529v1](http://arxiv.org/abs/2401.10529v1)|null|
+|**2024-01-17**|**Bridging Research and Readers: A Multi-Modal Automated Academic Papers Interpretation System**|Feng Jiang et.al.|[2401.09150v1](http://arxiv.org/abs/2401.09150v1)|null|
+|**2024-01-16**|**AiGen-FoodReview: A Multimodal Dataset of Machine-Generated Restaurant Reviews and Images on Social Media**|Alessandro Gambetti et.al.|[2401.08825v1](http://arxiv.org/abs/2401.08825v1)|null|
+|**2024-01-16**|**MMToM-QA: Multimodal Theory of Mind Question Answering**|Chuanyang Jin et.al.|[2401.08743v1](http://arxiv.org/abs/2401.08743v1)|null|
+|**2024-01-16**|**AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception**|Yipo Huang et.al.|[2401.08276v1](http://arxiv.org/abs/2401.08276v1)|[link](https://github.com/yipoh/aesbench)|
+|**2024-01-15**|**MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception**|Yuhao Wang et.al.|[2401.07529v1](http://arxiv.org/abs/2401.07529v1)|null|
+|**2024-01-15**|**Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering**|Qing Li et.al.|[2401.07510v3](http://arxiv.org/abs/2401.07510v3)|null|
+|**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659v1](http://arxiv.org/abs/2401.06659v1)|null|
+|**2024-01-11**|**REBUS: A Robust Evaluation Benchmark of Understanding Symbols**|Andrew Gritsevskiy et.al.|[2401.05604v1](http://arxiv.org/abs/2401.05604v1)|[link](https://github.com/cvndsh/rebus)|
+|**2024-01-10**|**An EcoSage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant**|Mohit Tomar et.al.|[2401.06807v1](http://arxiv.org/abs/2401.06807v1)|[link](https://github.com/mohit2b/ecosage)|
+|**2024-01-10**|**Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning**|Yiqi Wang et.al.|[2401.06805v2](http://arxiv.org/abs/2401.06805v2)|null|
+|**2024-01-09**|**TransportationGames: Benchmarking Transportation Knowledge of (Multimodal) Large Language Models**|Xue Zhang et.al.|[2401.04471v1](http://arxiv.org/abs/2401.04471v1)|null|
+|**2024-01-08**|**FunnyNet-W: Multimodal Learning of Funny Moments in Videos in the Wild**|Zhi-Song Liu et.al.|[2401.04210v1](http://arxiv.org/abs/2401.04210v1)|null|
+|**2024-01-08**|**SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems**|Dong Zhang et.al.|[2401.03945v1](http://arxiv.org/abs/2401.03945v1)|[link](https://github.com/0nutation/speechagents)|
+|**2024-01-08**|**LightHouse: A Survey of AGI Hallucination**|Feng Wang et.al.|[2401.06792v2](http://arxiv.org/abs/2401.06792v2)|[link](https://github.com/zurichrain/agi-hallucination)|
+|**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906v2](http://arxiv.org/abs/2401.02906v2)|[link](https://github.com/pipilurj/mllm-protector)|
+|**2024-01-05**|**PeFoMed: Parameter Efficient Fine-tuning on Multimodal Large Language Models for Medical Visual Question Answering**|Jinlong He et.al.|[2401.02797v1](http://arxiv.org/abs/2401.02797v1)|[link](https://github.com/jinlhe/pefomed)|
+|**2024-01-03**|**GPT-4V(ision) is a Generalist Web Agent, if Grounded**|Boyuan Zheng et.al.|[2401.01614v1](http://arxiv.org/abs/2401.01614v1)|[link](https://github.com/osu-nlp-group/seeact)|
+|**2024-01-03**|**GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse**|Hongzhan Lin et.al.|[2401.01523v2](http://arxiv.org/abs/2401.01523v2)|null|
+|**2023-12-31**|**DocLLM: A layout-aware generative language model for multimodal document understanding**|Dongsheng Wang et.al.|[2401.00908v1](http://arxiv.org/abs/2401.00908v1)|null|
+|**2023-12-29**|**Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models**|Yuqing Wang et.al.|[2312.17661v1](http://arxiv.org/abs/2312.17661v1)|[link](https://github.com/eternityyw/gemini-commonsense-evaluation)|
+|**2023-12-29**|**Video Understanding with Large Language Models: A Survey**|Yunlong Tang et.al.|[2312.17432v2](http://arxiv.org/abs/2312.17432v2)|[link](https://github.com/yunlong10/awesome-llms-for-video-understanding)|
+|**2023-12-28**|**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**|Jiasen Lu et.al.|[2312.17172v1](http://arxiv.org/abs/2312.17172v1)|null|
+|**2023-12-28**|**TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**|Zhengqing Yuan et.al.|[2312.16862v1](http://arxiv.org/abs/2312.16862v1)|[link](https://github.com/dlyuangod/tinygpt-v)|
+|**2023-12-26**|**DocMSU: A Comprehensive Benchmark for Document-level Multimodal Sarcasm Understanding**|Hang Du et.al.|[2312.16023v1](http://arxiv.org/abs/2312.16023v1)|null|
+|**2023-12-24**|**Multimodal Classification of Teaching Activities from University Lecture Recordings**|Oscar Sapena et.al.|[2312.17262v1](http://arxiv.org/abs/2312.17262v1)|null|
+|**2023-12-23**|**Paralinguistics-Enhanced Large Language Modeling of Spoken Dialogue**|Guan-Ting Lin et.al.|[2312.15316v2](http://arxiv.org/abs/2312.15316v2)|null|
+|**2023-12-22**|**VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation**|Max Ku et.al.|[2312.14867v1](http://arxiv.org/abs/2312.14867v1)|null|
+|**2023-12-20**|**Exploring Multimodal Large Language Models for Radiology Report Error-checking**|Jinge Wu et.al.|[2312.13103v1](http://arxiv.org/abs/2312.13103v1)|null|
+|**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v2](http://arxiv.org/abs/2312.12436v2)|[link](https://github.com/bradyfu/awesome-multimodal-large-language-models)|
+|**2023-12-18**|**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**|Jiahui Gao et.al.|[2312.11370v1](http://arxiv.org/abs/2312.11370v1)|[link](https://github.com/pipilurj/g-llava)|
+|**2023-12-17**|**StarVector: Generating Scalable Vector Graphics Code from Images**|Juan A. Rodriguez et.al.|[2312.11556v1](http://arxiv.org/abs/2312.11556v1)|null|
+|**2023-12-17**|**Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization**|Xuan Long Do et.al.|[2312.10610v1](http://arxiv.org/abs/2312.10610v1)|null|
+|**2023-12-16**|**When Parameter-efficient Tuning Meets General-purpose Vision-language Models**|Yihang Zhai et.al.|[2312.12458v1](http://arxiv.org/abs/2312.12458v1)|[link](https://github.com/melonking32/petal)|
+|**2023-12-16**|**CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare**|Akash Ghosh et.al.|[2312.11541v1](http://arxiv.org/abs/2312.11541v1)|null|
+|**2023-12-15**|**SMILE: Multimodal Dataset for Understanding Laughter in Video with Language Models**|Lee Hyun et.al.|[2312.09818v1](http://arxiv.org/abs/2312.09818v1)|[link](https://github.com/smile-data/smile)|
+|**2023-12-13**|**Assessing GPT4-V on Structured Reasoning Tasks**|Mukul Singh et.al.|[2312.11524v1](http://arxiv.org/abs/2312.11524v1)|null|
+|**2023-12-13**|**ToViLaG: Your Visual-Language Generative Model is Also An Evildoer**|Xinpeng Wang et.al.|[2312.11523v1](http://arxiv.org/abs/2312.11523v1)|[link](https://github.com/victorup/ToViLaG)|
+|**2023-12-13**|**Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI**|Kai Huang et.al.|[2312.07886v1](http://arxiv.org/abs/2312.07886v1)|[link](https://github.com/pittisl/mpnp-llm)|
+|**2023-12-11**|**Honeybee: Locality-enhanced Projector for Multimodal LLM**|Junbum Cha et.al.|[2312.06742v1](http://arxiv.org/abs/2312.06742v1)|[link](https://github.com/kakaobrain/honeybee)|
+|**2023-12-11**|**PromptMTopic: Unsupervised Multimodal Topic Modeling of Memes using Large Language Models**|Nirmalendu Prakash et.al.|[2312.06093v1](http://arxiv.org/abs/2312.06093v1)|null|
+|**2023-12-11**|**EgoPlan-Bench: Benchmarking Egocentric Embodied Planning with Multimodal Large Language Models**|Yi Chen et.al.|[2312.06722v1](http://arxiv.org/abs/2312.06722v1)|[link](https://github.com/chenyi99/egoplan)|
+|**2023-12-09**|**Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models**|Hongzhan Lin et.al.|[2312.05434v1](http://arxiv.org/abs/2312.05434v1)|[link](https://github.com/hkbunlp/mr.harm-emnlp2023)|
+|**2023-12-08**|**GlitchBench: Can large multimodal models detect video game glitches?**|Mohammad Reza Taesiri et.al.|[2312.05291v1](http://arxiv.org/abs/2312.05291v1)|null|
+|**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187v1](http://arxiv.org/abs/2312.05187v1)|[link](https://github.com/facebookresearch/seamless_communication)|
+|**2023-12-08**|**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**|Jae Sung Park et.al.|[2312.04837v2](http://arxiv.org/abs/2312.04837v2)|[link](https://github.com/jamespark3922/localized-skd)|
+|**2023-12-06**|**Understanding (Un)Intended Memorization in Text-to-Image Generative Models**|Ali Naseh et.al.|[2312.07550v1](http://arxiv.org/abs/2312.07550v1)|null|
+|**2023-12-06**|**Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**|Zeyi Sun et.al.|[2312.03818v2](http://arxiv.org/abs/2312.03818v2)|[link](https://github.com/sunzey/alphaclip)|
+|**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700v1](http://arxiv.org/abs/2312.03700v1)|[link](https://github.com/csuhan/onellm)|
+|**2023-12-05**|**Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation**|Shanshan Zhong et.al.|[2312.02439v2](http://arxiv.org/abs/2312.02439v2)|[link](https://github.com/sail-sg/clot)|
+|**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|[link](https://github.com/renshuhuai-andy/timechat)|
+|**2023-12-03**|**Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation**|Yuzhe Lu et.al.|[2312.01504v1](http://arxiv.org/abs/2312.01504v1)|null|
+|**2023-12-01**|**Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts**|Jialin Wu et.al.|[2312.00968v1](http://arxiv.org/abs/2312.00968v1)|null|
+|**2023-12-01**|**Making Large Multimodal Models Understand Arbitrary Visual Prompts**|Mu Cai et.al.|[2312.00784v1](http://arxiv.org/abs/2312.00784v1)|null|
+|**2023-12-01**|**RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback**|Tianyu Yu et.al.|[2312.00849v1](http://arxiv.org/abs/2312.00849v1)|[link](https://github.com/rlhf-v/rlhf-v)|
+|**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
+|**2023-11-30**|**mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model**|Anwen Hu et.al.|[2311.18248v2](http://arxiv.org/abs/2311.18248v2)|[link](https://github.com/x-plug/mplug-docowl)|
+|**2023-11-29**|**Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**|Jinqi Luo et.al.|[2311.17898v2](http://arxiv.org/abs/2311.17898v2)|null|
+|**2023-11-29**|**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**|Yingdong Hu et.al.|[2311.17842v2](http://arxiv.org/abs/2311.17842v2)|null|
+|**2023-11-29**|**VIM: Probing Multimodal Large Language Models for Visual Embedded Instruction Following**|Yujie Lu et.al.|[2311.17647v1](http://arxiv.org/abs/2311.17647v1)|null|
+|**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839v1](http://arxiv.org/abs/2311.16839v1)|null|
+|**2023-11-27**|**Compositional Chain-of-Thought Prompting for Large Multimodal Models**|Chancharik Mitra et.al.|[2311.17076v1](http://arxiv.org/abs/2311.17076v1)|null|
+|**2023-11-27**|**ChartLlama: A Multimodal LLM for Chart Understanding and Generation**|Yucheng Han et.al.|[2311.16483v1](http://arxiv.org/abs/2311.16483v1)|null|
+|**2023-11-27**|**Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs**|Yunxin Li et.al.|[2311.15759v1](http://arxiv.org/abs/2311.15759v1)|null|
