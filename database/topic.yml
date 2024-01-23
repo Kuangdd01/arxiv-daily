@@ -1,6 +1,7 @@
 "Mutimodal":
   "Weakly Supervised grounding": '("Weakly")AND("Supervised")AND(("Phrase")OR("Visual"))AND("Grounding")'
   "Grounding": '(Grounding)'
+  "OVD": '("Open")AND("Vocabulary")AND("Detection")'
 # "Reasoning":
 #   "Reasoning": '("Language")AND("Reason")'
 # #   "Logical Reasoning": '"Language"AND(("Logic")OR("Logical"))'
