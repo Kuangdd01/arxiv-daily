@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-23 09:20:33
+ Automated deployment @ 2024-01-23 14:39:02
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -28,6 +28,9 @@
 ### Grounding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-22**|**PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety**|Zaibin Zhang et.al.|[2401.11880v1](http://arxiv.org/abs/2401.11880v1)|[link](https://github.com/ai4good24/psysafe)|
+|**2024-01-22**|**Hallucination is Inevitable: An Innate Limitation of Large Language Models**|Ziwei Xu et.al.|[2401.11817v1](http://arxiv.org/abs/2401.11817v1)|null|
+|**2024-01-21**|**Majority or Minority: Data Imbalance Learning Method for Named Entity Recognition**|Sota Nemoto et.al.|[2401.11431v1](http://arxiv.org/abs/2401.11431v1)|null|
 |**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711v1](http://arxiv.org/abs/2401.10711v1)|null|
 |**2024-01-19**|**Large Language Models are Efficient Learners of Noise-Robust Speech Recognition**|Yuchen Hu et.al.|[2401.10446v1](http://arxiv.org/abs/2401.10446v1)|null|
 |**2024-01-18**|**Predicting Viral Rumors and Vulnerable Users for Infodemic Surveillance**|Xuan Zhang et.al.|[2401.09724v1](http://arxiv.org/abs/2401.09724v1)|[link](https://github.com/jadecurl/predicting-viral-rumors-and-vulnerable-users)|
@@ -39,13 +42,31 @@
 |**2024-01-15**|**The Chronicles of RAG: The Retriever, the Chunk and the Generator**|Paulo Finardi et.al.|[2401.07883v1](http://arxiv.org/abs/2401.07883v1)|null|
 |**2024-01-15**|**Quantum Transfer Learning for Acceptability Judgements**|Giuseppe Buonaiuto et.al.|[2401.07777v1](http://arxiv.org/abs/2401.07777v1)|null|
 |**2024-01-15**|**Safe Reinforcement Learning with Free-form Natural Language Constraints and Pre-Trained Language Models**|Xingzhou Lou et.al.|[2401.07553v1](http://arxiv.org/abs/2401.07553v1)|null|
-|**2024-01-12**|**Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data**|Yubin Kim et.al.|[2401.06866v1](http://arxiv.org/abs/2401.06866v1)|null|
-|**2024-01-12**|**Using Natural Language Inference to Improve Persona Extraction from Dialogue in a New Domain**|Alexandra DeLucia et.al.|[2401.06742v1](http://arxiv.org/abs/2401.06742v1)|null|
-|**2024-01-12**|**Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text**|Muskan Garg et.al.|[2401.06709v1](http://arxiv.org/abs/2401.06709v1)|null|
-|**2024-01-12**|**Prometheus-Vision: Vision-Language Model as a Judge for Fine-Grained Evaluation**|Seongyun Lee et.al.|[2401.06591v1](http://arxiv.org/abs/2401.06591v1)|[link](https://github.com/kaistai/prometheus-vision)|
-|**2024-01-12**|**AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters**|Li Lucy et.al.|[2401.06408v2](http://arxiv.org/abs/2401.06408v2)|[link](https://github.com/lucy3/whos_filtered)|
-|**2024-01-12**|**Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation**|Akshita Jha et.al.|[2401.06310v1](http://arxiv.org/abs/2401.06310v1)|null|
-|**2024-01-11**|**LEGO:Language Enhanced Multi-modal Grounding Model**|Zhaowei Li et.al.|[2401.06071v3](http://arxiv.org/abs/2401.06071v3)|[link](https://github.com/lzw-lzw/lego)|
-|**2024-01-11**|**Investigating Data Contamination for Pre-training Language Models**|Minhao Jiang et.al.|[2401.06059v1](http://arxiv.org/abs/2401.06059v1)|null|
-|**2024-01-11**|**Evidence to Generate (E2G): A Single-agent Two-step Prompting for Context Grounded and Retrieval Augmented Reasoning**|Md Rizwan Parvez et.al.|[2401.05787v1](http://arxiv.org/abs/2401.05787v1)|null|
-|**2024-01-10**|**Grounded learning for compositional vector semantics**|Martha Lewis et.al.|[2401.06808v1](http://arxiv.org/abs/2401.06808v1)|null|
+
+### OVD
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-29**|**TuPy-E: detecting hate speech in Brazilian Portuguese social media with a novel dataset and comprehensive analysis of models**|Felipe Oliveira et.al.|[2312.17704v1](http://arxiv.org/abs/2312.17704v1)|[link](https://github.com/Silly-Machine/TuPyE-Dataset)|
+|**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015v1](http://arxiv.org/abs/2311.12015v1)|null|
+|**2023-10-28**|**Open Visual Knowledge Extraction via Relation-Oriented Multimodality Model Prompting**|Hejie Cui et.al.|[2310.18804v1](http://arxiv.org/abs/2310.18804v1)|null|
+|**2023-08-25**|**How to Evaluate the Generalization of Detection? A Benchmark for Comprehensive Open-Vocabulary Detection**|Yiyang Yao et.al.|[2308.13177v2](http://arxiv.org/abs/2308.13177v2)|[link](https://github.com/om-ai-lab/ovdeval)|
+|**2023-08-23**|**Toward American Sign Language Processing in the Real World: Data, Tasks, and Methods**|Bowen Shi et.al.|[2308.12419v1](http://arxiv.org/abs/2308.12419v1)|null|
+|**2023-05-11**|**Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**|Dahun Kim et.al.|[2305.07011v4](http://arxiv.org/abs/2305.07011v4)|[link](https://github.com/mcahny/rovit)|
+|**2023-04-10**|**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**|Shuhuai Ren et.al.|[2304.04704v2](http://arxiv.org/abs/2304.04704v2)|[link](https://github.com/amazon-science/prompt-pretraining)|
+|**2023-03-29**|**MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks**|Weicheng Kuo et.al.|[2303.16839v3](http://arxiv.org/abs/2303.16839v3)|null|
+|**2023-03-17**|**Investigating the Role of Attribute Context in Vision-Language Models for Object Recognition and Detection**|Kyle Buettner et.al.|[2303.10093v2](http://arxiv.org/abs/2303.10093v2)|null|
+|**2022-09-10**|**OmDet: Language-Aware Object Detection with Large-scale Vision-Language Multi-dataset Pre-training**|Tiancheng Zhao et.al.|[2209.05946v1](http://arxiv.org/abs/2209.05946v1)|[link](https://github.com/om-ai-lab/OmDet)|
+|**2022-06-12**|**GLIPv2: Unifying Localization and Vision-Language Understanding**|Haotian Zhang et.al.|[2206.05836v2](http://arxiv.org/abs/2206.05836v2)|[link](https://github.com/microsoft/GLIP)|
+|**2022-03-29**|**Short-Term Word-Learning in a Dynamically Changing Environment**|Christian Huber et.al.|[2203.15404v1](http://arxiv.org/abs/2203.15404v1)|null|
+|**2021-07-08**|**Nearest neighbour approaches for Emotion Detection in Tweets**|Olha Kaminska et.al.|[2107.05394v1](http://arxiv.org/abs/2107.05394v1)|[link](https://github.com/olha-kaminska/wknn_emotion_detection)|
+|**2020-10-26**|**Syllabification of the Divine Comedy**|Andrea Asperti et.al.|[2010.13515v1](http://arxiv.org/abs/2010.13515v1)|[link](https://github.com/asperti/Dante)|
+|**2020-05-08**|**Multi-Task Network for Noise-Robust Keyword Spotting and Speaker Verification using CTC-based Soft VAD and Global Query Attention**|Myunghun Jung et.al.|[2005.03867v4](http://arxiv.org/abs/2005.03867v4)|null|
+|**2020-05-02**|**A Benchmark for Structured Procedural Knowledge Extraction from Cooking Videos**|Frank F. Xu et.al.|[2005.00706v2](http://arxiv.org/abs/2005.00706v2)|[link](https://github.com/frankxu2004/cooking-procedural-extraction)|
+|**2020-03-31**|**Enriching Consumer Health Vocabulary Using Enhanced GloVe Word Embedding**|Mohammed Ibrahim et.al.|[2004.00150v2](http://arxiv.org/abs/2004.00150v2)|null|
+|**2020-02-25**|**Small-Footprint Open-Vocabulary Keyword Spotting with Quantized LSTM Networks**|Théodore Bluche et.al.|[2002.10851v1](http://arxiv.org/abs/2002.10851v1)|null|
+|**2020-02-19**|**Non-Autoregressive Dialog State Tracking**|Hung Le et.al.|[2002.08024v1](http://arxiv.org/abs/2002.08024v1)|[link](https://github.com/henryhungle/NADST)|
+|**2020-02-03**|**Phylogenetic signal in phonotactics**|Jayden L. Macklin-Cordes et.al.|[2002.00527v2](http://arxiv.org/abs/2002.00527v2)|null|
+|**2019-12-16**|**Predicting detection filters for small footprint open-vocabulary keyword spotting**|Theodore Bluche et.al.|[1912.07575v2](http://arxiv.org/abs/1912.07575v2)|null|
+|**2019-12-05**|**Design and implementation of an open source Greek POS Tagger and Entity Recognizer using spaCy**|Eleni Partalidou et.al.|[1912.10162v1](http://arxiv.org/abs/1912.10162v1)|null|
+|**2019-03-29**|**A Convolutional Neural Network for Language-Agnostic Source Code Summarization**|Jessica Moore et.al.|[1904.00805v1](http://arxiv.org/abs/1904.00805v1)|null|
+|**2002-06-09**|**A Method for Open-Vocabulary Speech-Driven Text Retrieval**|Atsushi Fujii et.al.|[cs/0206014v1](http://arxiv.org/abs/cs/0206014v1)|null|
