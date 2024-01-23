@@ -1,29 +1,11 @@
 "Mutimodal":
   "Weakly Supervised grounding": '("Weakly")AND("Supervised")AND(("Phrase")OR("Visual"))AND("Grounding")'
-  "Grounding": '(Grounding)'
-  "OVD": '("Open")AND("Vocabulary")AND("Detection")'
-# "Reasoning":
-#   "Reasoning": '("Language")AND("Reason")'
-# #   "Logical Reasoning": '"Language"AND(("Logic")OR("Logical"))'
-# #   "Math Reasoning": '"Language"AND(("Math")OR("Mathematical")OR("Numerical"))'
-  
-# "Question Answering":
-#   "QA": '"Question Answering"'
+  "Alignment": '("Multimodal")AND("Alignment")'
 
-# "Explanation":
-#   "Explanation": '"Language"AND(("Explanation")OR("Explain"))'
-
-# "Computer Vision":
+"Computer Vision":
+   "OVD": '("Open")AND("Vocabulary")AND("Object")AND("Detection")'
+   "LMM":'("Large")AND("Multimodal")AND("Model")'
 #   "Image Classification": '"Image Classification"'
 #   "Keypoint Detection": '"Keypoint Detection"OR"Feature Descriptor"'
 #   "Image Matching": '"Image Matching"'
 
-# "Federated Learning":
-#   "Federated Learning": '"Federated Learning"OR"Federated Machine Learning"'
-#   "Personalized": '"Federated Learning"AND("Personalized")'
-#   "Optimization": '"Federated Learning"AND("Optimization"OR"Optimizated"OR"Optimal")'
-#   "Heterogeneous": '"Federated Learning"AND("Heterogeneous"OR"Heterogeneity"OR"non-IID")'
-#   "Asynchronous": '"Federated Learning"AND("Asynchronous"OR"Async"OR"FedAsync")'
-#   "Benchmark": '"Federated Learning"AND"Benchmark"'
-#   "Dataset": '"Federated Learning"AND"Dataset"'
-#   "Framework": '"Federated Learning"AND"Framework"'
