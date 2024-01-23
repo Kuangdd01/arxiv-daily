@@ -3,7 +3,7 @@
   "Alignment": '("Multimodal")AND("Alignment")'
 "Computer Vision":
    "OVD": '("Open")AND("Vocabulary")AND("Object")AND("Detection")'
-   "LMM":'("Large")AND("Multimodal")AND("Model")'
+   "LMM": '("Large")AND("Multimodal")AND("Model")'
 #   "Image Classification": '"Image Classification"'
 #   "Keypoint Detection": '"Keypoint Detection"OR"Feature Descriptor"'
 #   "Image Matching": '"Image Matching"'
