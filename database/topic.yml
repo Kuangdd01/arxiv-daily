@@ -1,7 +1,6 @@
 "Mutimodal":
   "Weakly Supervised grounding": '("Weakly")AND("Supervised")AND(("Phrase")OR("Visual"))AND("Grounding")'
   "Alignment": '("Multimodal")AND("Alignment")'
-
 "Computer Vision":
    "OVD": '("Open")AND("Vocabulary")AND("Object")AND("Detection")'
    "LMM":'("Large")AND("Multimodal")AND("Model")'
