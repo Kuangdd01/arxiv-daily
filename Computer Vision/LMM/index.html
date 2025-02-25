@@ -1,0 +1,1152 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../..">
+      
+      
+        <link rel="next" href="../OVD/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.5">
+    
+    
+      
+        <title>LMM - arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8608ea7d.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","UA-145083103-1"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","UA-145083103-1",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=UA-145083103-1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#lmm" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              LMM
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/beiyuouo/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/beiyuouo/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Computer Vision
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Computer Vision
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    LMM
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    LMM
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#lmm" class="md-nav__link">
+    <span class="md-ellipsis">
+      LMM
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../OVD/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OVD
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Mutimodal
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Mutimodal
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Mutimodal/Alignment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Alignment
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Mutimodal/Weakly%20Supervised%20grounding/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weakly Supervised grounding
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#lmm" class="md-nav__link">
+    <span class="md-ellipsis">
+      LMM
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>LMM</h1>
+
+<h3 id="lmm">LMM</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2025-02-21</strong></td>
+<td style="text-align: center;"><strong>Chitrarth: Bridging Vision and Language for a Billion People</strong></td>
+<td style="text-align: center;">Shaharukh Khan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.15392v1">2502.15392v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-21</strong></td>
+<td style="text-align: center;"><strong>The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning</strong></td>
+<td style="text-align: center;">Sheila Schoepp et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.15214v1">2502.15214v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-20</strong></td>
+<td style="text-align: center;"><strong>Reducing Hallucinations of Medical Multimodal Large Language Models with Visual Retrieval-Augmented Generation</strong></td>
+<td style="text-align: center;">Yun-Wei Chu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.15040v1">2502.15040v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-20</strong></td>
+<td style="text-align: center;"><strong>InterFeedback: Unveiling Interactive Intelligence of Large Multimodal Models via Human Feedback</strong></td>
+<td style="text-align: center;">Henry Hengyuan Zhao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.15027v1">2502.15027v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-20</strong></td>
+<td style="text-align: center;"><strong>Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation</strong></td>
+<td style="text-align: center;">Yue Yang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.14846v1">2502.14846v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-20</strong></td>
+<td style="text-align: center;"><strong>ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting</strong></td>
+<td style="text-align: center;">Abhijit Mishra et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.14780v1">2502.14780v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-20</strong></td>
+<td style="text-align: center;"><strong>Harnessing PDF Data for Improving Japanese Large Multimodal Models</strong></td>
+<td style="text-align: center;">Jeonghun Baek et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.14778v1">2502.14778v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-20</strong></td>
+<td style="text-align: center;"><strong>HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States</strong></td>
+<td style="text-align: center;">Yilei Jiang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.14744v2">2502.14744v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/leigest519/hiddendetect">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-20</strong></td>
+<td style="text-align: center;"><strong>Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems</strong></td>
+<td style="text-align: center;">Bingyu Yan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.14321v1">2502.14321v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-20</strong></td>
+<td style="text-align: center;"><strong>Vulnerability of Text-to-Image Models to Prompt Template Stealing: A Differential Evolution Approach</strong></td>
+<td style="text-align: center;">Yurong Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.14285v1">2502.14285v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-19</strong></td>
+<td style="text-align: center;"><strong>Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?</strong></td>
+<td style="text-align: center;">Xiaochen Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.13925v1">2502.13925v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-19</strong></td>
+<td style="text-align: center;"><strong>GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking</strong></td>
+<td style="text-align: center;">Florian Schneider et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.13766v1">2502.13766v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-19</strong></td>
+<td style="text-align: center;"><strong>Unlocking Multimodal Integration in EHRs: A Prompt Learning Framework for Language and Time Series Fusion</strong></td>
+<td style="text-align: center;">Shuai Niu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.13509v1">2502.13509v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-19</strong></td>
+<td style="text-align: center;"><strong>What Is a Good Caption? A Comprehensive Visual Caption Benchmark for Evaluating Both Correctness and Coverage of MLLMs</strong></td>
+<td style="text-align: center;">Zhihang Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.14914v1">2502.14914v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-19</strong></td>
+<td style="text-align: center;"><strong>Transferring Textual Preferences to Vision-Language Understanding through Model Merging</strong></td>
+<td style="text-align: center;">Chen-An Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.13487v1">2502.13487v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-19</strong></td>
+<td style="text-align: center;"><strong>MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification</strong></td>
+<td style="text-align: center;">Linzhuang Sun et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.13383v1">2502.13383v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/aurora-slz/mm-verify">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-19</strong></td>
+<td style="text-align: center;"><strong>KOALA: Knowledge Conflict Augmentations for Robustness in Vision Language Models</strong></td>
+<td style="text-align: center;">Peter Carragher et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.14908v1">2502.14908v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>Beyond Words: Exploring Cultural Value Sensitivity in Multimodal Models</strong></td>
+<td style="text-align: center;">Srishti Yadav et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.14906v1">2502.14906v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>Improved Fine-Tuning of Large Multimodal Models for Hateful Meme Detection</strong></td>
+<td style="text-align: center;">Jingbiao Mei et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.13061v1">2502.13061v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>SimpleVQA: Multimodal Factuality Evaluation for Multimodal Large Language Models</strong></td>
+<td style="text-align: center;">Xianfu Cheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.13059v1">2502.13059v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation</strong></td>
+<td style="text-align: center;">Mohammad Feli et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12836v1">2502.12836v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>Towards Text-Image Interleaved Retrieval</strong></td>
+<td style="text-align: center;">Xin Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12799v1">2502.12799v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/vec-ai/wikihow-tiir">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning</strong></td>
+<td style="text-align: center;">Zhuoyuan Mao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12623v1">2502.12623v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>CutPaste&amp;Find: Efficient Multimodal Hallucination Detector with Visual-aid Knowledge Base</strong></td>
+<td style="text-align: center;">Cong-Duy Nguyen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12591v1">2502.12591v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings</strong></td>
+<td style="text-align: center;">Weikai Lu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12562v1">2502.12562v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/zeronlp/sea">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>MSE-Adapter: A Lightweight Plugin Endowing LLMs with the Capability to Perform Multimodal Sentiment Analysis and Emotion Recognition</strong></td>
+<td style="text-align: center;">Yang Yang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12478v1">2502.12478v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/AZYoung233/MSE-Adapter">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>On the Robust Approximation of ASR Metrics</strong></td>
+<td style="text-align: center;">Abdul Waheed et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12408v1">2502.12408v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection</strong></td>
+<td style="text-align: center;">Jinhe Bi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12119v1">2502.12119v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines</strong></td>
+<td style="text-align: center;">Ayan Sengupta et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12051v1">2502.12051v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>EssayJudge: A Multi-Granular Benchmark for Assessing Automated Essay Scoring Capabilities of Multimodal Large Language Models</strong></td>
+<td style="text-align: center;">Jiamin Su et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11916v1">2502.11916v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation</strong></td>
+<td style="text-align: center;">Haochen Xue et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11903v1">2502.11903v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities</strong></td>
+<td style="text-align: center;">Hanbin Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11829v1">2502.11829v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/wanghanbinpanda/codevision">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning</strong></td>
+<td style="text-align: center;">Congkai Xie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11573v1">2502.11573v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>Token Pruning in Multimodal Large Language Models: Are We Solving the Right Problem?</strong></td>
+<td style="text-align: center;">Zichen Wen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11501v1">2502.11501v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>Stop Looking for Important Tokens in Multimodal Language Models: Duplication Matters More</strong></td>
+<td style="text-align: center;">Zichen Wen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11494v1">2502.11494v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/zichenwen1/dart">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>Any Information Is Just Worth One Single Screenshot: Unifying Search With Visualized Information Retrieval</strong></td>
+<td style="text-align: center;">Ze Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11431v1">2502.11431v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>Do we Really Need Visual Instructions? Towards Visual Instruction-Free Fine-tuning for Large Vision-Language Models</strong></td>
+<td style="text-align: center;">Zikang Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11427v1">2502.11427v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-17</strong></td>
+<td style="text-align: center;"><strong>VLDBench: Vision Language Models Disinformation Detection Benchmark</strong></td>
+<td style="text-align: center;">Shaina Raza et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11361v1">2502.11361v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-16</strong></td>
+<td style="text-align: center;"><strong>Leveraging Multimodal-LLMs Assisted by Instance Segmentation for Intelligent Traffic Monitoring</strong></td>
+<td style="text-align: center;">Murat Arda Onsu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11304v1">2502.11304v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-16</strong></td>
+<td style="text-align: center;"><strong>CORDIAL: Can Multimodal Large Language Models Effectively Understand Coherence Relationships?</strong></td>
+<td style="text-align: center;">Aashish Anantha Ramakrishnan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11300v1">2502.11300v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-16</strong></td>
+<td style="text-align: center;"><strong>A Survey of LLM-based Agents in Medicine: How far are we from Baymax?</strong></td>
+<td style="text-align: center;">Wenxuan Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11211v1">2502.11211v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-16</strong></td>
+<td style="text-align: center;"><strong>Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs</strong></td>
+<td style="text-align: center;">Wenxuan Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11184v1">2502.11184v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-16</strong></td>
+<td style="text-align: center;"><strong>Demystifying Hateful Content: Leveraging Large Multimodal Models for Hateful Meme Detection with Explainable Decisions</strong></td>
+<td style="text-align: center;">Ming Shan Hee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11073v1">2502.11073v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-16</strong></td>
+<td style="text-align: center;"><strong>MMUNLEARNER: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models</strong></td>
+<td style="text-align: center;">Jiahao Huo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.11051v1">2502.11051v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-14</strong></td>
+<td style="text-align: center;"><strong>MM-RLHF: The Next Step Forward in Multimodal LLM Alignment</strong></td>
+<td style="text-align: center;">Yi-Fan Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.10391v1">2502.10391v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-14</strong></td>
+<td style="text-align: center;"><strong>VisCon-100K: Leveraging Contextual Web Data for Fine-tuning Vision Language Models</strong></td>
+<td style="text-align: center;">Gokul Karthik Kumar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.10250v1">2502.10250v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-14</strong></td>
+<td style="text-align: center;"><strong>A Preliminary Exploration with GPT-4o Voice Mode</strong></td>
+<td style="text-align: center;">Yu-Xiang Lin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.09940v1">2502.09940v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-14</strong></td>
+<td style="text-align: center;"><strong>Efficient Multitask Learning in Small Language Models Through Upside-Down Reinforcement Learning</strong></td>
+<td style="text-align: center;">Yu-Chen Lin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.09854v1">2502.09854v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-13</strong></td>
+<td style="text-align: center;"><strong>MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency</strong></td>
+<td style="text-align: center;">Dongzhi Jiang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.09621v1">2502.09621v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-13</strong></td>
+<td style="text-align: center;"><strong>Exploring the Potential of Encoder-free Architectures in 3D LMMs</strong></td>
+<td style="text-align: center;">Yiwen Tang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.09620v1">2502.09620v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/ivan-tang-3d/enel">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-13</strong></td>
+<td style="text-align: center;"><strong>Large Language Models and Provenance Metadata for Determining the Relevance of Images and Videos in News Stories</strong></td>
+<td style="text-align: center;">Tomas Peterka et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.09689v1">2502.09689v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-12</strong></td>
+<td style="text-align: center;"><strong>Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation</strong></td>
+<td style="text-align: center;">Mohammad Mahdi Abootorabi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.08826v2">2502.08826v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/llm-lab-org/multimodal-rag-survey">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-12</strong></td>
+<td style="text-align: center;"><strong>Salamandra Technical Report</strong></td>
+<td style="text-align: center;">Aitor Gonzalez-Agirre et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.08489v2">2502.08489v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/langtech-bsc/langtech_tokenizers">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-12</strong></td>
+<td style="text-align: center;"><strong>mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data</strong></td>
+<td style="text-align: center;">Haonan Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.08468v1">2502.08468v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/haon-chen/mme5">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-12</strong></td>
+<td style="text-align: center;"><strong>Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting</strong></td>
+<td style="text-align: center;">Jiarui Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.08317v1">2502.08317v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-12</strong></td>
+<td style="text-align: center;"><strong>What Is That Talk About? A Video-to-Text Summarization Dataset for Scientific Presentations</strong></td>
+<td style="text-align: center;">Dongqi Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.08279v2">2502.08279v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-12</strong></td>
+<td style="text-align: center;"><strong>SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation</strong></td>
+<td style="text-align: center;">Zhiming Ma et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.08168v3">2502.08168v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/jimmyma99/sarchat">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-11</strong></td>
+<td style="text-align: center;"><strong>Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models</strong></td>
+<td style="text-align: center;">Jiacong Xu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.07601v1">2502.07601v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-09</strong></td>
+<td style="text-align: center;"><strong>A Generative Framework for Bidirectional Image-Report Understanding in Chest Radiography</strong></td>
+<td style="text-align: center;">Nicholas Evans et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.05926v1">2502.05926v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-08</strong></td>
+<td style="text-align: center;"><strong>Evaluating Vision-Language Models for Emotion Recognition</strong></td>
+<td style="text-align: center;">Sree Bhattacharyya et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.05660v1">2502.05660v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-08</strong></td>
+<td style="text-align: center;"><strong>Large Multimodal Models for Low-Resource Languages: A Survey</strong></td>
+<td style="text-align: center;">Marian Lupascu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.05568v1">2502.05568v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-08</strong></td>
+<td style="text-align: center;"><strong>Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning</strong></td>
+<td style="text-align: center;">Subin Kim et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.06873v1">2502.06873v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/nobel-postech/M2CoSC">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-07</strong></td>
+<td style="text-align: center;"><strong>Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</strong></td>
+<td style="text-align: center;">Steffen Eger et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.05151v1">2502.05151v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-07</strong></td>
+<td style="text-align: center;"><strong>Lost in Time: Clock and Calendar Understanding Challenges in Multimodal LLMs</strong></td>
+<td style="text-align: center;">Rohit Saxena et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.05092v1">2502.05092v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-06</strong></td>
+<td style="text-align: center;"><strong>EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models</strong></td>
+<td style="text-align: center;">He Hu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.04424v1">2502.04424v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-05</strong></td>
+<td style="text-align: center;"><strong>On Fairness of Unified Multimodal Large Language Model for Image Generation</strong></td>
+<td style="text-align: center;">Ming Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.03429v1">2502.03429v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-05</strong></td>
+<td style="text-align: center;"><strong>Can Large Language Models Capture Video Game Engagement?</strong></td>
+<td style="text-align: center;">David Melhart et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.04379v1">2502.04379v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-05</strong></td>
+<td style="text-align: center;"><strong>PerPO: Perceptual Preference Optimization via Discriminative Rewarding</strong></td>
+<td style="text-align: center;">Zining Zhu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.04371v1">2502.04371v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/ningerhhh/perpo">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-05</strong></td>
+<td style="text-align: center;"><strong>DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization</strong></td>
+<td style="text-align: center;">Zhenglin Zhou et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.04370v1">2502.04370v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-05</strong></td>
+<td style="text-align: center;"><strong>Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning</strong></td>
+<td style="text-align: center;">Yibo Yan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.02871v1">2502.02871v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-04</strong></td>
+<td style="text-align: center;"><strong>CognArtive: Large Language Models for Automating Art Analysis and Decoding Aesthetic Elements</strong></td>
+<td style="text-align: center;">Afshin Khadangi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.04353v1">2502.04353v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-04</strong></td>
+<td style="text-align: center;"><strong>SAISA: Towards Multimodal Large Language Models with Both Training and Inference Efficiency</strong></td>
+<td style="text-align: center;">Qianhao Yuan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.02458v1">2502.02458v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-04</strong></td>
+<td style="text-align: center;"><strong>Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking</strong></td>
+<td style="text-align: center;">Jinyang Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.02339v2">2502.02339v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-04</strong></td>
+<td style="text-align: center;"><strong>Efficient Domain Adaptation of Multimodal Embeddings using Constrastive Learning</strong></td>
+<td style="text-align: center;">Georgios Margaritis et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.02048v1">2502.02048v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-03</strong></td>
+<td style="text-align: center;"><strong>Efficiently Integrate Large Language Models with Visual Perception: A Survey from the Training Paradigm Perspective</strong></td>
+<td style="text-align: center;">Xiaorui Ma et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.01524v1">2502.01524v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-03</strong></td>
+<td style="text-align: center;"><strong>The Jumping Reasoning Curve? Tracking the Evolution of Reasoning Performance in GPT-[n] and o-[n] Models on Multimodal Puzzles</strong></td>
+<td style="text-align: center;">Vernon Y. H. Toh et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.01081v1">2502.01081v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/declare-lab/llm-puzzletest">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-03</strong></td>
+<td style="text-align: center;"><strong>Mitigating Hallucinations in Large Vision-Language Models with Internal Fact-based Contrastive Decoding</strong></td>
+<td style="text-align: center;">Chao Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.01056v1">2502.01056v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-03</strong></td>
+<td style="text-align: center;"><strong>PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Feedback</strong></td>
+<td style="text-align: center;">Kanika Goswami et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.00988v1">2502.00988v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-02</strong></td>
+<td style="text-align: center;"><strong>Weak Supervision Dynamic KL-Weighted Diffusion Models Guided by Large Language Models</strong></td>
+<td style="text-align: center;">Julian Perry et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.00826v1">2502.00826v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.f1b6f286.min.js"></script>
+      
+    
+  </body>
+</html>
